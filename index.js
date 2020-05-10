@@ -1,21 +1,21 @@
-const proseDiv = document.getElementById("prose");
+const textsDiv = document.getElementById("texts");
 
-for (let i=0; i < prose.length; i++) {
+for (let i=0; i < texts.length; i++) {
 
     let li = document.createElement('li');
-    li.innerText = prose[i].year + ". " + prose[i].title;
-    if (prose[i].printedIn) {
-        li.innerText += " in " + prose[i].printedIn;
+    li.innerText = texts[i].year + ". " + texts[i].title;
+    if (texts[i].printedIn) {
+        li.innerText += " in " + texts[i].printedIn;
     }
-    if (prose[i].issueOrVolume) {
-        li.innerText += ", " + prose[i].issueOrVolume;
+    if (texts[i].issueOrVolume) {
+        li.innerText += ", " + texts[i].issueOrVolume;
     }
-    if (prose[i].pageRange) {
-        li.innerText += ", " + prose[i].pageRange;
+    if (texts[i].pageRange) {
+        li.innerText += ", " + texts[i].pageRange;
     }
 
     li.innerText += "."
-    proseDiv.insertAdjacentElement("beforebegin", li);
+    textsDiv.insertAdjacentElement("beforebegin", li);
 
 }
 
