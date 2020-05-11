@@ -1,9 +1,31 @@
-import React from 'react';
+import React, { Component } from "react";
+import { texts } from './texts';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
+class App extends Component {
+  componentDidMount() {
+    const textsDiv = document.getElementById("texts");
+      for (let i=0; i < texts.length; i++) {
+          let li = document.createElement('li');
+          li.innerText = texts[i].year + ". " + texts[i].title;
+          if (texts[i].printedIn) {
+              li.innerText += " in " + texts[i].printedIn;
+          }
+          if (texts[i].issueOrVolume) {
+              li.innerText += ", " + texts[i].issueOrVolume;
+          }
+          if (texts[i].pageRange) {
+              li.innerText += ", " + texts[i].pageRange;
+          }
+
+          li.innerText += "."
+          textsDiv.insertAdjacentElement("beforebegin", li);
+      }
+  }
+
+  render() {
+    return (
+      <div className="App">
       <h1>C.S. Lewis Opera Nova et Obscura</h1>
       <h3>A Bibliography of Obscure and Newly Published Lewis Texts</h3>
       <p>Note: This bibliography is designed for those seeking to read all of Lewis’s words that have ever been published or are publicly available, but who are familiar with his major, and even most of his minor, works already. Hence it is intended specifically for those collectors of Lewis’s works who know all of Walter Hooper’s essay, letter, and diary collections. The pieces listed here are not usually printed in those much more easily obtainable books. </p>
@@ -22,7 +44,8 @@ function App() {
       <h1>Texts</h1>
       <ul id="texts"></ul>
     </div>
-  );
+    )
+  }
 }
 
 export default App;

@@ -701,7 +701,7 @@ const texts = [
         "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
         "issueOrVolume": "vol. 30",
         "pageRange": "67-92",
-        "year": null,
+        "year": 2013,
         "month": null,
         "day": null,
         "textProvided": false,
@@ -785,7 +785,7 @@ const texts = [
         "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” Christianity Today, online only at https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html.",
         "issueOrVolume": "",
         "pageRange": "",
-        "year": null,
+        "year": 2015,
         "month": null,
         "day": null,
         "textProvided": false,
@@ -1106,7 +1106,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"The Wood Desolate (near Bookham)\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1215,7 +1214,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"Sonnet [The clouds are red behind us and before].\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1324,7 +1322,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"Heart-breaking School\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1433,7 +1430,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"The Lord Is a Jealous God—A Careful Shepherd\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1542,7 +1538,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"There Was a Young Person of Streatham\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1651,7 +1646,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"This Literary Lion\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1760,7 +1754,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"Dear Dorothy, I’m Puzzling Hard\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -1869,7 +1862,6 @@ const texts = [
         "type": "poem",
         "notes": null
     },
-    ,
     {
         "title": "\"Fidelia Vulnera Amantis\"", // Don't italicize Latin
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
@@ -2015,4 +2007,8 @@ const template =
     "textProvided": false,
     "type": "poem",
     "notes": [""]
+}
+
+module.exports = {
+    texts: texts
 }
