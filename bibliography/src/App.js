@@ -11,30 +11,36 @@ class App extends Component {
   
   componentDidMount() {
     this.formatTexts();
-    // const textsDiv = document.getElementById("texts");
-    //   for (let i=0; i < texts.length; i++) {
-    //       let li = document.createElement('li');
-    //       li.innerText = texts[i].year + ". " + texts[i].title;
-    //       if (texts[i].printedIn) {
-    //           li.innerText += " in " + texts[i].printedIn;
-    //       }
-    //       if (texts[i].issueOrVolume) {
-    //           li.innerText += ", " + texts[i].issueOrVolume;
-    //       }
-    //       if (texts[i].pageRange) {
-    //           li.innerText += ", " + texts[i].pageRange;
-    //       }
-
-    //       li.innerText += "."
-    //       textsDiv.insertAdjacentElement("beforebegin", li);
-    //   }
   };
 
   formatTexts() {
     let textsCopy = this.state.texts;
+    let formattedTexts = [];
     for (let i = 0; i < textsCopy.length; i++) {
-      console.log(textsCopy[i].title)
+      let formattedText = {};
+      formattedText.year = textsCopy[i].year;
+      formattedText.type = textsCopy[i].type;
+      formattedText.title = textsCopy[i].title;
+      if (texts[i].printedIn) {
+        formattedText.reference = textsCopy[i].printedIn
+      }
+      if (texts[i].issueOrVolume) {
+        formattedText.reference += ", " + textsCopy[i].issueOrVolume;
+      }
+      if (texts[i].pageRange) {
+        formattedText.reference += ", " + textsCopy[i].pageRange;
+      }
+      if (texts[i].textProvided !== false) {
+        formattedText.textProvided = "[read]"
+      }
+      if (texts[i].notes !== null) {
+        formattedText.notes = "[notes]";
+      }
+      formattedTexts.push(formattedText);
     }
+    this.setState({
+      texts: formattedTexts
+    })
   }
 
   render() {
@@ -55,8 +61,7 @@ class App extends Component {
           <p>Paul Tankard’s meticulously researched article, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), pp. 432-8, also proved invaluable in unearthing and cataloguing several obscure letters and blurbs.</p>
           <p>Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s Preface to Kathryn Ann Lindskoog, The Lion of Judah in Never-Never Land (Grand Rapids: Eerdmans, 1973), p. 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley fragment,” now published in full in SEVEN, vol. 28 (2011), pp. 5-15. Accordingly, only the latter reference is included in this bibliography. Likewise, many of the blurbs and letters catalogued by Tankard in “Notes on the Bibliography of C.S. Lewis” also appear in the Collected Letters, and have been omitted from this list.</p>
           <p>Corrections and additions are welcome. The author can be reached at jwkeena@gmail.com.</p>
-          <hr/>
-          <h1>Texts</h1> */}
+          <hr/>*/}
           <div id="texts">
             <table>
               <thead>
@@ -65,14 +70,14 @@ class App extends Component {
                   <th>Type</th>
                   <th>Title</th>
                   <th>Reference</th>
-                  <th>Text</th>
-                  <th>Notes</th>
+                  <th></th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
                 {this.state.texts.map((text, index) => {
                   return (
-                  <TableRow year={text.year} type={text.type} key={index}></TableRow>
+                  <TableRow year={text.year} type={text.type} title={text.title} reference={text.reference} textProvided={text.textProvided} notes={text.notes} key={index}></TableRow>
                   )
                 })}
               </tbody>

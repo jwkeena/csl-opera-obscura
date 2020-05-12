@@ -722,7 +722,7 @@ const texts = [
     },
     {
         "title": "Image and Imagination, ed. Walter Hooper (Cambridge: Cambridge University Press)",
-        "printedIn": null,
+        "printedIn": "Contains 42 book reviews previously published but difficult to find, 2 obituaries, 3 prefaces, 4 long essays hitherto out of print, other literary essays, and for the first time the pieces \"Lucretius\" and \"Image and Imagination.\"",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2013,
