@@ -34,7 +34,7 @@ class App extends Component {
         formattedText.textProvided = "[read]"
       }
       if (texts[i].notes !== null) {
-        formattedText.notes = "[notes]";
+        formattedText.notes = textsCopy[i].notes;
       }
       formattedTexts.push(formattedText);
     }
@@ -47,8 +47,8 @@ class App extends Component {
     return (
       <div className = "container">
         <div className="App">
-          <h1>C.S. Lewis Opera Nova et Obscura</h1>
-          <h3>A Bibliography of Obscure and Newly Published Lewis Texts</h3>
+          <h1>Lewisiana Opera Nova et Obscura</h1>
+          <h4>A Bibliography of Obscure and Newly Published Lewis Texts</h4>
           {/* <p>Note: This bibliography is designed for those seeking to read all of Lewis’s words that have ever been published or are publicly available, but who are familiar with his major, and even most of his minor, works already. Hence it is intended specifically for those collectors of Lewis’s works who know all of Walter Hooper’s essay, letter, and diary collections. The pieces listed here are not usually printed in those much more easily obtainable books. </p>
           <p>Many of the following entries in this list, and some of the notes on them, are drawn verbatim from Hooper’s indispensible bibliographies in </p>
           <ul>
@@ -63,7 +63,7 @@ class App extends Component {
           <p>Corrections and additions are welcome. The author can be reached at jwkeena@gmail.com.</p>
           <hr/>*/}
           <div id="texts">
-            <table>
+            <table className="striped responsive-table">
               <thead>
                 <tr>
                   <th>Year</th>
