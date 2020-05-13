@@ -31,7 +31,10 @@ class App extends Component {
         formattedText.reference += ", " + textsCopy[i].pageRange;
       }
       if (texts[i].textProvided !== false) {
-        formattedText.textProvided = "[read]"
+        formattedText.textProvided = textsCopy[i].textProvided;
+        console.log(formattedText.textProvided);
+      } else {
+        formattedText.textProvided = false
       }
       if (texts[i].notes !== null) {
         // Expected input is html, since the tooltip the data will be passed to can accept html
@@ -87,7 +90,7 @@ class App extends Component {
               <tbody>
                 {this.state.texts.map((text, index) => {
                   return (
-                  <TableRow year={text.year} type={text.type} title={text.title} reference={text.reference} textProvided={text.textProvided} notes={text.notes} key={index}></TableRow>
+                  <TableRow year={text.year} type={text.type} title={text.title} reference={text.reference} textProvided={text.textProvided} notes={text.notes} key={index} rowNumber={index}></TableRow>
                   )
                 })}
               </tbody>
