@@ -3,9 +3,13 @@ import M from 'materialize-css';
 import './styles.css';
 
 const styles = {
-    tooltip: {
+    activeTooltip: {
         position: "relative",
         top: "8px",
+    },
+    disabledTooltip: {
+        position: "relative",
+        top: "6px"
     }
 }
 class Tooltip extends Component {
@@ -15,11 +19,24 @@ class Tooltip extends Component {
     }
 
     render() {
-        return(
-            <a ref={ (tooltip) => {this.tooltip = tooltip}} className="btn tooltipped grey lighten-1" data-position="left" data-tooltip={this.props.notes}><span className="material-icons left-align" style={styles.tooltip}>
-            more_horiz
-            </span></a>
-        )
+        if (!this.props.disabled) {
+            return (
+            <a 
+                ref={ (tooltip) => {this.tooltip = tooltip}} 
+                className= "btn tooltipped grey"
+                data-position="left" 
+                data-tooltip={this.props.notes}>
+                <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
+            </a>
+
+            )
+        } else if (this.props.disabled === true) {
+            return (
+                <a className="btn disabled">
+                    <span className="material-icons" style={styles.disabledTooltip}>block</span>
+                </a>
+            )
+        }
     }
 
 }

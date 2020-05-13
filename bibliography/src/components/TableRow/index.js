@@ -9,7 +9,7 @@ function TableRow(props) {
             <td>{props.title}</td>
             <td>{props.reference}</td>
             <td>{props.textProvided}</td>
-            <td>{props.notes ? <Tooltip notes={props.notes}></Tooltip> : null}</td>
+            <td>{props.notes !== null ? <Tooltip notes={props.notes} disabled={false}></Tooltip> : <Tooltip disabled={true}></Tooltip>}</td>
         </tr>
     )
 }

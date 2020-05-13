@@ -43,7 +43,8 @@ class App extends Component {
             }
         }
         formattedText.notes += "</ul>";
-        console.log(formattedText.notes);
+      } else {
+        formattedText.notes = null;
       }
       formattedTexts.push(formattedText);
     }
