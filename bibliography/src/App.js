@@ -34,7 +34,16 @@ class App extends Component {
         formattedText.textProvided = "[read]"
       }
       if (texts[i].notes !== null) {
-        formattedText.notes = textsCopy[i].notes;
+        // Expected input is html, since the tooltip the data will be passed to can accept html
+        formattedText.notes = "<ul class='left-align' style='padding-left: 15px; padding-right: 15px;'>";
+        for (let j = 0; j < textsCopy[i].notes.length; j++) {
+            formattedText.notes += "<li>" + textsCopy[i].notes[j] + "</li>";
+            if (j !== (textsCopy[i].notes.length - 1)) {
+              formattedText.notes += "<br>";
+            }
+        }
+        formattedText.notes += "</ul>";
+        console.log(formattedText.notes);
       }
       formattedTexts.push(formattedText);
     }
