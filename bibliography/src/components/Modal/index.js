@@ -1,7 +1,14 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
 
-class BottomSheetModal extends Component {
+const styles = {
+    menuIcon: {
+        position: "relative",
+        top: "4px"
+    }
+}
+
+class Modal extends Component {
 
     state = {
         modalIDHash: null,
@@ -10,7 +17,6 @@ class BottomSheetModal extends Component {
 
     componentDidMount() {
         this.createNewModalID();
-        M.Modal.init(this.modal);
     }
 
     createNewModalID() {
@@ -18,17 +24,17 @@ class BottomSheetModal extends Component {
         modalIDHash += this.props.rowNumber;
         let modalID = "modal";
         modalID += this.props.rowNumber;
-        this.setState({"modalIDHash": modalIDHash, "modalID": modalID});
+        this.setState({"modalIDHash": modalIDHash, "modalID": modalID}, () => M.Modal.init(this.modal)); // Initializing modal after setState ensures it will be initialized with the right ids in place
     }
 
     render() {
         return (
             <div>
-                <a className="btn blue modal-trigger" href={this.state.modalIDHash}>read</a>
+                <a className="btn blue modal-trigger" href={this.state.modalIDHash}><span class="material-icons" style={styles.menuIcon}>menu_book</span></a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id={this.state.modalID} 
-                    className="modal bottom-sheet">
+                    className="modal modal-fixed-footer">
                     <div className="modal-content">
                         <h5>{this.props.title}</h5>
                         <p>{this.props.textProvided}</p>
@@ -42,4 +48,4 @@ class BottomSheetModal extends Component {
     }
 }
 
-export default BottomSheetModal;
+export default Modal;
