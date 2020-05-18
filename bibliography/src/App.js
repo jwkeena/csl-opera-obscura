@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { texts } from './texts';
 import TableRow from './components/TableRow/';
+import FormSelect from './components/FormSelect';
 import './App.css';
 
 class App extends Component {
@@ -14,7 +15,9 @@ class App extends Component {
   };
 
   formatTexts() {
+    // Copy state first, since state is immutable
     let textsCopy = this.state.texts;
+    // Format data properly
     let formattedTexts = [];
     for (let i = 0; i < textsCopy.length; i++) {
       let formattedText = {};
@@ -51,6 +54,7 @@ class App extends Component {
       }
       formattedTexts.push(formattedText);
     }
+    // Replace current state with newly formatted texts array
     this.setState({
       texts: formattedTexts
     })
@@ -75,6 +79,15 @@ class App extends Component {
           <p>Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s Preface to Kathryn Ann Lindskoog, The Lion of Judah in Never-Never Land (Grand Rapids: Eerdmans, 1973), p. 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley fragment,” now published in full in SEVEN, vol. 28 (2011), pp. 5-15. Accordingly, only the latter reference is included in this bibliography. Likewise, many of the blurbs and letters catalogued by Tankard in “Notes on the Bibliography of C.S. Lewis” also appear in the Collected Letters, and have been omitted from this list.</p>
           <p>Corrections and additions are welcome. The author can be reached at jwkeena@gmail.com.</p>
           <hr/>*/}
+          <br/>
+          <div className="row valign-wrapper">
+            <div className="col s1">Sort by:</div>
+            <div className="input-field col s4">
+              <FormSelect multipleSelect={false} optionNames={["Year", "Type", "Title", "Reference"]}></FormSelect>
+            </div>
+            <div className="col s2">Types displayed:</div>
+            <div className="col s5"><FormSelect multipleSelect={true} optionNames={["Year", "Type", "Title", "Reference"]}></FormSelect></div>
+          </div>
           <div id="texts">
             <table className="striped responsive-table">
               <thead>
