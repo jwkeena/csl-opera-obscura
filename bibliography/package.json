@@ -1,8 +1,10 @@
 {
-  "name": "bibliography",
+  "name": "csl-opera-nova-et-obscura",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jwkeena.github.com/csl-opera-nova-et-obscura",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -15,7 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
