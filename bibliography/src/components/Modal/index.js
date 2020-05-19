@@ -30,7 +30,7 @@ class Modal extends Component {
     render() {
         return (
             <div>
-                <a className="btn blue modal-trigger" href={this.state.modalIDHash}><span class="material-icons" style={styles.menuIcon}>menu_book</span></a>
+                <a className="btn blue modal-trigger" href={this.state.modalIDHash}><span className="material-icons" style={styles.menuIcon}>menu_book</span></a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id={this.state.modalID} 

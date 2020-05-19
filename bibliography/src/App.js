@@ -7,16 +7,18 @@ import './App.css';
 class App extends Component {
   
   state = {
-    texts: texts
-  }
+    texts: null,
+    sortByOption: "year",
+    typesDisplayed: [],
+  };
   
   componentDidMount() {
     this.formatTexts();
   };
 
   formatTexts() {
-    // Copy state first, since state is immutable
-    let textsCopy = this.state.texts;
+    // Get fresh copy of texts from import (that's the only time they need to be formatted)
+    let textsCopy = texts;
     // Format data properly
     let formattedTexts = [];
     for (let i = 0; i < textsCopy.length; i++) {
@@ -35,7 +37,6 @@ class App extends Component {
       }
       if (texts[i].textProvided !== false) {
         formattedText.textProvided = textsCopy[i].textProvided;
-        console.log(formattedText.textProvided);
       } else {
         formattedText.textProvided = false
       }
@@ -58,14 +59,17 @@ class App extends Component {
     this.setState({
       texts: formattedTexts
     })
-  }
+  };
+
+  sort() {
+  };
 
   render() {
     return (
       <div className = "container">
         <div className="App">
           <h1>Lewisiana Opera Nova et Obscura</h1>
-          <h4>A Bibliography of Obscure and Newly Published Lewis Texts</h4>
+          <h4>A Bibliography of Obscure and Newly Published C.S. Lewis Texts</h4>
           {/* <p>Note: This bibliography is designed for those seeking to read all of Lewis’s words that have ever been published or are publicly available, but who are familiar with his major, and even most of his minor, works already. Hence it is intended specifically for those collectors of Lewis’s works who know all of Walter Hooper’s essay, letter, and diary collections. The pieces listed here are not usually printed in those much more easily obtainable books. </p>
           <p>Many of the following entries in this list, and some of the notes on them, are drawn verbatim from Hooper’s indispensible bibliographies in </p>
           <ul>
@@ -83,7 +87,7 @@ class App extends Component {
           <div className="row valign-wrapper">
             <div className="col s1">Sort by:</div>
             <div className="input-field col s4">
-              <FormSelect multipleSelect={false} optionNames={["Year", "Type", "Title", "Reference"]}></FormSelect>
+              <FormSelect multipleSelect={false} optionNames={["Year", "Type", "Title", "Reference"]} sortBy={this.sortBy}></FormSelect>
             </div>
             <div className="col s2">Types displayed:</div>
             <div className="col s5"><FormSelect multipleSelect={true} optionNames={["Year", "Type", "Title", "Reference"]}></FormSelect></div>
@@ -101,11 +105,17 @@ class App extends Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.texts.map((text, index) => {
+                {this.state.texts !== null ? 
+                this.state.texts.map((text, index) => {
                   return (
                   <TableRow year={text.year} type={text.type} title={text.title} reference={text.reference} textProvided={text.textProvided} notes={text.notes} key={index} rowNumber={index}></TableRow>
                   )
-                })}
+                }) 
+                : <tr>
+                  <td>
+                    Loading texts...
+                  </td>
+                </tr>}
               </tbody>
             </table>
           </div>
