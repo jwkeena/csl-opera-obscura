@@ -5,12 +5,16 @@ import FormSelect from './components/FormSelect';
 import './App.css';
 
 class App extends Component {
-  
-  state = {
-    texts: null,
-    sortByOption: "year",
-    typesDisplayed: [],
-  };
+  constructor(props) {
+    super(props);
+    this.state = {
+      texts: null,
+      sortByOption: "year",
+      typesDisplayed: [],
+    };
+    this.updateSortOption = this.updateSortOption.bind(this);
+  }
+
   
   componentDidMount() {
     this.formatTexts();
@@ -61,8 +65,9 @@ class App extends Component {
     })
   };
 
-  sort() {
-  };
+  updateSortOption(option) {
+    console.log("sort option updated to", option)
+  }
 
   render() {
     return (
@@ -87,10 +92,20 @@ class App extends Component {
           <div className="row valign-wrapper">
             <div className="col s1">Sort by:</div>
             <div className="input-field col s4">
-              <FormSelect multipleSelect={false} optionNames={["Year", "Type", "Title", "Reference"]} sortBy={this.sortBy}></FormSelect>
+              <FormSelect 
+                multipleSelect={false} 
+                optionNames={["Year", "Type", "Title", "Reference"]} 
+                updateSortOption={this.updateSortOption}
+                >
+              </FormSelect>
             </div>
             <div className="col s2">Types displayed:</div>
-            <div className="col s5"><FormSelect multipleSelect={true} optionNames={["Year", "Type", "Title", "Reference"]}></FormSelect></div>
+            <div className="col s5">
+              <FormSelect 
+                multipleSelect={true} 
+                optionNames={["Prose", "Diary", "Poetry"]}>
+              </FormSelect>
+            </div>
           </div>
           <div id="texts">
             <table className="striped responsive-table">

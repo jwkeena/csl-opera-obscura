@@ -16,10 +16,18 @@ class FormSelect extends Component {
 
         return (
         <div>
-            <select multiple={multiple} ref={ (FormSelect) => {this.FormSelect = FormSelect} }>
+            <select 
+                ref={ (FormSelect) => {this.FormSelect = FormSelect} }
+                multiple={multiple}
+                onChange={(event) => this.props.updateSortOption(event.target.value)}>
                 {this.props.optionNames.map((optionName, index) => {
                     return (
-                        <FormSelectOption optionName={optionName} value={index} key={index}></FormSelectOption>
+                        <FormSelectOption 
+                            optionName={optionName} 
+                            value={optionName} 
+                            key={index}
+                            >
+                        </FormSelectOption>
                     )
                 })}
             </select>
