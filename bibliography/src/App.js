@@ -5,16 +5,12 @@ import FormSelect from './components/FormSelect';
 import './App.css';
 
 class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      texts: null,
-      sortByOption: "year",
-      typesDisplayed: [],
-    };
-    this.updateSortOption = this.updateSortOption.bind(this);
-  }
 
+  state = {
+    texts: null,
+    sortByOption: "year",
+    typesDisplayed: [],
+  };
   
   componentDidMount() {
     this.formatTexts();
@@ -65,7 +61,7 @@ class App extends Component {
     })
   };
 
-  updateSortOption(option) {
+  updateSortOption = (option) => {
     console.log("sort option updated to", option)
   }
 
