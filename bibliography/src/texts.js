@@ -1191,18 +1191,6 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
-        "issueOrVolume": null,
-        "pageRange": "",
-        "year": 2015,
-        "month": null,
-        "day": null,
-        "textProvided": false,
-        "type": "poem",
-        "notes": null
-    },
-    {
         "title": "\"In His Own Image\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
@@ -1227,7 +1215,31 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"\"",
+        "title": "\"Loneliness\"",
+        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": 2015,
+        "month": null,
+        "day": null,
+        "textProvided": false,
+        "type": "poem",
+        "notes": null
+    },
+    {
+        "title": "\"The Little Golden Statuette\"",
+        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": 2015,
+        "month": null,
+        "day": null,
+        "textProvided": false,
+        "type": "poem",
+        "notes": null
+    },
+    {
+        "title": "\"Sonnet [I have not bowed in any other shrine]\"",
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "",
@@ -1447,18 +1459,6 @@ const texts = [
         "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
-        "year": 2015,
-        "month": null,
-        "day": null,
-        "textProvided": false,
-        "type": "poem",
-        "notes": null
-    },
-    {
-        "title": "\"\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
-        "issueOrVolume": null,
-        "pageRange": "",
         "year": 2015,
         "month": null,
         "day": null,
@@ -1995,19 +1995,19 @@ const texts = [
         "notes": null
     }
 ]
-const template =
-{
-    "title": "",
-    "printedIn": "",
-    "issueOrVolume": "",
-    "pageRange": "",
-    "year": null,
-    "month": null,
-    "day": null,
-    "textProvided": false,
-    "type": "poem",
-    "notes": [""]
-}
+// const template =
+// {
+//     "title": "",
+//     "printedIn": "",
+//     "issueOrVolume": "",
+//     "pageRange": "",
+//     "year": null,
+//     "month": null,
+//     "day": null,
+//     "textProvided": false,
+//     "type": "poem",
+//     "notes": [""]
+// }
 
 module.exports = {
     texts: texts

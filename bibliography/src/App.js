@@ -11,7 +11,7 @@ class App extends Component {
     sortByOption: "year",
     typesDisplayed: [],
   };
-  
+
   componentDidMount() {
     this.formatTexts();
   };
@@ -58,11 +58,27 @@ class App extends Component {
     // Replace current state with newly formatted texts array
     this.setState({
       texts: formattedTexts
-    })
+    }, () => this.sort("year")) // Set standard sorting option
   };
 
   updateSortOption = (option) => {
-    console.log("sort option updated to", option)
+    this.setState({
+      sortByOption: option
+    }, () => {
+      this.sort(option);
+    })
+  }
+
+  sort(option) {
+    console.log("sorting by", option);
+    const sortedTexts = this.state.texts.sort((a, b) => a[option] > b[option] ? 1 : -1);
+    this.setState({
+      texts: sortedTexts
+    })
+  }
+
+  updateTypesDisplayed = (types) => {
+    console.log("types to be displayed", types);
   }
 
   render() {
@@ -99,7 +115,8 @@ class App extends Component {
             <div className="col s5">
               <FormSelect 
                 multipleSelect={true} 
-                optionNames={["Prose", "Diary", "Poetry"]}>
+                optionNames={["Prose", "Diary", "Poetry"]}
+                updateTypesDisplayed={this.updateTypesDisplayed}>
               </FormSelect>
             </div>
           </div>
@@ -107,7 +124,7 @@ class App extends Component {
             <table className="striped responsive-table">
               <thead>
                 <tr>
-                  <th>Year</th>
+                  <th>Year Published</th>
                   <th>Type</th>
                   <th>Title</th>
                   <th>Reference</th>

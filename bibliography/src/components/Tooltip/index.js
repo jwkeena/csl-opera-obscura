@@ -21,18 +21,20 @@ class Tooltip extends Component {
     render() {
         if (!this.props.disabled) {
             return (
-            <a 
-                ref={ (tooltip) => {this.tooltip = tooltip}} 
-                className= "btn tooltipped grey"
-                data-position="left" 
-                data-tooltip={this.props.notes}>
-                <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
-            </a>
-
+                <a 
+                    ref={ (tooltip) => {this.tooltip = tooltip}} 
+                    className= "btn tooltipped grey"
+                    data-position="left" 
+                    data-tooltip={this.props.notes}>
+                    <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
+                </a>
             )
         } else if (this.props.disabled === true) {
             return (
-                <a className="btn disabled">
+                <a 
+                    ref={ (tooltip) => {this.tooltip = tooltip}}
+                    className="btn disabled"
+                >
                     <span className="material-icons" style={styles.disabledTooltip}>block</span>
                 </a>
             )

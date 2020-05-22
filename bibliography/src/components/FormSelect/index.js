@@ -19,14 +19,13 @@ class FormSelect extends Component {
             <select 
                 ref={ (FormSelect) => {this.FormSelect = FormSelect} }
                 multiple={multiple}
-                onChange={(event) => this.props.updateSortOption(event.target.value)}>
+                onChange={multiple === false ? (event) => this.props.updateSortOption(event.target.value.toLowerCase()) : (event) => this.props.updateTypesDisplayed(event.target.value)}>
                 {this.props.optionNames.map((optionName, index) => {
                     return (
                         <FormSelectOption 
                             optionName={optionName} 
                             value={optionName} 
-                            key={index}
-                            >
+                            key={index}>
                         </FormSelectOption>
                     )
                 })}
