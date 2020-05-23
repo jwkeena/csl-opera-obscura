@@ -2,12 +2,6 @@ import React, { Component } from 'react';
 import M from 'materialize-css';
 import FormSelectOption from '../FormSelectOption';
 
-const styles = {
-    font:  {
-       fontFamily: "'Libre Baskerville', serif"
-    }
-}
-
 class FormSelect extends Component {
 
     componentDidMount() {
@@ -15,6 +9,9 @@ class FormSelect extends Component {
 
         }
         M.FormSelect.init(this.FormSelect)
+        const typesDisplayedDropdown = document.querySelectorAll('select')[1];
+        const dropdown = M.FormSelect.init(typesDisplayedDropdown).dropdown;
+        console.log(dropdown)
     }
 
     getTypesChosen() {
@@ -31,9 +28,8 @@ class FormSelect extends Component {
         const multiple = this.props.multipleSelect;
 
         return (
-        <div>
+        <div className="libre-baskerville">
             <select 
-            style={styles.font}
                 ref={ (FormSelect) => {this.FormSelect = FormSelect} }
                 multiple={multiple}
                 defaultValue={multiple === false ? 'Year' : this.props.optionNames} // This sets the default values 

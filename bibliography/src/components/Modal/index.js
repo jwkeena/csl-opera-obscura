@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
+import './styles.css';
 
 const styles = {
     menuIcon: {
@@ -30,11 +31,11 @@ class Modal extends Component {
     render() {
         return (
             <div>
-                <a className="btn blue modal-trigger" href={this.state.modalIDHash}><span className="material-icons" style={styles.menuIcon}>menu_book</span></a>
+                <a className="btn modal-trigger dark-blue" href={this.state.modalIDHash}><span className="material-icons" style={styles.menuIcon}>menu_book</span></a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id={this.state.modalID} 
-                    className="modal modal-fixed-footer">
+                    className="modal modal-fixed-footer beige-background">
                     <div className="modal-content">
                         <h5>{this.props.title}</h5>
                         <p>{this.props.textProvided}</p>

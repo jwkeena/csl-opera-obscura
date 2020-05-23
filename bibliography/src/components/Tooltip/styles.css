@@ -1,3 +1,6 @@
 .material-tooltip {
     max-width: 50%;
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid navy;
 }

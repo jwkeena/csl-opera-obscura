@@ -1,3 +1,4 @@
+/* For header */
 .header {
     font-family: 'Cinzel', serif;
 }
@@ -29,6 +30,7 @@
     top: 8px;
 }
 
+/* For table */
 table > tbody > tr {
     border-top: 2px solid grey;
     border-bottom: 2px solid grey;
@@ -37,7 +39,36 @@ table > tbody > tr {
 
 table > tbody {
     border: 2px solid grey;
-    border-style: ridge;
+    border-style: groove;
 }
 
+/* Overriding materialize styles: dropdown, checkbox */
+.select-wrapper input.select-dropdown:focus {
+    border-bottom: 1px solid black;
+}
+
+.select-wrapper input.select-dropdown, dropdown-content select-dropdown {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1rem;
+}
+
+[type="checkbox"]:checked + span:not(.lever):before {
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.switch label input[type=checkbox]:checked + .lever:after {
+    background-color: black;
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+    font-size: 1rem;
+    color: black;
+    display: block;
+    padding: 14px 16px;
+    background-color: whitesmoke;
+}
+
+.dropdown-content *, *:before, *:after {
+    color: black;
+  }
 

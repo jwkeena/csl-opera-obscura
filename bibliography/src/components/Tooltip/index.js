@@ -24,8 +24,8 @@ class Tooltip extends Component {
                 <a 
                     ref={ (tooltip) => {this.tooltip = tooltip}} 
                     href="#!"
-                    className= "btn tooltipped grey"
-                    data-position="left" 
+                    className="btn tooltipped grey"
+                    data-position="bottom" 
                     data-tooltip={this.props.notes}>
                     <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
                 </a>

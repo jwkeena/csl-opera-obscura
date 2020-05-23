@@ -1,0 +1,11 @@
+.beige-background, .modal .modal-footer {
+    background-color: #FFF8E2;
+}
+
+.dark-blue {
+    background-color: #5A5F82;
+}
+
+.dark-blue:hover {
+    background-color: rgb(44, 50, 97);
+}

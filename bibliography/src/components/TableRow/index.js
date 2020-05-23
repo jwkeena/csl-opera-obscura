@@ -8,21 +8,19 @@ const styles = {
         color: "black"
     },
     poem: {
-        backgroundColor: "#CCC7B6",
+        backgroundColor: "#DED8C5",
         color: "black"
     },
     diary: {
-        backgroundColor: "#F2E7B8",
+        backgroundColor: "#DEDDCA",
         color: "black"
     }
 }
 
-// className={props.type === "prose" ? "light-blue lighten-5" : props.type === "poem" ? "teal lighten-5" : "amber lighten-5"} 
-
 function TableRow(props) {
     return (
         <tr style={props.type === "prose" ? styles.prose : props.type === "poem" ? styles.poem : styles.diary}>
-            <td>{props.year}</td>
+            <td className="center-align">{props.year}</td>
             <td>{props.type}</td>
             <td>{props.title}</td>
             <td>{props.reference}</td>
