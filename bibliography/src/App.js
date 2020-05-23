@@ -70,8 +70,58 @@ class App extends Component {
   }
 
   sort(option) {
-    console.log("sorting by", option);
-    const sortedTexts = this.state.texts.sort((a, b) => a[option] > b[option] ? 1 : -1);
+    let sortedTexts;
+
+    if (option === "year") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        // If years match, then sort by title instead
+        if (a["year"] === b["year"]) {
+          // If titles match, then sort by reference instead
+          if (a["title"] === b["title"]) {
+            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+          }
+          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); // Use localeCompare to ignore quotations in the string
+        }
+        return (a, b) => a["year"] > b["year"] ? 1 : -1; // But use basic comparison for integers
+      });
+    }
+
+    if (option === "type") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        if (a["type"] === b["type"]) {
+          if (a["year"] === b["year"]) {
+            if (a["title"] === b["title"]) {
+              return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+            }
+            return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
+          }
+          return (a, b) => a["year"] > b["year"] ? 1 : -1;
+        }
+        return a["type"].localeCompare(b["type"], undefined, {ignorePunctuation: true}); 
+      });
+    }
+
+    if (option === "title") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        if (a["title"] === b["title"]) {
+          if (a["year"] === b["year"]) {
+            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+          }
+          return (a, b) => a["year"] > b["year"] ? 1 : -1;
+        }
+        return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
+      });
+    }
+
+    if (option === "reference") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        if (a["reference"] === b["reference"]) {
+          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true});
+        }
+        return (a, b) => a["reference"] > b["reference"] ? 1 : -1;
+      });
+    }
+
     this.setState({
       texts: sortedTexts
     })

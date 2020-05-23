@@ -206,7 +206,7 @@ const texts = [
     },
     {
         "title": "A Series of Ten Radio Talks on Love",
-        "printedIn": "ten pamphlets published by The Episcopal Radio-TV Foundation (Atlanta, Georgia)",
+        "printedIn": "Ten pamphlets published by The Episcopal Radio-TV Foundation (Atlanta, Georgia)",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1959,
@@ -253,7 +253,7 @@ const texts = [
         "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at http://www.cslewisinstitute.org/webfm_send/45."]
     },
     {
-        "title": "A Note on the meaning of Civilization in the Chronicles of Narnia",
+        "title": "A Note on the Meaning of Civilization in the Chronicles of Narnia",
         "printedIn": "Roger Lancelyn Green, C.S. Lewis, A Bodley Head Monograph, (London: The Bodley Head)",
         "issueOrVolume": null,
         "pageRange": "51",
@@ -277,7 +277,7 @@ const texts = [
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
-        "title": "Holographs of manuscripts on Spenser",
+        "title": "Holographs of Manuscripts on Spenser",
         "printedIn": "Spenser’s Images of Life, ed. Alastair Fowler (Cambridge: Cambridge University Press)",
         "issueOrVolume": null,
         "pageRange": "after the Preface and before the Introduction",
@@ -373,7 +373,7 @@ const texts = [
         "notes": ["An obituary by Lewis, though the piece is unsigned.", "Available online at https://ghgraham.org/text/jrrtolkien1892_obit.html."]
     },
     {
-        "title": "Earliest known Manuscript (c. 1939) of The Lion, the Witch and the Wardrobe",
+        "title": "Earliest Known Manuscript (c. 1939) of The Lion, the Witch and the Wardrobe",
         "printedIn": "Walter Hooper’s Preface to Kathryn Ann Lindskoog, The Lion of Judah in Never-Never Land (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "12",
@@ -409,7 +409,7 @@ const texts = [
         "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, p. 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the portrait is of Arthur Greeves himself, not his family. This portrait can also be found in the 2002 revised edition of Hooper and Green’s biography on p. 23.", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on p. 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, p. 305."]
     },
     {
-        "title": "Annotations to Shakespeare",
+        "title": "Annotations on Shakespeare",
         "printedIn": "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” CSL: The Bulletin of the New York C.S. Lewis Society",
         "issueOrVolume": "vol. 8, no. 7",
         "pageRange": "",
@@ -493,7 +493,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Holographs of manuscripts",
+        "title": "Holographs of Manuscripts",
         "printedIn": "Walter Hooper, Through Joy and Beyond: A Pictorial Biography of C.S. Lewis (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
@@ -517,8 +517,8 @@ const texts = [
         "notes": ["Limited to 100 copies, according to Collected Letters II, p. 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
-        "title": "Boxen: The Imaginary World of the Young C.S. Lewis, ed. Walter Hooper (William Collins and Co.)",
-        "printedIn": null,
+        "title": "Boxen juvenilia",
+        "printedIn": "Boxen: The Imaginary World of the Young C.S. Lewis, ed. Walter Hooper (William Collins and Co.)",
         "issueOrVolume": "",
         "pageRange": null,
         "year": 1985,
@@ -613,8 +613,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Boxen: Childhood Chronicles Before Narnia, ed. Walter Hooper (New York: HarperCollins)",
-        "printedIn": null,
+        "title": "Boxen juvenilia",
+        "printedIn": "Boxen: Childhood Chronicles Before Narnia, ed. Walter Hooper (New York: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2008,
@@ -745,7 +745,7 @@ const texts = [
         "notes": ["“On Bolshevism,” pp. 31-40.", "“Mythonomy,” pp. 43-5.", "Images of both texts on p. 30."]
     },
     {
-        "title": "Annotations in a copy of The Pilgrim’s Regress",
+        "title": "Annotations of The Pilgrim’s Regress",
         "printedIn": "The Pilgrim’s Regress, Wade Annotated Edition, ed. David C. Downing (Grand Rapids: Eerdmans, 2014)",
         "issueOrVolume": null,
         "pageRange": "passim",
