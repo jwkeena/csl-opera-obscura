@@ -30,6 +30,14 @@
     top: 8px;
 }
 
+a {
+    color: #574D37;
+}
+
+.about-modal {
+    font-family: 'Cinzel', serif !important;
+}
+
 /* For table */
 table > tbody > tr {
     border-top: 2px solid grey;
@@ -65,10 +73,10 @@ table > tbody {
     color: black;
     display: block;
     padding: 14px 16px;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
 }
 
 .dropdown-content *, *:before, *:after {
     color: black;
-  }
+}
 

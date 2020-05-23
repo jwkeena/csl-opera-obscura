@@ -5,19 +5,12 @@ import FormSelectOption from '../FormSelectOption';
 class FormSelect extends Component {
 
     componentDidMount() {
-        if (this.props.multipleSelect) {
-
-        }
         M.FormSelect.init(this.FormSelect)
-        const typesDisplayedDropdown = document.querySelectorAll('select')[1];
-        const dropdown = M.FormSelect.init(typesDisplayedDropdown).dropdown;
-        console.log(dropdown)
     }
 
     getTypesChosen() {
         const typesDisplayedDropdown = document.querySelectorAll('select')[1];
         const typesChosen = M.FormSelect.init(typesDisplayedDropdown).getSelectedValues();
-        console.log(typesChosen);
         this.props.updateTypesDisplayed(typesChosen);
     }
 
