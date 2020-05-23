@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa381f7374c99640bd2c8c62fc0718ea",
+    "revision": "2a628a710a7be6bd72d85ef17d1ed71f",
     "url": "/csl-opera-nova-et-obscura/index.html"
   },
   {
-    "revision": "00263bb317ab124d60f2",
-    "url": "/csl-opera-nova-et-obscura/static/css/main.594f3089.chunk.css"
+    "revision": "49af8f47676ef0278835",
+    "url": "/csl-opera-nova-et-obscura/static/css/main.f3863338.chunk.css"
   },
   {
     "revision": "8ac7ddc2e555ada6aa7e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csl-opera-nova-et-obscura/static/js/2.00b2e5ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00263bb317ab124d60f2",
-    "url": "/csl-opera-nova-et-obscura/static/js/main.a8b1c928.chunk.js"
+    "revision": "49af8f47676ef0278835",
+    "url": "/csl-opera-nova-et-obscura/static/js/main.15bdf212.chunk.js"
   },
   {
     "revision": "fd8d01315b2e3a2e2a7c",
