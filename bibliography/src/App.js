@@ -82,7 +82,28 @@ class App extends Component {
           }
           return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); // Use localeCompare to ignore quotations in the string
         }
-        return (a, b) => a["year"] > b["year"] ? 1 : -1; // But use basic comparison for integers
+        return a["year"] > b["year"] ? 1 : -1; // But use basic comparison for integers
+      });
+    }
+
+    if (option === "title") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        if (a["title"] === b["title"]) {
+          if (a["year"] === b["year"]) {
+            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+          }
+          return a["year"] > b["year"] ? 1 : -1;
+        }
+        return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
+      });
+    }
+
+    if (option === "reference") {
+      sortedTexts = this.state.texts.sort(function (a, b) {
+        if (a["reference"] === b["reference"]) {
+          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true});
+        }
+        return a["reference"] > b["reference"] ? 1 : -1;
       });
     }
 
@@ -95,30 +116,9 @@ class App extends Component {
             }
             return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
           }
-          return (a, b) => a["year"] > b["year"] ? 1 : -1;
+          return a["year"] > b["year"] ? 1 : -1;
         }
         return a["type"].localeCompare(b["type"], undefined, {ignorePunctuation: true}); 
-      });
-    }
-
-    if (option === "title") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
-        if (a["title"] === b["title"]) {
-          if (a["year"] === b["year"]) {
-            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
-          }
-          return (a, b) => a["year"] > b["year"] ? 1 : -1;
-        }
-        return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
-      });
-    }
-
-    if (option === "reference") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
-        if (a["reference"] === b["reference"]) {
-          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true});
-        }
-        return (a, b) => a["reference"] > b["reference"] ? 1 : -1;
       });
     }
 
@@ -156,7 +156,7 @@ class App extends Component {
             <div className="input-field col s4">
               <FormSelect 
                 multipleSelect={false} 
-                optionNames={["Year", "Type", "Title", "Reference"]} 
+                optionNames={["Year", "Title", "Reference", "Type"]} 
                 updateSortOption={this.updateSortOption}
                 >
               </FormSelect>
