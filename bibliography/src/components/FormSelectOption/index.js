@@ -3,7 +3,7 @@ import React from 'react';
 function FormSelectOption(props) {
     return (
         <option 
-            value={props.value}>
+            value={props.optionName}>
                 {props.optionName}
         </option>
     )

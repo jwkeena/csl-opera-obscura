@@ -23,6 +23,7 @@ class Tooltip extends Component {
             return (
                 <a 
                     ref={ (tooltip) => {this.tooltip = tooltip}} 
+                    href="#!"
                     className= "btn tooltipped grey"
                     data-position="left" 
                     data-tooltip={this.props.notes}>
@@ -33,6 +34,7 @@ class Tooltip extends Component {
             return (
                 <a 
                     ref={ (tooltip) => {this.tooltip = tooltip}}
+                    href="#!"
                     className="btn disabled"
                 >
                     <span className="material-icons" style={styles.disabledTooltip}>block</span>

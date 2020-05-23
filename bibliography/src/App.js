@@ -8,8 +8,9 @@ class App extends Component {
 
   state = {
     texts: null,
-    sortByOption: "year",
-    typesDisplayed: [],
+    backupTexts: null, // To keep a fresh copy at all times. Used for filtering
+    sortByOption: "Year",
+    typesDisplayed: ["Prose", "Poem", "Diary"],
   };
 
   componentDidMount() {
@@ -57,7 +58,8 @@ class App extends Component {
     }
     // Replace current state with newly formatted texts array
     this.setState({
-      texts: formattedTexts
+      texts: formattedTexts,
+      backupTexts: formattedTexts
     }, () => this.sort("year")) // Set standard sorting option
   };
 
@@ -71,6 +73,7 @@ class App extends Component {
 
   sort(option) {
     let sortedTexts;
+    console.log(option);
 
     if (option === "year") {
       sortedTexts = this.state.texts.sort(function (a, b) {
@@ -127,15 +130,35 @@ class App extends Component {
     })
   }
 
-  updateTypesDisplayed = (types) => {
-    console.log("types to be displayed", types);
+  updateTypesDisplayed = (typesChosenArr) => {
+    this.setState({
+      typesDisplayed: typesChosenArr
+    }, () => this.filterAndDisplayTypes())
+  }
+
+  filterAndDisplayTypes = () => {
+    let textsCopy = this.state.backupTexts;
+    let typesToDisplay = this.state.typesDisplayed.map(type => type.toLowerCase());
+    let filteredTexts = [];
+
+    // Run each type against each member of the textsCopy array, push all matches to a fresh array
+    // so much for using a one-line .filter: textsCopy.filter(text => text["type"] === type)
+    typesToDisplay.forEach(function(type) {
+      textsCopy.forEach(function(text) {
+        if (text["type"] === type) {
+          filteredTexts.push(text);
+        }
+      });
+    })
+
+    this.setState({texts: filteredTexts})
   }
 
   render() {
     return (
       <div className = "container">
         <div className="App">
-          <h1>Lewisiana Opera Nova et Obscura</h1>
+          <h1>Clivi Hamiltonis Opera Obscura</h1>
           <h4>A Bibliography of Obscure and Newly Published C.S. Lewis Texts</h4>
           {/* <p>Note: This bibliography is designed for those seeking to read all of Lewis’s words that have ever been published or are publicly available, but who are familiar with his major, and even most of his minor, works already. Hence it is intended specifically for those collectors of Lewis’s works who know all of Walter Hooper’s essay, letter, and diary collections. The pieces listed here are not usually printed in those much more easily obtainable books. </p>
           <p>Many of the following entries in this list, and some of the notes on them, are drawn verbatim from Hooper’s indispensible bibliographies in </p>
@@ -155,7 +178,8 @@ class App extends Component {
             <div className="col s1">Sort by:</div>
             <div className="input-field col s4">
               <FormSelect 
-                multipleSelect={false} 
+                multipleSelect={false}
+                sortByOption={this.state.sortByOption} 
                 optionNames={["Year", "Title", "Reference", "Type"]} 
                 updateSortOption={this.updateSortOption}
                 >
@@ -165,7 +189,7 @@ class App extends Component {
             <div className="col s5">
               <FormSelect 
                 multipleSelect={true} 
-                optionNames={["Prose", "Diary", "Poetry"]}
+                optionNames={["Prose", "Poem", "Diary"]}
                 updateTypesDisplayed={this.updateTypesDisplayed}>
               </FormSelect>
             </div>
@@ -174,7 +198,7 @@ class App extends Component {
             <table className="striped responsive-table">
               <thead>
                 <tr>
-                  <th>Year Published</th>
+                  <th>Publication</th>
                   <th>Type</th>
                   <th>Title</th>
                   <th>Reference</th>
@@ -186,7 +210,16 @@ class App extends Component {
                 {this.state.texts !== null ? 
                 this.state.texts.map((text, index) => {
                   return (
-                  <TableRow year={text.year} type={text.type} title={text.title} reference={text.reference} textProvided={text.textProvided} notes={text.notes} key={index} rowNumber={index}></TableRow>
+                  <TableRow 
+                    year={text.year} 
+                    type={text.type} 
+                    title={text.title} 
+                    reference={text.reference} 
+                    textProvided={text.textProvided} 
+                    notes={text.notes} 
+                    key={index} 
+                    rowNumber={index}>
+                  </TableRow>
                   )
                 }) 
                 : <tr>
