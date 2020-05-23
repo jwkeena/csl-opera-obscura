@@ -2,7 +2,7 @@
   "name": "bibliography",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jwkeena.github.io/csl-opera-nova-et-obscura",
+  "homepage": "https://jwkeena.github.io/csl-opera-obscura",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
