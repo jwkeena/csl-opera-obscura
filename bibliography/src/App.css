@@ -1,3 +1,41 @@
+/* Universal styles */
+body {
+    background-color: #FFF8E2; 
+    font-family: 'Libre Baskerville', serif; 
+    font-size: 1rem; 
+    color: #574D37; 
+}
+
+/* Using flexbox to make main content div fill the available space in the page */
+/* See https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space */
+html, body {  
+    height: 100%;
+    margin: 0
+}
+
+#root, .App {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+
+.App .header {
+    flex: 0 1 auto;
+    /* The above is shorthand for:
+    flex-grow: 0,
+    flex-shrink: 1,
+    flex-basis: auto
+    */
+}
+
+.App .main-content {
+    flex: 1 1 auto;
+}
+
+.App .footer {
+    flex: 0 1 75px;
+}
+
 /* For header */
 .header {
     font-family: 'Cinzel', serif;

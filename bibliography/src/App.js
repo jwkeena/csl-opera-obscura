@@ -64,7 +64,6 @@ class App extends Component {
       backupTexts: formattedTexts
     }, () => {
       this.sort("year"); // Set standard sorting option
-      this.updateTypesDisplayed([]); // Set standard types displayed
     });
   };
 
@@ -78,7 +77,6 @@ class App extends Component {
 
   sort(option) {
     let sortedTexts;
-    console.log(option);
 
     if (option === "year") {
       sortedTexts = this.state.texts.sort(function (a, b) {
@@ -161,14 +159,13 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <div className="App container">
-          <header>
-            <div className="header">
+      <div className="App">
+          
+          <div className="container header">
               <AboutModal/>
-            </div>
-          </header>
-          <main>
+          </div>
+
+          <div className="container main-content">
             <br/>
             <div className="row valign-wrapper">
               <div className="col s1"><b>Sort by:</b></div>
@@ -193,6 +190,7 @@ class App extends Component {
             <div id="texts">
                 {this.state.typesDisplayed.length === 0 ? 
                   <div className="row center-align">
+                    <br/>
                     <h5>Choose at least one type of text to display.</h5>
                   </div>
                   : 
@@ -231,11 +229,13 @@ class App extends Component {
                 </tbody>
               </table>}
             </div>
-          </main>
+          </div>
+        <br/>
+
+        <div className="footer">
+          <Footer/>
         </div>
-          <footer>
-            <Footer/>
-          </footer>
+
       </div>
     )
   };
