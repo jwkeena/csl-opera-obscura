@@ -19,6 +19,20 @@ class Tooltip extends Component {
     }
 
     render() {
+        if (this.props.footer) {
+            return (
+                <a 
+                    ref={ (tooltip) => {this.tooltip = tooltip}} 
+                    href="https://jwkeena.github.io/csl-letters/"
+                    target="_blank"
+                    className="tooltipped"
+                    data-position="top" 
+                    data-tooltip={"<img src='https://jwkeena.github.io/images/csl-demo.gif'/>"}>
+                        C.S. Lewis Letter Search
+                </a>
+            )
+        }
+        
         if (!this.props.disabled) {
             return (
                 <a 
@@ -30,7 +44,9 @@ class Tooltip extends Component {
                     <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
                 </a>
             )
-        } else {
+        } 
+        
+        if (this.props.disabled) {
             return (
                 <a 
                     ref={ (tooltip) => {this.tooltip = tooltip}}
