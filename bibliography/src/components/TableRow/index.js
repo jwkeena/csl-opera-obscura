@@ -19,11 +19,11 @@ const styles = {
 
 function TableRow(props) {
     return (
-        <tr style={props.type === "prose" ? styles.prose : props.type === "poem" ? styles.poem : styles.diary}>
-            <td className="center-align">{props.year}</td>
-            <td>{props.type}</td>
+        <tr style={props.type === "Prose" ? styles.prose : props.type === "Poem" ? styles.poem : styles.diary}>
+            <td className="center-align">&nbsp;&nbsp;{props.year}&nbsp;&nbsp;</td>
             <td>{props.title}</td>
             <td>{props.reference}</td>
+            <td>{props.type}</td>
             <td>{props.textProvided !== false 
                 ? <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber}></Modal> 
                 : null}

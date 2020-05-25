@@ -3,6 +3,7 @@ import { texts } from './texts';
 import TableRow from './components/TableRow/';
 import FormSelect from './components/FormSelect';
 import AboutModal from './components/AboutModal';
+import Footer from './components/Footer';
 import './App.css';
 
 class App extends Component {
@@ -61,7 +62,10 @@ class App extends Component {
     this.setState({
       texts: formattedTexts,
       backupTexts: formattedTexts
-    }, () => this.sort("year")) // Set standard sorting option
+    }, () => {
+      this.sort("year"); // Set standard sorting option
+      this.updateTypesDisplayed([]); // Set standard types displayed
+    });
   };
 
   updateSortOption = (option) => {
@@ -139,7 +143,7 @@ class App extends Component {
 
   filterAndDisplayTypes = () => {
     let textsCopy = this.state.backupTexts;
-    let typesToDisplay = this.state.typesDisplayed.map(type => type.toLowerCase());
+    let typesToDisplay = this.state.typesDisplayed;
     let filteredTexts = [];
 
     // Run each type against each member of the textsCopy array, push all matches to a fresh array
@@ -157,70 +161,81 @@ class App extends Component {
 
   render() {
     return (
-      <div className = "container">
-        <div className="App">
-          <div className="header">
-            <AboutModal/>
-          </div>
-          <br/>
-          <div className="row valign-wrapper">
-            <div className="col s1"><b>Sort by:</b></div>
-            <div className="input-field col s4">
-              <FormSelect 
-                multipleSelect={false}
-                sortByOption={this.state.sortByOption} 
-                optionNames={["Year", "Title", "Reference", "Type"]} 
-                updateSortOption={this.updateSortOption}
-                >
-              </FormSelect>
+      <div>
+        <div className="App container">
+          <header>
+            <div className="header">
+              <AboutModal/>
             </div>
-            <div className="col s2"><b>Types displayed:</b></div>
-            <div className="col s5">
-              <FormSelect 
-                multipleSelect={true} 
-                optionNames={["Prose", "Poem", "Diary"]}
-                updateTypesDisplayed={this.updateTypesDisplayed}>
-              </FormSelect>
+          </header>
+          <main>
+            <br/>
+            <div className="row valign-wrapper">
+              <div className="col s1"><b>Sort by:</b></div>
+              <div className="input-field col s4">
+                <FormSelect 
+                  multipleSelect={false}
+                  sortByOption={this.state.sortByOption} 
+                  optionNames={["Year", "Title", "Reference", "Type"]} 
+                  updateSortOption={this.updateSortOption}
+                  >
+                </FormSelect>
+              </div>
+              <div className="col s2"><b>Types displayed:</b></div>
+              <div className="col s5">
+                <FormSelect 
+                  multipleSelect={true} 
+                  optionNames={["Prose", "Poem", "Diary"]}
+                  updateTypesDisplayed={this.updateTypesDisplayed}>
+                </FormSelect>
+              </div>
             </div>
-          </div>
-          <div id="texts">
-            <table className="responsive-table">
-              <thead>
-                <tr>
-                  <th>Publication</th>
-                  <th>Type</th>
-                  <th>Title</th>
-                  <th>Reference</th>
-                  <th></th>
-                  <th>Notes</th>
-                </tr>
-              </thead>
-              <tbody className="z-depth-2">
-                {this.state.texts !== null ? 
-                this.state.texts.map((text, index) => {
-                  return (
-                  <TableRow 
-                    year={text.year} 
-                    type={text.type} 
-                    title={text.title} 
-                    reference={text.reference} 
-                    textProvided={text.textProvided} 
-                    notes={text.notes} 
-                    key={index} 
-                    rowNumber={index}>
-                  </TableRow>
-                  )
-                }) 
-                : <tr>
-                  <td>
-                    Loading texts...
-                  </td>
-                </tr>}
-              </tbody>
-            </table>
-          </div>
-
+            <div id="texts">
+                {this.state.typesDisplayed.length === 0 ? 
+                  <div className="row center-align">
+                    <h5>Choose at least one type of text to display.</h5>
+                  </div>
+                  : 
+              <table className="responsive-table">
+                <thead>
+                  <tr>
+                    <th className="center-align" title="Year of publication">Year</th>
+                    <th>Title</th>
+                    <th>Reference</th>
+                    <th>Type</th>
+                    <th></th>
+                    <th>Notes</th>
+                  </tr>
+                </thead>
+                <tbody className="z-depth-2">
+                  {this.state.texts !== null ? 
+                  this.state.texts.map((text, index) => {
+                    return (
+                    <TableRow 
+                      year={text.year} 
+                      title={text.title} 
+                      reference={text.reference} 
+                      type={text.type} 
+                      textProvided={text.textProvided} 
+                      notes={text.notes} 
+                      key={index} 
+                      rowNumber={index}>
+                    </TableRow>
+                    )
+                  }) 
+                  : <tr>
+                    <td>
+                      Loading texts...
+                    </td>
+                  </tr>}
+                </tbody>
+              </table>}
+            </div>
+          </main>
         </div>
+          <footer>
+            <Footer/>
+          </footer>
       </div>
     )
   };

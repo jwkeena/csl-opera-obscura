@@ -34,8 +34,13 @@ a {
     color: #574D37;
 }
 
-.about-modal {
+a.email {
+    color: blue;
+}
+
+.modal {
     font-family: 'Cinzel', serif !important;
+    text-align: justify !important;
 }
 
 /* For table */
@@ -80,3 +85,21 @@ table > tbody {
     color: black;
 }
 
+/* For footer */
+
+
+.page-footer {
+    padding-top: 0;
+    border-top: 2px solid #574D37;
+    border-bottom: 2px solid #574D37;
+    background-color: lightslategray;
+}
+
+.page-footer .footer-copyright {
+    background-color: transparent;
+    color: #FFF8E2;
+}
+
+.page-footer .footer-copyright a {
+    color: #FFF8E2;
+}

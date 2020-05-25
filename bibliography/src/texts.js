@@ -9,7 +9,7 @@ const texts = [
         "year": 1912,
         "month": 11,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, pp. 310-11 at the Wade Center and the Bodleian."]
     },
     {
@@ -21,7 +21,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, pp. 318-9 at the Wade Center and the Bodleian."]
     },
     {
@@ -33,7 +33,7 @@ const texts = [
         "month": 7,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the Lewis Papers IV, p. 51 at the Wade Center and the Bodleian."]
     },
     {
@@ -45,7 +45,7 @@ const texts = [
         "month": 6,
         "day": 9,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["A description of Adam Fox’s poetry in the style of Samuel Johnson. Fox was Oxford’s Professor of Poetry from 1938-1942.", "The piece is anonymous."]
     },
     {
@@ -57,7 +57,7 @@ const texts = [
         "month": 3,
         "day": 20,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["A rebuttal to an anonymous negative review of The Allegory of Love", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal, vol. 11 (2017), p. 17.", "It is also available at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
     },
     {
@@ -69,7 +69,7 @@ const texts = [
         "month": 11,
         "day": 2,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["An earlier, shorter version of the essay \"Miracles.\""]
     },
     {
@@ -81,7 +81,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["A one-page positive review of the book in the front matter.", "This piece is not in Image and Imagination or, to my knowledge, any other collection."]
     },
     {
@@ -93,7 +93,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Does not appear in the Collected Letters or, to my knowledge, any other collection."]
     },
     {
@@ -105,7 +105,7 @@ const texts = [
         "month": 9, // Technically just "Autumn," but I put Sept. since that's when Fall starts
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["As Walter Hooper notes in his 1996 Bibliography, p. 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in The Socratic Digest, no. 4 (1948), pp. 82-94."]
     },
     {
@@ -117,7 +117,7 @@ const texts = [
         "month": 12,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Reprinted in SEVEN: An Anglo-American Literary Review, vol. 34 (2017)."]
     },
     {
@@ -129,7 +129,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), item G21."]
     },
     {
@@ -141,7 +141,7 @@ const texts = [
         "month": 11,
         "day": 25,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This “Note” is reprinted on the cover of Owen Barfield, Orpheus: A Poetic Drama, ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at http://www.owenbarfield.org/books/orpheus-extras.pdf. Look for footnote 1 in the author’s Foreword."]
     },
     {
@@ -153,7 +153,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
     },
     {
@@ -165,7 +165,7 @@ const texts = [
         "month": 4,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["To my knowledge this has never been reprinted."]
     },
     {
@@ -177,7 +177,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. …This is as brilliant a presentation as we’re likely to see.",
-        "type": "prose",
+        "type": "Prose",
         "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 433."]
     },
     {
@@ -189,7 +189,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This abridgement of Miracles was made by Lewis himself."]
     },
     {
@@ -201,7 +201,7 @@ const texts = [
         "month": 7,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s C.S. Lewis: A Companion and Guide (New York: HarperCollins, 1996), pp. 706-7."]
     },
     {
@@ -213,7 +213,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "The complete, typed text can be found here: HYPERLINK.", "HYPERLINK to YouTube videos."]
     },
     {
@@ -225,7 +225,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["The piece itself is dated by Lewis May 18, 1960, though it was first published in 1982 (so perhaps this entry should be re-labeled as arriving in 1982; on the other hand, the front matter designates the copyright as 1961."]
     },
     {
@@ -237,7 +237,7 @@ const texts = [
         "month": 12,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Contents: a short paragraph on the type of governmental structure Lewis would approve.", "To my knowledge this text has never been reprinted."]
     },
     {
@@ -249,7 +249,7 @@ const texts = [
         "month": 5,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at http://www.cslewisinstitute.org/webfm_send/45."]
     },
     {
@@ -261,7 +261,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
@@ -273,7 +273,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (p. 98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
-        "type": "prose",
+        "type": "Prose",
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
@@ -285,7 +285,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, C.S. Lewis (New York: Frederick Ungar, 1981), pp. 158-63."]
     },
     {
@@ -297,7 +297,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["To my knowledge these texts have never been reprinted."]
     },
     {
@@ -309,7 +309,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
@@ -321,7 +321,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
@@ -333,7 +333,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Later reprinted in Boxen (1985, 2008)."]
     },
     {
@@ -345,7 +345,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["“Outline of Narnian history so far as it is known,” pp. 298-301. Also printed in Past Watchful Dragons, ed. Hooper (1971), pp. 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) pp. 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), p. 112. Also printed, without the holograph, as “Plots” in Past Watchful Dragons, ed. Hooper (1971), p. 46.", "Galley proofs of The Silver Chair, p. 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), pp. 304-7 (holograph, p. 305 and transcription, pp. 304, 306-7). The full fragment is printed in Past Watchful Dragons, ed. Hooper (1971), pp. 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” p. 309. The full passage is printed in Past Watchful Dragons, ed. Hooper (1971), pp. 68-71.", "Original Map of Narnia (holograph), p. 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), p. 313. Holograph unique to this essay."]
     },
     {
@@ -357,7 +357,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["“Outline of Narnian history so far as it is known,” pp. 41-44. Also printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), pp. 298-301.", "“Plots,” p. 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in Imagination and the Spirit, ed. Charles A. Huttar,  (1971), p. 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), p. 112.", "“The Lefay Fragment,” pp. 48-65. Only the first paragraph of p. 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), pp. 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” pp. 68-71. Only partially printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), p. 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, pp. 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in Collected Letters III, pp. 412-3."]
     },
     { // VERIFY AUTHENTICITY
@@ -369,7 +369,7 @@ const texts = [
         "month": 9,
         "day": 3,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["An obituary by Lewis, though the piece is unsigned.", "Available online at https://ghgraham.org/text/jrrtolkien1892_obit.html."]
     },
     {
@@ -381,7 +381,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This manuscript is written on the back of the first page of the manuscript of The Dark Tower, found in the Bodleian Library."]
     },
     {
@@ -393,7 +393,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Holograph of “To Mars and back”, p. 104, the fragment of a story written by Lewis when a child. This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "Excerpts from many letters later published in Collected Letters.", "Holographs of selected Boxen stories, later published in Boxen (1985, 2008).", "Holograph of “Carpe Diem,” the schoolboy poem, later published in Collected Poems, ed. Don King (2015)."]
     },
     {
@@ -405,7 +405,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, p. 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the portrait is of Arthur Greeves himself, not his family. This portrait can also be found in the 2002 revised edition of Hooper and Green’s biography on p. 23.", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on p. 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, p. 305."]
     },
     {
@@ -417,7 +417,7 @@ const texts = [
         "month": 5,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -429,7 +429,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Portrait of Greeves, pp. 24-26.", "Portrait of Greeves's parents, pp. 16-18", "The portraits of Greeves’s parents derives from The Lewis Papers III, pp. 302-4.", "The portrait of Greeves derives from The Lewis Papers X, pp. 218-20."]
     },
     {
@@ -441,7 +441,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Library call number: MS. Top. Oxon. D. 95/3, fo. 69."]
     },
     {
@@ -453,7 +453,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses."]
     },
     {
@@ -465,7 +465,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -477,7 +477,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in Broadcast Talks."]
     },
     {
@@ -489,7 +489,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -501,7 +501,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, pp. 94-5. Reprinted without the illustration in Collected Letters II, pp. 484-5.", "Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in Imagination and the Spirit (1971) and, in transcription only, in Past Watchful Dragons (1971)."]
     },
     {
@@ -513,7 +513,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Limited to 100 copies, according to Collected Letters II, p. 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
@@ -525,7 +525,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["I include this, not because it’s rare, but because it may be obscure even to the general Lewis enthusiast.", "It is an abridged form of the later, complete Boxen: Childhood Chronicles before Narnia (2008). To my knowledge, though, this early edition includes the same texts of: The King’s Ring, Manx Against Manx, The Relief of Murry, History of Mouse-Land from Stone-Age to Bublish I, History of Animal-Land, The Chess Monograph, The Geography of Animal-Land, Boxen: or Scenes from Boxonian City Life, The Locked Door and Than-Kyu, The Sailor, and Encyclopedia Boxoniana."]
     },
     {
@@ -537,7 +537,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Pagination of the 1994 Ballantine paperback edition: pp. 374-92."]
     },
     {
@@ -549,7 +549,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” SEVEN: An Anglo-American Literary Review, 31 (2014), pp. 30-62."]
     },
     {
@@ -561,7 +561,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled Jack: A Life of C.S. Lewis (1994). In that edition the same paragraphs on Bleheris appear on pp. 110-11."]
     },
     {
@@ -573,7 +573,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -585,7 +585,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This essay the summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
     },
     {
@@ -597,7 +597,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -609,7 +609,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -621,7 +621,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Includes the following texts not appearing in the 1985 version: Littera Scripta Manet, Tararo, and The Life of Lord John Big of Bigham."]
     },
     {
@@ -633,7 +633,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of SEVEN, pp. 7-24."]
     },
     {
@@ -645,7 +645,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -657,7 +657,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["This is the first prose piece we have from Lewis in the 1920s."]
     },
     {
@@ -669,7 +669,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Contents: A thorough treatment of an incomplete translation of the Aeneid by Lewis with commentary."]
     },
     {
@@ -681,7 +681,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, pp. 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on p. 116."]
     },
     {
@@ -693,7 +693,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” SEVEN: An Anglo-American Literary Review, vol. 29 (2012), pp. 51-62."]
     },
     {
@@ -705,7 +705,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": null
     },
     {
@@ -717,7 +717,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["In Brenton's own words, “In this neat manuscript we see that C.S. Lewis had Dr. Ransom (of the science fiction books) discover and translate the Letters.”"]
     },
     {
@@ -729,7 +729,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” pp. 194-7. Hooper's note on p. 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of De Rerum Natura, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” pp. 34-53, probably composed before 1931."]
     },
     {
@@ -741,7 +741,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["“On Bolshevism,” pp. 31-40.", "“Mythonomy,” pp. 43-5.", "Images of both texts on p. 30."]
     },
     {
@@ -753,7 +753,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["According to Downing’s Note on xiii, “On 18 June 1937, C.S. Lewis inscribed his name and the date in a copy of The Pilgrim’s Regress that he had carefully annotated for one of his students, Richard Thornton Hewitt, who was reading English at Magdalen College at the time.” That copy is now in the possession of the Wade Center.", "Lewis’s comments are printed in bold in the margins."]
     },
     {
@@ -765,7 +765,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Prefaced with an essay by Crystal Hurd."]
     },
     {
@@ -777,7 +777,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II, pp. 58-102.", "“Note on the Law of Contradiction,” pp. 121-4.", "“Replies to Objections in Detail,” pp. 124-30 (includes holographs of Lewis’ drawings on pp. 127-9).", "De Bono et Malo, pp. 131-44.", "Lewis’ unfinished Commentarium in Tractatum De Toto et Parte in footnoes, pp. 145-69."]
     },
     {
@@ -789,7 +789,7 @@ const texts = [
         "month": 12,
         "day": 10,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorship. Nor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” Sehnsucht, vol. 10 (2016), pp. 21-32."]
     },
     {
@@ -801,7 +801,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Prefaced with an essay by Norbert Feinendegen."]
     },
     {
@@ -813,7 +813,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "prose",
+        "type": "Prose",
         "notes": ["Derrick does not quote any excerpt of Lewis’s play, “which runs on for several pages,” but she appears to be the first Lewis scholar to publicize its existence.", "Derrick sources her account as follows: “C. S. Lewis, entry in Vice-President Register, 1941, MC:VP1/A1/6, Magdalen College Archives, Oxford University, Oxford.”"]
     },
     // DIARIES
@@ -826,7 +826,7 @@ const texts = [
         "month": 9,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["The first two sentences of the diary are quoted, chronicling Lewis’s morning routine."]
     },
     {
@@ -838,7 +838,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "I attempted to get some useful information out of Wyld’s Short History (The Cad) which is full of facts most painfully collected but presented in a very muddled way and extraordinarily difficult to work on.",
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Several other quotations from the Lewis Papers in the Preface have since been published in All My Road Before Me."]
     },
     {
@@ -850,7 +850,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.",
-        "type": "diary",
+        "type": "Diary",
         "notes": ["This passage is entirely reproduced in All My Road Before Me, with the exception of the final sentence quoted by Hooper in “To the Martlets”: “I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.” However, in AMR Hooper blanks out the last three words: “I said this was certainly not what I meant by art: in fact it stood to art as ———.”"]
     },
     {
@@ -862,7 +862,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Contents: The members of the household are successively described, including the pets."]
     },
     {
@@ -874,7 +874,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
     },
     {
@@ -886,7 +886,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Quotes the first sentences on p. 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on p. 4 in greater detail than the excerpts in the 1974 biography."]
     },
     {
@@ -898,7 +898,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
     },
     {
@@ -910,7 +910,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Quotes the same passage as Carpenter in The Inklings (1978) on Lewis’s early anti-Catholicism, but with the addition of a sentence that Carpenter had omitted in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
     {
@@ -922,7 +922,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
     },
     {
@@ -934,7 +934,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": "...a curious dream in the night.",
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in All My Road Before Me. The final one, however, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
     },
     {
@@ -946,7 +946,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home—the first time this anecdote has been printed."]
     },
     {
@@ -958,7 +958,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on pp. 68-69 which I have been unable to match with any other sources. The first, on p. 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), p. 91.", "The second, on pp. 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the Lewis Papers VI, 193.", "It’s possible that Wilson used other scraps of the Lewis Papers not published elsewhere. Have any been collected?"]
     },
     {
@@ -970,7 +970,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "diary",
+        "type": "Diary",
         "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather and (b) an additional sentence about his excitement hearing Warnie come home.", "This passage in the Companion and Guide was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), p. 40."]
     },
     // POETRY
@@ -983,7 +983,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -995,7 +995,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1007,7 +1007,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1019,7 +1019,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1031,7 +1031,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1043,7 +1043,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1055,7 +1055,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1067,7 +1067,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1079,7 +1079,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1091,7 +1091,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1103,7 +1103,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1115,7 +1115,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1127,7 +1127,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” Christianity and Literature, vol. 2 (Winter 2004), pp. 163-201."]
     },
     {
@@ -1139,7 +1139,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1151,7 +1151,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1163,7 +1163,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1175,7 +1175,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1187,7 +1187,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1199,7 +1199,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1211,7 +1211,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1223,7 +1223,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1235,7 +1235,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1247,7 +1247,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1259,7 +1259,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1271,7 +1271,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1283,7 +1283,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1295,7 +1295,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1307,7 +1307,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1319,7 +1319,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1331,7 +1331,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1343,7 +1343,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1355,7 +1355,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1367,7 +1367,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1379,7 +1379,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1391,7 +1391,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1403,7 +1403,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1415,7 +1415,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1427,7 +1427,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1439,7 +1439,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1451,7 +1451,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1463,7 +1463,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1475,7 +1475,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1487,7 +1487,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1499,7 +1499,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1511,7 +1511,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1523,7 +1523,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1535,7 +1535,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1547,7 +1547,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1559,7 +1559,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1571,7 +1571,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1583,7 +1583,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1595,7 +1595,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1607,7 +1607,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1619,7 +1619,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1631,7 +1631,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1643,7 +1643,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1655,7 +1655,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1667,7 +1667,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1679,7 +1679,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1691,7 +1691,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1703,7 +1703,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1715,7 +1715,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1727,7 +1727,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1739,7 +1739,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1751,7 +1751,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1763,7 +1763,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1775,7 +1775,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1787,7 +1787,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1799,7 +1799,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1811,7 +1811,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1823,7 +1823,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1835,7 +1835,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1847,7 +1847,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1859,7 +1859,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1871,7 +1871,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1883,7 +1883,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1895,7 +1895,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1907,7 +1907,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1919,7 +1919,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1931,7 +1931,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1943,7 +1943,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1955,7 +1955,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1967,7 +1967,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1979,7 +1979,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     },
     {
@@ -1991,7 +1991,7 @@ const texts = [
         "month": null,
         "day": null,
         "textProvided": false,
-        "type": "poem",
+        "type": "Poem",
         "notes": null
     }
 ]
@@ -2005,7 +2005,7 @@ const texts = [
 //     "month": null,
 //     "day": null,
 //     "textProvided": false,
-//     "type": "poem",
+//     "type": "Poem",
 //     "notes": [""]
 // }
 

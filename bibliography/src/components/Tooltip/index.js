@@ -30,7 +30,7 @@ class Tooltip extends Component {
                     <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
                 </a>
             )
-        } else if (this.props.disabled === true) {
+        } else {
             return (
                 <a 
                     ref={ (tooltip) => {this.tooltip = tooltip}}
