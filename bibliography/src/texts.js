@@ -10,7 +10,7 @@ const texts = [
         "month": 11,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, pp. 310-11 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, 310-11 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"Are Athletes Better than Scholars?\"",
@@ -22,7 +22,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, pp. 318-9 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, 318-9 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"The Expedition to Holly Bush Hill\"",
@@ -34,7 +34,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the Lewis Papers IV, p. 51 at the Wade Center and the Bodleian."]
+        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the Lewis Papers IV, 51 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"From Johnson's Life of Fox\"",
@@ -58,7 +58,7 @@ const texts = [
         "day": 20,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["A rebuttal to an anonymous negative review of The Allegory of Love", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal, vol. 11 (2017), p. 17.", "It is also available at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["A rebuttal to an anonymous negative review of The Allegory of Love", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal, vol. 11 (2017), 17.", "It is also available at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
     },
     {
         "title": "\"Miracles\"",
@@ -106,7 +106,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 Bibliography, p. 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in The Socratic Digest, no. 4 (1948), pp. 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in The Socratic Digest, no. 4 (1948), 82-94."]
     },
     {
         "title": "\"A Christmas Sermon for Pagans\"",
@@ -178,7 +178,7 @@ const texts = [
         "day": null,
         "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. …This is as brilliant a presentation as we’re likely to see.",
         "type": "Prose",
-        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 433."]
+        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 433."]
     },
     {
         "title": "Preface to Miracles",
@@ -202,7 +202,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s C.S. Lewis: A Companion and Guide (New York: HarperCollins, 1996), pp. 706-7."]
+        "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s C.S. Lewis: A Companion and Guide (New York: HarperCollins, 1996), 706-7."]
     },
     {
         "title": "A Series of Ten Radio Talks on Love",
@@ -272,9 +272,9 @@ const texts = [
         "year": 1964,
         "month": null,
         "day": null,
-        "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (p. 98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
+        "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         "type": "Prose",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -286,7 +286,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, C.S. Lewis (New York: Frederick Ungar, 1981), pp. 158-63."]
+        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, C.S. Lewis (New York: Frederick Ungar, 1981), 158-63."]
     },
     {
         "title": "Martlets Society Minutes of 12 March and 14 June 1919",
@@ -346,7 +346,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” pp. 298-301. Also printed in Past Watchful Dragons, ed. Hooper (1971), pp. 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) pp. 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), p. 112. Also printed, without the holograph, as “Plots” in Past Watchful Dragons, ed. Hooper (1971), p. 46.", "Galley proofs of The Silver Chair, p. 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), pp. 304-7 (holograph, p. 305 and transcription, pp. 304, 306-7). The full fragment is printed in Past Watchful Dragons, ed. Hooper (1971), pp. 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” p. 309. The full passage is printed in Past Watchful Dragons, ed. Hooper (1971), pp. 68-71.", "Original Map of Narnia (holograph), p. 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), p. 313. Holograph unique to this essay."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in Past Watchful Dragons, ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), 112. Also printed, without the holograph, as “Plots” in Past Watchful Dragons, ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in Past Watchful Dragons, ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in Past Watchful Dragons, ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -358,7 +358,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” pp. 41-44. Also printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), pp. 298-301.", "“Plots,” p. 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in Imagination and the Spirit, ed. Charles A. Huttar,  (1971), p. 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), p. 112.", "“The Lefay Fragment,” pp. 48-65. Only the first paragraph of p. 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), pp. 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” pp. 68-71. Only partially printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), p. 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, pp. 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in Collected Letters III, pp. 412-3."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in Imagination and the Spirit, ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in Collected Letters III, 412-3."]
     },
     { // VERIFY AUTHENTICITY
         "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
@@ -385,16 +385,16 @@ const texts = [
         "notes": ["This manuscript is written on the back of the first page of the manuscript of The Dark Tower, found in the Bodleian Library."]
     },
     {
-        "title": "Juvenilia and letters including fragment of a story \"To Mars and Back\"",
+        "title": "Holograph of a story \"To Mars and Back\"",
         "printedIn": "C.S. Lewis: Images of His World, ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
-        "pageRange": "[see notes for page ranges]",
+        "pageRange": "104",
         "year": 1973,
         "month": null,
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “To Mars and back”, p. 104, the fragment of a story written by Lewis when a child. This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "Excerpts from many letters later published in Collected Letters.", "Holographs of selected Boxen stories, later published in Boxen (1985, 2008).", "Holograph of “Carpe Diem,” the schoolboy poem, later published in Collected Poems, ed. Don King (2015)."]
+        "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in Collected Letters.", "This book also includes holographs of selected Boxen stories, later published in Boxen (1985, 2008).", "Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in Collected Poems, ed. Don King (2015)."]
     },
     {
         "title": "Pen portrait of Arthur Greeves",
@@ -406,7 +406,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, p. 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the portrait is of Arthur Greeves himself, not his family. This portrait can also be found in the 2002 revised edition of Hooper and Green’s biography on p. 23.", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on p. 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, p. 305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the portrait is of Arthur Greeves himself, not his family. This portrait can also be found in the 2002 revised edition of Hooper and Green’s biography on 23.", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, 305."]
     },
     {
         "title": "Annotations on Shakespeare",
@@ -430,7 +430,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Portrait of Greeves, pp. 24-26.", "Portrait of Greeves's parents, pp. 16-18", "The portraits of Greeves’s parents derives from The Lewis Papers III, pp. 302-4.", "The portrait of Greeves derives from The Lewis Papers X, pp. 218-20."]
+        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derives from The Lewis Papers III, 302-4.", "The portrait of Greeves derives from The Lewis Papers X, 218-20."]
     },
     {
         "title": "Minutes of the Martlets Society for 26 February 1919 (University College, Oxford)",
@@ -442,7 +442,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Library call number: MS. Top. Oxon. D. 95/3, fo. 69."]
+        "notes": ["Library call number: MS. ToOxon. D. 95/3, fo. 69."]
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
@@ -493,7 +493,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Holographs of Manuscripts",
+        "title": "Holograph of Narnia Manuscript",
         "printedIn": "Walter Hooper, Through Joy and Beyond: A Pictorial Biography of C.S. Lewis (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
@@ -502,7 +502,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, pp. 94-5. Reprinted without the illustration in Collected Letters II, pp. 484-5.", "Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in Imagination and the Spirit (1971) and, in transcription only, in Past Watchful Dragons (1971)."]
+        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in Imagination and the Spirit (1971) and, in transcription only, in Past Watchful Dragons (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in Collected Letters II, 484-5."]
     },
     {
         "title": "\"A Cretaceous Perambulator\"",
@@ -514,7 +514,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to Collected Letters II, p. 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
+        "notes": ["Limited to 100 copies, according to Collected Letters II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
         "title": "Boxen juvenilia",
@@ -538,7 +538,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Pagination of the 1994 Ballantine paperback edition: pp. 374-92."]
+        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-92."]
     },
     {
         "title": "Section entitled \"Critique of Locke\" from \"The Moral Good – Its Place Among the Values\" (The fourteen lectures Lewis gave in the University of Oxford 1924-25)",
@@ -550,7 +550,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” SEVEN: An Anglo-American Literary Review, 31 (2014), pp. 30-62."]
+        "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” SEVEN: An Anglo-American Literary Review, 31 (2014), 30-62."]
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
@@ -562,7 +562,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled Jack: A Life of C.S. Lewis (1994). In that edition the same paragraphs on Bleheris appear on pp. 110-11."]
+        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled Jack: A Life of C.S. Lewis (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
     },
     {
         "title": "Fragments of an Essay on Richard Wagner (1911)",
@@ -634,7 +634,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of SEVEN, pp. 7-24."]
+        "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of SEVEN, 7-24."]
     },
     {
         "title": "“C.S. Lewis, interviewed by Wayland Young 19 January 1962,”",
@@ -682,7 +682,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, pp. 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on p. 116."]
+        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
     },
     {
         "title": "\"Early Prose Joy\" Manuscript",
@@ -694,7 +694,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” SEVEN: An Anglo-American Literary Review, vol. 29 (2012), pp. 51-62."]
+        "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” SEVEN: An Anglo-American Literary Review, vol. 29 (2012), 51-62."]
     },
     {
         "title": "Radio transcript of May 1942 broadcast",
@@ -730,7 +730,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” pp. 194-7. Hooper's note on p. 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of De Rerum Natura, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” pp. 34-53, probably composed before 1931."]
+        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of De Rerum Natura, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
     },
     {
         "title": "“On Bolshevism” and “Mythonomy” Manuscripts",
@@ -742,7 +742,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“On Bolshevism,” pp. 31-40.", "“Mythonomy,” pp. 43-5.", "Images of both texts on p. 30."]
+        "notes": ["“On Bolshevism,” 31-40.", "“Mythonomy,” 43-5.", "Images of both texts on 30."]
     },
     {
         "title": "Annotations of The Pilgrim’s Regress",
@@ -778,7 +778,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II, pp. 58-102.", "“Note on the Law of Contradiction,” pp. 121-4.", "“Replies to Objections in Detail,” pp. 124-30 (includes holographs of Lewis’ drawings on pp. 127-9).", "De Bono et Malo, pp. 131-44.", "Lewis’ unfinished Commentarium in Tractatum De Toto et Parte in footnoes, pp. 145-69."]
+        "notes": ["Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II, 58-102.", "“Note on the Law of Contradiction,” 121-4.", "“Replies to Objections in Detail,” 124-30 (includes holographs of Lewis’ drawings on 127-9).", "De Bono et Malo, 131-44.", "Lewis’ unfinished Commentarium in Tractatum De Toto et Parte in footnoes, 145-69."]
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
@@ -790,7 +790,7 @@ const texts = [
         "day": 10,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorship. Nor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” Sehnsucht, vol. 10 (2016), pp. 21-32."]
+        "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” Sehnsucht, vol. 10 (2016), 21-32."]
     },
     {
         "title": "\"Letters to Malcolm: Letter XIIa\"",
@@ -887,7 +887,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Diary",
-        "notes": ["Quotes the first sentences on p. 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on p. 4 in greater detail than the excerpts in the 1974 biography."]
+        "notes": ["Quotes the first sentences on 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on 4 in greater detail than the excerpts in the 1974 biography."]
     },
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
@@ -959,7 +959,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Diary",
-        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on pp. 68-69 which I have been unable to match with any other sources. The first, on p. 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), p. 91.", "The second, on pp. 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the Lewis Papers VI, 193.", "It’s possible that Wilson used other scraps of the Lewis Papers not published elsewhere. Have any been collected?"]
+        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the Lewis Papers VI, 193.", "It’s possible that Wilson used other scraps of the Lewis Papers not published elsewhere. Have any been collected?"]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
@@ -971,7 +971,21 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Diary",
-        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather and (b) an additional sentence about his excitement hearing Warnie come home.", "This passage in the Companion and Guide was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), p. 40."]
+        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather and (b) an additional sentence about his excitement hearing Warnie come home.", "This passage in the Companion and Guide was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 40."]
+    },
+
+    // LETTERS
+    {
+        "title": "",
+        "printedIn": "",
+        "issueOrVolume": "",
+        "pageRange": "",
+        "year": null,
+        "month": null,
+        "day": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": [""]
     },
     // POETRY
     {
@@ -1128,7 +1142,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” Christianity and Literature, vol. 2 (Winter 2004), pp. 163-201."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” Christianity and Literature, vol. 2 (Winter 2004), 163-201."]
     },
     {
         "title": "\"Sonnet to John Keats\"",

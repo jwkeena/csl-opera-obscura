@@ -10,26 +10,39 @@ const styles = {
     disabledTooltip: {
         position: "relative",
         top: "6px"
+    },
+    hidden: {
+        display: "none"
     }
 }
 class Tooltip extends Component {
 
     componentDidMount() {
         M.Tooltip.init(this.tooltip, {html: true, margin: 5});
-    }
+    };
+
+    state = {
+        imageStatus: "loading"
+    };
+
+    handleImageLoaded() {
+        this.setState({imageStatus: "loaded"}, () => {console.log(this.state.imageStatus)})
+    };
 
     render() {
         if (this.props.footer) {
             return (
-                <a 
-                    ref={ (tooltip) => {this.tooltip = tooltip}} 
-                    href="https://jwkeena.github.io/csl-letters/"
-                    target="_blank"
-                    className="tooltipped"
-                    data-position="top" 
-                    data-tooltip={"<img src='https://jwkeena.github.io/images/csl-demo.gif'/>"}>
-                        C.S. Lewis Letter Search
-                </a>
+                    <a 
+                        ref={ (tooltip) => {this.tooltip = tooltip}} 
+                        href="https://jwkeena.github.io/csl-letters/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="tooltipped"
+                        data-position="top" 
+                        data-tooltip={this.state.imageStatus === "loaded" ? '<img src="https://jwkeena.github.io/images/csl-demo.gif">' : '<div style="height: 338px; width: 450px;"><div class="preloader-wrapper big active center-loader"><div class="spinner-layer spinner-blue-only"><div class="circle-clipper left"><div class="circle"></div></div><div class="gap-patch"><div class="circle"></div></div><div class="circle-clipper right"><div class="circle"></div></div></div></div></div>'}>
+                            C.S. Lewis Letter Search
+                            <img src="https://jwkeena.github.io/images/csl-demo.gif" alt="hidden" onLoad={this.handleImageLoaded.bind(this)} style={styles.hidden}/>
+                    </a>
             )
         }
         

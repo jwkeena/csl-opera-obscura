@@ -124,8 +124,6 @@ table > tbody {
 }
 
 /* For footer */
-
-
 .page-footer {
     padding-top: 0;
     border-top: 2px solid #574D37;
@@ -140,4 +138,14 @@ table > tbody {
 
 .page-footer .footer-copyright a {
     color: #FFF8E2;
+}
+
+/* Other */
+.center-loader {
+    position: absolute;
+    top :0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
 }

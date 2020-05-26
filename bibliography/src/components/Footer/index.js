@@ -15,7 +15,7 @@ function Footer() {
                         </a>
                         </div>
                         <div className="col s4 right-align">
-                            <p>Code and design by <a href="https://jwkeena.github.io/" target="_blank" title="See my portfolio"><b>Justin Keena</b></a></p>
+                            <p>Code and design by <a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio"><b>Justin Keena</b></a></p>
                         </div>
                 </div>
             </div>
