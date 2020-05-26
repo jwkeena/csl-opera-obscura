@@ -13,10 +13,13 @@ class AboutModal extends Component {
         return (
             <div>
                 <a className="modal-trigger" href={"#about"}>
-                    <h1 className="topHeader center-align">Clivi Hamiltoni</h1>
-                    <h1 className="bottomHeader center-align">Opera Obscura</h1>
-                    <p className="subHeader center-align" title="Click to learn more">A Bibliography of Obscure and Newly Published Texts by <img className="signature" src={signature} alt="C.S. Lewis's singature"></img>
-                    </p>
+                    <div className="center-align">
+                    <div className="header-wrapper">
+                        <h1 className="topHeader left-align">Clivi Hamiltoni</h1>
+                        <h1 className="bottomHeader left-align">Opera Obscura ·</h1>
+                        <p className="subHeader right-align" title="Click to learn more">A Bibliography of Obscure and Newly Published Texts by <img className="signature" src={signature} alt="C.S. Lewis's singature"></img></p>
+                    </div>
+                    </div>
                 </a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
