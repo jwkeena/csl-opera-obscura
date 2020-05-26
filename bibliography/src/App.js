@@ -12,7 +12,7 @@ class App extends Component {
     texts: null,
     backupTexts: null, // To keep a fresh copy at all times. Used for filtering
     sortByOption: "Year",
-    typesDisplayed: ["Prose", "Poem", "Diary"],
+    typesDisplayed: ["Prose", "Letter", "Diary", "Poem"],
   };
 
   componentDidMount() {
@@ -182,7 +182,7 @@ class App extends Component {
               <div className="col s5">
                 <FormSelect 
                   multipleSelect={true} 
-                  optionNames={["Prose", "Poem", "Diary"]}
+                  optionNames={["Prose", "Letter", "Diary", "Poem"]}
                   updateTypesDisplayed={this.updateTypesDisplayed}>
                 </FormSelect>
               </div>

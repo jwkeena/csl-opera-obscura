@@ -1002,19 +1002,19 @@ const texts = [
     },
     {
         "title": "Letter to publisher used as a blurb for The Coming of the Lord",
-        "printedIn": "a Religious of CSMV, The Coming of the Lord: A Study in the Creed (London: A.R. Mowbray; New York: Morehouse-Gorham)",
+        "printedIn": "A Religious of CSMV, The Coming of the Lord: A Study in the Creed (London: A.R. Mowbray; New York: Morehouse-Gorham)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1953,
         "month": null,
         "day": null,
-        "textProvided": "I am delighted with The Coming of the Lord; delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time. …A lovely little book",
+        "textProvided": "I am delighted with The Coming of the Lord; delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time. …A lovely little book.",
         "type": "Letter",
         "notes": ["Reprinted Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), p. 413."]
     },
     {
         "title": "Letter to publisher used as a blurb for Adam: A Tone Poem",
-        "printedIn": "for David Bolt, Adam: A Tone Poem (London: J. M. Dent)",
+        "printedIn": "David Bolt, Adam: A Tone Poem (London: J. M. Dent)",
         "issueOrVolume": null,
         "pageRange": "band around the dust wrapper",
         "year": 1960,
@@ -1068,7 +1068,7 @@ const texts = [
         "year": 1966,
         "month": 10,
         "day": null,
-        "textProvided": "…my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame",
+        "textProvided": "…my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 437, this letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), pp. 230-7."]
     },
@@ -1218,7 +1218,7 @@ const texts = [
     },
     {
         "title": "Comments on Harold Montgomery Belgion’s English examination",
-        "printedIn": "quoted in a letter of H. B. Everard (4 May 1944) in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Quoted in a letter of H. B. Everard (4 May 1944) in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
         "issueOrVolume": "vol. 11",
         "pageRange": "20",
         "year": 2017,
