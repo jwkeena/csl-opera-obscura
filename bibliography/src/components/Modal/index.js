@@ -38,7 +38,7 @@ class Modal extends Component {
                     className="modal modal-fixed-footer beige-background">
                     <div className="modal-content">
                         <h5>{this.props.title}</h5>
-                        <p>{this.props.textProvided}</p>
+                        <div dangerouslySetInnerHTML={{__html: this.props.textProvided}}></div>
                     </div>
                         <div className="modal-footer">
                         <a href="#!" className="modal-close btn-flat">close</a>

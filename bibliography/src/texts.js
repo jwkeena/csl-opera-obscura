@@ -85,6 +85,30 @@ const texts = [
         "notes": ["A one-page positive review of the book in the front matter.", "This piece is not in Image and Imagination or, to my knowledge, any other collection."]
     },
     {
+        "title": "'What France Means to You'",
+        "printedIn": "La France Libre",
+        "issueOrVolume": "VII, 42",
+        "pageRange": "403-4",
+        "year": 1944,
+        "month": 4,
+        "day": 15,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Reprinted and translated by Kurt Berends in The Canadian C.S. Lewis Journal No. 87 (Spring 1995)."]
+    },
+    {
+        "title": "Notes on a Sermon “All or Nothing”",
+        "printedIn": "James Patrick Stevenson, ed., In our tongues (London: S.P.C.K.)",
+        "issueOrVolume": null,
+        "pageRange": "30-31",
+        "year": 1944,
+        "month": null,
+        "day": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” Journal of Inklings Studies vol. 4, no. 2 (October 2014), 103."]
+    },
+    {
         "title": "Comments on George Gordon's class",
         "printedIn": "Mary G. Gordon, The Life of George S. Gordon, 1881-1942 (London: Oxford University Press)",
         "issueOrVolume": null,
@@ -145,6 +169,18 @@ const texts = [
         "notes": ["This “Note” is reprinted on the cover of Owen Barfield, Orpheus: A Poetic Drama, ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at http://www.owenbarfield.org/books/orpheus-extras.pdf. Look for footnote 1 in the author’s Foreword."]
     },
     {
+        "title": "Additions to the French edition of the Problem of Pain",
+        "printedIn": "Le probleme de la souffrance",
+        "issueOrVolume": null,
+        "pageRange": "11-12, 163 note",
+        "year": 1950,
+        "month": null,
+        "day": null,
+        "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peu¬vent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Let¬ters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’oppo¬sent, ces affir¬ma¬tions ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le chris¬ti¬a¬nisme, la grande unité, qu’en dépit de ses divi¬sions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les contro¬verses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la ré¬con¬ciliation, non en apportant notre con¬tribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doc¬trinales en seraient-elles plus tôt résolues ; et sans cette unité spiri¬tuelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confes¬sion, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur cen¬tre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Angli¬can layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christ¬ian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Chris¬tians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal dif¬ferences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: be¬cause the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
+        "type": "Prose",
+        "notes": ["Translations are given by Walter Hooper in Companion & Guide, 296-297."]
+    },
+    {
         "title": "Reminiscence of P.V.M. Benecke",
         "printedIn": "Margaret Denecke, Paul Victor Mendelssohn Benecke 1868-1944 (Oxford: Privately printed by A.T. Broome and Son)",
         "issueOrVolume": null,
@@ -155,6 +191,18 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
+    },
+    {
+        "title": "Comedian of the Highest Order",
+        "printedIn": "The Mark Twain Journal",
+        "issueOrVolume": "vol. 9, no. 4 (Summer)",
+        "pageRange": "10",
+        "year": 1954,
+        "month": null,
+        "day": null,
+        "textProvided": "Shaw was a very great man indeed. The danger is that when all the froth and nonsense about his being a philosopher has died down (as it must) a reaction should set in and lead people to forget his real genius. He was a comedian, in his own time, of the very highest order. He was not, of course, a humorist of the heart like Dickens or our own patron: the mingled humour and pathos of the scene in Huckleberry Finn where Huck tries to betray Jim and decides that he is a reprobate because he can’t, would have been outside his powers. He was a humorist of the more intellectual kind, a master of satire, art and fantasy like Gilbert, Wilde and Aristophanes. In that class no one had more continuous vitality. He is also, in his prefaces, one of the great masters of plain prose. I have often, in that capacity, held him up as a model to my pupils and have learned much from him myself. Peace to his ashes! I hope he has already found that there is something better than Elan Vital over yonder!",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "\"Critical Forum: De Descriptione Temporum\"",
@@ -178,7 +226,7 @@ const texts = [
         "day": null,
         "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. …This is as brilliant a presentation as we’re likely to see.",
         "type": "Prose",
-        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 433."]
+        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 433."]
     },
     {
         "title": "Preface to Miracles",
@@ -214,19 +262,19 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "The complete, typed text can be found here: HYPERLINK.", "HYPERLINK to YouTube videos."]
+        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "Typed texts of these talks (with some flaws) can be found here: https://drive.google.com/file/d/0B8lkIorOqTUySlloZUtRT2hMMXM/view [STORGE], https://drive.google.com/file/d/0B9MmcPqIiEnKTWtnYmthbHNvNDg/view [PHILIA], https://drive.google.com/file/d/1oFJLv_EfZuvIFUA-y3XObFyEt5ffqqvK/view [EROS], https://drive.google.com/file/d/1GT9vwknq3Tvup6xeoedczAGIHF4Rx4OI/view [AGAPE].", "They talks themselves can be heard on YouTube: https://www.youtube.com/watch?v=m4hI638mskQ [STORGE], https://www.youtube.com/watch?v=3hM4izbColg [PHILIA], https://www.youtube.com/watch?v=WReLIE08Dnc [EROS], and https://www.youtube.com/watch?v=gaVaGGpeQKM [AGAPE]."]
     },
     {
         "title": "\"Preface to the 1961 Edition\"",
-        "printedIn": "The Screwtape Letters with Screwtape Proposes a Toast, revised edition (New York: Macmillan)",
+        "printedIn": "The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface",
         "issueOrVolume": null,
-        "pageRange": "preface", // Are there page numbers or letters?
+        "pageRange": "5-13",
         "year": 1961,
         "month": null,
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The piece itself is dated by Lewis May 18, 1960, though it was first published in 1982 (so perhaps this entry should be re-labeled as arriving in 1982; on the other hand, the front matter designates the copyright as 1961."]
+        "notes": ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to The Screwtape Letters is also printed on 19-20."]
     },
     {
         "title": "\"Going into Europe: A Symposium\"",
@@ -404,9 +452,9 @@ const texts = [
         "year": 1974,
         "month": null,
         "day": null,
-        "textProvided": false,
+        "textProvided": "...after my brother, my oldest and most intimate friend.",
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the portrait is of Arthur Greeves himself, not his family. This portrait can also be found in the 2002 revised edition of Hooper and Green’s biography on 23.", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, 305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, 305."]
     },
     {
         "title": "Annotations on Shakespeare",
@@ -460,7 +508,7 @@ const texts = [
         "title": "Parts of original BBC broadcasts (1942) not included in the published versions",
         "printedIn": "Walter Hooper, Introduction to C.S. Lewis, Mere Christianity, Anniversary Edition, ed. Walter Hooper (New York: Macmillan)",
         "issueOrVolume": null,
-        "pageRange": "xiv, xvii-xviii, xx-xxi",
+        "pageRange": "xiv-xv, xvii-xviii, xx-xxi",
         "year": 1981,
         "month": null,
         "day": null,
@@ -503,6 +551,18 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in Imagination and the Spirit (1971) and, in transcription only, in Past Watchful Dragons (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in Collected Letters II, 484-5."]
+    },
+    {
+        "title": "Preface to \"Screwtape Proposes a Toast\"",
+        "printedIn": "The Screwtape Letters with Screwtape Proposes a Toast, revised edition (New York: Macmillan)",
+        "issueOrVolume": null,
+        "pageRange": "preface",
+        "year": 1982,
+        "month": null,
+        "day": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Not to be confused with the two Prefaces for The Screwtape Letters (original, and 1961 edition)."]
     },
     {
         "title": "\"A Cretaceous Perambulator\"",
@@ -707,6 +767,42 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": null
+    },
+    {
+        "title": "Transcript of 16 September 1942 radio broadcast (partial)",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "issueOrVolume": "vol. 30",
+        "pageRange": "81",
+        "year": 2013,
+        "month": null,
+        "day": null,
+        "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? LEWIS: Go on, Haddon, this is your question. GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
+        "type": "Prose",
+        "notes": "Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975"
+    },
+    {
+        "title": "Transcript of 13 September 1942 talk to RAF and WAAF (partial)",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "issueOrVolume": "vol. 30",
+        "pageRange": "82",
+        "year": 2013,
+        "month": null,
+        "day": null,
+        "textProvided": "Haddon, I wish I could do the heart stuff. I can't. I wish I could. I wish I could press home to these boys just how much they need Christ... Haddon, you do the heart stuff and I'll do the head stuff.",
+        "type": "Prose",
+        "notes": "Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975"
+    },
+    {
+        "title": "Transcript of 15 July 1945 talk to Royal School for Daughters of Officers of the Army (partial)",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "issueOrVolume": "vol. 30",
+        "pageRange": "84",
+        "year": 2013,
+        "month": null,
+        "day": null,
+        "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this wa snot really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? LEWIS: Yes, very much like what I've just been through.",
+        "type": "Prose",
+        "notes": "Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Whaton, Illinois, recorded July 28, 1984."
     },
     {
         "title": "Alternate Preface to The Screwtape Letters",
@@ -935,7 +1031,7 @@ const texts = [
         "day": null,
         "textProvided": "...a curious dream in the night.",
         "type": "Diary",
-        "notes": ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in All My Road Before Me. The final one, however, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
+        "notes": ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in All My Road Before Me. The final one, however, from 3 June 1926, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
@@ -998,7 +1094,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 436, this letter is not in the Collected Letters. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language (London: Victor Gollancz, 1963), p. 198.", "And it is now available here: https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/"]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 436, this letter is not in the Collected Letters. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language (London: Victor Gollancz, 1963), 198.", "And it is now available here: https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/"]
     },
     {
         "title": "Letter to publisher used as a blurb for The Coming of the Lord",
@@ -1010,7 +1106,7 @@ const texts = [
         "day": null,
         "textProvided": "I am delighted with The Coming of the Lord; delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time. …A lovely little book.",
         "type": "Letter",
-        "notes": ["Reprinted Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), p. 413."]
+        "notes": ["Reprinted Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), 413."]
     },
     {
         "title": "Letter to publisher used as a blurb for Adam: A Tone Poem",
@@ -1022,7 +1118,7 @@ const texts = [
         "day": null,
         "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         "type": "Letter",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on p. 471."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
         "title": "Letter to Mahmoud Manzalaoui (undated)",
@@ -1058,7 +1154,7 @@ const texts = [
         "day": null,
         "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or persona.",
         "type": "Letter",
-        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), pp. 472-3."]
+        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), 472-3."]
     },
     {
         "title": "Letter to James E. Higgins (31 July 1962)",
@@ -1070,7 +1166,19 @@ const texts = [
         "day": null,
         "textProvided": "…my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 437, this letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), pp. 230-7."]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this fragmentary letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), 230-37."]
+    },
+    {
+        "title": "Letter to James E. Higgins (2 December 1962)",
+        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” The Horn Book Magazine",
+        "issueOrVolume": "xlii.5",
+        "pageRange": "533-34",
+        "year": 1966,
+        "month": 10,
+        "day": null,
+        "textProvided": "false",
+        "type": "Letter",
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), 230-37."]
     },
     {
         "title": "Testimonial for Norman Bradshaw (4 December 1938)",
@@ -1082,7 +1190,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Reprinted in Stephen Schofield, In Search of C.S. Lewis (Bridge Publishing, 1983), pp. 17-18."]
+        "notes": ["Reprinted in Stephen Schofield, In Search of C.S. Lewis (Bridge Publishing, 1983), 17-18."]
     },
     {
         "title": "Letter to J.R.R. Tolkien (7 December 1929)",
@@ -1092,9 +1200,9 @@ const texts = [
         "year": 1985,
         "month": null,
         "day": null,
-        "textProvided": "I sat up late last night and have read the Geste as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the rēaf. I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a booshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should suggest incipient allegories to the reader, [the quote breaks off here, at the comma.]",
+        "textProvided": "I sat up late last night and have read the Geste as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the rēaf. I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should suggest incipient allegories to the reader, [the quote breaks off here, at the comma.]",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 437-8, this letter is not in the Collected Letters."]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437-8, this letter is not in the Collected Letters."]
     },
     {
         "title": "Letter to Robert Burchfield (1953)",
@@ -1106,7 +1214,7 @@ const texts = [
         "day": null,
         "textProvided": "Giese. Onions me wisade. God what þæt ic ne wrat þas word. To heanlic me þinceþ þæt Beowulfes leoþ sie on swincstapole gefæstnod.",
         "type": "Letter",
-        "notes": ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), p. 437, this letter is not in the Collected Letters."]
+        "notes": ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this letter is not in the Collected Letters."]
     },
     {
         "title": "Holographs of two testimonials for Eric Bentley (12 March 1938 and April 1940)",
@@ -1133,6 +1241,18 @@ const texts = [
         "notes": ["In two pages Lewis lays out, in Brenton Dickieson’s words: “1) a summary of his argument that Rationalism/Naturalism is self-defeating (from Miracles); 2) the appeal to Naturalism that nature is cruel (developed from Mere Christianity); 3) a reduction of world religions to Hinduism and Christianity; 4) a caution on mysticism; and 5) a note suggestion the relationship of Revelation to Reason is like that of Sense Experience to Reason.”", "Neither this letter nor the attached note are in the Collected Letters."]
     },
     {
+        "title": "Letter to Malcolm M. Ferguson (20 February 1953)",
+        "printedIn": "Douglas A. Anderson, “A Footnote to Tales before Narnia,” Mythlore",
+        "issueOrVolume": "vol. 29/1-2 (#111-112), Fall/Winter",
+        "pageRange": "162",
+        "year": 2010,
+        "month": null,
+        "day": null,
+        "textProvided": "What a good idea!  It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see.  But very many thanks.",
+        "type": "Letter",
+        "notes": ["Anderson reproduces the Mythlore article in a blog post: http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html."]
+    },
+    {
         "title": "Letter to the Nobel Prize Committee (16 January 1961)",
         "printedIn": "Alister McGrath, C.S. Lewis: A Life – Eccentric Genius, Reluctant Prophet (Tyndale)",
         "issueOrVolume": null,
@@ -1154,7 +1274,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["A transcription of the letter itself is on pp. 20-1."]
+        "notes": ["A transcription of the letter itself is on 20-1."]
     },
     {
         "title": "Letter to Nevill Coghill in Old English (1926, exact date unknown)",
@@ -1166,7 +1286,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["A holograph of the letter itself and a translation is on p. 18."]
+        "notes": ["A holograph of the letter itself and a translation is on 18."]
     },
     {
         "title": "Letter to Dabney Park (28 June 1961)",
@@ -1178,7 +1298,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Holographs of the letter on p. 18, transcription on p. 21."]
+        "notes": ["Holographs of the letter on 18, transcription on 21."]
     },
     {
         "title": "Letter to Archbishop William Temple (28 February 1942)",
@@ -1214,7 +1334,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on p. 47.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
     },
     {
         "title": "Comments on Harold Montgomery Belgion’s English examination",
