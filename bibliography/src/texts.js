@@ -85,18 +85,6 @@ const texts = [
         "notes": ["A one-page positive review of the book in the front matter.", "This piece is not in Image and Imagination or, to my knowledge, any other collection."]
     },
     {
-        "title": "'What France Means to You'",
-        "printedIn": "La France Libre",
-        "issueOrVolume": "VII, 42",
-        "pageRange": "403-4",
-        "year": 1944,
-        "month": 4,
-        "day": 15,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["Reprinted and translated by Kurt Berends in The Canadian C.S. Lewis Journal No. 87 (Spring 1995)."]
-    },
-    {
         "title": "Notes on a Sermon “All or Nothing”",
         "printedIn": "James Patrick Stevenson, ed., In our tongues (London: S.P.C.K.)",
         "issueOrVolume": null,
@@ -152,9 +140,9 @@ const texts = [
         "year": 1947,
         "month": null,
         "day": null,
-        "textProvided": false,
+        "textProvided": "“These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945. ‘In this book,’ says Mr. C.S. Lewis, ‘the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.”",
         "type": "Prose",
-        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), item G21."]
+        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Letters to Charles Williams. That Preface is itself reprinted in Image and Imagination, ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
     },
     {
         "title": "“Note” in Author's Foreword",
@@ -418,7 +406,7 @@ const texts = [
         "day": 3,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["An obituary by Lewis, though the piece is unsigned.", "Available online at https://ghgraham.org/text/jrrtolkien1892_obit.html."]
+        "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, The Fellowship: The Literary Lives of the Inklings (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, J.R.R. Tolkien: A Biography part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”", "Available online at https://ghgraham.org/text/jrrtolkien1892_obit.html."]
     },
     {
         "title": "Earliest Known Manuscript (c. 1939) of The Lion, the Witch and the Wardrobe",
@@ -1074,15 +1062,15 @@ const texts = [
     // letters discovered by me
     {
         "title": "Letter to publisher used as a blurb for Perelandra",
-        "printedIn": "Perelandra (London: John Lane The Bodley Head, 1944)",
+        "printedIn": "Perelandra (New York: Macmillan, 1944)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1944,
         "month": null,
         "day": null,
-        "textProvided": "This novel by the distinguished author of The Problem of Pain and The Screwtape Letters is written in the vein of its predecessor, Out of the Silent Planet. The hero of that earlier work is now transported to a world of sweet smells and delicious tastes, where beasts are friendly and naked beauty is unashamed; a new Garden of Eden, wherein is enacted, but with a difference, the story of the Temptation. Mr. Lewis is convinced that ‘popular science’ is the actual mythology of our age, and he has endeavored to make that mythology the medium of spiritual imagination. His aim is partly to exorcise the evil and ugly fantasies which such material is already attracting to itself; but much more to find on his own account that ‘unimaginable lodge for solitary thinkings’ which Homer found in the Mediterranean, the medieval romancer in Babylon, and Samuel Butler in Australia, but for which we ourselves must now ransack space. Those readers who journeyed with Ransom to Malacandra will revel in this second voyage through the unknown, and in the strangeness both of beauty and horror which awaits the stranger.",
+        "textProvided": "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         "type": "Letter",
-        "notes": ["Blurb does not appear in first impression 1943 printing.", "In my estimation, only the second paragraph up till the last sentence is certainly by Lewis, but the other material may have been inserted by the publisher.", "Is this blurb quoted anywhere in Hooper?"]
+        "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
         "title": "Letter to Dorothy L. Sayers (undated)",
@@ -1092,21 +1080,9 @@ const texts = [
         "year": 1952,
         "month": 8,
         "day": null,
-        "textProvided": false,
+        "textProvided": "For an intelligible narrative poem, what about a chunk out of Waltharius, by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s Dark Ages. For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) De Rebus Geticis (lots about Attila); Gregorius Turonensis Historia Francorum; the anonymous Gesta Francorum (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s Somnium, which is the first real instance of “scientifiction.”",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 436, this letter is not in the Collected Letters. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language (London: Victor Gollancz, 1963), 198.", "And it is now available here: https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/"]
-    },
-    {
-        "title": "Letter to publisher used as a blurb for The Coming of the Lord",
-        "printedIn": "A Religious of CSMV, The Coming of the Lord: A Study in the Creed (London: A.R. Mowbray; New York: Morehouse-Gorham)",
-        "issueOrVolume": null,
-        "pageRange": "dust jacket",
-        "year": 1953,
-        "month": null,
-        "day": null,
-        "textProvided": "I am delighted with The Coming of the Lord; delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time. …A lovely little book.",
-        "type": "Letter",
-        "notes": ["Reprinted Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), 413."]
     },
     {
         "title": "Letter to publisher used as a blurb for Adam: A Tone Poem",
