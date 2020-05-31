@@ -766,7 +766,7 @@ const texts = [
         "day": null,
         "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? LEWIS: Go on, Haddon, this is your question. GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
         "type": "Prose",
-        "notes": "Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975"
+        "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
     {
         "title": "Transcript of 13 September 1942 talk to RAF and WAAF (partial)",
@@ -778,7 +778,7 @@ const texts = [
         "day": null,
         "textProvided": "Haddon, I wish I could do the heart stuff. I can't. I wish I could. I wish I could press home to these boys just how much they need Christ... Haddon, you do the heart stuff and I'll do the head stuff.",
         "type": "Prose",
-        "notes": "Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975"
+        "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
     {
         "title": "Transcript of 15 July 1945 talk to Royal School for Daughters of Officers of the Army (partial)",
@@ -790,7 +790,7 @@ const texts = [
         "day": null,
         "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this wa snot really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? LEWIS: Yes, very much like what I've just been through.",
         "type": "Prose",
-        "notes": "Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Whaton, Illinois, recorded July 28, 1984."
+        "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Whaton, Illinois, recorded July 28, 1984."]
     },
     {
         "title": "Alternate Preface to The Screwtape Letters",

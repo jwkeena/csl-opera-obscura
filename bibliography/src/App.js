@@ -163,14 +163,15 @@ class App extends Component {
           
           <div className="container header">
               <AboutModal/> 
-              <div className="divider"></div>
           </div>
 
           <div className="container main-content">
             <br/>
             <div className="row valign-wrapper">
-              <div className="col m1 s12"><b>Sort by:</b></div>
-              <div className="input-field col m4 s12">
+              <div className="col l1 m2 s12">
+                <b>Sort by:</b>
+                </div>
+              <div className="input-field col l4 m10 s12 nudge-up-on-medium-and-lower">
                 <FormSelect 
                   multipleSelect={false}
                   sortByOption={this.state.sortByOption} 
@@ -179,8 +180,8 @@ class App extends Component {
                   >
                 </FormSelect>
               </div>
-              <div className="col s12 m2"><b>Types displayed:</b></div>
-              <div className="col s12 m5">
+              <div className="col s12 m2 l2"><b>Types displayed:</b></div>
+              <div className="col s12 m10 l5">
                 <FormSelect 
                   multipleSelect={true} 
                   optionNames={["Prose", "Letter", "Diary", "Poem"]}
@@ -202,8 +203,8 @@ class App extends Component {
                     <th>Title</th>
                     <th className="hide-on-small-only">Reference</th>
                     <th className="hide-on-med-and-down">Type</th>
-                    <th>Read</th>
-                    <th className="hide-on-small-only">Notes</th>
+                    <th></th>
+                    <th className="hide-on-small-only"></th>
                   </tr>
                 </thead>
                 <tbody className="z-depth-2">
