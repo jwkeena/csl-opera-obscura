@@ -162,14 +162,15 @@ class App extends Component {
       <div className="App">
           
           <div className="container header">
-              <AboutModal/>
+              <AboutModal/> 
+              <div className="divider"></div>
           </div>
 
           <div className="container main-content">
             <br/>
             <div className="row valign-wrapper">
-              <div className="col s1"><b>Sort by:</b></div>
-              <div className="input-field col s4">
+              <div className="col m1 s12"><b>Sort by:</b></div>
+              <div className="input-field col m4 s12">
                 <FormSelect 
                   multipleSelect={false}
                   sortByOption={this.state.sortByOption} 
@@ -178,8 +179,8 @@ class App extends Component {
                   >
                 </FormSelect>
               </div>
-              <div className="col s2"><b>Types displayed:</b></div>
-              <div className="col s5">
+              <div className="col s12 m2"><b>Types displayed:</b></div>
+              <div className="col s12 m5">
                 <FormSelect 
                   multipleSelect={true} 
                   optionNames={["Prose", "Letter", "Diary", "Poem"]}
@@ -194,15 +195,15 @@ class App extends Component {
                     <h5>Choose at least one type of text to display.</h5>
                   </div>
                   : 
-              <table className="responsive-table">
+              <table>
                 <thead>
                   <tr>
                     <th className="center-align" title="Year of publication">Year</th>
                     <th>Title</th>
-                    <th>Reference</th>
-                    <th>Type</th>
-                    <th></th>
-                    <th>Notes</th>
+                    <th className="hide-on-small-only">Reference</th>
+                    <th className="hide-on-med-and-down">Type</th>
+                    <th>Read</th>
+                    <th className="hide-on-small-only">Notes</th>
                   </tr>
                 </thead>
                 <tbody className="z-depth-2">

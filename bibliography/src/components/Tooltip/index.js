@@ -26,7 +26,7 @@ class Tooltip extends Component {
     };
 
     handleImageLoaded() {
-        this.setState({imageStatus: "loaded"}, () => {console.log(this.state.imageStatus)})
+        this.setState({imageStatus: "loaded"})
     };
 
     render() {

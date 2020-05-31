@@ -2,3 +2,10 @@
     background-color: #FFF8E2;
     font-family: "Libre Baskerville", serif;
 }
+
+@media (max-width: 767px) {
+    .media-query-realign {
+        text-align: center;   
+    }
+        
+}
