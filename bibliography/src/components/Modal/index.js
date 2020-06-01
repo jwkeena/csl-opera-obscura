@@ -44,8 +44,8 @@ class Modal extends Component {
                     id={this.state.modalID} 
                     className="modal modal-fixed-footer beige-background">
                     <div className="modal-content">
-                        <h5 className="show-on-large hide-on-med-and-down left-align">{this.props.title}</h5>
-                        <h6 className="hide-on-med-and-up">{this.props.title}</h6>
+                        <h5 className="show-on-large hide-on-med-and-down left-align" dangerouslySetInnerHTML={{__html: this.props.title}}></h5>
+                        <h6 className="hide-on-med-and-up" dangerouslySetInnerHTML={{__html: this.props.title}}></h6>
                         <div className="hide-on-large-only divider"></div>
                         <div>
                             <h6 className="hide-on-large-only left-align">Text</h6>
