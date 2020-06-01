@@ -33,7 +33,7 @@ class Modal extends Component {
             <div>
                 <a className="btn modal-trigger dark-blue" href={this.state.modalIDHash}>
                     <span className="material-icons hide-on-med-and-down" style={styles.menuIcon}>menu_book</span>
-                    <span className="material-icons hide-on-med-and-up" style={styles.menuIcon}>info</span>
+                    <span className="material-icons hide-on-large-only" style={styles.menuIcon}>info</span>
                 </a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
@@ -41,16 +41,16 @@ class Modal extends Component {
                     className="modal modal-fixed-footer beige-background">
                     <div className="modal-content">
                         <h5>{this.props.title}</h5>
-                        <div className="hide-on-med-and-up divider"></div>
+                        <div className="hide-on-large-only divider"></div>
                         <div>
-                            <h5 className="hide-on-med-and-up center-align">Text</h5>
+                            <h5 className="hide-on-large-only center-align">Text</h5>
                             <div dangerouslySetInnerHTML={{__html: this.props.textProvided}}></div>
                         </div>
-                        <div className="hide-on-med-and-up">
+                        <div className="hide-on-large-only">
                             <h5 className="center-align">Reference</h5>
                             <div>{this.props.reference}.</div>
                         </div>
-                        <div className="hide-on-med-and-up">
+                        <div className="hide-on-large-only">
                             <h5 className="center-align">Notes</h5>
                             <div dangerouslySetInnerHTML={{__html: this.props.notes}}></div>
                         </div>

@@ -204,7 +204,7 @@ class App extends Component {
                     <th className="hide-on-small-only">Reference</th>
                     <th className="hide-on-med-and-down">Type</th>
                     <th></th>
-                    <th className="hide-on-small-only"></th>
+                    <th className="hide-on-med-and-down"></th>
                   </tr>
                 </thead>
                 <tbody className="z-depth-2">
