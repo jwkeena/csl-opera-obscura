@@ -132,7 +132,7 @@ const texts = [
         "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
     },
     {
-        "title": "Letter to publisher used as a blurb for Essays Presented to Charles Williams",
+        "title": "Letter to publisher used as a blurb for <i>Essays Presented to Charles Williams</i>",
         "printedIn": "<i>Essays Presented to Charles Williams,</i> ed. C.S. Lewis (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
@@ -381,7 +381,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -465,7 +465,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derives from The <i>Lewis Papers</i> III, 302-4.", "The portrait of Greeves derives from The <i>Lewis Papers</i> X, 218-20."]
+        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derive from The <i>Lewis Papers</i> III, 302-4.", "The portrait of Greeves derives from The <i>Lewis Papers</i> X, 218-20."]
     },
     {
         "title": "Minutes of the Martlets Society for 26 February 1919 (University College, Oxford)",
@@ -613,7 +613,7 @@ const texts = [
     },
     {
         "title": "Fragments of an Essay on Richard Wagner (1911)",
-        "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: W.W. Norton)",
+        "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "30, 32",
         "year": 1990,
@@ -865,7 +865,7 @@ const texts = [
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
-        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i> online only at <a class='link-to-text'>https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html</a>.",
+        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i> <a href='https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>online only</a>.",
         "issueOrVolume": "",
         "pageRange": "",
         "year": 2015,
