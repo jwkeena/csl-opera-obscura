@@ -53,7 +53,7 @@ class Tooltip extends Component {
                     href="#!"
                     className="btn tooltipped grey"
                     data-position="top" 
-                    data-tooltip={this.props.notes}>
+                    data-tooltip={this.props.tooltipNotes}>
                     <span className="material-icons left-align" style={styles.activeTooltip}>more_horiz</span>
                 </a>
             )

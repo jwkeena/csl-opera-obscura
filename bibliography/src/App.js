@@ -45,9 +45,19 @@ class App extends Component {
       }
       if (texts[i].notes !== null) {
         // Expected input is html, since the tooltip the data will be passed to can accept html
-        formattedText.notes = "<ul class='left-align' style='padding-left: 15px; padding-right: 15px; font-size: .9rem'>";
+        formattedText.tooltipNotes = "<ul class='left-align' style='padding-left: 15px; padding-right: 15px; font-size: .9rem'>";
         for (let j = 0; j < textsCopy[i].notes.length; j++) {
-            formattedText.notes += "<li>" + textsCopy[i].notes[j] + "</li>";
+            formattedText.tooltipNotes += "<li>" + textsCopy[i].notes[j] + "</li>";
+            if (j !== (textsCopy[i].notes.length - 1)) {
+              formattedText.tooltipNotes += "<br>";
+            }
+        }
+        formattedText.tooltipNotes += "</ul>";
+
+        // But I also need notes in non-tooltip form for tablet and mobile
+        formattedText.notes = "<ul class='left-align' style='font-size: .9rem; padding-left: 15px; padding-right: 5px;'>";
+        for (let j = 0; j < textsCopy[i].notes.length; j++) {
+            formattedText.notes += "<li style='list-style-type: square;'>" + textsCopy[i].notes[j] + "</li>";
             if (j !== (textsCopy[i].notes.length - 1)) {
               formattedText.notes += "<br>";
             }
@@ -218,6 +228,7 @@ class App extends Component {
                       type={text.type} 
                       textProvided={text.textProvided} 
                       notes={text.notes} 
+                      tooltipNotes={text.tooltipNotes}
                       key={index} 
                       rowNumber={index}>
                     </TableRow>
