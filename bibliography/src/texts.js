@@ -763,7 +763,7 @@ const texts = [
         "year": 2013,
         "month": null,
         "day": null,
-        "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? LEWIS: Go on, Haddon, this is your question. GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
+        "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? <br></br> LEWIS: Go on, Haddon, this is your question.<br></br> GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. <br></br> LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
         "type": "Prose",
         "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
@@ -787,7 +787,7 @@ const texts = [
         "year": 2013,
         "month": null,
         "day": null,
-        "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this wa snot really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? LEWIS: Yes, very much like what I've just been through.",
+        "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this was not really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. <br></br> GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? <br></br> LEWIS: Yes, very much like what I've just been through.",
         "type": "Prose",
         "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
     },
