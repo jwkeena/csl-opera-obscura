@@ -16,7 +16,7 @@ class AboutModal extends Component {
                     <div className="center-align">
                     <div className="header-wrapper">
                         <h1 className="topHeader left-align media-query-realign">Clivi Hamiltoni</h1>
-                        <h1 className="bottomHeader left-align media-query-realign">Opera Obscura ·</h1>
+                        <h1 className="bottomHeader left-align media-query-realign">Opera Obscura <span className="hide-on-med-and-down">·</span></h1>
                         <p className="subHeader right-align media-query-realign" title="Click to learn more">A Bibliography of Obscure and Newly Published Texts by <img className="signature" src={signature} alt="C.S. Lewis's singature"></img></p>
                     </div>
                     </div>

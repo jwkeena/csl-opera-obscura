@@ -29,8 +29,8 @@ function TableRow(props) {
             <td className="hide-on-small-only">{props.reference}</td>
             <td className="hide-on-med-and-down">{props.type}</td>
             <td>{props.textProvided !== false 
-                ? <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber}></Modal> 
-                : null}
+                ? <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber} notes={props.notes} reference={props.reference}></Modal> 
+                : <div className="hide-on-med-and-up"><Modal title={props.title} textProvided={"<div class='center-align'>[Text unavailable.]</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes}></Modal></div>}
             </td>
             <td className="hide-on-small-only">{props.notes !== null ? <Tooltip notes={props.notes} disabled={false}></Tooltip> : <Tooltip disabled={true}></Tooltip>}</td>
         </tr>

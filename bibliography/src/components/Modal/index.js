@@ -5,7 +5,7 @@ import './styles.css';
 const styles = {
     menuIcon: {
         position: "relative",
-        top: "4px"
+        top: "5px"
     }
 }
 
@@ -31,14 +31,29 @@ class Modal extends Component {
     render() {
         return (
             <div>
-                <a className="btn modal-trigger dark-blue" href={this.state.modalIDHash}><span className="material-icons" style={styles.menuIcon}>menu_book</span></a>
+                <a className="btn modal-trigger dark-blue" href={this.state.modalIDHash}>
+                    <span className="material-icons hide-on-med-and-down" style={styles.menuIcon}>menu_book</span>
+                    <span className="material-icons hide-on-med-and-up" style={styles.menuIcon}>info</span>
+                </a>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id={this.state.modalID} 
                     className="modal modal-fixed-footer beige-background">
                     <div className="modal-content">
                         <h5>{this.props.title}</h5>
-                        <div dangerouslySetInnerHTML={{__html: this.props.textProvided}}></div>
+                        <div className="hide-on-med-and-up divider"></div>
+                        <div>
+                            <h5 className="hide-on-med-and-up center-align">Text</h5>
+                            <div dangerouslySetInnerHTML={{__html: this.props.textProvided}}></div>
+                        </div>
+                        <div className="hide-on-med-and-up">
+                            <h5 className="center-align">Reference</h5>
+                            <div>{this.props.reference}.</div>
+                        </div>
+                        <div className="hide-on-med-and-up">
+                            <h5 className="center-align">Notes</h5>
+                            <div dangerouslySetInnerHTML={{__html: this.props.notes}}></div>
+                        </div>
                     </div>
                         <div className="modal-footer">
                         <a href="#!" className="modal-close btn-flat">close</a>
