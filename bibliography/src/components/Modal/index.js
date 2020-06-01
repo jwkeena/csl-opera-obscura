@@ -53,7 +53,7 @@ class Modal extends Component {
                         </div>
                         <div className="hide-on-med-and-up">
                             <h6 className="left-align">Reference</h6>
-                            <div>{this.props.reference}.</div>
+                            <div dangerouslySetInnerHTML={{__html: this.props.reference + "."}}></div>
                         </div>
                         <div className="hide-on-large-only">
                             <h6 className="left-align">Notes</h6>

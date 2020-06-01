@@ -76,7 +76,7 @@ a {
     color: #574D37;
 }
 
-a.email {
+a.email, a.link-to-text {
     color: blue;
 }
 

@@ -1,20 +1,19 @@
-// TODO: italicize book titles
 const texts = [
     // PROSE PIECES
     {
         "title": "\"The Expedition to Holly Bush Hill\"",
-        "printedIn": "Cherbourg School Magazine",
+        "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1912,
         "month": 11,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, 310-11 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 310-11 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"Are Athletes Better than Scholars?\"",
-        "printedIn": "Cherbourg School Magazine",
+        "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": "No 2",
         "pageRange": null,
         "year": 1913,
@@ -22,11 +21,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the Lewis Papers III, 318-9 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 318-9 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"The Expedition to Holly Bush Hill\"",
-        "printedIn": "Cherbourg School Magazine",
+        "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1913,
@@ -34,11 +33,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the Lewis Papers IV, 51 at the Wade Center and the Bodleian."]
+        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> IV, 51 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"From Johnson's Life of Fox\"",
-        "printedIn": "The Oxford Magazine",
+        "printedIn": "<i>The Oxford Magazine</i>",
         "issueOrVolume": "LVI",
         "pageRange": "737-38",
         "year": 1938,
@@ -50,7 +49,7 @@ const texts = [
     },
     {
         "title": "\"The Allegory of Love\"",
-        "printedIn": "The Tablet",
+        "printedIn": "<i>The Tablet</i>",
         "issueOrVolume": "vol. 173",
         "pageRange": "294",
         "year": 1939,
@@ -58,11 +57,11 @@ const texts = [
         "day": 20,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["A rebuttal to an anonymous negative review of The Allegory of Love", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal, vol. 11 (2017), 17.", "It is also available at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i><i>Sehnsucht: The C.S. Lewis Journal</i>,</i> vol. 11 (2017), 17.", "It is also available at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "\"Miracles\"",
-        "printedIn": "The Guardian",
+        "printedIn": "<i>The Guardian</i>",
         "issueOrVolume": null,
         "pageRange": "316",
         "year": 1942,
@@ -74,7 +73,7 @@ const texts = [
     },
     {
         "title": "Appreciation of Eric Bentley",
-        "printedIn": "Bentley, The Cult of the Superman (Gloucester: Peter Smith)",
+        "printedIn": "Bentley, <i>The Cult of the Superman</i> (Gloucester: Peter Smith)",
         "issueOrVolume": null,
         "pageRange": "v",
         "year": 1944,
@@ -86,7 +85,7 @@ const texts = [
     },
     {
         "title": "Notes on a Sermon “All or Nothing”",
-        "printedIn": "James Patrick Stevenson, ed., In our tongues (London: S.P.C.K.)",
+        "printedIn": "James Patrick Stevenson, ed., <i>In our tongues</i> (London: S.P.C.K.)",
         "issueOrVolume": null,
         "pageRange": "30-31",
         "year": 1944,
@@ -94,11 +93,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” Journal of Inklings Studies vol. 4, no. 2 (October 2014), 103."]
+        "notes": ["Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” <i>Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
         "title": "Comments on George Gordon's class",
-        "printedIn": "Mary G. Gordon, The Life of George S. Gordon, 1881-1942 (London: Oxford University Press)",
+        "printedIn": "Mary G. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "77",
         "year": 1945,
@@ -106,11 +105,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Does not appear in the Collected Letters or, to my knowledge, any other collection."]
+        "notes": ["Does not appear in the <i>Collected Letters</i> or, to my knowledge, any other collection."]
     },
     {
         "title": "\"A Christian Reply to Professor Price\"",
-        "printedIn": "Phoenix Quarterly",
+        "printedIn": "<i></i>Phoenix Quarterly</i>",
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "31-44",
         "year": 1946,
@@ -118,7 +117,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in The Socratic Digest, no. 4 (1948), 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i></i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
     },
     {
         "title": "\"A Christmas Sermon for Pagans\"",
@@ -130,11 +129,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Reprinted in SEVEN: An Anglo-American Literary Review, vol. 34 (2017)."]
+        "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
     },
     {
         "title": "Letter to publisher used as a blurb for Essays Presented to Charles Williams",
-        "printedIn": "Essays Presented to Charles Williams, ed. C.S. Lewis (Oxford: Oxford University Press)",
+        "printedIn": "<i>Essays Presented to Charles Williams,</i> ed. C.S. Lewis (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1947,
@@ -142,11 +141,11 @@ const texts = [
         "day": null,
         "textProvided": "These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945. ‘In this book,’ says Mr. C.S. Lewis, ‘the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
         "type": "Prose",
-        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Letters to Charles Williams. That Preface is itself reprinted in Image and Imagination, ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
+        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Essays Presented to Charles Williams. That Preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
     },
     {
         "title": "“Note” in Author's Foreword",
-        "printedIn": "Programme of Owen Barfield’s play Orpheus, produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield",
+        "printedIn": "Programme of Owen Barfield’s play <i>Orpheus,</i> produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield",
         "issueOrVolume": null,
         "pageRange": "8",
         "year": 1948,
@@ -154,23 +153,23 @@ const texts = [
         "day": 25,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This “Note” is reprinted on the cover of Owen Barfield, Orpheus: A Poetic Drama, ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at http://www.owenbarfield.org/books/orpheus-extras.pdf. Look for footnote 1 in the author’s Foreword."]
+        "notes": ["This “Note” is reprinted on the cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at <a class='link-to-text'>http://www.owenbarfield.org/books/orpheus-extras.pdf</a>. Look for footnote 1 in the author’s Foreword."]
     },
     {
-        "title": "Additions to the French edition of the Problem of Pain",
-        "printedIn": "Le probleme de la souffrance",
+        "title": "Additions to the French edition of <i>The Problem of Pain</i>",
+        "printedIn": "<i>Le probleme de la souffrance</i>",
         "issueOrVolume": null,
         "pageRange": "11-12, 163 note",
         "year": 1950,
         "month": null,
         "day": null,
-        "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peu¬vent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Let¬ters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’oppo¬sent, ces affir¬ma¬tions ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le chris¬ti¬a¬nisme, la grande unité, qu’en dépit de ses divi¬sions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les contro¬verses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la ré¬con¬ciliation, non en apportant notre con¬tribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doc¬trinales en seraient-elles plus tôt résolues ; et sans cette unité spiri¬tuelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confes¬sion, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur cen¬tre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Angli¬can layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christ¬ian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Chris¬tians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal dif¬ferences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: be¬cause the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
+        "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peuvent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Letters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’opposent, ces affirmations ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le christianisme, la grande unité, qu’en dépit de ses divisions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les controverses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la réconciliation, non en apportant notre contribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doctrinales en seraient-elles plus tôt résolues ; et sans cette unité spirituelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confession, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur centre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Anglican layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Christians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal differences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: because the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
         "type": "Prose",
-        "notes": ["Translations are given by Walter Hooper in Companion & Guide, 296-297."]
+        "notes": ["Translations are given by Walter Hooper in <i>Companion & Guide,</i> 296-297."]
     },
     {
         "title": "Reminiscence of P.V.M. Benecke",
-        "printedIn": "Margaret Denecke, Paul Victor Mendelssohn Benecke 1868-1944 (Oxford: Privately printed by A.T. Broome and Son)",
+        "printedIn": "Margaret Denecke, <i>Paul Victor Mendelssohn Benecke 1868-1944</i> (Oxford: Privately printed by A.T. Broome and Son)",
         "issueOrVolume": null,
         "pageRange": "9, 31-34",
         "year": 1954,
@@ -182,7 +181,7 @@ const texts = [
     },
     {
         "title": "Comedian of the Highest Order",
-        "printedIn": "The Mark Twain Journal",
+        "printedIn": "<i>The Mark Twain Journal</i>",
         "issueOrVolume": "vol. 9, no. 4 (Summer)",
         "pageRange": "10",
         "year": 1954,
@@ -194,7 +193,7 @@ const texts = [
     },
     {
         "title": "\"Critical Forum: De Descriptione Temporum\"",
-        "printedIn": "Essays in Criticism",
+        "printedIn": "<i>Essays in Criticism</i>",
         "issueOrVolume": "VI",
         "pageRange": "247",
         "year": 1956,
@@ -205,20 +204,20 @@ const texts = [
         "notes": ["To my knowledge this has never been reprinted."]
     },
     {
-        "title": "Blurb for The Core of the Bible: Arranged from the Authorised King James Version",
-        "printedIn": "The Core of the Bible: Arranged from the Authorised King James Version, ed. Austin Farrer (New York: Harper and Bros.)",
+        "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
+        "printedIn": "<i>The Core of the Bible: Arranged from the Authorised King James Version,</i> ed. Austin Farrer (New York: Harper and Bros.)",
         "issueOrVolume": null,
         "pageRange": "back cover",
         "year": 1957,
         "month": null,
         "day": null,
-        "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. …This is as brilliant a presentation as we’re likely to see.",
+        "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
         "type": "Prose",
-        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of Miracles (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 433."]
+        "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433."]
     },
     {
         "title": "Preface to Miracles",
-        "printedIn": "Miracles: A Preliminary Study (New York: Association Press)",
+        "printedIn": "<i>Miracles: A Preliminary Study</i> (New York: Association Press)",
         "issueOrVolume": null,
         "pageRange": "copyright page of the front matter",
         "year": 1958,
@@ -226,11 +225,11 @@ const texts = [
         "day": null,
         "textProvided": "This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
         "type": "Prose",
-        "notes": ["This abridgement of Miracles was made by Lewis himself."]
+        "notes": ["This abridgement of <i>Miracles</i> was made by Lewis himself."]
     },
     {
-        "title": "\"Molliter Ossa Cubent\"", // Italicize this title 
-        "printedIn": "The Campbellian (the School Magainze of Campbell College, Belfast)",
+        "title": "<i>Molliter Ossa Cubent</i>",
+        "printedIn": "<i>The Campbellian</i> (the School Magainze of Campbell College, Belfast)",
         "issueOrVolume": "XIV, no. 9",
         "pageRange": "692-93",
         "year": 1959,
@@ -238,7 +237,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s C.S. Lewis: A Companion and Guide (New York: HarperCollins, 1996), 706-7."]
+        "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins, 1996), 706-7."]
     },
     {
         "title": "A Series of Ten Radio Talks on Love",
@@ -250,11 +249,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "Typed texts of these talks (with some flaws) can be found here: https://drive.google.com/file/d/0B8lkIorOqTUySlloZUtRT2hMMXM/view [STORGE], https://drive.google.com/file/d/0B9MmcPqIiEnKTWtnYmthbHNvNDg/view [PHILIA], https://drive.google.com/file/d/1oFJLv_EfZuvIFUA-y3XObFyEt5ffqqvK/view [EROS], https://drive.google.com/file/d/1GT9vwknq3Tvup6xeoedczAGIHF4Rx4OI/view [AGAPE].", "They talks themselves can be heard on YouTube: https://www.youtube.com/watch?v=m4hI638mskQ [STORGE], https://www.youtube.com/watch?v=3hM4izbColg [PHILIA], https://www.youtube.com/watch?v=WReLIE08Dnc [EROS], and https://www.youtube.com/watch?v=gaVaGGpeQKM [AGAPE]."]
+        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "Typed texts of these talks (with some flaws) can be found here: <a class='link-to-text'>https://drive.google.com/file/d/0B8lkIorOqTUySlloZUtRT2hMMXM/view</a> [STORGE], <a class='link-to-text'>https://drive.google.com/file/d/0B9MmcPqIiEnKTWtnYmthbHNvNDg/view</a> [PHILIA], <a class='link-to-text'>https://drive.google.com/file/d/1oFJLv_EfZuvIFUA-y3XObFyEt5ffqqvK/view</a> [EROS], <a class='link-to-text'>https://drive.google.com/file/d/1GT9vwknq3Tvup6xeoedczAGIHF4Rx4OI/view [AGAPE].", "They talks themselves can be heard on YouTube: <a class='link-to-text'>https://www.youtube.com/watch?v=m4hI638mskQ</a> [STORGE], <a class='link-to-text'>https://www.youtube.com/watch?v=3hM4izbColg</a> [PHILIA], <a class='link-to-text'>https://www.youtube.com/watch?v=WReLIE08Dnc</a> [EROS], and <a class='link-to-text'>https://www.youtube.com/watch?v=gaVaGGpeQKM</a>[AGAPE]."]
     },
     {
         "title": "\"Preface to the 1961 Edition\"",
-        "printedIn": "The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface",
+        "printedIn": "<i>The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface</i>",
         "issueOrVolume": null,
         "pageRange": "5-13",
         "year": 1961,
@@ -262,11 +261,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to The Screwtape Letters is also printed on 19-20."]
+        "notes": ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to <i>The Screwtape Letters</i> is also printed on 19-20."]
     },
     {
         "title": "\"Going into Europe: A Symposium\"",
-        "printedIn": "Encounter",
+        "printedIn": "<i>Encounter</i>",
         "issueOrVolume": "XIX",
         "pageRange": "57",
         "year": 1962,
@@ -278,7 +277,7 @@ const texts = [
     },
     {
         "title": "\"I Was Decided Upon\"",
-        "printedIn": "Decision",
+        "printedIn": "<i>Decision</i>",
         "issueOrVolume": "II",
         "pageRange": "3",
         "year": 1963,
@@ -286,11 +285,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at http://www.cslewisinstitute.org/webfm_send/45."]
+        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at <a class='link-to-text'>http://www.cslewisinstitute.org/webfm_send/45</a>."]
     },
     {
         "title": "A Note on the Meaning of Civilization in the Chronicles of Narnia",
-        "printedIn": "Roger Lancelyn Green, C.S. Lewis, A Bodley Head Monograph, (London: The Bodley Head)",
+        "printedIn": "Roger Lancelyn Green, <i>C.S. Lewis, A Bodley Head Monograph,</i> (London: The Bodley Head)",
         "issueOrVolume": null,
         "pageRange": "51",
         "year": 1962,
@@ -301,8 +300,8 @@ const texts = [
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
-        "title": "Blurb for Austin Farrer, Saving Belief",
-        "printedIn": "Saving Belief: A Discussion of Essentials (London: Hodder and Stoughton)",
+        "title": "Blurb for Austin Farrer, <i>Saving Belief</i>",
+        "printedIn": "<i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1964,
@@ -310,11 +309,11 @@ const texts = [
         "day": null,
         "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         "type": "Prose",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
-        "printedIn": "Spenser’s Images of Life, ed. Alastair Fowler (Cambridge: Cambridge University Press)",
+        "printedIn": "<i>Spenser’s Images of Life,</i> ed. Alastair Fowler (Cambridge: Cambridge University Press)",
         "issueOrVolume": null,
         "pageRange": "after the Preface and before the Introduction",
         "year": 1967,
@@ -322,11 +321,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, C.S. Lewis (New York: Frederick Ungar, 1981), 158-63."]
+        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63."]
     },
     {
         "title": "Martlets Society Minutes of 12 March and 14 June 1919",
-        "printedIn": "Walter Hooper, “To the Martlets,” C.S. Lewis: Speaker and Teacher, ed. Carolyn Keefe (Grand Rapids: Zondervan)",
+        "printedIn": "Walter Hooper, “To the Martlets,” <i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "43, 44",
         "year": 1971,
@@ -338,7 +337,7 @@ const texts = [
     },
     {
         "title": "Passage from lecture on “Innate Ideas” (1924)",
-        "printedIn": "Walter Hooper, “To the Martlets,” C.S. Lewis: Speaker and Teacher, ed. Carolyn Keefe (Grand Rapids: Zondervan)",
+        "printedIn": "Walter Hooper, “To the Martlets,” <i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "52",
         "year": 1971,
@@ -350,7 +349,7 @@ const texts = [
     },
     {
         "title": "Fragment of a story beginning \"It was in autumn\"",
-        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” Imagination and the Spirit, ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
+        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "291",
         "year": 1971,
@@ -362,7 +361,7 @@ const texts = [
     },
     {
         "title": "Boxen Manuscript \"The Locked Door\"",
-        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” Imagination and the Spirit, ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
+        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "279-80",
         "year": 1971,
@@ -370,11 +369,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Later reprinted in Boxen (1985, 2008)."]
+        "notes": ["Later reprinted in <i>Boxen</i> (1985, 2008)."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
-        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” Imagination and the Spirit, ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
+        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1971,
@@ -382,11 +381,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in Past Watchful Dragons, ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), 112. Also printed, without the holograph, as “Plots” in Past Watchful Dragons, ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in Past Watchful Dragons, ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in Past Watchful Dragons, ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, Through Joy and Beyond (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
-        "printedIn": "Past Watchful Dragons (London: Collier Macmillan)",
+        "printedIn": "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1971,
@@ -394,11 +393,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in Imagination and the Spirit, ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in Imagination and the Spirit, ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in Collected Letters III, 412-3."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> III, 412-3."]
     },
     { // VERIFY AUTHENTICITY
         "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
-        "printedIn": "The Times",
+        "printedIn": "<i>The Times</i>",
         "issueOrVolume": null,
         "pageRange": "15",
         "year": 1973,
@@ -406,11 +405,11 @@ const texts = [
         "day": 3,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, The Fellowship: The Literary Lives of the Inklings (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, J.R.R. Tolkien: A Biography part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”", "Available online at https://ghgraham.org/text/jrrtolkien1892_obit.html."]
+        "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, <i>J.R.R. Tolkien: A Biography</i> part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”", "Available online at <a class='link-to-text'>https://ghgraham.org/text/jrrtolkien1892_obit.html</a>."]
     },
     {
-        "title": "Earliest Known Manuscript (c. 1939) of The Lion, the Witch and the Wardrobe",
-        "printedIn": "Walter Hooper’s Preface to Kathryn Ann Lindskoog, The Lion of Judah in Never-Never Land (Grand Rapids: Eerdmans)",
+        "title": "Earliest Known Manuscript (c. 1939) of <i>The Lion, the Witch and the Wardrobe</i>",
+        "printedIn": "Walter Hooper’s Preface to Kathryn Ann Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "12",
         "year": 1973,
@@ -418,11 +417,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This manuscript is written on the back of the first page of the manuscript of The Dark Tower, found in the Bodleian Library."]
+        "notes": ["This manuscript is written on the back of the first page of the manuscript of \"The Dark Tower,\" found in the Bodleian Library."]
     },
     {
         "title": "Holograph of a story \"To Mars and Back\"",
-        "printedIn": "C.S. Lewis: Images of His World, ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
+        "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "104",
         "year": 1973,
@@ -430,11 +429,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in Collected Letters.", "This book also includes holographs of selected Boxen stories, later published in Boxen (1985, 2008).", "Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in Collected Poems, ed. Don King (2015)."]
+        "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i>.", "This book also includes holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008).", "Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
     },
     {
         "title": "Pen portrait of Arthur Greeves",
-        "printedIn": "Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography (London: Collins; New York: Harcourt Brace Jovanovich)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1974,
@@ -442,11 +441,11 @@ const texts = [
         "day": null,
         "textProvided": "...after my brother, my oldest and most intimate friend.",
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the Lewis Papers III, 305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>Lewis Papers</i> III, 305."]
     },
     {
         "title": "Annotations on Shakespeare",
-        "printedIn": "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” CSL: The Bulletin of the New York C.S. Lewis Society",
+        "printedIn": "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         "issueOrVolume": "vol. 8, no. 7",
         "pageRange": "",
         "year": 1977,
@@ -458,7 +457,7 @@ const texts = [
     },
     {
         "title": "Pen portraits of Arthur Greeves and his parents",
-        "printedIn": "They Stand Together, ed. Walter Hooper (New York: Macmillan)",
+        "printedIn": "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1979,
@@ -466,11 +465,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derives from The Lewis Papers III, 302-4.", "The portrait of Greeves derives from The Lewis Papers X, 218-20."]
+        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derives from The <i>Lewis Papers</i> III, 302-4.", "The portrait of Greeves derives from The <i>Lewis Papers</i> X, 218-20."]
     },
     {
         "title": "Minutes of the Martlets Society for 26 February 1919 (University College, Oxford)",
-        "printedIn": "They Stand Together, ed. Walter Hooper (New York: Macmillan)",
+        "printedIn": "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "250, Note 6",
         "year": 1979,
@@ -482,7 +481,7 @@ const texts = [
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
-        "printedIn": "Chad Walsh, The Literary Legacy of C.S. Lewis (New York: Harcourt Brace Jovanovich)",
+        "printedIn": "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
         "pageRange": "126-27, 128",
         "year": 1979,
@@ -494,7 +493,7 @@ const texts = [
     },
     {
         "title": "Parts of original BBC broadcasts (1942) not included in the published versions",
-        "printedIn": "Walter Hooper, Introduction to C.S. Lewis, Mere Christianity, Anniversary Edition, ed. Walter Hooper (New York: Macmillan)",
+        "printedIn": "Walter Hooper, Introduction to C.S. Lewis, <i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "xiv-xv, xvii-xviii, xx-xxi",
         "year": 1981,
@@ -506,7 +505,7 @@ const texts = [
     },
     {
         "title": "\"Answers to Listeners’ Questions\", holograph of the typescript Lewis read over the BBC on 3 Sept. 1941",
-        "printedIn": "Mere Christianity, Anniversary Edition, ed. Walter Hooper (New York: Macmillan, 1981)",
+        "printedIn": "<i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan, 1981)",
         "issueOrVolume": null,
         "pageRange": "Appendix A", // Are there numerical pages?
         "year": 1981,
@@ -518,7 +517,7 @@ const texts = [
     },
     {
         "title": "“The Anvil,” BBC broadcast in which Lewis took part, 22 July 1943",
-        "printedIn": "Mere Christianity, Anniversary Edition, ed. Walter Hooper (New York: Macmillan, 1981)",
+        "printedIn": "<i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan, 1981)",
         "issueOrVolume": null,
         "pageRange": "Appendix C (207-211)",
         "year": 1981,
@@ -530,7 +529,7 @@ const texts = [
     },
     {
         "title": "Holograph of Narnia Manuscript",
-        "printedIn": "Walter Hooper, Through Joy and Beyond: A Pictorial Biography of C.S. Lewis (New York: Macmillan)",
+        "printedIn": "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1982,
@@ -538,11 +537,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in Imagination and the Spirit (1971) and, in transcription only, in Past Watchful Dragons (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in Collected Letters II, 484-5."]
+        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> II, 484-5."]
     },
     {
         "title": "Preface to \"Screwtape Proposes a Toast\"",
-        "printedIn": "The Screwtape Letters with Screwtape Proposes a Toast, revised edition (New York: Macmillan)",
+        "printedIn": "<i>The Screwtape Letters with Screwtape Proposes a Toast,</i> revised edition (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "preface",
         "year": 1982,
@@ -550,11 +549,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Not to be confused with the two Prefaces for The Screwtape Letters (original, and 1961 edition)."]
+        "notes": ["Not to be confused with the two Prefaces for <i>The Screwtape Letters</i> (original, and 1961 edition)."]
     },
     {
-        "title": "\"A Cretaceous Perambulator\"",
-        "printedIn": "Owen Barfield and Clive Staples Lewis, A Cretaceous Perambulator (the Re-examination Of), Oxford University CS Lewis Society",
+        "title": "<i>A Cretaceous Perambulator</i>",
+        "printedIn": "Owen Barfield and Clive Staples Lewis, <i>A Cretaceous Perambulator (the Re-examination Of),</i> Oxford University CS Lewis Society",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1983,
@@ -562,11 +561,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to Collected Letters II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
+        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
         "title": "Boxen juvenilia",
-        "printedIn": "Boxen: The Imaginary World of the Young C.S. Lewis, ed. Walter Hooper (William Collins and Co.)",
+        "printedIn": "<i>Boxen: The Imaginary World of the Young C.S. Lewis,</i> ed. Walter Hooper (William Collins and Co.)",
         "issueOrVolume": "",
         "pageRange": null,
         "year": 1985,
@@ -574,11 +573,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["I include this, not because it’s rare, but because it may be obscure even to the general Lewis enthusiast.", "It is an abridged form of the later, complete Boxen: Childhood Chronicles before Narnia (2008). To my knowledge, though, this early edition includes the same texts of: The King’s Ring, Manx Against Manx, The Relief of Murry, History of Mouse-Land from Stone-Age to Bublish I, History of Animal-Land, The Chess Monograph, The Geography of Animal-Land, Boxen: or Scenes from Boxonian City Life, The Locked Door and Than-Kyu, The Sailor, and Encyclopedia Boxoniana."]
+        "notes": ["I include this because it may be obscure even to the general Lewis enthusiast, though it was edited by Walter Hooper.", "It is an abridged form of the later, complete <i>Boxen: Childhood Chronicles before Narnia</i> (2008). To my knowledge, though, this early edition includes the same texts of: The King’s Ring, Manx Against Manx, The Relief of Murry, History of Mouse-Land from Stone-Age to Bublish I, History of Animal-Land, The Chess Monograph, The Geography of Animal-Land, Boxen: or Scenes from Boxonian City Life, The Locked Door and Than-Kyu, The Sailor, and Encyclopedia Boxoniana."]
     },
     {
         "title": "\"Commentary on the Lay of Leithian\"",
-        "printedIn": "J.R.R. Tolkien, in The Lays of Beleriand, ed. Christopher Tolkien (Houghton Mifflin)",
+        "printedIn": "<i>J.R.R. Tolkien, in The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         "issueOrVolume": null,
         "pageRange": "unknown", // Need to find this
         "year": 1985,
@@ -590,7 +589,7 @@ const texts = [
     },
     {
         "title": "Section entitled \"Critique of Locke\" from \"The Moral Good – Its Place Among the Values\" (The fourteen lectures Lewis gave in the University of Oxford 1924-25)",
-        "printedIn": "James Patrick, The Magdalen Metaphysicals: Idealism and Orthodoxy at Oxford 1901-45 (Macon: Mercer University Press)",
+        "printedIn": "James Patrick, <i>The Magdalen Metaphysicals: Idealism and Orthodoxy at Oxford 1901-45</i> (Macon: Mercer University Press)",
         "issueOrVolume": null,
         "pageRange": "116-17",
         "year": 1987,
@@ -598,11 +597,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” SEVEN: An Anglo-American Literary Review, 31 (2014), 30-62."]
+        "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review,</i> 31 (2014), 30-62."]
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
-        "printedIn": "George Sayer, Jack: C.S. Lewis and His Times (London: Macmillan)",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "59-60",
         "year": 1988,
@@ -610,11 +609,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled Jack: A Life of C.S. Lewis (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
+        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
     },
     {
         "title": "Fragments of an Essay on Richard Wagner (1911)",
-        "printedIn": "A.N. Wilson, C.S. Lewis: A Biography (London: Collins; New York: W.W. Norton)",
+        "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "30, 32",
         "year": 1990,
@@ -626,7 +625,7 @@ const texts = [
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
-        "printedIn": "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 15",
         "pageRange": "37-54",
         "year": 1998,
@@ -638,7 +637,7 @@ const texts = [
     },
     {
         "title": "Fragments of Othello Manuscript",
-        "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost Othello Manuscript and the Re-Presentations of Race,” Journal of the Wooden O Symposium",
+        "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost Othello Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
         "issueOrVolume": "1",
         "pageRange": "36-41",
         "year": 2001,
@@ -650,7 +649,7 @@ const texts = [
     },
     {
         "title": "Fragments of Othello Manuscript",
-        "printedIn": "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered Othello Essays,” Journal of the Wooden O Symposium",
+        "printedIn": "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered Othello Essays,” <i>Journal of the Wooden O Symposium</i>",
         "issueOrVolume": "1",
         "pageRange": "42-48",
         "year": 2001,
@@ -662,7 +661,7 @@ const texts = [
     },
     {
         "title": "Boxen juvenilia",
-        "printedIn": "Boxen: Childhood Chronicles Before Narnia, ed. Walter Hooper (New York: HarperCollins)",
+        "printedIn": "<i>Boxen: Childhood Chronicles Before Narnia,</i> ed. Walter Hooper (New York: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2008,
@@ -674,7 +673,7 @@ const texts = [
     },
     {
         "title": "\"Language and Human Nature\" (Manuscript Fragment)",
-        "printedIn": "“Language and Human Nature (Manuscript Fragment),” ed. Steven A. Beebe, SEVEN: An Anglo-American Literary Review",
+        "printedIn": "“Language and Human Nature (Manuscript Fragment),” ed. Steven A. Beebe, <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 27",
         "pageRange": "25-28",
         "year": 2010,
@@ -682,11 +681,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of SEVEN, 7-24."]
+        "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of <i>SEVEN,</i> 7-24."]
     },
     {
         "title": "“C.S. Lewis, interviewed by Wayland Young 19 January 1962”",
-        "printedIn": "Journal of Inklings Studies",
+        "printedIn": "<i>Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "23-41",
         "year": 2011,
@@ -698,7 +697,7 @@ const texts = [
     },
     {
         "title": "Easley Fragment",
-        "printedIn": "David C. Downing and Bruce R. Johnson, “C.S. Lewis’s Unfinished ‘Easley Fragment’ and his Unfinished Journey,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "David C. Downing and Bruce R. Johnson, “C.S. Lewis’s Unfinished ‘Easley Fragment’ and his Unfinished Journey,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 28",
         "pageRange": "5-26",
         "year": 2011,
@@ -710,7 +709,7 @@ const texts = [
     },
     {
         "title": "Translations of Virgil's Aeneid",
-        "printedIn": "C.S. Lewis’s Lost Aeneid: Arms and the Exile, ed. A.T. Reyes (New Haven: Yale University Press)",
+        "printedIn": "<i>C.S. Lewis’s Lost Aeneid: Arms and the Exile,</i> ed. A.T. Reyes (New Haven: Yale University Press)",
         "issueOrVolume": null,
         "pageRange": "passim",
         "year": 2011,
@@ -722,7 +721,7 @@ const texts = [
     },
     {
         "title": "\"Light\" Manuscripts",
-        "printedIn": "Charlie W. Starr, Light: C.S. Lewis’ First and Final Short Story (Hamden: Winged Lion Press)",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 2012,
@@ -734,7 +733,7 @@ const texts = [
     },
     {
         "title": "\"Early Prose Joy\" Manuscript",
-        "printedIn": "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "13-49",
         "year": 2013,
@@ -742,11 +741,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” SEVEN: An Anglo-American Literary Review, vol. 29 (2012), 51-62."]
+        "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 29 (2012), 51-62."]
     },
     {
         "title": "Radio transcript of May 1942 broadcast",
-        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "67-92",
         "year": 2013,
@@ -758,7 +757,7 @@ const texts = [
     },
     {
         "title": "Transcript of 16 September 1942 radio broadcast (partial)",
-        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "81",
         "year": 2013,
@@ -770,7 +769,7 @@ const texts = [
     },
     {
         "title": "Transcript of 13 September 1942 talk to RAF and WAAF (partial)",
-        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "82",
         "year": 2013,
@@ -782,7 +781,7 @@ const texts = [
     },
     {
         "title": "Transcript of 15 July 1945 talk to Royal School for Daughters of Officers of the Army (partial)",
-        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Bruce R. Johnson, “C.S. Lewis and the BBC’s Brains Trust: A Study in Resiliency,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "84",
         "year": 2013,
@@ -790,11 +789,11 @@ const texts = [
         "day": null,
         "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this wa snot really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? LEWIS: Yes, very much like what I've just been through.",
         "type": "Prose",
-        "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Whaton, Illinois, recorded July 28, 1984."]
+        "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
     },
     {
-        "title": "Alternate Preface to The Screwtape Letters",
-        "printedIn": "Brenton Dickieson, “The Unpublished Preface to C.S. Lewis’ The Screwtape Letters,” Notes & Queries",
+        "title": "Alternate Preface to <i>The Screwtape Letters</i>",
+        "printedIn": "Brenton Dickieson, “The Unpublished Preface to C.S. Lewis’ <i>The Screwtape Letters,</i>” <i>Notes & Queries</i>",
         "issueOrVolume": "vol. 60, no. 2",
         "pageRange": "296-98",
         "year": 2013,
@@ -805,7 +804,7 @@ const texts = [
         "notes": ["In Brenton's own words, “In this neat manuscript we see that C.S. Lewis had Dr. Ransom (of the science fiction books) discover and translate the Letters.”"]
     },
     {
-        "title": "Image and Imagination, ed. Walter Hooper (Cambridge: Cambridge University Press)",
+        "title": "<i>Image and Imagination,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         "printedIn": "Contains 42 book reviews previously published but difficult to find, 2 obituaries, 3 prefaces, 4 long essays hitherto out of print, other literary essays, and for the first time the pieces \"Lucretius\" and \"Image and Imagination.\"",
         "issueOrVolume": null,
         "pageRange": null,
@@ -814,11 +813,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of De Rerum Natura, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
+        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of <i>De Rerum Natura</i>, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
     },
     {
         "title": "“On Bolshevism” and “Mythonomy” Manuscripts",
-        "printedIn": "Charlie W. Starr, “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Charlie W. Starr, “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 31",
         "pageRange": "30-62",
         "year": 2014,
@@ -829,8 +828,8 @@ const texts = [
         "notes": ["“On Bolshevism,” 31-40.", "“Mythonomy,” 43-5.", "Images of both texts on 30."]
     },
     {
-        "title": "Annotations of The Pilgrim’s Regress",
-        "printedIn": "The Pilgrim’s Regress, Wade Annotated Edition, ed. David C. Downing (Grand Rapids: Eerdmans, 2014)",
+        "title": "Annotations of <i>The Pilgrim’s Regress</i>",
+        "printedIn": "<i>The Pilgrim’s Regress, Wade Annotated Edition,</i> ed. David C. Downing (Grand Rapids: Eerdmans, 2014)",
         "issueOrVolume": null,
         "pageRange": "passim",
         "year": 2014,
@@ -842,7 +841,7 @@ const texts = [
     },
     {
         "title": "\"Pudaita Pie: An Anthology\"",
-        "printedIn": "C.S. and Warnie Lewis, “Pudaita Pie: An Anthology” in SEVEN: An Anglo-American Literary Review",
+        "printedIn": "C.S. and Warnie Lewis, “Pudaita Pie: An Anthology” in <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 32",
         "pageRange": "59-68",
         "year": 2015,
@@ -854,7 +853,7 @@ const texts = [
     },
     {
         "title": "\"Great War Papers\"",
-        "printedIn": "Norbert Feinendegen and Arend Smilde, “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” Inklings Studies Supplement",
+        "printedIn": "Norbert Feinendegen and Arend Smilde, <i>The “Great War” of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),</i> Inklings Studies Supplement",
         "issueOrVolume": "vol. 1",
         "pageRange": "[see notes for page ranges]",
         "year": 2015,
@@ -862,11 +861,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II, 58-102.", "“Note on the Law of Contradiction,” 121-4.", "“Replies to Objections in Detail,” 124-30 (includes holographs of Lewis’ drawings on 127-9).", "De Bono et Malo, 131-44.", "Lewis’ unfinished Commentarium in Tractatum De Toto et Parte in footnoes, 145-69."]
+        "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-4.", "“Replies to Objections in Detail,” 124-30 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-44.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnoes, 145-69."]
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
-        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” Christianity Today, online only at https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html.",
+        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i> online only at <a class='link-to-text'>https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html</a>.",
         "issueOrVolume": "",
         "pageRange": "",
         "year": 2015,
@@ -874,11 +873,11 @@ const texts = [
         "day": 10,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” Sehnsucht, vol. 10 (2016), 21-32."]
+        "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
     },
     {
         "title": "\"Letters to Malcolm: Letter XIIa\"",
-        "printedIn": "“Letters to Malcolm: Letter XIIa,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "“Letters to Malcolm: Letter XIIa,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 34",
         "pageRange": "71-74",
         "year": 2017,
@@ -890,7 +889,7 @@ const texts = [
     },
     {
         "title": "Account of a mock Shakespearean play in the Vice-President’s Register of Magdalen College (1941)",
-        "printedIn": "Stephanie Derrick, The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America (Oxford: Oxford University Press)",
+        "printedIn": "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "58",
         "year": 2018,
@@ -903,7 +902,7 @@ const texts = [
     // DIARIES
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Walter Hooper, \"C.S. Lewis\", The Francsican",
+        "printedIn": "Walter Hooper, \"C.S. Lewis\", <i>The Francsican</i>",
         "issueOrVolume": " vol. IX, no 4",
         "pageRange": "163",
         "year": 1967,
@@ -915,7 +914,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Oxford Diary (15 Feb 1923)",
-        "printedIn": "Walter Hooper, Preface, C.S. Lewis, Selected Literary Essays, ed. Walter Hooper (Cambridge: Cambridge University Press, 1969)",
+        "printedIn": "Walter Hooper, Preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press, 1969)",
         "issueOrVolume": null,
         "pageRange": "xiv",
         "year": 1969,
@@ -923,11 +922,11 @@ const texts = [
         "day": null,
         "textProvided": "I attempted to get some useful information out of Wyld’s Short History (The Cad) which is full of facts most painfully collected but presented in a very muddled way and extraordinarily difficult to work on.",
         "type": "Diary",
-        "notes": ["Several other quotations from the Lewis Papers in the Preface have since been published in All My Road Before Me."]
+        "notes": ["Several other quotations from the <i>Lewis Papers</i> in the Preface have since been published in <i>All My Road Before Me.</i>"]
     },
     {
         "title": "Excerpt from Oxford Diary (9 Feb 1923)",
-        "printedIn": "Walter Hooper, “To the Martlets” in C.S. Lewis: Speaker & Teacher, ed. Carolyn Keefe (Grand Rapids: Zondervan)",
+        "printedIn": "Walter Hooper, “To the Martlets” in <i>C.S. Lewis: Speaker & Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "47-50",
         "year": 1971,
@@ -935,11 +934,11 @@ const texts = [
         "day": null,
         "textProvided": "I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.",
         "type": "Diary",
-        "notes": ["This passage is entirely reproduced in All My Road Before Me, with the exception of the final sentence quoted by Hooper in “To the Martlets”: “I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.” However, in AMR Hooper blanks out the last three words: “I said this was certainly not what I meant by art: in fact it stood to art as ———.”"]
+        "notes": ["This passage is entirely reproduced in <i>All My Road Before Me,</i> with the exception of the final sentence quoted by Hooper in “To the Martlets”: “I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.” However, in AMR Hooper blanks out the last three words: “I said this was certainly not what I meant by art: in fact it stood to art as ———.”"]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
-        "printedIn": "Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography (London: Collins; New York: Harcourt Brace Jovanovich)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
         "pageRange": "24",
         "year": 1974,
@@ -951,7 +950,7 @@ const texts = [
     },
     {
         "title": "Excerpts from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography (London: Collins; New York: Harcourt Brace Jovanovich)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
         "pageRange": "27",
         "year": 1974,
@@ -963,7 +962,7 @@ const texts = [
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
-        "printedIn": "Humphrey Carpenter, The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends (London: Allen & Unwin)",
+        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin)",
         "issueOrVolume": null,
         "pageRange": "3, 4",
         "year": 1978,
@@ -975,7 +974,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Humphrey Carpenter, The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends, (London: Allen & Unwin)",
+        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends,</i> (London: Allen & Unwin)",
         "issueOrVolume": null,
         "pageRange": "50",
         "year": 1978,
@@ -987,7 +986,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Walter Hooper, Through Joy and Beyond: A Pictorial Biography of C.S. Lewis (New York: Macmillan)",
+        "printedIn": "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "19",
         "year": 1982,
@@ -999,7 +998,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Walter Hooper, “C.S. Lewis in Hertfordshire (2): Wynyard School’s Tormenter”, Hertfordshire Countryside",
+        "printedIn": "Walter Hooper, “C.S. Lewis in Hertfordshire (2): Wynyard School’s Tormenter”, <i>Hertfordshire Countryside</i>",
         "issueOrVolume": "vol. 37",
         "pageRange": "35",
         "year": 1982,
@@ -1011,7 +1010,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Oxford Diary (3 Jun 1926)",
-        "printedIn": "Peter J. Schakel, Reason and Imagination in C.S. Lewis: A Study of “Till We Have Faces” (Grand Rapids: Eerdmans)",
+        "printedIn": "Peter J. Schakel, <i>Reason and Imagination in C.S. Lewis: A Study of</i> Till We Have Faces (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "44",
         "year": 1984,
@@ -1023,7 +1022,7 @@ const texts = [
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
-        "printedIn": "A.N. Wilson, C.S. Lewis: A Biography (New York: W.W. Norton)",
+        "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "17-18",
         "year": 1990,
@@ -1035,7 +1034,7 @@ const texts = [
     },
     {
         "title": "Excerpt from Oxford Diary (25 May 1923)",
-        "printedIn": "A.N. Wilson, C.S. Lewis: A Biography (New York: W.W. Norton)",
+        "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 1990,
@@ -1043,11 +1042,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Diary",
-        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the Lewis Papers VI, 193.", "It’s possible that Wilson used other scraps of the Lewis Papers not published elsewhere. Have any been collected?"]
+        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the <i>Lewis Papers</i> VI, 193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
-        "printedIn": "Walter Hooper, C.S. Lewis: A Companion and Guide (New York: HarperCollins)",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "5-6",
         "year": 1996,
@@ -1061,8 +1060,8 @@ const texts = [
     // LETTERS
     // letters discovered by me
     {
-        "title": "Letter to publisher used as a blurb for Perelandra",
-        "printedIn": "Perelandra (New York: Macmillan, 1944)",
+        "title": "Letter to publisher used as a blurb for <i>Perelandra</i>",
+        "printedIn": "<i>Perelandra</i> (New York: Macmillan, 1944)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1944,
@@ -1070,23 +1069,23 @@ const texts = [
         "day": null,
         "textProvided": "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         "type": "Letter",
-        "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
+        "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
         "title": "Letter to Dorothy L. Sayers (undated)",
-        "printedIn": "Dorothy Sayers, “Ignorance and Dissatisfaction,” Latin Teaching",
+        "printedIn": "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         "issueOrVolume": "vol. 28, no. 3",
         "pageRange": "unknown",
         "year": 1952,
         "month": 8,
         "day": null,
-        "textProvided": "For an intelligible narrative poem, what about a chunk out of Waltharius, by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s Dark Ages. For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) De Rebus Geticis (lots about Attila); Gregorius Turonensis Historia Francorum; the anonymous Gesta Francorum (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s Somnium, which is the first real instance of “scientifiction.”",
+        "textProvided": "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 436, this letter is not in the Collected Letters. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language (London: Victor Gollancz, 1963), 198.", "And it is now available here: https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/"]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is now available here: <a class='link-to-text'>https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/</a>"]
     },
     {
-        "title": "Letter to publisher used as a blurb for Adam: A Tone Poem",
-        "printedIn": "David Bolt, Adam: A Tone Poem (London: J. M. Dent)",
+        "title": "Letter to publisher used as a blurb for <i>Adam: A Tone Poem</i>",
+        "printedIn": "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
         "issueOrVolume": null,
         "pageRange": "band around the dust wrapper",
         "year": 1960,
@@ -1094,11 +1093,11 @@ const texts = [
         "day": null,
         "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         "type": "Letter",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
         "title": "Letter to Mahmoud Manzalaoui (undated)",
-        "printedIn": "Mahmoud Manzalaoui, “Lydgate and English Prosody,” Cairo Studies in English",
+        "printedIn": "Mahmoud Manzalaoui, “Lydgate and English Prosody,” <i>Cairo Studies in English</i>",
         "issueOrVolume": null,
         "pageRange": "94",
         "year": 1960,
@@ -1110,7 +1109,7 @@ const texts = [
     },
     {
         "title": "Letter to Edward Meksys",
-        "printedIn": "Edward Meksys, Niekas",
+        "printedIn": "Edward Meksys, <i>Niekas</i>",
         "issueOrVolume": "vii",
         "pageRange": "[no page number in text]",
         "year": 1963,
@@ -1122,7 +1121,7 @@ const texts = [
     },
     {
         "title": "Letter to Dorothea Conybeare (undated)",
-        "printedIn": "Rose Macaulay, Letters to a Sister, ed. Constance Babington Smith (London: Collins, 1964)",
+        "printedIn": "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         "issueOrVolume": null,
         "pageRange": "261, note 1",
         "year": 1964,
@@ -1130,23 +1129,23 @@ const texts = [
         "day": null,
         "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or persona.",
         "type": "Letter",
-        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in Remembering C.S. Lewis: Recollections of Those Who Knew Him, ed. James T. Como (San Francisco: Ignatius, 2005), 472-3."]
+        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), 472-3."]
     },
     {
         "title": "Letter to James E. Higgins (31 July 1962)",
-        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” The Horn Book Magazine",
+        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” <i>The Horn Book Magazine</i>",
         "issueOrVolume": "xlii.5",
         "pageRange": "533",
         "year": 1966,
         "month": 10,
         "day": null,
-        "textProvided": "…my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
+        "textProvided": "...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this fragmentary letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), 230-37."]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this fragmentary letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
     },
     {
         "title": "Letter to James E. Higgins (2 December 1962)",
-        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” The Horn Book Magazine",
+        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” <i>The Horn Book Magazine</i>",
         "issueOrVolume": "xlii.5",
         "pageRange": "533-34",
         "year": 1966,
@@ -1154,11 +1153,11 @@ const texts = [
         "day": null,
         "textProvided": "false",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this letter is not in the Collected Letters, though Higgins’s essay was reprinted in Horn Book Reflections: On Children’s Books and Reading (Boston, 1969), 230-37."]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
     },
     {
         "title": "Testimonial for Norman Bradshaw (4 December 1938)",
-        "printedIn": "The Canadian C.S. Lewis Journal",
+        "printedIn": "<i>The Canadian C.S. Lewis Journal</i>",
         "issueOrVolume": "no. 11",
         "pageRange": "2",
         "year": 1979,
@@ -1166,11 +1165,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Reprinted in Stephen Schofield, In Search of C.S. Lewis (Bridge Publishing, 1983), 17-18."]
+        "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
     },
     {
         "title": "Letter to J.R.R. Tolkien (7 December 1929)",
-        "printedIn": "J.R.R. Tolkien, The Lays of Beleriand ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin)",
+        "printedIn": "J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin)",
         "issueOrVolume": null,
         "pageRange": "150-51",
         "year": 1985,
@@ -1178,11 +1177,11 @@ const texts = [
         "day": null,
         "textProvided": "I sat up late last night and have read the Geste as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the rēaf. I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should suggest incipient allegories to the reader, [the quote breaks off here, at the comma.]",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437-8, this letter is not in the Collected Letters."]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437-8, this letter is not in the <i>Collected Letters</i>."]
     },
     {
         "title": "Letter to Robert Burchfield (1953)",
-        "printedIn": "Robert Burchfield, The English Language (Oxford: Oxford University Press)",
+        "printedIn": "Robert Burchfield, <i>The English Language</i> (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "61",
         "year": 1985,
@@ -1190,11 +1189,11 @@ const texts = [
         "day": null,
         "textProvided": "Giese. Onions me wisade. God what þæt ic ne wrat þas word. To heanlic me þinceþ þæt Beowulfes leoþ sie on swincstapole gefæstnod.",
         "type": "Letter",
-        "notes": ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” Notes & Queries, vol. 263, no. 3 (September 2018), 437, this letter is not in the Collected Letters."]
+        "notes": ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>."]
     },
     {
         "title": "Holographs of two testimonials for Eric Bentley (12 March 1938 and April 1940)",
-        "printedIn": "The Play and Its Critic: Essays for Eric Bentley, ed. Michael Berlin (Lanham: University Press of America)",
+        "printedIn": "<i>The Play and Its Critic: Essays for Eric Bentley,</i> ed. Michael Berlin (Lanham: University Press of America)",
         "issueOrVolume": null,
         "pageRange": "4-7",
         "year": 1986,
@@ -1202,11 +1201,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Neither letter appears in Collected Letters II."]
+        "notes": ["Neither letter appears in <i>Collected Letters</i> II."]
     },
     {
         "title": "Letter to Patience Fetherston (20 August 1945) and Note on the Letter",
-        "printedIn": "Patience Fetherston, “C.S. Lewis on Rationalism: (Unpublished Notes),” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Patience Fetherston, “C.S. Lewis on Rationalism: (Unpublished Notes),” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 9",
         "pageRange": "87-90",
         "year": 1988,
@@ -1214,11 +1213,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In two pages Lewis lays out, in Brenton Dickieson’s words: “1) a summary of his argument that Rationalism/Naturalism is self-defeating (from Miracles); 2) the appeal to Naturalism that nature is cruel (developed from Mere Christianity); 3) a reduction of world religions to Hinduism and Christianity; 4) a caution on mysticism; and 5) a note suggestion the relationship of Revelation to Reason is like that of Sense Experience to Reason.”", "Neither this letter nor the attached note are in the Collected Letters."]
+        "notes": ["In two pages Lewis lays out, in Brenton Dickieson’s words: “1) a summary of his argument that Rationalism/Naturalism is self-defeating (from Miracles); 2) the appeal to Naturalism that nature is cruel (developed from Mere Christianity); 3) a reduction of world religions to Hinduism and Christianity; 4) a caution on mysticism; and 5) a note suggestion the relationship of Revelation to Reason is like that of Sense Experience to Reason.”", "Neither this letter nor the attached note are in the <i>Collected Letters</i>."]
     },
     {
         "title": "Letter to Malcolm M. Ferguson (20 February 1953)",
-        "printedIn": "Douglas A. Anderson, “A Footnote to Tales before Narnia,” Mythlore",
+        "printedIn": "Douglas A. Anderson, “A Footnote to Tales before Narnia,” <i>Mythlore</i>",
         "issueOrVolume": "vol. 29/1-2 (#111-112), Fall/Winter",
         "pageRange": "162",
         "year": 2010,
@@ -1226,11 +1225,11 @@ const texts = [
         "day": null,
         "textProvided": "What a good idea!  It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see.  But very many thanks.",
         "type": "Letter",
-        "notes": ["Anderson reproduces the Mythlore article in a blog post: http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html."]
+        "notes": ["Anderson reproduces the Mythlore article in a blog post: <a class='link-to-text'>http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html.</a>"]
     },
     {
         "title": "Letter to the Nobel Prize Committee (16 January 1961)",
-        "printedIn": "Alister McGrath, C.S. Lewis: A Life – Eccentric Genius, Reluctant Prophet (Tyndale)",
+        "printedIn": "Alister McGrath, <i>C.S. Lewis: A Life – Eccentric Genius, Reluctant Prophet</i> (Tyndale)",
         "issueOrVolume": null,
         "pageRange": "351",
         "year": 2013,
@@ -1242,7 +1241,7 @@ const texts = [
     },
     {
         "title": "Letter to Owen Barfield (7 May 1949)",
-        "printedIn": "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” Journal of Inklings Studies",
+        "printedIn": "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” <i>Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 5, no. 1",
         "pageRange": "3-21",
         "year": 2015,
@@ -1254,7 +1253,7 @@ const texts = [
     },
     {
         "title": "Letter to Nevill Coghill in Old English (1926, exact date unknown)",
-        "printedIn": "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 32",
         "pageRange": "18-28",
         "year": 2015,
@@ -1266,7 +1265,7 @@ const texts = [
     },
     {
         "title": "Letter to Dabney Park (28 June 1961)",
-        "printedIn": "Dabney Park, “A Letter from C.S. Lewis,” SEVEN: An Anglo-American Literary Review",
+        "printedIn": "Dabney Park, “A Letter from C.S. Lewis,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 33",
         "pageRange": "18-22",
         "year": 2016,
@@ -1278,7 +1277,7 @@ const texts = [
     },
     {
         "title": "Letter to Archbishop William Temple (28 February 1942)",
-        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 10",
         "pageRange": "36-37",
         "year": 2016,
@@ -1286,11 +1285,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Lewis refuses a request to write “a Lent book.”", "Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, Vol 2, 71.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["Lewis refuses a request to write “a Lent book.”", "Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, Vol 2, 71.", "Available online at <a class='link-to-text'></a>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Letter to Canon Lewis John Collins (9 June 1946)",
-        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 10",
         "pageRange": "40-41",
         "year": 2016,
@@ -1298,11 +1297,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Letter to Canon Lewis John Collins (11 November 1946)",
-        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 10",
         "pageRange": "45-46",
         "year": 2016,
@@ -1310,11 +1309,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html"]
+        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Comments on Harold Montgomery Belgion’s English examination",
-        "printedIn": "Quoted in a letter of H. B. Everard (4 May 1944) in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Quoted in a letter of H. B. Everard (4 May 1944) in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 11",
         "pageRange": "20",
         "year": 2017,
@@ -1322,11 +1321,11 @@ const texts = [
         "day": null,
         "textProvided": "We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows: H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.",
         "type": "Letter",
-        "notes":null
+        "notes": null
     },
     {
         "title": "Letter to Harold Montgomery Belgion (12 April 1939)",
-        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 11",
         "pageRange": "21",
         "year": 2017,
@@ -1334,11 +1333,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html."]
+        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Letter to Harold Montgomery Belgion (25 April 1939)",
-        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 11",
         "pageRange": "22-23",
         "year": 2017,
@@ -1346,11 +1345,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html."]
+        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Letter to Harold Montgomery Belgion (2 May 1939)",
-        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” Sehnsucht: The C.S. Lewis Journal",
+        "printedIn": "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 11",
         "pageRange": "24-25",
         "year": 2017,
@@ -1358,11 +1357,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47.", "Available online at https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html."]
+        "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
     },
     {
         "title": "Letter to Alan Fairhurst (6 September 1959)",
-        "printedIn": "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” Journal of Inklings Studies",
+        "printedIn": "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 7, no. 2",
         "pageRange": "87-98",
         "year": 2017,
@@ -1374,7 +1373,7 @@ const texts = [
     },
     {
         "title": "Letter to Alan Fairhurst (9 September 1959)",
-        "printedIn": "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” Journal of Inklings Studies",
+        "printedIn": "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 7, no. 2",
         "pageRange": "87-98",
         "year": 2017,
@@ -1386,7 +1385,7 @@ const texts = [
     },
     {
         "title": "Letter to Jeremy Ruskin (2 September 1958)",
-        "printedIn": "Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” Notes & Queries",
+        "printedIn": "Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries</i>",
         "issueOrVolume": "vol. 263, no. 3",
         "pageRange": "437",
         "year": 2018,
@@ -1394,7 +1393,7 @@ const texts = [
         "day": null,
         "textProvided": "As from Magdalen College, Cambridge, 2/9/58. Dear Jeremy Ruskin, Thanks you [sic] for your kind letter. I got it from my publisher sent on inside one from Christopher Smith. I am very glad to hear that you like the Narnian stories. There is one you haven’t got, The Last Battle. That makes 7 altogether, which I think a good number to stop at, so there won’t be any more. I am sure I wouldn’t do one about Aslan as a cub, but you might try doing it yourself. Love to you and Christopher, Yours sincerely, C.S. Lewis.",
         "type": "Letter",
-        "notes": ["This letter is not in the Collected Letters."]
+        "notes": ["This letter is not in the <i>Collected Letters</i>."]
     },
     // Letters not discovered by me
     // {
@@ -1409,70 +1408,11 @@ const texts = [
     //     "type": "Letter",
     //     "notes": [""]
     // },
-    // {
-    //     "title": "",
-    //     "printedIn": "",
-    //     "issueOrVolume": "",
-    //     "pageRange": "",
-    //     "year": null,
-    //     "month": null,
-    //     "day": null,
-    //     "textProvided": false,
-    //     "type": "Letter",
-    //     "notes": [""]
-    // },
-    // {
-    //     "title": "",
-    //     "printedIn": "",
-    //     "issueOrVolume": "",
-    //     "pageRange": "",
-    //     "year": null,
-    //     "month": null,
-    //     "day": null,
-    //     "textProvided": false,
-    //     "type": "Letter",
-    //     "notes": [""]
-    // },
-    // {
-    //     "title": "",
-    //     "printedIn": "",
-    //     "issueOrVolume": "",
-    //     "pageRange": "",
-    //     "year": null,
-    //     "month": null,
-    //     "day": null,
-    //     "textProvided": false,
-    //     "type": "Letter",
-    //     "notes": [""]
-    // },
-    // {
-    //     "title": "",
-    //     "printedIn": "",
-    //     "issueOrVolume": "",
-    //     "pageRange": "",
-    //     "year": null,
-    //     "month": null,
-    //     "day": null,
-    //     "textProvided": false,
-    //     "type": "Letter",
-    //     "notes": [""]
-    // },
-    // {
-    //     "title": "",
-    //     "printedIn": "",
-    //     "issueOrVolume": "",
-    //     "pageRange": "",
-    //     "year": null,
-    //     "month": null,
-    //     "day": null,
-    //     "textProvided": false,
-    //     "type": "Letter",
-    //     "notes": [""]
-    // },
+
     // POETRY
     {
         "title": "\"The Old Grey Mare\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "9",
         "year": 2015,
@@ -1484,7 +1424,7 @@ const texts = [
     },
     {
         "title": "\"Descend to Earth, Descend, Celestial Nine\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "10",
         "year": 2015,
@@ -1496,7 +1436,7 @@ const texts = [
     },
     {
         "title": "\"Quam Bene Saturno\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "30",
         "year": 2015,
@@ -1508,7 +1448,7 @@ const texts = [
     },
     {
         "title": "\"Carpe Diem\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "31",
         "year": 2015,
@@ -1520,7 +1460,7 @@ const texts = [
     },
     {
         "title": "\"In Winter When the Frosty Nights are Long\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "32",
         "year": 2015,
@@ -1531,8 +1471,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Loki Bound", // Italicize this title
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "<i>Loki Bound</i>",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "33",
         "year": 2015,
@@ -1544,7 +1484,7 @@ const texts = [
     },
     {
         "title": "\"Ovid's 'Pars estis pauci'\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "37",
         "year": 2015,
@@ -1556,7 +1496,7 @@ const texts = [
     },
     {
         "title": "\"My Western Garden\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "43",
         "year": 2015,
@@ -1568,7 +1508,7 @@ const texts = [
     },
     {
         "title": "\"A Death Song\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "44",
         "year": 2015,
@@ -1580,7 +1520,7 @@ const texts = [
     },
     {
         "title": "\"To the Gods of Old Time\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "47",
         "year": 2015,
@@ -1592,7 +1532,7 @@ const texts = [
     },
     {
         "title": "\"The Town of Gold\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "48",
         "year": 2015,
@@ -1604,7 +1544,7 @@ const texts = [
     },
     {
         "title": "\"The Wood Desolate (near Bookham)\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "49",
         "year": 2015,
@@ -1616,7 +1556,7 @@ const texts = [
     },
     {
         "title": "\"Anamnesis\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "50",
         "year": 2015,
@@ -1624,11 +1564,11 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” Christianity and Literature, vol. 2 (Winter 2004), 163-201."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 163-201."]
     },
     {
         "title": "\"Sonnet to John Keats\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "54",
         "year": 2015,
@@ -1640,7 +1580,7 @@ const texts = [
     },
     {
         "title": "\"Yet More of the Wood Desolate\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "54",
         "year": 2015,
@@ -1652,7 +1592,7 @@ const texts = [
     },
     {
         "title": "\"The Wind\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "57",
         "year": 2015,
@@ -1664,7 +1604,7 @@ const texts = [
     },
     {
         "title": "\"New Year's Eve\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "58",
         "year": 2015,
@@ -1676,7 +1616,7 @@ const texts = [
     },
     {
         "title": "\"Laus Mortis\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "59",
         "year": 2015,
@@ -1688,7 +1628,7 @@ const texts = [
     },
     {
         "title": "\"In His Own Image\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "60",
         "year": 2015,
@@ -1700,7 +1640,7 @@ const texts = [
     },
     {
         "title": "\"Sonnet [The clouds are red behind us and before].\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "60",
         "year": 2015,
@@ -1712,7 +1652,7 @@ const texts = [
     },
     {
         "title": "\"Loneliness\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
@@ -1724,7 +1664,7 @@ const texts = [
     },
     {
         "title": "\"The Little Golden Statuette\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
@@ -1736,7 +1676,7 @@ const texts = [
     },
     {
         "title": "\"Sonnet [I have not bowed in any other shrine]\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
@@ -1748,7 +1688,7 @@ const texts = [
     },
     {
         "title": "\"Exercise on an Old Theme\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "64",
         "year": 2015,
@@ -1760,7 +1700,7 @@ const texts = [
     },
     {
         "title": "\"Hylas\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "67",
         "year": 2015,
@@ -1772,7 +1712,7 @@ const texts = [
     },
     {
         "title": "\"Decadence\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "68",
         "year": 2015,
@@ -1784,7 +1724,7 @@ const texts = [
     },
     {
         "title": "\"Ballade on a Certain Pious Gentleman\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 2015,
@@ -1796,7 +1736,7 @@ const texts = [
     },
     {
         "title": "\"MHΔEN ’ATAN\"", // Don't italicize
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 2015,
@@ -1808,7 +1748,7 @@ const texts = [
     },
     {
         "title": "\"Despoina, Bear with Me\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "72",
         "year": 2015,
@@ -1820,7 +1760,7 @@ const texts = [
     },
     {
         "title": "\"Nimue\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "117",
         "year": 2015,
@@ -1832,7 +1772,7 @@ const texts = [
     },
     {
         "title": "\"Heart-breaking School\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2015,
@@ -1844,7 +1784,7 @@ const texts = [
     },
     {
         "title": "\"Oh That a Black Ship\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2015,
@@ -1856,7 +1796,7 @@ const texts = [
     },
     {
         "title": "\"And After This They Sent Me to Another Place\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "128",
         "year": 2015,
@@ -1868,7 +1808,7 @@ const texts = [
     },
     {
         "title": "\"Old Kirk, Like Father Time Himself\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "129",
         "year": 2015,
@@ -1880,7 +1820,7 @@ const texts = [
     },
     {
         "title": "\"The Carpet Rises in the Draught\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "130",
         "year": 2015,
@@ -1892,7 +1832,7 @@ const texts = [
     },
     {
         "title": "\"The Tale of Psyche is Unjustly Told\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "131",
         "year": 2015,
@@ -1904,7 +1844,7 @@ const texts = [
     },
     {
         "title": "\"The Silence of the Night\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "133",
         "year": 2015,
@@ -1916,7 +1856,7 @@ const texts = [
     },
     {
         "title": "\"West Germanic to Primitive Old English\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "139",
         "year": 2015,
@@ -1928,7 +1868,7 @@ const texts = [
     },
     {
         "title": "\"The Hedgehog Moralised\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
@@ -1940,7 +1880,7 @@ const texts = [
     },
     {
         "title": "\"The Lord Is a Jealous God—A Careful Shepherd\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
@@ -1952,7 +1892,7 @@ const texts = [
     },
     {
         "title": "\"Thus A to Ĕ\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
@@ -1964,7 +1904,7 @@ const texts = [
     },
     {
         "title": "\"Artless and Ignorant Is Andvāri\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2015,
@@ -1976,7 +1916,7 @@ const texts = [
     },
     {
         "title": "\"Long at Lectures\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2015,
@@ -1988,7 +1928,7 @@ const texts = [
     },
     {
         "title": "\"You, Beneath Scraping Branches\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "240",
         "year": 2015,
@@ -2000,7 +1940,7 @@ const texts = [
     },
     {
         "title": "\"I Will Write Down the Portion that I Understand\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "259",
         "year": 2015,
@@ -2012,7 +1952,7 @@ const texts = [
     },
     {
         "title": "\"The Examiner Sits into Quarrie\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "315",
         "year": 2015,
@@ -2024,7 +1964,7 @@ const texts = [
     },
     {
         "title": "\"Where Reservoys Ripple\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "315",
         "year": 2015,
@@ -2036,7 +1976,7 @@ const texts = [
     },
     {
         "title": "\"There Was a Young Person of Streatham\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "319",
         "year": 2015,
@@ -2047,8 +1987,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"After Kirby’s Kalevala\"", // Italicize Kalevala
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"After Kirby’s <i>Kalevala</i>\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "320",
         "year": 2015,
@@ -2060,7 +2000,7 @@ const texts = [
     },
     {
         "title": "\"Where Are the Walks?\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "321",
         "year": 2015,
@@ -2072,7 +2012,7 @@ const texts = [
     },
     {
         "title": "\"How Can I Ask Thee, Father?\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "325",
         "year": 2015,
@@ -2084,7 +2024,7 @@ const texts = [
     },
     {
         "title": "\"The Floating Islands\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "327",
         "year": 2015,
@@ -2096,7 +2036,7 @@ const texts = [
     },
     {
         "title": "\"The Admiral Stamped on the Quarter Deck\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "329",
         "year": 2015,
@@ -2108,7 +2048,7 @@ const texts = [
     },
     {
         "title": "\"A Funny Old Man Had a Habit\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "332",
         "year": 2015,
@@ -2120,7 +2060,7 @@ const texts = [
     },
     {
         "title": "\"Best Quality Sackcloth & Ashes\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "333",
         "year": 2015,
@@ -2131,8 +2071,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"From the Latin of Milton’s De Idea Platonica Quemadmodum Aristoteles Intellexit\"", // Italicize Latin title
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "333",
         "year": 2015,
@@ -2144,7 +2084,7 @@ const texts = [
     },
     {
         "title": "\"This Literary Lion\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "332",
         "year": 2015,
@@ -2155,8 +2095,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Call Him a Fascist? Thus the Rabbit\"", // Italicize *Him*
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"Call <i>Him</i> a Fascist? Thus the Rabbit\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "345",
         "year": 2015,
@@ -2168,7 +2108,7 @@ const texts = [
     },
     {
         "title": "\"Not for Your Reading, Not Because I Dream.\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "376",
         "year": 2015,
@@ -2180,7 +2120,7 @@ const texts = [
     },
     {
         "title": "\"I Know Far Less of Spiders\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "378",
         "year": 2015,
@@ -2192,7 +2132,7 @@ const texts = [
     },
     {
         "title": "\"Travellers! In Months without an R\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "379",
         "year": 2015,
@@ -2204,7 +2144,7 @@ const texts = [
     },
     {
         "title": "\"Interim Report\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "380",
         "year": 2015,
@@ -2216,7 +2156,7 @@ const texts = [
     },
     {
         "title": "\"D. H. Lawrence, Dr. Stopes\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "383",
         "year": 2015,
@@ -2228,7 +2168,7 @@ const texts = [
     },
     {
         "title": "\"Ichabod\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "385",
         "year": 2015,
@@ -2240,7 +2180,7 @@ const texts = [
     },
     {
         "title": "\"To Mr. Kingsley Amis on His Late Verses\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "385",
         "year": 2015,
@@ -2252,7 +2192,7 @@ const texts = [
     },
     {
         "title": "\"Dear Dorothy, I’m Puzzling Hard\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "389",
         "year": 2015,
@@ -2263,8 +2203,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Experempment\"", // Don't italicize
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"Experempment\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "392",
         "year": 2015,
@@ -2275,8 +2215,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Nan est Doctior Omnibus Puellis\"", // Don't italicize Latin
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"Nan est Doctior Omnibus Puellis\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "392",
         "year": 2015,
@@ -2288,7 +2228,7 @@ const texts = [
     },
     {
         "title": "\"Aubade [Somehow it’s strange discovering, dear]\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "393",
         "year": 2015,
@@ -2300,7 +2240,7 @@ const texts = [
     },
     {
         "title": "\"Lords Coeval with Creation\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "393",
         "year": 2015,
@@ -2312,7 +2252,7 @@ const texts = [
     },
     {
         "title": "\"Dear Mr. Marshall, Thank You\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "397",
         "year": 2015,
@@ -2324,7 +2264,7 @@ const texts = [
     },
     {
         "title": "\"An Age Will Come\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "420",
         "year": 2015,
@@ -2336,7 +2276,7 @@ const texts = [
     },
     {
         "title": "\"As Long as Rolling Wheels Rotate\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "429",
         "year": 2015,
@@ -2348,7 +2288,7 @@ const texts = [
     },
     {
         "title": "\"But in All Dialects\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "429",
         "year": 2015,
@@ -2359,8 +2299,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Fidelia Vulnera Amantis\"", // Don't italicize Latin
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"Fidelia Vulnera Amantis\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "430",
         "year": 2015,
@@ -2372,7 +2312,7 @@ const texts = [
     },
     {
         "title": "\"Go Litel Tugge upon Thes Watres Shene\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "432",
         "year": 2015,
@@ -2384,7 +2324,7 @@ const texts = [
     },
     {
         "title": "\"If with Posterity Good Fame\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "432",
         "year": 2015,
@@ -2396,7 +2336,7 @@ const texts = [
     },
     {
         "title": "\"Laertes to Napoleon\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "433",
         "year": 2015,
@@ -2408,7 +2348,7 @@ const texts = [
     },
     {
         "title": "\"Lines to Mr. Compton Mackenzie\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "433",
         "year": 2015,
@@ -2420,7 +2360,7 @@ const texts = [
     },
     {
         "title": "\"Of This Great Suit Who Dares Foresee the End?\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "434",
         "year": 2015,
@@ -2432,7 +2372,7 @@ const texts = [
     },
     {
         "title": "\"That Was an Ugly Age\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "434",
         "year": 2015,
@@ -2444,7 +2384,7 @@ const texts = [
     },
     {
         "title": "\"The Goodly Fair\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "435",
         "year": 2015,
@@ -2456,7 +2396,7 @@ const texts = [
     },
     {
         "title": "\"To Mrs. Dyson, Angrie\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "435",
         "year": 2015,
@@ -2467,8 +2407,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Tu Silentia Perosus\"", // Don't italicize
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "title": "\"Tu Silentia Perosus\"",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "436",
         "year": 2015,
@@ -2480,7 +2420,7 @@ const texts = [
     },
     {
         "title": "\"YAH!\"",
-        "printedIn": "The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "437",
         "year": 2015,
