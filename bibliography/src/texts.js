@@ -685,7 +685,7 @@ const texts = [
         "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of SEVEN, 7-24."]
     },
     {
-        "title": "“C.S. Lewis, interviewed by Wayland Young 19 January 1962,”",
+        "title": "“C.S. Lewis, interviewed by Wayland Young 19 January 1962”",
         "printedIn": "Journal of Inklings Studies",
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "23-41",

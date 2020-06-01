@@ -30,7 +30,7 @@ function TableRow(props) {
             <td className="hide-on-med-and-down">{props.type}</td>
             <td>{props.textProvided !== false 
                 ? <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber} notes={props.notes} reference={props.reference}></Modal> 
-                : <div className="hide-on-large-only"><Modal title={props.title} textProvided={"<div class='center-align'>[Text unavailable.]</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes}></Modal></div>}
+                : <div className="hide-on-large-only"><Modal title={props.title} textProvided={"<div class='left-align'>Text not provided.</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal></div>}
             </td>
             <td className="hide-on-med-and-down">{props.notes !== null ? <Tooltip notes={props.notes} disabled={false}></Tooltip> : <Tooltip disabled={true}></Tooltip>}</td>
         </tr>
