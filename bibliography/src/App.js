@@ -65,6 +65,7 @@ class App extends Component {
         formattedText.notes += "</ul>";
       } else {
         formattedText.notes = null;
+        formattedText.tooltipNotes = null;
       }
       formattedTexts.push(formattedText);
     }
