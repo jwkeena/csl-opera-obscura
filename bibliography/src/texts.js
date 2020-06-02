@@ -1381,7 +1381,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 167-68."
     },
     {
         "title": "\"A Death Song\"",
@@ -1392,7 +1392,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 168-69."
     },
     {
         "title": "\"To the Gods of Old Time\"",
@@ -1403,7 +1403,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169."
     },
     {
         "title": "\"The Town of Gold\"",
@@ -1414,7 +1414,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-70."
     },
     {
         "title": "\"The Wood Desolate (near Bookham)\"",
@@ -1425,7 +1425,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-71."
     },
     {
         "title": "\"Anamnesis\"",
@@ -1436,7 +1436,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 163-201."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 171-72."]
     },
     {
         "title": "\"Sonnet to John Keats\"",
@@ -1447,7 +1447,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 172-73."
     },
     {
         "title": "\"Yet More of the Wood Desolate\"",
@@ -1458,7 +1458,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 173-75."
     },
     {
         "title": "\"The Wind\"",
@@ -1469,7 +1469,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-76."
     },
     {
         "title": "\"New Year's Eve\"",
@@ -1480,7 +1480,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176."
     },
     {
         "title": "\"Laus Mortis\"",
@@ -1502,7 +1502,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176-77."
     },
     {
         "title": "\"Sonnet [The clouds are red behind us and before].\"",
@@ -1513,7 +1513,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 177."
     },
     {
         "title": "\"Loneliness\"",
@@ -1524,7 +1524,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 178."
     },
     {
         "title": "\"The Little Golden Statuette\"",
@@ -1535,7 +1535,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179."
     },
     {
         "title": "\"Sonnet [I have not bowed in any other shrine]\"",
@@ -1546,7 +1546,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179-80."
     },
     {
         "title": "\"Exercise on an Old Theme\"",
@@ -1557,7 +1557,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180."
     },
     {
         "title": "\"Hylas\"",
@@ -1568,7 +1568,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180-81."
     },
     {
         "title": "\"Decadence\"",
@@ -1579,7 +1579,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 181-82."
     },
     {
         "title": "\"Ballade on a Certain Pious Gentleman\"",
@@ -1590,7 +1590,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182-83."
     },
     {
         "title": "\"MHΔEN ’ATAN\"",
@@ -1601,7 +1601,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182."
     },
     {
         "title": "\"Despoina, Bear with Me\"",
@@ -1612,7 +1612,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": "First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 183."
     },
     {
         "title": "\"Nimue\"",
