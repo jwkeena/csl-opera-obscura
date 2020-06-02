@@ -6,7 +6,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1912,
-        "month": 11,
+        "monthAndDay": "November",
         "textProvided": false,
         "type": "Prose",
         "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 310-11 at the Wade Center and the Bodleian."]
@@ -17,8 +17,7 @@ const texts = [
         "issueOrVolume": "No 2",
         "pageRange": null,
         "year": 1913,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 318-9 at the Wade Center and the Bodleian."]
@@ -29,8 +28,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1913,
-        "month": 7,
-        "day": null,
+        "monthAndDay": "July",
         "textProvided": false,
         "type": "Prose",
         "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> IV, 51 at the Wade Center and the Bodleian."]
@@ -41,8 +39,7 @@ const texts = [
         "issueOrVolume": "LVI",
         "pageRange": "737-38",
         "year": 1938,
-        "month": 6,
-        "day": 9,
+        "monthAndDay": "9 June",
         "textProvided": false,
         "type": "Prose",
         "notes": ["A description of Adam Fox’s poetry in the style of Samuel Johnson. Fox was Oxford’s Professor of Poetry from 1938-1942.", "The piece is anonymous."]
@@ -53,8 +50,7 @@ const texts = [
         "issueOrVolume": "vol. 173",
         "pageRange": "294",
         "year": 1939,
-        "month": 3,
-        "day": 20,
+        "monthAndDay": "20 March",
         "textProvided": false,
         "type": "Prose",
         "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i><i>Sehnsucht: The C.S. Lewis Journal</i>,</i> vol. 11 (2017), 17.", "It is also available at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -65,8 +61,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "316",
         "year": 1942,
-        "month": 11,
-        "day": 2,
+        "monthAndDay": "2 November",
         "textProvided": false,
         "type": "Prose",
         "notes": ["An earlier, shorter version of the essay \"Miracles.\""]
@@ -77,8 +72,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "v",
         "year": 1944,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["A one-page positive review of the book in the front matter.", "This piece is not in Image and Imagination or, to my knowledge, any other collection."]
@@ -89,8 +83,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "30-31",
         "year": 1944,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” <i>Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
@@ -101,8 +94,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "77",
         "year": 1945,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Does not appear in the <i>Collected Letters</i> or, to my knowledge, any other collection."]
@@ -113,8 +105,7 @@ const texts = [
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "31-44",
         "year": 1946,
-        "month": 9, // Technically just "Autumn," but I put Sept. since that's when Fall starts
-        "day": null,
+        "monthAndDay": "Autumn",
         "textProvided": false,
         "type": "Prose",
         "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i></i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
@@ -125,8 +116,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "30-33",
         "year": 1946,
-        "month": 12,
-        "day": null,
+        "monthAndDay": "December",
         "textProvided": false,
         "type": "Prose",
         "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
@@ -137,8 +127,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1947,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945. ‘In this book,’ says Mr. C.S. Lewis, ‘the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
         "type": "Prose",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Essays Presented to Charles Williams. That Preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
@@ -149,8 +138,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "8",
         "year": 1948,
-        "month": 11,
-        "day": 25,
+        "monthAndDay": "25 September",
         "textProvided": false,
         "type": "Prose",
         "notes": ["This “Note” is reprinted on the cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at <a class='link-to-text'>http://www.owenbarfield.org/books/orpheus-extras.pdf</a>. Look for footnote 1 in the author’s Foreword."]
@@ -161,8 +149,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "11-12, 163 note",
         "year": 1950,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peuvent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Letters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’opposent, ces affirmations ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le christianisme, la grande unité, qu’en dépit de ses divisions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les controverses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la réconciliation, non en apportant notre contribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doctrinales en seraient-elles plus tôt résolues ; et sans cette unité spirituelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confession, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur centre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Anglican layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Christians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal differences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: because the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
         "type": "Prose",
         "notes": ["Translations are given by Walter Hooper in <i>Companion & Guide,</i> 296-297."]
@@ -173,8 +160,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "9, 31-34",
         "year": 1954,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
@@ -182,11 +168,10 @@ const texts = [
     {
         "title": "Comedian of the Highest Order",
         "printedIn": "<i>The Mark Twain Journal</i>",
-        "issueOrVolume": "vol. 9, no. 4 (Summer)",
+        "issueOrVolume": "vol. 9, no. 4",
         "pageRange": "10",
         "year": 1954,
-        "month": null,
-        "day": null,
+        "monthAndDay": "Summer",
         "textProvided": "Shaw was a very great man indeed. The danger is that when all the froth and nonsense about his being a philosopher has died down (as it must) a reaction should set in and lead people to forget his real genius. He was a comedian, in his own time, of the very highest order. He was not, of course, a humorist of the heart like Dickens or our own patron: the mingled humour and pathos of the scene in Huckleberry Finn where Huck tries to betray Jim and decides that he is a reprobate because he can’t, would have been outside his powers. He was a humorist of the more intellectual kind, a master of satire, art and fantasy like Gilbert, Wilde and Aristophanes. In that class no one had more continuous vitality. He is also, in his prefaces, one of the great masters of plain prose. I have often, in that capacity, held him up as a model to my pupils and have learned much from him myself. Peace to his ashes! I hope he has already found that there is something better than Elan Vital over yonder!",
         "type": "Prose",
         "notes": null
@@ -197,8 +182,7 @@ const texts = [
         "issueOrVolume": "VI",
         "pageRange": "247",
         "year": 1956,
-        "month": 4,
-        "day": null,
+        "monthAndDay": "April",
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge this has never been reprinted."]
@@ -209,8 +193,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "back cover",
         "year": 1957,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
         "type": "Prose",
         "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433."]
@@ -221,8 +204,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "copyright page of the front matter",
         "year": 1958,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
         "type": "Prose",
         "notes": ["This abridgement of <i>Miracles</i> was made by Lewis himself."]
@@ -233,8 +215,7 @@ const texts = [
         "issueOrVolume": "XIV, no. 9",
         "pageRange": "692-93",
         "year": 1959,
-        "month": 7,
-        "day": null,
+        "monthAndDay": "July",
         "textProvided": false,
         "type": "Prose",
         "notes": ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper’s <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins, 1996), 706-7."]
@@ -245,8 +226,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1959,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "Typed texts of these talks (with some flaws) can be found here: <a class='link-to-text'>https://drive.google.com/file/d/0B8lkIorOqTUySlloZUtRT2hMMXM/view</a> [STORGE], <a class='link-to-text'>https://drive.google.com/file/d/0B9MmcPqIiEnKTWtnYmthbHNvNDg/view</a> [PHILIA], <a class='link-to-text'>https://drive.google.com/file/d/1oFJLv_EfZuvIFUA-y3XObFyEt5ffqqvK/view</a> [EROS], <a class='link-to-text'>https://drive.google.com/file/d/1GT9vwknq3Tvup6xeoedczAGIHF4Rx4OI/view [AGAPE].", "They talks themselves can be heard on YouTube: <a class='link-to-text'>https://www.youtube.com/watch?v=m4hI638mskQ</a> [STORGE], <a class='link-to-text'>https://www.youtube.com/watch?v=3hM4izbColg</a> [PHILIA], <a class='link-to-text'>https://www.youtube.com/watch?v=WReLIE08Dnc</a> [EROS], and <a class='link-to-text'>https://www.youtube.com/watch?v=gaVaGGpeQKM</a>[AGAPE]."]
@@ -257,8 +237,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "5-13",
         "year": 1961,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to <i>The Screwtape Letters</i> is also printed on 19-20."]
@@ -269,8 +248,7 @@ const texts = [
         "issueOrVolume": "XIX",
         "pageRange": "57",
         "year": 1962,
-        "month": 12,
-        "day": null,
+        "monthAndDay": "December",
         "textProvided": false,
         "type": "Prose",
         "notes": ["Contents: a short paragraph on the type of governmental structure Lewis would approve.", "To my knowledge this text has never been reprinted."]
@@ -281,8 +259,7 @@ const texts = [
         "issueOrVolume": "II",
         "pageRange": "3",
         "year": 1963,
-        "month": 5,
-        "day": null,
+        "monthAndDay": "September",
         "textProvided": false,
         "type": "Prose",
         "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at <a class='link-to-text'>http://www.cslewisinstitute.org/webfm_send/45</a>."]
@@ -293,8 +270,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "51",
         "year": 1962,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
@@ -305,8 +281,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1964,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         "type": "Prose",
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
@@ -317,8 +292,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "after the Preface and before the Introduction",
         "year": 1967,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63."]
@@ -329,8 +303,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "43, 44",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge these texts have never been reprinted."]
@@ -341,8 +314,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "52",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
@@ -353,8 +325,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "291",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
@@ -365,8 +336,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "279-80",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Later reprinted in <i>Boxen</i> (1985, 2008)."]
@@ -377,8 +347,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
@@ -389,8 +358,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> III, 412-3."]
@@ -401,8 +369,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "15",
         "year": 1973,
-        "month": 9,
-        "day": 3,
+        "monthAndDay": "3 September",
         "textProvided": false,
         "type": "Prose",
         "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, <i>J.R.R. Tolkien: A Biography</i> part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”", "Available online at <a class='link-to-text'>https://ghgraham.org/text/jrrtolkien1892_obit.html</a>."]
@@ -413,8 +380,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "12",
         "year": 1973,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["This manuscript is written on the back of the first page of the manuscript of \"The Dark Tower,\" found in the Bodleian Library."]
@@ -425,8 +391,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "104",
         "year": 1973,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i>.", "This book also includes holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008).", "Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
@@ -437,8 +402,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1974,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "...after my brother, my oldest and most intimate friend.",
         "type": "Prose",
         "notes": ["According to Hooper’s bibliographies (e.g., C.S. Lewis at the Breakfast Table, 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>Lewis Papers</i> III, 305."]
@@ -447,10 +411,9 @@ const texts = [
         "title": "Annotations on Shakespeare",
         "printedIn": "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         "issueOrVolume": "vol. 8, no. 7",
-        "pageRange": "",
+        "pageRange": null,
         "year": 1977,
-        "month": 5,
-        "day": null,
+        "monthAndDay": "May",
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -461,8 +424,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1979,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derive from The <i>Lewis Papers</i> III, 302-4.", "The portrait of Greeves derives from The <i>Lewis Papers</i> X, 218-20."]
@@ -473,8 +435,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "250, Note 6",
         "year": 1979,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Library call number: MS. ToOxon. D. 95/3, fo. 69."]
@@ -485,8 +446,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "126-27, 128",
         "year": 1979,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses."]
@@ -497,8 +457,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "xiv-xv, xvii-xviii, xx-xxi",
         "year": 1981,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -509,8 +468,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "Appendix A", // Are there numerical pages?
         "year": 1981,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in Broadcast Talks."]
@@ -521,8 +479,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "Appendix C (207-211)",
         "year": 1981,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -533,8 +490,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 1982,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> II, 484-5."]
@@ -545,8 +501,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "preface",
         "year": 1982,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Not to be confused with the two Prefaces for <i>The Screwtape Letters</i> (original, and 1961 edition)."]
@@ -557,8 +512,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 1983,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
@@ -569,8 +523,7 @@ const texts = [
         "issueOrVolume": "",
         "pageRange": null,
         "year": 1985,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["I include this because it may be obscure even to the general Lewis enthusiast, though it was edited by Walter Hooper.", "It is an abridged form of the later, complete <i>Boxen: Childhood Chronicles before Narnia</i> (2008). To my knowledge, though, this early edition includes the same texts of: The King’s Ring, Manx Against Manx, The Relief of Murry, History of Mouse-Land from Stone-Age to Bublish I, History of Animal-Land, The Chess Monograph, The Geography of Animal-Land, Boxen: or Scenes from Boxonian City Life, The Locked Door and Than-Kyu, The Sailor, and Encyclopedia Boxoniana."]
@@ -581,8 +534,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "unknown", // Need to find this
         "year": 1985,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-92."]
@@ -593,8 +545,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "116-17",
         "year": 1987,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review,</i> 31 (2014), 30-62."]
@@ -605,8 +556,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "59-60",
         "year": 1988,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
@@ -617,8 +567,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "30, 32",
         "year": 1990,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -629,8 +578,7 @@ const texts = [
         "issueOrVolume": "vol. 15",
         "pageRange": "37-54",
         "year": 1998,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["This essay the summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
@@ -641,8 +589,7 @@ const texts = [
         "issueOrVolume": "1",
         "pageRange": "36-41",
         "year": 2001,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -653,8 +600,7 @@ const texts = [
         "issueOrVolume": "1",
         "pageRange": "42-48",
         "year": 2001,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -665,8 +611,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2008,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Includes the following texts not appearing in the 1985 version: Littera Scripta Manet, Tararo, and The Life of Lord John Big of Bigham."]
@@ -677,8 +622,7 @@ const texts = [
         "issueOrVolume": "vol. 27",
         "pageRange": "25-28",
         "year": 2010,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of <i>SEVEN,</i> 7-24."]
@@ -689,8 +633,7 @@ const texts = [
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "23-41",
         "year": 2011,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -701,8 +644,7 @@ const texts = [
         "issueOrVolume": "vol. 28",
         "pageRange": "5-26",
         "year": 2011,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["This is the first prose piece we have from Lewis in the 1920s."]
@@ -713,8 +655,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "passim",
         "year": 2011,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Contents: A thorough treatment of an incomplete translation of the Aeneid by Lewis with commentary."]
@@ -725,8 +666,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "[see notes for page ranges]",
         "year": 2012,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
@@ -737,8 +677,7 @@ const texts = [
         "issueOrVolume": "vol. 30",
         "pageRange": "13-49",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["See also Lazo’s “Correcting the Chronology: Some Implications of ‘Early Prose Joy,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 29 (2012), 51-62."]
@@ -749,8 +688,7 @@ const texts = [
         "issueOrVolume": "vol. 30",
         "pageRange": "67-92",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -761,8 +699,7 @@ const texts = [
         "issueOrVolume": "vol. 30",
         "pageRange": "81",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? <br></br> LEWIS: Go on, Haddon, this is your question.<br></br> GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. <br></br> LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
         "type": "Prose",
         "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
@@ -773,8 +710,7 @@ const texts = [
         "issueOrVolume": "vol. 30",
         "pageRange": "82",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "Haddon, I wish I could do the heart stuff. I can't. I wish I could. I wish I could press home to these boys just how much they need Christ... Haddon, you do the heart stuff and I'll do the head stuff.",
         "type": "Prose",
         "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
@@ -785,8 +721,7 @@ const texts = [
         "issueOrVolume": "vol. 30",
         "pageRange": "84",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this was not really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. <br></br> GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? <br></br> LEWIS: Yes, very much like what I've just been through.",
         "type": "Prose",
         "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
@@ -797,8 +732,7 @@ const texts = [
         "issueOrVolume": "vol. 60, no. 2",
         "pageRange": "296-98",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["In Brenton's own words, “In this neat manuscript we see that C.S. Lewis had Dr. Ransom (of the science fiction books) discover and translate the Letters.”"]
@@ -809,8 +743,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, 2 obituaries (Oliver Elton and Charles Williams), 3 prefaces/introductions/forewords, 4 long essays hitherto out of print, and many other literary essays, this volume includes 2 previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of <i>De Rerum Natura</i>, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
@@ -821,8 +754,7 @@ const texts = [
         "issueOrVolume": "vol. 31",
         "pageRange": "30-62",
         "year": 2014,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["“On Bolshevism,” 31-40.", "“Mythonomy,” 43-5.", "Images of both texts on 30."]
@@ -833,8 +765,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "passim",
         "year": 2014,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["According to Downing’s Note on xiii, “On 18 June 1937, C.S. Lewis inscribed his name and the date in a copy of The Pilgrim’s Regress that he had carefully annotated for one of his students, Richard Thornton Hewitt, who was reading English at Magdalen College at the time.” That copy is now in the possession of the Wade Center.", "Lewis’s comments are printed in bold in the margins."]
@@ -845,8 +776,7 @@ const texts = [
         "issueOrVolume": "vol. 32",
         "pageRange": "59-68",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Prefaced with an essay by Crystal Hurd."]
@@ -857,20 +787,18 @@ const texts = [
         "issueOrVolume": "vol. 1",
         "pageRange": "[see notes for page ranges]",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-4.", "“Replies to Objections in Detail,” 124-30 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-44.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnoes, 145-69."]
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
-        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i> <a href='https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>online only</a>.",
+        "printedIn": "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i>",
         "issueOrVolume": "",
-        "pageRange": "",
+        "pageRange": "<a href='https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>online only</a>",
         "year": 2015,
-        "month": 12,
-        "day": 10,
+        "monthAndDay": "10 December",
         "textProvided": false,
         "type": "Prose",
         "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
@@ -881,8 +809,7 @@ const texts = [
         "issueOrVolume": "vol. 34",
         "pageRange": "71-74",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Prefaced with an essay by Norbert Feinendegen."]
@@ -893,8 +820,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "58",
         "year": 2018,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Derrick does not quote any excerpt of Lewis’s play, “which runs on for several pages,” but she appears to be the first Lewis scholar to publicize its existence.", "Derrick sources her account as follows: “C. S. Lewis, entry in Vice-President Register, 1941, MC:VP1/A1/6, Magdalen College Archives, Oxford University, Oxford.”"]
@@ -906,20 +832,18 @@ const texts = [
         "issueOrVolume": " vol. IX, no 4",
         "pageRange": "163",
         "year": 1967,
-        "month": 9,
-        "day": null,
+        "monthAndDay": "September",
         "textProvided": false,
         "type": "Diary",
         "notes": ["The first two sentences of the diary are quoted, chronicling Lewis’s morning routine."]
     },
     {
         "title": "Excerpt from Oxford Diary (15 Feb 1923)",
-        "printedIn": "Walter Hooper, Preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press, 1969)",
+        "printedIn": "Walter Hooper, Preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         "issueOrVolume": null,
         "pageRange": "xiv",
         "year": 1969,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "I attempted to get some useful information out of Wyld’s Short History (The Cad) which is full of facts most painfully collected but presented in a very muddled way and extraordinarily difficult to work on.",
         "type": "Diary",
         "notes": ["Several other quotations from the <i>Lewis Papers</i> in the Preface have since been published in <i>All My Road Before Me.</i>"]
@@ -930,8 +854,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "47-50",
         "year": 1971,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.",
         "type": "Diary",
         "notes": ["This passage is entirely reproduced in <i>All My Road Before Me,</i> with the exception of the final sentence quoted by Hooper in “To the Martlets”: “I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.” However, in AMR Hooper blanks out the last three words: “I said this was certainly not what I meant by art: in fact it stood to art as ———.”"]
@@ -942,8 +865,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "24",
         "year": 1974,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["Contents: The members of the household are successively described, including the pets."]
@@ -954,8 +876,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "27",
         "year": 1974,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
         "type": "Diary",
         "notes": ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
@@ -966,8 +887,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "3, 4",
         "year": 1978,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["Quotes the first sentences on 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on 4 in greater detail than the excerpts in the 1974 biography."]
@@ -978,8 +898,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "50",
         "year": 1978,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
@@ -990,8 +909,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "19",
         "year": 1982,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["Quotes the same passage as Carpenter in The Inklings (1978) on Lewis’s early anti-Catholicism, but with the addition of a sentence that Carpenter had omitted in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
@@ -1002,8 +920,7 @@ const texts = [
         "issueOrVolume": "vol. 37",
         "pageRange": "35",
         "year": 1982,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
@@ -1014,8 +931,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "44",
         "year": 1984,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "...a curious dream in the night.",
         "type": "Diary",
         "notes": ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in All My Road Before Me. The final one, however, from 3 June 1926, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
@@ -1026,8 +942,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "17-18",
         "year": 1990,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home—the first time this anecdote has been printed."]
@@ -1038,8 +953,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 1990,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the <i>Lewis Papers</i> VI, 193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
@@ -1050,8 +964,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "5-6",
         "year": 1996,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Diary",
         "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather and (b) an additional sentence about his excitement hearing Warnie come home.", "This passage in the Companion and Guide was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 40."]
@@ -1061,12 +974,11 @@ const texts = [
     // letters discovered by me
     {
         "title": "Letter to publisher used as a blurb for <i>Perelandra</i>",
-        "printedIn": "<i>Perelandra</i> (New York: Macmillan, 1944)",
+        "printedIn": "<i>Perelandra</i> (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
         "year": 1944,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         "type": "Letter",
         "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
@@ -1075,10 +987,9 @@ const texts = [
         "title": "Letter to Dorothy L. Sayers (undated)",
         "printedIn": "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         "issueOrVolume": "vol. 28, no. 3",
-        "pageRange": "unknown",
+        "pageRange": "[page range unknown]",
         "year": 1952,
-        "month": 8,
-        "day": null,
+        "monthAndDay": "October",
         "textProvided": "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is now available here: <a class='link-to-text'>https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/</a>"]
@@ -1089,8 +1000,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "band around the dust wrapper",
         "year": 1960,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         "type": "Letter",
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
@@ -1101,20 +1011,18 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "94",
         "year": 1960,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["The text is only available in this source."]
     },
     {
-        "title": "Letter to Edward Meksys",
+        "title": "Letter to Edward Meksys (3 October 1963)",
         "printedIn": "Edward Meksys, <i>Niekas</i>",
         "issueOrVolume": "vii",
         "pageRange": "[no page number in text]",
         "year": 1963,
-        "month": 12,
-        "day": 3,
+        "monthAndDay": "December",
         "textProvided": false,
         "type": "Letter",
         "notes": ["The text is only available in this source."]
@@ -1125,8 +1033,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "261, note 1",
         "year": 1964,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or persona.",
         "type": "Letter",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), 472-3."]
@@ -1137,8 +1044,7 @@ const texts = [
         "issueOrVolume": "xlii.5",
         "pageRange": "533",
         "year": 1966,
-        "month": 10,
-        "day": null,
+        "monthAndDay": "October",
         "textProvided": "...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this fragmentary letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
@@ -1149,8 +1055,7 @@ const texts = [
         "issueOrVolume": "xlii.5",
         "pageRange": "533-34",
         "year": 1966,
-        "month": 10,
-        "day": null,
+        "monthAndDay": "October",
         "textProvided": "false",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
@@ -1161,8 +1066,7 @@ const texts = [
         "issueOrVolume": "no. 11",
         "pageRange": "2",
         "year": 1979,
-        "month": 9,
-        "day": null,
+        "monthAndDay": "November",
         "textProvided": false,
         "type": "Letter",
         "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
@@ -1173,8 +1077,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "150-51",
         "year": 1985,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "I sat up late last night and have read the Geste as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the rēaf. I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should suggest incipient allegories to the reader, [the quote breaks off here, at the comma.]",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437-8, this letter is not in the <i>Collected Letters</i>."]
@@ -1185,8 +1088,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "61",
         "year": 1985,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "Giese. Onions me wisade. God what þæt ic ne wrat þas word. To heanlic me þinceþ þæt Beowulfes leoþ sie on swincstapole gefæstnod.",
         "type": "Letter",
         "notes": ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>."]
@@ -1197,8 +1099,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "4-7",
         "year": 1986,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Neither letter appears in <i>Collected Letters</i> II."]
@@ -1209,8 +1110,7 @@ const texts = [
         "issueOrVolume": "vol. 9",
         "pageRange": "87-90",
         "year": 1988,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["In two pages Lewis lays out, in Brenton Dickieson’s words: “1) a summary of his argument that Rationalism/Naturalism is self-defeating (from Miracles); 2) the appeal to Naturalism that nature is cruel (developed from Mere Christianity); 3) a reduction of world religions to Hinduism and Christianity; 4) a caution on mysticism; and 5) a note suggestion the relationship of Revelation to Reason is like that of Sense Experience to Reason.”", "Neither this letter nor the attached note are in the <i>Collected Letters</i>."]
@@ -1221,8 +1121,7 @@ const texts = [
         "issueOrVolume": "vol. 29/1-2 (#111-112), Fall/Winter",
         "pageRange": "162",
         "year": 2010,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "What a good idea!  It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see.  But very many thanks.",
         "type": "Letter",
         "notes": ["Anderson reproduces the Mythlore article in a blog post: <a class='link-to-text'>http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html.</a>"]
@@ -1233,8 +1132,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "351",
         "year": 2013,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Includes a holograph of a hitherto unpublished letter in which Lewis recommends Tolkien’s Lord of the Rings for the Nobel Prize in literature."]
@@ -1245,8 +1143,7 @@ const texts = [
         "issueOrVolume": "vol. 5, no. 1",
         "pageRange": "3-21",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["A transcription of the letter itself is on 20-1."]
@@ -1257,8 +1154,7 @@ const texts = [
         "issueOrVolume": "vol. 32",
         "pageRange": "18-28",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["A holograph of the letter itself and a translation is on 18."]
@@ -1269,8 +1165,7 @@ const texts = [
         "issueOrVolume": "vol. 33",
         "pageRange": "18-22",
         "year": 2016,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Holographs of the letter on 18, transcription on 21."]
@@ -1281,8 +1176,7 @@ const texts = [
         "issueOrVolume": "vol. 10",
         "pageRange": "36-37",
         "year": 2016,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Lewis refuses a request to write “a Lent book.”", "Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, Vol 2, 71.", "Available online at <a class='link-to-text'></a>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1293,8 +1187,7 @@ const texts = [
         "issueOrVolume": "vol. 10",
         "pageRange": "40-41",
         "year": 2016,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1305,8 +1198,7 @@ const texts = [
         "issueOrVolume": "vol. 10",
         "pageRange": "45-46",
         "year": 2016,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1317,8 +1209,7 @@ const texts = [
         "issueOrVolume": "vol. 11",
         "pageRange": "20",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": "We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows: H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.",
         "type": "Letter",
         "notes": null
@@ -1329,8 +1220,7 @@ const texts = [
         "issueOrVolume": "vol. 11",
         "pageRange": "21",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1341,8 +1231,7 @@ const texts = [
         "issueOrVolume": "vol. 11",
         "pageRange": "22-23",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1353,8 +1242,7 @@ const texts = [
         "issueOrVolume": "vol. 11",
         "pageRange": "24-25",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
@@ -1365,8 +1253,7 @@ const texts = [
         "issueOrVolume": "vol. 7, no. 2",
         "pageRange": "87-98",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Transcriptions of the letters are found on 91-92."]
@@ -1377,8 +1264,7 @@ const texts = [
         "issueOrVolume": "vol. 7, no. 2",
         "pageRange": "87-98",
         "year": 2017,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
         "notes": ["Transcriptions of the letters are found on 91-92."]
@@ -1389,8 +1275,7 @@ const texts = [
         "issueOrVolume": "vol. 263, no. 3",
         "pageRange": "437",
         "year": 2018,
-        "month": 9,
-        "day": null,
+        "monthAndDay": "September",
         "textProvided": "As from Magdalen College, Cambridge, 2/9/58. Dear Jeremy Ruskin, Thanks you [sic] for your kind letter. I got it from my publisher sent on inside one from Christopher Smith. I am very glad to hear that you like the Narnian stories. There is one you haven’t got, The Last Battle. That makes 7 altogether, which I think a good number to stop at, so there won’t be any more. I am sure I wouldn’t do one about Aslan as a cub, but you might try doing it yourself. Love to you and Christopher, Yours sincerely, C.S. Lewis.",
         "type": "Letter",
         "notes": ["This letter is not in the <i>Collected Letters</i>."]
@@ -1402,8 +1287,8 @@ const texts = [
     //     "issueOrVolume": "",
     //     "pageRange": "",
     //     "year": null,
-    //     "month": null,
-    //     "day": null,
+    //     "monthAndDay": null,
+    //  
     //     "textProvided": false,
     //     "type": "Letter",
     //     "notes": [""]
@@ -1416,8 +1301,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "9",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1428,8 +1312,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "10",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1440,8 +1323,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "30",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1452,8 +1334,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "31",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1464,8 +1345,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "32",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1476,8 +1356,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "33",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1488,8 +1367,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "37",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1500,8 +1378,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "43",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1512,8 +1389,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "44",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1524,8 +1400,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "47",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1536,8 +1411,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "48",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1548,8 +1422,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "49",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1560,8 +1433,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "50",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 163-201."]
@@ -1572,8 +1444,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "54",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1584,8 +1455,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "54",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1596,8 +1466,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "57",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1608,8 +1477,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "58",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1620,8 +1488,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "59",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1632,8 +1499,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "60",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1644,8 +1510,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "60",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1656,8 +1521,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1668,8 +1532,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1680,8 +1543,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1692,8 +1554,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "64",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1704,8 +1565,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "67",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1716,8 +1576,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "68",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1728,20 +1587,18 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
     },
     {
-        "title": "\"MHΔEN ’ATAN\"", // Don't italicize
+        "title": "\"MHΔEN ’ATAN\"",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1752,8 +1609,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "72",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1764,8 +1620,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "117",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1776,8 +1631,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1788,8 +1642,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1800,8 +1653,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "128",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1812,8 +1664,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "129",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1824,8 +1675,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "130",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1836,8 +1686,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "131",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1848,8 +1697,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "133",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1860,8 +1708,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "139",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1872,8 +1719,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1884,8 +1730,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1896,8 +1741,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "221",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1908,8 +1752,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1920,8 +1763,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1932,8 +1774,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "240",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1944,8 +1785,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "259",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1956,8 +1796,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "315",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1968,8 +1807,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "315",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1980,8 +1818,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "319",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -1992,8 +1829,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "320",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2004,8 +1840,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "321",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2016,8 +1851,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "325",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2028,8 +1862,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "327",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2040,8 +1873,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "329",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2052,8 +1884,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "332",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2064,8 +1895,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "333",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2076,8 +1906,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "333",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2088,8 +1917,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "332",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2100,8 +1928,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "345",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2112,8 +1939,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "376",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2124,8 +1950,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "378",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2136,8 +1961,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "379",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2148,8 +1972,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "380",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2160,8 +1983,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "383",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2172,8 +1994,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "385",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2184,8 +2005,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "385",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2196,8 +2016,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "389",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2208,8 +2027,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "392",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2220,8 +2038,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "392",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2232,8 +2049,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "393",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2244,8 +2060,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "393",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2256,8 +2071,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "397",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2268,8 +2082,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "420",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2280,8 +2093,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "429",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2292,8 +2104,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "429",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2304,8 +2115,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "430",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2316,8 +2126,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "432",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2328,8 +2137,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "432",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2340,8 +2148,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "433",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2352,8 +2159,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "433",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2364,8 +2170,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "434",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2376,8 +2181,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "434",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2388,8 +2192,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "435",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2400,8 +2203,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "435",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2412,8 +2214,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "436",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2424,8 +2225,7 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "437",
         "year": 2015,
-        "month": null,
-        "day": null,
+        "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
         "notes": null
@@ -2438,8 +2238,8 @@ const texts = [
 //     "issueOrVolume": "",
 //     "pageRange": "",
 //     "year": null,
-//     "month": null,
-//     "day": null,
+//     "monthAndDay": null,
+//  
 //     "textProvided": false,
 //     "type": "Poem",
 //     "notes": [""]

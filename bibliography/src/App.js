@@ -33,7 +33,15 @@ class App extends Component {
         formattedText.reference = textsCopy[i].printedIn
       }
       if (texts[i].issueOrVolume) {
-        formattedText.reference += ", " + textsCopy[i].issueOrVolume;
+        if (texts[i].monthAndDay) {
+          formattedText.reference += ", " + textsCopy[i].issueOrVolume;
+          formattedText.reference += " (" + textsCopy[i].monthAndDay + ")";
+        } else {
+          formattedText.reference += ", " + textsCopy[i].issueOrVolume;
+        }
+      }
+      if (!texts[i].issueOrVolume && texts[i].monthAndDay) {
+        formattedText.reference += " (" + textsCopy[i].monthAndDay + ")";
       }
       if (texts[i].pageRange) {
         formattedText.reference += ", " + textsCopy[i].pageRange;
