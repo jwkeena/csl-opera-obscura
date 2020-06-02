@@ -109,7 +109,7 @@ const texts = [
     },
     {
         "title": "\"A Christian Reply to Professor Price\"",
-        "printedIn": "<i></i>Phoenix Quarterly</i>",
+        "printedIn": "<i>Phoenix Quarterly</i>",
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "31-44",
         "year": 1946,
@@ -805,7 +805,7 @@ const texts = [
     },
     {
         "title": "<i>Image and Imagination,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
-        "printedIn": "Contains 42 book reviews previously published but difficult to find, 2 obituaries, 3 prefaces, 4 long essays hitherto out of print, other literary essays, and for the first time the pieces \"Lucretius\" and \"Image and Imagination.\"",
+        "printedIn": "<i>Image and Imagination,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         "issueOrVolume": null,
         "pageRange": null,
         "year": 2013,
@@ -813,7 +813,7 @@ const texts = [
         "day": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, two obituaries (Oliver Elton and Charles Williams), three prefaces/introductions/forewords, four long essays hitherto out of print, and many other literary essays, this volume includes two previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of <i>De Rerum Natura</i>, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
+        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, 2 obituaries (Oliver Elton and Charles Williams), 3 prefaces/introductions/forewords, 4 long essays hitherto out of print, and many other literary essays, this volume includes 2 previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of <i>De Rerum Natura</i>, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
     },
     {
         "title": "“On Bolshevism” and “Mythonomy” Manuscripts",

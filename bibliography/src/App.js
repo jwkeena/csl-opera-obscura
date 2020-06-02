@@ -89,15 +89,24 @@ class App extends Component {
   sort(option) {
     let sortedTexts;
 
+    // Without this function all titles and references which begin with an html <i> tag will be sorted before other non-italicized strings
+    function ignoreItalicTag(string) {
+      if (string.startsWith("<i>")) {
+        return string.slice(3);
+      } else {
+        return string;
+      };
+    }
+
     if (option === "year") {
       sortedTexts = this.state.texts.sort(function (a, b) {
         // If years match, then sort by title instead
         if (a["year"] === b["year"]) {
           // If titles match, then sort by reference instead
-          if (a["title"] === b["title"]) {
-            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+          if (ignoreItalicTag(a["title"]) === ignoreItalicTag(b["title"])) {
+            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
           }
-          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); // Use localeCompare to ignore quotations in the string
+          return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); // Use localeCompare to ignore quotations in the string
         }
         return a["year"] > b["year"] ? 1 : -1; // But use basic comparison for integers
       });
@@ -105,22 +114,23 @@ class App extends Component {
 
     if (option === "title") {
       sortedTexts = this.state.texts.sort(function (a, b) {
+
         if (a["title"] === b["title"]) {
           if (a["year"] === b["year"]) {
-            return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
           }
           return a["year"] > b["year"] ? 1 : -1;
         }
-        return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
+        return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); 
       });
     }
 
     if (option === "reference") {
       sortedTexts = this.state.texts.sort(function (a, b) {
-        if (a["reference"] === b["reference"]) {
-          return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true});
+        if (ignoreItalicTag(a["reference"]) === ignoreItalicTag(b["reference"])) {
+          return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true});
         }
-        return a["reference"] > b["reference"] ? 1 : -1;
+        return ignoreItalicTag(a["reference"]) > ignoreItalicTag(b["reference"]) ? 1 : -1;
       });
     }
 
@@ -128,10 +138,10 @@ class App extends Component {
       sortedTexts = this.state.texts.sort(function (a, b) {
         if (a["type"] === b["type"]) {
           if (a["year"] === b["year"]) {
-            if (a["title"] === b["title"]) {
-              return a["reference"].localeCompare(b["reference"], undefined, {ignorePunctuation: true}); 
+            if (ignoreItalicTag(a["title"]) === ignoreItalicTag(b["title"])) {
+              return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
             }
-            return a["title"].localeCompare(b["title"], undefined, {ignorePunctuation: true}); 
+            return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); 
           }
           return a["year"] > b["year"] ? 1 : -1;
         }
