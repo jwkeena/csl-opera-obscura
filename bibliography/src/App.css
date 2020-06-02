@@ -6,6 +6,14 @@ body {
     color: #574D37; 
 }
 
+.dark-blue, .dark-blue:focus {
+    background-color: #5A5F82;
+}
+
+.dark-blue:hover  {
+    background-color: rgb(44, 50, 97);
+}
+
 /* Using flexbox to make main content div fill the available space in the page */
 /* See https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space */
 html, body {  

@@ -51,9 +51,9 @@ const texts = [
         "pageRange": "294",
         "year": 1939,
         "monthAndDay": "20 March",
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Prose",
-        "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i><i>Sehnsucht: The C.S. Lewis Journal</i>,</i> vol. 11 (2017), 17.", "It is also available at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i><i>Sehnsucht: The C.S. Lewis Journal</i>,</i> vol. 11 (2017), 17."]
     },
     {
         "title": "\"Miracles\"",
@@ -139,9 +139,9 @@ const texts = [
         "pageRange": "8",
         "year": 1948,
         "monthAndDay": "25 September",
-        "textProvided": false,
+        "textProvided": "http://www.owenbarfield.org/books/orpheus-extras.pdf",
         "type": "Prose",
-        "notes": ["This “Note” is reprinted on the cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at <a class='link-to-text'>http://www.owenbarfield.org/books/orpheus-extras.pdf</a>. Look for footnote 1 in the author’s Foreword."]
+        "notes": ["This “Note” is reprinted on the cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "The text is also accessible at <a class='link-to-text'></a>. Look for footnote 1 in the author’s Foreword."]
     },
     {
         "title": "Additions to the French edition of <i>The Problem of Pain</i>",
@@ -260,9 +260,9 @@ const texts = [
         "pageRange": "3",
         "year": 1963,
         "monthAndDay": "September",
-        "textProvided": false,
+        "textProvided": "http://www.cslewisinstitute.org/webfm_send/45",
         "type": "Prose",
-        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963.", "Available at <a class='link-to-text'>http://www.cslewisinstitute.org/webfm_send/45</a>."]
+        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963."]
     },
     {
         "title": "A Note on the Meaning of Civilization in the Chronicles of Narnia",
@@ -370,9 +370,9 @@ const texts = [
         "pageRange": "15",
         "year": 1973,
         "monthAndDay": "3 September",
-        "textProvided": false,
+        "textProvided": "https://ghgraham.org/text/jrrtolkien1892_obit.html",
         "type": "Prose",
-        "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, <i>J.R.R. Tolkien: A Biography</i> part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”", "Available online at <a class='link-to-text'>https://ghgraham.org/text/jrrtolkien1892_obit.html</a>."]
+        "notes": ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, <i>J.R.R. Tolkien: A Biography</i> part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”"]
     },
     {
         "title": "Earliest Known Manuscript (c. 1939) of <i>The Lion, the Witch and the Wardrobe</i>",
@@ -799,7 +799,7 @@ const texts = [
         "pageRange": "<a href='https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>online only</a>",
         "year": 2015,
         "monthAndDay": "10 December",
-        "textProvided": false,
+        "textProvided": "https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html",
         "type": "Prose",
         "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
     },
@@ -992,7 +992,7 @@ const texts = [
         "monthAndDay": "October",
         "textProvided": "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is now available here: <a class='link-to-text'>https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/</a>"]
+        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is also available here: <a class='link-to-text'></a>"]
     },
     {
         "title": "Letter to publisher used as a blurb for <i>Adam: A Tone Poem</i>",
@@ -1122,7 +1122,7 @@ const texts = [
         "pageRange": "162",
         "year": 2010,
         "monthAndDay": null,
-        "textProvided": "What a good idea!  It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see.  But very many thanks.",
+        "textProvided": "What a good idea! It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see. But very many thanks.",
         "type": "Letter",
         "notes": ["Anderson reproduces the Mythlore article in a blog post: <a class='link-to-text'>http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html.</a>"]
     },
@@ -1177,9 +1177,9 @@ const texts = [
         "pageRange": "36-37",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Lewis refuses a request to write “a Lent book.”", "Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, Vol 2, 71.", "Available online at <a class='link-to-text'></a>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Lewis refuses a request to write “a Lent book.”", "Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, Vol 2, 71."]
     },
     {
         "title": "Letter to Canon Lewis John Collins (9 June 1946)",
@@ -1188,9 +1188,9 @@ const texts = [
         "pageRange": "40-41",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4."]
     },
     {
         "title": "Letter to Canon Lewis John Collins (11 November 1946)",
@@ -1199,9 +1199,9 @@ const texts = [
         "pageRange": "45-46",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47."]
     },
     {
         "title": "Comments on Harold Montgomery Belgion’s English examination",
@@ -1221,9 +1221,9 @@ const texts = [
         "pageRange": "21",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45."]
     },
     {
         "title": "Letter to Harold Montgomery Belgion (25 April 1939)",
@@ -1232,9 +1232,9 @@ const texts = [
         "pageRange": "22-23",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46."]
     },
     {
         "title": "Letter to Harold Montgomery Belgion (2 May 1939)",
@@ -1243,9 +1243,9 @@ const texts = [
         "pageRange": "24-25",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html",
         "type": "Letter",
-        "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47.", "Available online at <a class='link-to-text'>https://wipfandstock.com/sehnsucht-the-c-s-lewis-journal.html</a>."]
+        "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47."]
     },
     {
         "title": "Letter to Alan Fairhurst (6 September 1959)",
