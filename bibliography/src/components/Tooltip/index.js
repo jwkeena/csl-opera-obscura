@@ -39,9 +39,9 @@ class Tooltip extends Component {
                         rel="noopener noreferrer"
                         className="tooltipped"
                         data-position="top" 
-                        data-tooltip={this.state.imageStatus === "loaded" ? '<img src="https://jwkeena.github.io/images/csl-demo.gif">' : '<div style="height: 338px; width: 450px;"><div class="preloader-wrapper big active center-loader"><div class="spinner-layer spinner-blue-only"><div class="circle-clipper left"><div class="circle"></div></div><div class="gap-patch"><div class="circle"></div></div><div class="circle-clipper right"><div class="circle"></div></div></div></div></div>'}>
+                        data-tooltip={this.state.imageStatus === "loaded" ? '<img src="https://jwkeena.github.io/assets/images/csl-demo.gif">' : '<div style="height: 338px; width: 450px;"><div class="preloader-wrapper big active center-loader"><div class="spinner-layer spinner-blue-only"><div class="circle-clipper left"><div class="circle"></div></div><div class="gap-patch"><div class="circle"></div></div><div class="circle-clipper right"><div class="circle"></div></div></div></div></div>'}>
                             C.S. Lewis Letter Search
-                            <img src="https://jwkeena.github.io/images/csl-demo.gif" alt="hidden" onLoad={this.handleImageLoaded.bind(this)} style={styles.hidden}/>
+                            <img src="https://jwkeena.github.io/assets/images/csl-demo.gif" alt="hidden" onLoad={this.handleImageLoaded.bind(this)} style={styles.hidden}/>
                     </a>
             )
         }
