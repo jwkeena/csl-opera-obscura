@@ -295,7 +295,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         "type": "Prose",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence.", "See Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G62."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -427,7 +427,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "...after my brother, my oldest and most intimate friend.",
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., <i></i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>Lewis Papers</i> III, 305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>Lewis Papers</i> III, 305."]
     },
     {
         "title": "Annotations on Shakespeare",
@@ -1050,13 +1050,13 @@ const texts = [
         "notes": ["The text is only available in this source."]
     },
     {
-        "title": "Letter to Edward Meksys (3 October 1963)",
-        "printedIn": "Edward Meksys, <i>Niekas</i>",
+        "title": "Letter to Edward Meškys (3 October 1963)",
+        "printedIn": "Edward Meškys, <i>Niekas</i>",
         "issueOrVolume": "vii",
         "pageRange": "[no page number in text]",
         "year": 1963,
         "monthAndDay": "December",
-        "textProvided": false,
+        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 3 Oct. 63<br/><br/>Dear Mr Mr. Meškys<br/><br/>By all means use the poem as far as I am concerned: but I expect you need <i>Punch’s</i> permission as well.<br/><br/>I fear Numinor (=Atlantis) is the only point at which there is a tie between Tolkien’s mythology and mine. When you’ll get any more in print from him, Lord knows. You see, he is both a procrastinator & a perfectionist. You have no idea with what laborious midwifery we got the <i>Lord of the Rings</i> out of him!<br/><br/>I’d write more if I were not rather ill. <br/><br/>Yours sincerely<br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["The text is only available in this source."]
     },
@@ -1067,20 +1067,20 @@ const texts = [
         "pageRange": "261, note 1",
         "year": 1964,
         "monthAndDay": null,
-        "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or <i></i>persona</i>.",
+        "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or <i>persona</i>.",
         "type": "Letter",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
     },
     {
         "title": "Letter to James E. Higgins (31 July 1962)",
-        "printedIn": "James Higgins, “A Letter from C.S. Lewis,” <i>The Horn Book Magazine</i>",
-        "issueOrVolume": "xlii.5",
-        "pageRange": "533",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "issueOrVolume": null,
+        "pageRange": "304",
         "year": 1966,
-        "monthAndDay": "October",
-        "textProvided": "...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.",
+        "monthAndDay": null,
+        "textProvided": "31 July 1962 <br/><br/>I shall be glad to help if I can. It is however rather a big IF, for my knowledge of child- ren’s literature is really very limited. The real expert is Roger L. Green, Poulton-Lancelyn, Bebington, Wirral, Cheshire. My own range is about exhausted by MacDonald, Tolkien, E. Nesbit, and Kenneth Grahame. The <i>Alice</i> books are, aren’t they, in a totally different category, the effect being exclusively comic-nonsensical: not, in my experience, fully appreciated by children. Oh by the way, don’t miss the utterly unexpected influence of Rabelais on Kingsley’s <i>Water Babies</i>.",
         "type": "Letter",
-        "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this fragmentary letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient's name is first identified. In the 1966 version, the letter is prefaced \"To an Enquirer\".", "A fragment of this letter (\"...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.\") was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
     },
     {
         "title": "Letter to James E. Higgins (2 December 1962)",
@@ -1088,8 +1088,8 @@ const texts = [
         "issueOrVolume": "xlii.5",
         "pageRange": "533-34",
         "year": 1966,
-        "monthAndDay": "October",
-        "textProvided": false,
+        "monthAndDay": "19 October",
+        "textProvided": "Magdalene College, Cambridge <br/>2 December 1962<br/><br/>Dear Mr. Higgins<br/><br/>1. Surely I never questioned the “legitimacy” of mythopoeia – only the propriety of classifying the art which it belonged to as “Literature.”<br/>2.	The Narnian books are not as much allegory as supposal. “Suppose there were a Narnian world and it, like ours, needed redemption. What kind of incarnation and Passion might Christ be supposed to undergo <i>there</i>?”<br/>3. Only after Aslan came into the story – on His own; I never called Him – did I remember the scriptural “Lion of Judah.”<br/>4. No. I never met Chesterton. I suppose the same affinity which made me like him made us both like Macdonald.<br/>5. I turned to fairy tales because that seemed the form which certain ideas and images in my mind seemed to demand; as a man might turn to fugues because the musical phrases in his head seemed to be “good fugue subjects.”<br/>6. When I wrote <i>The Lion</i> I had no notion of writing the others.<br/>7. Writing “juveniles” certainly modified my habits of composition. Thus (<i>a</i>) It imposed a strict limit on vocabulary (<i>b</i>) excluded erotic love (<i>c</i>) cut down reflective and analytical passages (<i>d</i>) led me to produce chapters of nearly equal length, for convenience in reading aloud. All these restrictions did me great good — like writing in a strict metre.Yes. I get wonderful letters from children in U. S. A. and elsewhere. <br/><br/>Yours sincerely,<br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
     },
@@ -1320,7 +1320,7 @@ const texts = [
         "pageRange": "437",
         "year": 2018,
         "monthAndDay": "September",
-        "textProvided": "As from Magdalen College, Cambridge, 2/9/58. Dear Jeremy Ruskin, Thanks you [sic] for your kind letter. I got it from my publisher sent on inside one from Christopher Smith. I am very glad to hear that you like the Narnian stories. There is one you haven’t got, <i></i>The Last Battle</>. That makes 7 altogether, which I think a good number to stop at, so there won’t be any more. I am sure I wouldn’t do one about Aslan as a cub, but you might try doing it yourself. Love to you and Christopher, Yours sincerely, C.S. Lewis.",
+        "textProvided": "As from Magdalen College, Cambridge, 2/9/58. Dear Jeremy Ruskin, Thanks you [sic] for your kind letter. I got it from my publisher sent on inside one from Christopher Smith. I am very glad to hear that you like the Narnian stories. There is one you haven’t got, <i>The Last Battle</i>. That makes 7 altogether, which I think a good number to stop at, so there won’t be any more. I am sure I wouldn’t do one about Aslan as a cub, but you might try doing it yourself. Love to you and Christopher, Yours sincerely, C.S. Lewis.",
         "type": "Letter",
         "notes": ["This letter is not in the <i>Collected Letters</i>."]
     },
@@ -1459,7 +1459,7 @@ const texts = [
     },
     {
         "title": "Letter to Claude Chavasse (20 February 1934)",
-        "printedIn": "in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "132",
         "year": 2002,
@@ -1470,7 +1470,7 @@ const texts = [
     },
     {
         "title": "Letter to Claude Chavasse (25 February 1934)",
-        "printedIn": "in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "132",
         "year": 2002,
@@ -1481,7 +1481,7 @@ const texts = [
     },
     {
         "title": "Letter to R.W. Chapman (18 September 1935)",
-        "printedIn": "in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "135",
         "year": 2002,
@@ -1997,7 +1997,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to John Dover Wilson (19 February 1950) ",
+        "title": "Letter to John Dover Wilson (19 February 1950)",
         "printedIn": "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "57",
@@ -2564,7 +2564,7 @@ const texts = [
         "pageRange": "285",
         "year": 1966,
         "monthAndDay": null,
-        "textProvided": "29 April 1959<br/>Indeed, indeed we both will. I don’t see how any degree of faith can exclude the dismay, since Christ’s faith did not save Him from dismay in Gethsemane. We are not necessarily doubting that God will do the best for us: we are wondering how painful the best will turn out to be. In a case like the one you refer to, where the growth is detected in its primary state and in the most operable part, there are of course solid grounds for an entirely optimistic view. But then <i>one</i> of your fears and hers is of all the fears you <i></i>will</i> have to suffer before you are out of the wood. The monotony of anxiety – the circular movement of the mind – is horrible. As far as possible I think it is best to treat one’s own anxiety as being also an illness. I wish I could help. Can I? You did so much for me.<br/><br/>As to the “frightening monotony” I think this disease now ranks as a <i>plague</i> and we live in a plague-stricken population.<br/><br/>God bless you both. I shall have no need to “remind” myself to remember you. Let us have news as soon as there is any.<br/><br/>If you find (some do) that mental anguish produces an inclination to eat more – paradoxical but it can – I should jolly well do so.",
+        "textProvided": "29 April 1959<br/>Indeed, indeed we both will. I don’t see how any degree of faith can exclude the dismay, since Christ’s faith did not save Him from dismay in Gethsemane. We are not necessarily doubting that God will do the best for us: we are wondering how painful the best will turn out to be. In a case like the one you refer to, where the growth is detected in its primary state and in the most operable part, there are of course solid grounds for an entirely optimistic view. But then <i>one</i> of your fears and hers is of all the fears you <i>will</i> have to suffer before you are out of the wood. The monotony of anxiety – the circular movement of the mind – is horrible. As far as possible I think it is best to treat one’s own anxiety as being also an illness. I wish I could help. Can I? You did so much for me.<br/><br/>As to the “frightening monotony” I think this disease now ranks as a <i>plague</i> and we live in a plague-stricken population.<br/><br/>God bless you both. I shall have no need to “remind” myself to remember you. Let us have news as soon as there is any.<br/><br/>If you find (some do) that mental anguish produces an inclination to eat more – paradoxical but it can – I should jolly well do so.",
         "type": "Letter",
         "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
@@ -2756,94 +2756,115 @@ const texts = [
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Sister Penelope (23 June 1962)",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "112",
+        "year": 1996,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "It is kind of you to want to know my plight (by the way, apart from everything else, what a bore the subject of one’s own health is! Like wearisomely enumerating for the police all the contents of a lost handbag). It begins to look as if I shall not be fit for that operation in any reasonable time – doctor’s euphemism for NEVER? – but I’ve apparently developed a “tolerance” for the state of my blood and kidneys and can carry on, on a low diet and strict economy of exertion. So they let me [go] back to Cambridge last term “as an experiment”. The experiment, Laus Deo, has proved a wholly unex- pected success and I am now very definitely better than I’ve ever been since last June…<br/><br/>You know I’m on the commission for revising the prayer book Psalter? It has been delightful work, with delightful colleagues, and I’ve learned a lot. We finished our first draft of Psalm 150 a fortnight ago.",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Henry Noel (12 November 1962)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "306",
+        "year": 1966,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[<i>From Magdalene College; with reference to a theme central to</i> The Great Divorce:]<br/><br/><br/><br/>About all I know of the “Refrigerium” is derived from Jeremy Taylor’s sermon on “Christ’s advent to judgement” and the quotations there given from a Roman missal printed at Paris in 1626, and from Prudentius. See Taylor’s <i>Whole Works,</i> edit. R. Heber, London 1822, Vol. V, p. 45.<br/><br/>The Prudentius says, “Often below the Styx holidays from their punishments are kept, even by the guilty spirits ... Hell grows feeble with mitigated torments and the shadowy nation, free from fires, exults in the leisure of its prison; the rivers cease to burn with their usual sulphur”.",
+        "type": "Letter",
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 505."]
+    },
+    {
+        "title": "Letter to Laurence Harwood (10 September 1962) ",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "131-132",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 10 Sept 62<br/><br/>Dear Laurence,<br/><br/> (Yes, I’d much rather be called Jack. And also, like you, I’ve never discovered the plural of <i>syllabus</i>. Like <i>rhinoceros</i> and <i>genius,</i> it has “a thing about” its plural).<br/><br/>Your letter was not long-winded but heroic – for I know what dull work it is writing a long, clear account of what one already knows. Our present objective for Douglas is merely G.C.E. as a preliminary for Christmas.<br/><br/>A thousand thanks. <br/>Yours,<br/>Jack",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to “Mr. Brown” at Oxford University Press (17 January 1963)",
+        "printedIn": "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "57",
+        "year": 2018,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[<i>On the proposed paperback reprint of</i> The Personal Heresy <i>(1939)</i>]<br/><br/>… please delete entirely the old preface: one of my silliest <i>juvenilia </i>…",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Sister Penelope (17 September 1963)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "307",
+        "year": 1966,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "17 September 1963<br/>What a pleasant change to get a letter which does not say the conventional things!I was unexpectedly revived from a long coma – and perhaps the almost continuous prayers of my friends did it – but it would have been a luxuriously easy passage and one almost (but <i>nella sua voluntade e nostra pace</i>) regrets having the door shut in one’s face. Ought we to honor Lazarus rather than Stephen as the protomartyr? To be brought back and all one’s dying to do <i>again</i> was rather hard.<br/><br/>If you die first, and if “prison visiting” is allowed, come down and look me up in Purgatory.<br/><br/>It <i>is</i> all rather fun – solemn fun – isn’t it?.",
+        "type": "Letter",
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 508-509."]
+    },
+    {
+        "title": "Letter to Spencer Curtis Brown (1963)",
+        "printedIn": "Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius)",
+        "issueOrVolume": null,
+        "pageRange": "253",
+        "year": 1981,
+        "monthAndDay": null,
+        "textProvided": "[<i>Derrick referring to a letter to himself from Spencer Curtis Brown of 4 December 1963; Brown was quoting Lewis from a letter written “shortly before his death”.</i>]<br/><br/><br/><i>Shortly before he [Lewis] died in 1963, it was proposed by a literary agent and a publisher in London that a book about heresies should be commissioned. Lewis was consulted and gave his blessing not only to the project, but also more rashly, to myself as its proposed author:</i><br/><br/>“For this book he would be ideal.”<br/><br/><i>But he qualified this endorsement in a very pointed way.</i><br/><br/>“Would a limitation, say down to 1400, be a good plan, so that it can remain a historical fact book and not become controversial?”",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
-        "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "title": "Letter to Bishop George Chase (25 August 1960)",
+        "printedIn": "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        "issueOrVolume": "vol. 22",
+        "pageRange": "55",
+        "year": 2005,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[<i>About enjoying the work on the Commission and agreeing with Donald Coggan’s last sentence in the preface:</i>]<br/><br/>… we were a wonderfully happy family. I have seldom enjoyed anything more.",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Jared Lobdell (22 October 1963)",
+        "printedIn": "Jared Lobdell, “The Ransom Stories and Their Eighteenth-Century Ancestry” in <i>Word and Story in C.S. Lewis,</i> ed. Peter J. Schakel and Charles Huttar (Columbia, MO: University of Missouri Press)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "215",
+        "year": 1991,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "“Laboratory” suggests “bubble-tree,” “the delightful word seemed to suggest the thing.”",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Roger Lancelyn Green (1 November 1963)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "432",
+        "year": 2002,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Good. Dinner-bem-breakfast it is. Fri–Sat. 15–16 Nov, and most welcome you will be. J.",
         "type": "Letter",
         "notes": null
     },
     {
-        "title": "",
-        "printedIn": "",
+        "title": "Letter to Richard Ladborough (28 October 1963)",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
+        "pageRange": "431",
+        "year": 2002,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Have been reading Les liaisons dangereuses. Wow what a book! Come to lunch on Friday (fish) and tell me about it. … like reading a Mozart libretto seriously: a blood- curling experience.",
         "type": "Letter",
-        "notes": null
+        "notes": ["The last portion of the text, “like reading Mozart” etc., is given only in Wiliam Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 410, who otherwise only paraphrases."]
     },
-
     // POETRY
     {
         "title": "\"The Old Grey Mare\"",
