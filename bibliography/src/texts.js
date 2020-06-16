@@ -254,7 +254,7 @@ const texts = [
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
     },
     {
-        
+
         "title": "Blurb for <i>Adam: A Tone Poem</i>",
         "printedIn": "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
         "issueOrVolume": null,
@@ -374,17 +374,6 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
-    },
-    {
-        "title": "Boxen Manuscript \"The Locked Door\"",
-        "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
-        "issueOrVolume": null,
-        "pageRange": "279-80",
-        "year": 1971,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["Later reprinted in <i>Boxen</i> (1985, 2008)."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -563,17 +552,6 @@ const texts = [
         "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
-        "title": "Boxen juvenilia",
-        "printedIn": "<i>Boxen: The Imaginary World of the Young C.S. Lewis,</i> ed. Walter Hooper (William Collins and Co.)",
-        "issueOrVolume": "",
-        "pageRange": null,
-        "year": 1985,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["I include this because it may be obscure even to the general Lewis enthusiast, though it was edited by Walter Hooper.", "It is an abridged form of the later, complete <i>Boxen: Childhood Chronicles before Narnia</i> (2008). To my knowledge, though, this early edition includes the same texts of: The King’s Ring, Manx Against Manx, The Relief of Murry, History of Mouse-Land from Stone-Age to Bublish I, History of Animal-Land, The Chess Monograph, The Geography of Animal-Land, Boxen: or Scenes from Boxonian City Life, The Locked Door and Than-Kyu, The Sailor, and Encyclopedia Boxoniana."]
-    },
-    {
         "title": "\"Commentary on the Lay of Leithian\"",
         "printedIn": "<i>J.R.R. Tolkien, in The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         "issueOrVolume": null,
@@ -649,17 +627,6 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": null
-    },
-    {
-        "title": "Boxen juvenilia",
-        "printedIn": "<i>Boxen: Childhood Chronicles Before Narnia,</i> ed. Walter Hooper (New York: HarperCollins)",
-        "issueOrVolume": null,
-        "pageRange": null,
-        "year": 2008,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["Includes the following texts not appearing in the 1985 version: Littera Scripta Manet, Tararo, and The Life of Lord John Big of Bigham."]
     },
     {
         "title": "\"Language and Human Nature\" (Manuscript Fragment)",
@@ -781,17 +748,6 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["In Brenton's own words, “In this neat manuscript we see that C.S. Lewis had Dr. Ransom (of the science fiction books) discover and translate the Letters.”"]
-    },
-    {
-        "title": "<i>Image and Imagination,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
-        "printedIn": "<i>Image and Imagination,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
-        "issueOrVolume": null,
-        "pageRange": null,
-        "year": 2013,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["Contents: in addition to 42 book reviews previously published but difficult to find, 2 obituaries (Oliver Elton and Charles Williams), 3 prefaces/introductions/forewords, 4 long essays hitherto out of print, and many other literary essays, this volume includes 2 previously unpublished drafts.", "First, “Lucretius,” 194-7. Hooper's note on 194: “This essay on Lucretius (c. 94-c. 54 BC), is published here for the first time. The draft of it is written on blank pages interleaved and bound into Lewis’s copy of <i>De Rerum Natura</i>, now in the Rare Book Collection of the Wilson Library of North Carolina at Chapel Hill.”", "Second: “Image and Imagination,” 34-53, probably composed before 1931."]
     },
     {
         "title": "“On Bolshevism” and “Mythonomy” Manuscripts",
