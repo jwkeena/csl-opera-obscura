@@ -89,6 +89,17 @@ const texts = [
         "notes": ["Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” <i>Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
+        "title": "Blurb for <i>Perelandra</i>",
+        "printedIn": "<i>Perelandra</i> (New York: Macmillan)",
+        "issueOrVolume": null,
+        "pageRange": "dust jacket",
+        "year": 1944,
+        "monthAndDay": null,
+        "textProvided": "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
+        "type": "Prose",
+        "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
+    },
+    {
         "title": "Comments on George Gordon's class",
         "printedIn": "Mary G. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
         "issueOrVolume": null,
@@ -122,7 +133,7 @@ const texts = [
         "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
     },
     {
-        "title": "Letter to publisher used as a blurb for <i>Essays Presented to Charles Williams</i>",
+        "title": "Blurb for <i>Essays Presented to Charles Williams</i>",
         "printedIn": "<i>Essays Presented to Charles Williams,</i> ed. C.S. Lewis (Oxford: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
@@ -232,7 +243,7 @@ const texts = [
         "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called Four Talks on Love. The scripts served as a basis for Lewis’s book, The Four Loves.", "Typed texts of these talks (with some flaws) can be found here: <a class='link-to-text'>https://drive.google.com/file/d/0B8lkIorOqTUySlloZUtRT2hMMXM/view</a> [STORGE], <a class='link-to-text'>https://drive.google.com/file/d/0B9MmcPqIiEnKTWtnYmthbHNvNDg/view</a> [PHILIA], <a class='link-to-text'>https://drive.google.com/file/d/1oFJLv_EfZuvIFUA-y3XObFyEt5ffqqvK/view</a> [EROS], <a class='link-to-text'>https://drive.google.com/file/d/1GT9vwknq3Tvup6xeoedczAGIHF4Rx4OI/view [AGAPE].", "They talks themselves can be heard on YouTube: <a class='link-to-text'>https://www.youtube.com/watch?v=m4hI638mskQ</a> [STORGE], <a class='link-to-text'>https://www.youtube.com/watch?v=3hM4izbColg</a> [PHILIA], <a class='link-to-text'>https://www.youtube.com/watch?v=WReLIE08Dnc</a> [EROS], and <a class='link-to-text'>https://www.youtube.com/watch?v=gaVaGGpeQKM</a>[AGAPE]."]
     },
     {
-        "title": "Letter to publisher used as a blurb for <i>Titus Alone</i>",
+        "title": "Blurb for <i>Titus Alone</i>",
         "printedIn": "Mervyn Peake, <i>Titus Alone,</i> (London: Eyre and Spottiswoode)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
@@ -241,6 +252,18 @@ const texts = [
         "textProvided": "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemanniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
         "type": "Prose",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
+    },
+    {
+        
+        "title": "Blurb for <i>Adam: A Tone Poem</i>",
+        "printedIn": "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
+        "issueOrVolume": null,
+        "pageRange": "band around the dust wrapper",
+        "year": 1960,
+        "monthAndDay": null,
+        "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
+        "type": "Prose",
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
         "title": "\"Preface to the 1961 Edition\"",
@@ -372,7 +395,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. Fragment unique to this essay.", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. Holograph unique to this essay.", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. Holograph unique to this essay.", "Drawing of Monopods (holograph), 313. Holograph unique to this essay."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>"]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -1006,17 +1029,6 @@ const texts = [
     // LETTERS
     // letters discovered by me
     {
-        "title": "Letter to publisher used as a blurb for <i>Perelandra</i>",
-        "printedIn": "<i>Perelandra</i> (New York: Macmillan)",
-        "issueOrVolume": null,
-        "pageRange": "dust jacket",
-        "year": 1944,
-        "monthAndDay": null,
-        "textProvided": "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
-        "type": "Letter",
-        "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
-    },
-    {
         "title": "Letter to Dorothy L. Sayers (undated)",
         "printedIn": "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         "issueOrVolume": "vol. 28, no. 3",
@@ -1026,17 +1038,6 @@ const texts = [
         "textProvided": "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is also available here: <a class='link-to-text'></a>"]
-    },
-    {
-        "title": "Letter to publisher used as a blurb for <i>Adam: A Tone Poem</i>",
-        "printedIn": "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
-        "issueOrVolume": null,
-        "pageRange": "band around the dust wrapper",
-        "year": 1960,
-        "monthAndDay": null,
-        "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
-        "type": "Letter",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
         "title": "Letter to Mahmoud Manzalaoui (undated)",
@@ -1356,7 +1357,7 @@ const texts = [
         "monthAndDay": "April",
         "textProvided": "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit mioluc remaining in certain dialects after it had become meol(u)c in others. In order to explain mioluc I have to posit miluc<br/><br/>As against this I find meolean cited by Wright (OE 49) not as an example of i fractured to io later eo, but as an example of e immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive meluks.× Am I entitled, then, to assume that the root entered OE both in the milform and in the mel-. ? And in the same way that selbur & silbur, selc & silk both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/>silf > siolf (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an i- form (silba) and that Gothic i ought normally to correspond to e in O.E. etc: also that Wright (O.E. 84.) cites seolf as an example of the fracture of e. In fact all the evidence before me is against an original silf: while an original self will reach seolf without going through the siolf stage which I need. (There is no hint in any authority of an -i- or -j- to turn seolf into sielf and thence silf.)Is it possible that, since many -eo words from i (lirn > leorn) etc had the intermediate io in certain dialects still retained, false io forms arose anologically [sic] even in the case of eo words from e? I take it, it is out of the question that e itself could ever pass through io to reach eo.<br/><br/>Yours<br/>C. S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither silf nor sylf appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds Historical Study of the Mother Tongue. Wyld’s Short History has no index worth a −−. Nor has Lizzie’s O.E. grammar.",
         "type": "Letter",
-        "notes": ["Arend Smilde’s note: The × is Lewis’s. It may refer to two lines of text on the verso side, the first of which is lost; the second reads, “That is all plain sailing. But how does he get his original sioluc, mioluc etc.?”"]
+        "notes": ["The × is Lewis’s. It may refer to two lines of text on the verso side, the first of which is lost; the second reads, “That is all plain sailing. But how does he get his original sioluc, mioluc etc.?”"]
     },
     {
         "title": "Letter to John Buchan(?) (1930s?)",
@@ -1367,7 +1368,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "For <i>Witch Wood</i> specially I am always grateful; all that devilment sprouting up out of a beginning like Galt’s <i>Annals of the Parish.</i> That’s the way to do it.",
         "type": "Letter",
-        "notes": ["From Arend Smilde: No source is stated for this quotation, nor any indication that it is from a letter, or to whom. Wikipedia’s article on Buchan’s <i>Witch Wood</i> features this same quote, stating a later source: David Daniell, <i>The Interpreter’s House</i> (1975), 181-182. The novel was published in 1927 and John Buchan died on 11 February 1940."]
+        "notes": null
     },
     {
         "title": "Letter to Cecil Harwood (unknown date)",
@@ -2492,11 +2493,11 @@ const texts = [
         "notes": ["<i>And God Came In</i> was later reprinted as <i>Joy and C.S. Lewis; The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988)."]
     },
     {
-        "title": "Letter to Arthur Greeves (27 November 1957), PS of published letter",
+        "title": "PS of published letter to Arthur Greeves (27 November 1957)",
         "printedIn": "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "545",
-        "year": null,
+        "year": 1979,
         "monthAndDay": null,
         "textProvided": "W. is well and busily writing.",
         "type": "Letter",
@@ -2646,7 +2647,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Sister Madeleva, PS of published letter (7 June 1934)",
+        "title": "PS of published letter to Sister Madeleva (7 June 1934)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "157",
@@ -2657,7 +2658,7 @@ const texts = [
         "notes": ["The rest of the letter can be found in CL1, 140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
-        "title": "Letter to Alastair Fowler (24 February 1960), PS of published letter",
+        "title": "PS of published letter to Alastair Fowler (24 February 1960)",
         "printedIn": "Stephen Thorson, <i>Joy and Poetic Imagination: Understanding C.S. Lewis’s “Great War” with Owen Barfield and its Significance for Lewis’s Conversion and Writings</i> (Hamden, CT: Winged Lion Press)",
         "issueOrVolume": null,
         "pageRange": "209",
