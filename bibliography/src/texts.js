@@ -1559,7 +1559,7 @@ const texts = [
     },
     {
         "title": "Letter to Ms. Jacob (3 July 1941)",
-        "printedIn": "Martha C. Sammons, <i>“A Better Country”: The worlds of religious fantasy and science fiction,</i> Contributions to the Study of Science Fiction and Fantasy, 32 (New York: Greenwood Press),",
+        "printedIn": "Martha C. Sammons, <i>“A Better Country”: The worlds of religious fantasy and science fiction,</i> Contributions to the Study of Science Fiction and Fantasy, 32 (New York: Greenwood Press)",
         "issueOrVolume": null,
         "pageRange": "88",
         "year": 1988,
@@ -1823,7 +1823,7 @@ const texts = [
     },
     {
         "title": "Letter to A.K. Hamilton Jenkin (31 May 1947)",
-        "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: HiddenSpring [Paulist]),",
+        "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: HiddenSpring [Paulist])",
         "issueOrVolume": null,
         "pageRange": "136",
         "year": 2003,
