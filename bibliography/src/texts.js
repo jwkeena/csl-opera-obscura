@@ -415,7 +415,7 @@ const texts = [
         "pageRange": "12",
         "year": 1973,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "This book is about four children whose names were Ann, Martin, Rose and Peter. But it is most about Peter who was the youngest. They all had to go away from London suddenly because of the Air Raids, and because Father, who was in the army, had gone off to the War and Mother was doing some kind of war work. They were sent to stay with a relation of Mother’s who was a very old Professor who lived by himself in the country.",
         "type": "Prose",
         "notes": ["This manuscript is written on the back of the first page of the manuscript of \"The Dark Tower,\" found in the Bodleian Library."]
     },
@@ -1455,17 +1455,6 @@ const texts = [
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "<i>substitutes</i><br/><br/>Burton. <i>Anatomy</i> Part 2. Sec. 3 Mem. 3 (<i>ad fin.</i> after quotation <i>esto [sic] quod es</i> and before <i>Parentes, patriam</i>)<br/><br/>“The earth yields nourishment to vegetables, sensible creatures feed on vegetables, both are substitutes to reasonable souls”",
-        "type": "Letter",
-        "notes": null
-    },
-    {
-        "title": "Letter to Cecil Harwood (April 1936)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
-        "issueOrVolume": null,
-        "pageRange": "33",
-        "year": 2007,
-        "monthAndDay": null,
-        "textProvided": "O Caecili care, jam </br>Pridem tibi scripseram </br>Me non posse non negare </br>(Surgit aliquid amari!) </br>Tuam invitationem.</br>Diram examinationem. </br>Faciendam habeo.</br>Multos pueros aro!</br></br>[Translation]</br></br>“Dear Cecil, I should have written to you long ago that I just have to turn down your invitation. Something unpleasant has come up. I’ve got to deal with a deadly exam – and I’m plowing a lot of lads!”",
         "type": "Letter",
         "notes": null
     },
@@ -3758,6 +3747,17 @@ const texts = [
         "type": "Poem",
         "notes": null
     }
+    {
+        "title": "\"O Caecili care\" (April 1936)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "33",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": "O Caecili care, jam </br>Pridem tibi scripseram </br>Me non posse non negare </br>(Surgit aliquid amari!) </br>Tuam invitationem.</br>Diram examinationem. </br>Faciendam habeo.</br>Multos pueros aro!</br></br>[Translation]</br></br>“Dear Cecil, I should have written to you long ago that I just have to turn down your invitation. Something unpleasant has come up. I’ve got to deal with a deadly exam – and I’m plowing a lot of lads!”",
+        "type": "Poem",
+        "notes": null
+    },
 ]
 // const template =
 // {
