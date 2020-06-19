@@ -607,6 +607,17 @@ const texts = [
         "notes": ["This essay the summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
     },
     {
+        "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
+        "printedIn": " Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
+        "issueOrVolume": "23, no. 1",
+        "pageRange": "3-15",
+        "year": 1999,
+        "monthAndDay": "Spring",
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "Fragments of Othello Manuscript",
         "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost Othello Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
         "issueOrVolume": "1",
@@ -1603,7 +1614,7 @@ const texts = [
     },
     {
         "title": "Letter to J.H. Oldham, editor (4 February 1942)",
-        "printedIn": "",
+        "printedIn": "<i>The Christian News-Letter</i>",
         "issueOrVolume": "No. 119",
         "pageRange": "[unknown]",
         "year": 1942,
@@ -1698,7 +1709,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "I have all the usual vices: the only virtue (if it is a virtue) which I can claim in any marked degree is a patience, amounting almost to a liking, for bores.",
         "type": "Letter",
-        "notes": null
+        "notes": ["This may be a different part of the letter quoted on p.2, which was quoted on the dust cover of the 1944 Macmillan <i>Perelandra</i> and published more fully in Hooper's <i>Companion & Guide</i>."]
     },
     {
         "title": "Letter to the editor (19 November 1943)",
@@ -1723,11 +1734,11 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to J.S.A. Ensor",
+        "title": "Letter to J.S.A. Ensor (24 April 1944)",
         "printedIn": "<i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         "issueOrVolume": null,
-        "pageRange": "[unknown]",
-        "year": 1974,
+        "pageRange": "18",
+        "year": 1971,
         "monthAndDay": null,
         "textProvided": "I take money for lecturing on subjects on which I’m a professional (e.g., English Literature), but not for lecturing on subjects on which I’m an amateur (e.g., Theology).",
         "type": "Letter",
@@ -1779,6 +1790,7 @@ const texts = [
     },
     {
         "title": "Letter to Father Guy Brinkworth (1945)",
+        // TODO: may be earlier. See Thorson's comment: Letter to Father Guy Brinkworth (nd), quoted in Brinkworth's letter to the Tablet (7 Dec 1963) p.1317. Reprinted in Christopher Derrick, C.S. Lewis and the Church of Rome. San Francisco, CA: Ignatius, 1981, pp.214-15.
         "printedIn": "Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius)",
         "issueOrVolume": null,
         "pageRange": "214-215",
@@ -1836,7 +1848,7 @@ const texts = [
         "title": "Letter to Michal Williams (22 November 1947), holograph",
         "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
-        "pageRange": "104",
+        "pageRange": "189",
         "year": 1973,
         "monthAndDay": null,
         "textProvided": "Magdalen College, Oxford <br/>Nov. 22d 1947<br/><br/>Dear Mrs Williams<br/><br/>I was most delighted to get your kind letter and to find that you approved of the Memoir, and that you feel as we all do about the “liquorice halo”; not only, or even chiefly, because one doesn’t like liquorice (tho’ that comes in too) but because it obscures the real halo.Thank you very much. It will be a great pleasure to see you at Oxford when you are free! I am glad you are comforting old Mrs. Williams and can also sympathise as most of my private life is framed in a similar task. With very many thanks and good wishes,<br/><br/>yours sincerely<br/>C. S. Lewis",
@@ -2760,7 +2772,7 @@ const texts = [
         "title": "Letter to Spencer Curtis Brown (1963)",
         "printedIn": "Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius)",
         "issueOrVolume": null,
-        "pageRange": "253",
+        "pageRange": "53",
         "year": 1981,
         "monthAndDay": null,
         "textProvided": "[<i>Derrick referring to a letter to himself from Spencer Curtis Brown of 4 December 1963; Brown was quoting Lewis from a letter written “shortly before his death”.</i>]<br/><br/><br/><i>Shortly before he [Lewis] died in 1963, it was proposed by a literary agent and a publisher in London that a book about heresies should be commissioned. Lewis was consulted and gave his blessing not only to the project, but also more rashly, to myself as its proposed author:</i><br/><br/>“For this book he would be ideal.”<br/><br/><i>But he qualified this endorsement in a very pointed way.</i><br/><br/>“Would a limitation, say down to 1400, be a good plan, so that it can remain a historical fact book and not become controversial?”",
@@ -2768,7 +2780,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Bishop George Chase (25 August 1960)",
+        "title": "Letter to Bishop George Chase (13 October 1963)",
         "printedIn": "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 22",
         "pageRange": "55",
