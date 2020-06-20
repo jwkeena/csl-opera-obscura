@@ -285,11 +285,22 @@ const texts = [
         "monthAndDay": "December",
         "textProvided": "I suspect that the decision about the Common Market is very like that which confronts the losing chess-player: “Which of your rooks will you lose?” As for the larger issues, I want what we certainly shan’t get − a super-national state built out of units far smaller than the existing nations: units like Wessex and Picardy, not like “Britain” (a horrid word) and France. Units so small, and real, would then safely develop the greatest local diversity of language, culture, and custom. England did not achieve unity by a League of Barons. The Barons were (for all practical purposes) eliminated; the towns, shires, and even parishes, survived. That is our model.",
         "type": "Prose",
-        "notes": ["Contents: a short paragraph on the type of governmental structure Lewis would approve.", "To my knowledge this text has never been reprinted."]
+        "notes": ["To my knowledge this text has never been reprinted."]
+    },
+    {
+        "title": "Comments on Obstacles to the Christian Initiative",
+        "printedIn": "“Scholars Cite Obstacles to Christian Advance,” <i>Christianity Today</i>",
+        "issueOrVolume": "vol. 7, no. 1",
+        "pageRange": "35",
+        "year": 1962,
+        "monthAndDay": "12 October",
+        "textProvided": "[<i>In response to the question, “What imposing obstacles hinder the Christian offensive? What are the main obstructions to Christian initiative?”</i>]<br/><br/>Next to the prevalent materialism, for which we are not to blame, I think the great obstacle lies in the dissentiences not only between Christians but between splinter groups within denominations. While the name Christianity covers a hundred mutually contradictory beliefs, who can be converted to it?",
+        "type": "Prose",
+        "notes": ["Reprinted in Samuel Joeckel, <i>The C.S. Lewis Phenomenon: Christianity and the Public Sphere</i> (Macon, Georgia: Mercer University Press, 2013), 50."]
     },
     {
         "title": "\"I Was Decided Upon\"",
-        "printedIn": "<i>Decision</i>",
+        "printedIn": "<i>Decision</iIn>",
         "issueOrVolume": "II",
         "pageRange": "3",
         "year": 1963,
@@ -759,6 +770,17 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["In Brenton's own words, “In this neat manuscript we see that C.S. Lewis had Dr. Ransom (of the science fiction books) discover and translate the Letters.”"]
+    },
+    {
+        "title": "Alternate texts for <i>That Hideous Strength</i>",
+        "printedIn": "Michèle DuPlessis-Hay, <i>That Hideous Strength by C.S. Lewis: The Preparation of an Annotated Critical Edition</i> (PhD Dissertation, University of Witwatersrand, South Africa)",
+        "issueOrVolume": null,
+        "pageRange": "Appendix A",
+        "year": 2013,
+        "monthAndDay": null,
+        "textProvided": "http://wiredspace.wits.ac.za/handle/10539/13297",
+        "type": "Prose",
+        "notes": ["Three sheets with alternate texts."]
     },
     {
         "title": "“On Bolshevism” and “Mythonomy” Manuscripts",
@@ -3758,7 +3780,7 @@ const texts = [
         "textProvided": false,
         "type": "Poem",
         "notes": null
-    }
+    },
     {
         "title": "\"O Caecili care\" (April 1936)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
