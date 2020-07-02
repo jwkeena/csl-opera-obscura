@@ -111,6 +111,28 @@ const texts = [
         "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, revised and expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
+        "title": "Comments and Questions after a lecture by H.A. Hodges",
+        "printedIn": "“Philosophy Today,” <i>The Socratic Digest,</i>",
+        "issueOrVolume": "vol. 2",
+        "pageRange": "28-30",
+        "year": 1944,
+        "monthAndDay": "June",
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["These were printed as an actual transcript, not as summary notes by a secretary.", "Please send me this text if you have it!"]
+    },
+    {
+        "title": "Epigraph, dedication, and footnote exclusive to British edition of <i>The Great Divorce</i>",
+        "printedIn": "<i>The Great Divorce</i> (London: Geoffrey Bles)",
+        "issueOrVolume": null,
+        "pageRange": "3, 5, 112",
+        "year": 1945,
+        "monthAndDay": "",
+        "textProvided": "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it--no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/>[dedication]<br/><br/>“TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>“This method of travel also I learned from the ‘scientifictionists.’”",
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "Comments on George Gordon's class",
         "printedIn": "Mary G. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
         "issueOrVolume": null,
@@ -607,15 +629,26 @@ const texts = [
         "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-92."]
     },
     {
-        "title": "Section entitled \"Critique of Locke\" from \"The Moral Good – Its Place Among the Values\" (The fourteen lectures Lewis gave in the University of Oxford 1924-25)",
+        "title": "“Critique of Locke” section of philosophical notes",
         "printedIn": "James Patrick, <i>The Magdalen Metaphysicals: Idealism and Orthodoxy at Oxford 1901-45</i> (Macon: Mercer University Press)",
         "issueOrVolume": null,
         "pageRange": "116-17",
-        "year": 1985,
+        "year": 1987,
         "monthAndDay": null,
         "textProvided": "[116] Carrit's sponsorship remained the only certainty, and in February that friendship at last produced a tangible result: Carritt had been invited to Michigan for the year 1924-1925, and asked Lewis to take his lectures at University and part of his pupils. The months June through August 1924 were spent in preparation. Lewis read Sidgwick, Bosanquet, Mill, Alexander, and McTaggart, and daily he repaired to the attic, where the fourteen lectures entitled \"The Moral Good-Its Place Among the Values\" were produced. Lewis's method was historical, Locke, Hume, Leibniz, Kant, and Berkeley coming before his audience in succession. Lewis criticized Locke for having at the outset begged the question, for having assumed that <b>\"the mind can apprehend directly nothing but its own states.\"</b> Lewis suggested that Kant's implicit idealism was naive and unwarranted. Nor would a physical theory rescue Locke's epistemology of impressions and ideas: <b>\"If we cannot see beyond our ideas, we cannot use some of those ideas as evidence for the method by which the others were produced.\"</b> Again: <b>\"I am aware of the green. This proves that my awareness is a state of mind, not that the green is a state of mind.\"</b> Furthermore, Locke had attempted-illegitimately, Lewis thought-to move from percept to concept, but this either implied the existence of the very innate universals Locke wished to deny or else left the knower with <b>\"an indeterminate number of unrelated percepts, none of which is knowledge.\"</b> Lewis was sufficiently rooted in classical metaphysics to insist that Locke's empiricism had failed, but enough of a realist to want no more of subjective idealism. Of Berkeley Lewis wrote in 1924: <b>\"What Berkeley <i>really</i> seems to mean is that there is a common world of <i>sensibilia</i> which is directly accessible to us all; ideal only in the sense that there is no substratum below the <i>sensibilitas</i>. ...What we acutally [117] get in Berkeley is a series of private worlds only held together by the goodness of God.\"</b> Against Hume, Lewis brought the typical criticism of the school of Green: <b>\"The self has disappeared under his dialectic, and we are left with nothing but ideas and impressions.\"</b> Yet Hume is praised for his distinction between the <i>is</i> and the <i>ought</i>, an idea Prichard had made the fulcrum of his own moral philosophy.<br/><br/>In 1924 Lewis was indeed willing to use idealistic arguments to refute empiricism, but was clearly not an idealist in any systematic sense. His lectures at University as Carritt's proxy filled only part of a year spent as a professional philosopher. He attended the postgraduate society of philosophers and on one occasion read his \"Hegemony of Moral Value.\" W.D. Ross, then Deputy White's Professor of Moral Philosophy, was present and praised the paper, urging Lewis to publish it in <i>Mind</i> or in <i>Hibbert Journal</i>. For months Lewis worked at revising the essay for <i>Mind</i>, but it was never published, and it finally made its way, at least in part, into the fabric of <i>The Abolition of Man.</i>",
         "type": "Prose",
-        "notes": ["The excerpt is an explanation of Berkeley’s idealism. It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review,</i> 31 (2014), 30-62."]
+        "notes": ["The excerpt is an explanation of Berkeley’s idealism.", "It is not, as Patrick claims, from the “Moral Good” lectures themselves, but were extra material that may have supplemented them.", "It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review,</i> 31 (2014), 30-62."]
+    },
+    {
+        "title": "Notes on an essay written by Kenneth Tynan (c.1946)",
+        "printedIn": "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
+        "issueOrVolume": "83",
+        "pageRange": "unknown", // Need to find this
+        "year": 1987,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, please send it to me!"]
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
@@ -648,7 +681,18 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This essay the summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
+        "notes": ["This essay summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
+    },
+    {
+        "title": "His will",
+        "printedIn": "<i>Discovery Institute</i>",
+        "issueOrVolume": "",
+        "pageRange": "",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "https://www.discovery.org/a/509/",
+        "type": "Prose",
+        "notes": ["Portions of this document had been quoted in Walter Hooper, “The Lewis That Stayed Behind,” <i>Magdalen College Record 1995</i>, which were later reprinted in the <i>Canadian C.S. Lewis Journal,</i> vol. 89 (Spring 1996), 7-9."]
     },
     {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
@@ -982,6 +1026,17 @@ const texts = [
         "notes": ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
     },
     {
+        "title": "Excerpt from Oxford Diary (26 April 1922)",
+        "printedIn": "Roger Lancelyn Green, “In the Evening” in <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James Como (New York: Macmillan)",
+        "issueOrVolume": null,
+        "pageRange": "213",
+        "year": 1978,
+        "monthAndDay": null,
+        "textProvided": "The next thing I remember was coming back from Malvern. On the way I met a big cart driven by a girl who had no clothes on. She had very light brown hair: but dark skin, pink-brown like sand. I smiled at her in the confidential way one might smile at a girl when you’d seen a hole in her stocking, and she smiled back in just the same way, as much as to say, “Yes, I know. Isn’t it a scream!” Then I went back to Malvern and woke up--having seen the girl again, this time in the distance beyond the river, with other people in the cart.",
+        "type": "Diary",
+        "notes": null
+    },
+    {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
         "printedIn": "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         "issueOrVolume": null,
@@ -1205,10 +1260,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Owen Barfield (7 May 1949)",
+        "title": "Letter to Owen Barfield (5 July 1949)",
         "printedIn": "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” <i>Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 5, no. 1",
-        "pageRange": "3-21",
+        "pageRange": "20-21",
         "year": 2015,
         "monthAndDay": null,
         "textProvided": "[<i>On his brother Warnie’s condition</i>]<br/><br/>5/7/49<br/><br/>My dear Owen<br/><br/>Things look much better as regards <i>this</i> attack (“but after this night comes another night” as in <i>Dymer</i>). The matron of the Acland consented to keep W. on trial for one night more provided a MAN wd. sit up outside his door from 8 pm to 5 am. I did: and during the night gathered from the Sister & Nurse, tho’ not in so many words, that they thought Matron a silly old fusser and said that <i>they</i> could have managed W. perfectly well and nothing wd. ever have been heard of it if by mere ill luck, zooming about the corridor like a bumblebee or a doped St. Bernard, he hadn’t (literally) <i>bumped</i> into matron herself. <i>Notumque furens quid femina possit.</i> We’re a long way from real D. T. [<i>delirium tremens</i>] yet. The main reason for putting him in Hospital is to prevent him from continuing to drink & to compel him to take bromides but not take overdoses of them wh. he takes if left to himself. His general plan is heavy drinking for 3 days, a terrific overdose of dope followed by 3 days’ almost continuous sleep, an announcement that he is “cured,” then 3 more days drink – and so on. The two things I’m chiefly afraid of are (a.) The traffic in the streets: I have found him being <i>led</i> to my rooms by a grinning scout. (b.) lest he shd. insult someone. Drink unovers a quite unsuspected side in him. He keeps on talking about who is or isn’t a gentleman or a Pukka Sahib or an <i>honnete homme</i> “eh wha’” and describing people as “gutter-filth.” But I think this attack is over.<br/><br/><i>Lion, Witch & Wardrobe</i> has been approved by a child of 11 but with one objection. He doesn’t like their staying years & years in Narnia & growing up, feels that after a day in the country (or a month) one ought to go home. Also doesn’t see how they could have forgotten the lamp post as they & Mr. Tumnus wd. constantly have talked of his first meeting with Lucy. I shd. be v. sorry to lose my ending, but what do you think. Ask Geoffrey.<br/><br/>Any chance of you and I going somewhere for a few days together in the near future.<br/><br/>On sitting up all night – how odd that while each half hour goes incredibly slowly the <i>whole</i> night seems to go v. quickly. The nurses were very good & seemed to be bringing me lots of tea & toast & (of all things) Welsh Rarebit every hour or so.<br/><br/>Jack<br/><br/>Of course W. <i>can’t</i> afford it – he floats his powerful faculties on an overdraft.",
@@ -1393,7 +1448,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Cecil Harwood (unknown date)",
+        "title": "Letter to Cecil Harwood (10 December 1926)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "57",
@@ -1426,7 +1481,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Cecil Harwood (10 September 1931)",
+        "title": "Letter to Daphne Harwood (10 September 1931)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "65",
@@ -1559,7 +1614,7 @@ const texts = [
     },
     {
         "title": "Letter to Mary Neylan (1940)",
-        "printedIn": "Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "224",
         "year": 2006,
@@ -1682,7 +1737,7 @@ const texts = [
         "title": "Letter to James Welch (May 1942)",
         "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "158",
+        "pageRange": "223",
         "year": 2002,
         "monthAndDay": null,
         "textProvided": "… there can be no compromise (as there may be mutual respect) between those who regard “religion as a desirable element in a culture” (<i>emollit mores</i> and all that) and those who believe Christianity to be objectively true. It’s the difference between a man who thinks a lecture on navigation might interest the boys on a Saturday afternoon entertainment and a man who thinks the ship is sinking.",
@@ -1803,7 +1858,7 @@ const texts = [
         "title": "Letter to the Contracts staff of the BBC (25 April 1944)",
         "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "169",
+        "pageRange": "258",
         "year": 2002,
         "monthAndDay": null,
         "textProvided": "[I am sorry to say that I <i>do</i> appear to have lost the contract, and would be obliged if you would send me another. With apologies for my stupidity.",
@@ -1889,6 +1944,17 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Letter to Douglas Bush (16 April 1947)",
+        "printedIn": "George Musacchio, “C.S. Lewis’s Correspondence with Douglas Bush,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
+        "issueOrVolume": "430",
+        "pageRange": "3-4",
+        "year": 2009,
+        "monthAndDay": "March/April",
+        "textProvided": "REF. 230/47.	<br/>Magdalen College, Oxford.<br/>16th April 1947.<br/><br/>Dear Professor Bush,<br/><br/>What I mean by refusing to call Hooker a Dynamist is that he says “They do err who hold that of the Will of God to do thus or thus there is no reason save His will.” I’m glad you liked the review. Congratulations on writing the best O.H.E.L. volume yet – if this is not to damn with faint praise, for E. K. C.* I thought wretched. I never dreamed of your having read my stories.<br/><br/>With all good wishes. Are you coming to this island? Be sure and beat up my quarters if you do.<br/><br/>yours sincerely,<br/>C. S. Lewis",
+        "type": "Letter",
+        "notes": null
+    },
+    {
         "title": "Letter to A.K. Hamilton Jenkin (31 May 1947)",
         "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: HiddenSpring [Paulist])",
         "issueOrVolume": null,
@@ -1934,7 +2000,7 @@ const texts = [
     },
     {
         "title": "Letter to Kenneth Tynan (December 1948)",
-        "printedIn": "Kathleen Tynan, The Life of Kenneth Tynan (New York: William Morrow)",
+        "printedIn": "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
         "issueOrVolume": null,
         "pageRange": "114",
         "year": 1987,
@@ -1944,7 +2010,18 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Canon Smyth (13 March 1940)",
+        "title": "Testimonial for E.L. Edmonds, holograph (18 Oct 1937)",
+        "printedIn": "<i>Canadian C.S. Lewis Journal</i>",
+        "issueOrVolume": "vol. 59",
+        "pageRange": "1",
+        "year": 1987,
+        "monthAndDay": "Summer",
+        "textProvided": "false",
+        "type": "Letter",
+        "notes": null
+    },
+    {
+        "title": "Letter to Canon Smyth (13 March 1949)",
         "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in collecting his works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
         "pageRange": "128",
@@ -2000,7 +2077,7 @@ const texts = [
     },
     {
         "title": "Letter to Laurence Harwood (1940s)",
-        "printedIn": "Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Harwood, “The Kilns Celebration and Dedication Service” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "226",
         "year": 2006,
@@ -2021,7 +2098,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Cecil Harwood (July 1944)",
+        "title": "Letter to John Harwood (9 May 1950)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "118",
@@ -2032,7 +2109,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Cecil Harwood (July 1944)",
+        "title": "Letter to Cecil Harwood (May 1950)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "117-118",
@@ -2043,7 +2120,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Cecil Harwood (July 1944)",
+        "title": "Letter to Cecil Harwood (22 May 1950)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "119",
@@ -2120,6 +2197,17 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Letter to Children at Grittleton House School (22 May 1952)",
+        "printedIn": "“Fine Books, Maps & Manuscripts,” the Dominic Winter Auctioneers catalogue for 12 September",
+        "issueOrVolume": null,
+        "pageRange": "65",
+        "year": 2018,
+        "monthAndDay": null,
+        "textProvided": "Magdalen, College, <br/>Oxford May 22d. 1952<br/><br/>My dear Grittletonians – Thanks for your nice and interesting letters. Like you, I am sorry that Peter and Susan are not coming back to Narnia, but I think, being the two eldest, they are now getting to the age at which people stop having that sort of adventure for a time – they may start having it again later, but not for some years. The new book is called <i>The Voyage of the Dawn Treader</i>. Lucy and Edmund find Caspian (now King of course) on board ship, sailing to the Eastern end of the Narnian world. There will be lots about Reepicheep. And there will be a Sea Serpent, and a Dragon, and lots of strange islands. I do hope you will all like it. I intend to have seven of these stories altogether – that is, four more after the next one. They will be called The Chronicles of Narnia. The <s>fifth</s> sixth book goes right back to the beginning and explains how there came to be that magic Wardrobe in the Professor’s house – for of course you will have guessed that the old Professor must have known something about things like that himself, or else he would never have believed what the children told him. I don’t know yet what will happen in the seventh. What do you think would be a good thing to end the whole series with? Of course Aslan will come into them all.<br/><br/>I wonder what other books you all like. I like George MacDonald’s two <i>Curdy</i> books, and Tolkien’s <i>The Hobbit,</i> and <i>The Wind in the Willows</i>. Do you write stories yourselves? I did at your age: it is the greatest fun.<br/><br/>Love and all good wishes to all, <br/>yours ever<br/>C.S. Lewis<br/><br/>P.S. E. Nesbitt’s books are splendid, I think: especially <i>The Phoenix and the Wishing Carpet</i> and <i>The Amulet</i>.",
+        "type": "Letter",
+        "notes": null
+    },
+    {
         "title": "Letter to Joan Pile (5 June 1952)",
         "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
         "issueOrVolume": null,
@@ -2153,7 +2241,7 @@ const texts = [
         "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 415."]
     },
     {
-        "title": "Letter to Mary Van Deusen [\"Mrs. Arnold\"] (8 January 1952)",
+        "title": "Letter to “Mrs. Lockley” from Magdalen College (8 January 1952) ",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "236-237",
@@ -2242,7 +2330,7 @@ const texts = [
     },
     {
         "title": "Letter to Mary Neylan (1940)",
-        "printedIn": "Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2006,
@@ -2308,7 +2396,7 @@ const texts = [
     },
     {
         "title": "Letter to Paul Piehler (14 November 1953)",
-        "printedIn": "Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Piehler, “Encounters with Lewis: An Interim Report” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "136-137",
         "year": 2006,
@@ -2362,7 +2450,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Dom Bede Griffiths (5 November 1954)",
+        "title": "Letter to Dom Bede Griffiths (1 November 1954)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "258",
@@ -2403,7 +2491,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "Cambridge is charming. No Lord Nuffield (drat the man!) has come to turn it into a huge industrial city, and one can still feel the county-town under the academic surface. In that way it is more like what Oxford was in my young days.",
         "type": "Letter",
-        "notes": null
+        "notes": ["This letter was deleted from the Revised and Expanded version of this <i>Biography</i>."]
     },
     {
         "title": "Letter to Sister Penelope (18 June 1956)",
@@ -2415,6 +2503,17 @@ const texts = [
         "textProvided": "If you can persuade any “sucker” (as the Americans say) to buy the MS of <i>Screwtape,</i> pray do, and use the money for any pious or charitable object you like. … Did it ever occur to you that the replacement of scrawled old manuscript by the clear, printed book in mint condition is a pretty symbol of resurrection?",
         "type": "Letter",
         "notes": ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 720."]
+    },
+    {
+        "title": "Letter to Mr. Evans (20 September 1956)",
+        "printedIn": "Charlie W. Starr, <i>The Faun’s Bookshelf: C.S. Lewis on Why Myth Matters (Kent, OH: Black Squirrel Books)",
+        "issueOrVolume": null,
+        "pageRange": "107",
+        "year": 2018,
+        "monthAndDay": null,
+        "textProvided": "The Kilns, Headington Quarry, Oxford, England <br/>Sept 20/56<br/><br/>Dear Mr. Evans – I fear you wd. find it a complete disappointment if we met. I see no visions. I claim no knowledge which all Christians do not have. I <i>believe</i> of course in angels; but my representation of them in my romances is pure fiction and was never intended to be taken as anything else.<br/><br/>Of course I take your letter “seriously” – that is, I don’t think you are “pulling my leg.” May I add, though, that most wise and experienced believers tell me not to attach much im- portance to visions? They may be what they seem: they may be the work of one’s own imagination: they may even be delusions sent by the enemy to distract us from the real centre of the Christian life – which lies, as no doubt you know, in love and obedience and the surrender of one’s will to Christ. St. Paul puts us right, doesn’t he, in 1 <i></i>Corinthians, chapter 13?<br/><br/>With all good wishes, <br/>Yours sincerely<br/>C. S. Lewis",
+        "type": "Letter",
+        "notes": null
     },
     {
         "title": "Letter to Richard Ladborough (1956)",
@@ -2464,7 +2563,7 @@ const texts = [
         "title": "Letter to Sister Madeleva (8 May 1957)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks)",
         "issueOrVolume": null,
-        "pageRange": "464",
+        "pageRange": "464-465",
         "year": 1988,
         "monthAndDay": null,
         "textProvided": "8 May ’57<br/>Dear Sister Madeleva<br/><br/>It is always nice to hear from you again. But alas, I was never less likely to come to America than now. I am newly married and to a dying woman. Every moment is spent at her bedside. I am sure we may both count on your prayers: and I, your prayers for help and guidance in the difficult responsibility of bringing up two orphan stepsons. I have only one qualification, if it is one: these two boys are now facing the very same calamity that befell my brother and me at about their age.",
@@ -2486,7 +2585,7 @@ const texts = [
         "title": "Letter to Sister Penelope (6 November 1957)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
-        "pageRange": "470",
+        "pageRange": "470-471",
         "year": 1988,
         "monthAndDay": null,
         "textProvided": "6 November 1957<br/>Dear Sister Penelope<br/><br/>Whatever our state had been a letter from you wd always have cheered and comforted. In reality it is beyond all we dared to hope. When they sent Joy home from hospital last April, they sent her home to die. The experienced nurses expected her life to be a matter of weeks. She could not even be moved in bed without a lifting squad of three of us, and, with all our care, we nearly always hurt her.<br/><br/>Then it began to appear that the cancer had been arrested: the diseased spots in the bones were no longer spreading or multiplying. Then the tide began to turn – they were disappearing. New bone was being made. And so little by little till the woman who cd hardly be moved in bed can now walk about the house and into the garden – limping and with a stick, but walking. She even found herself getting up <i>unconsciously</i> to answer the telephone the other day. It is the unconsciousness that is the real triumph – the body wh. could not obey the most planned volition now begins to act on its own. General health and spirits excellent. Of <i>course</i> the sword of Damocles still hangs over us: or, shd I say, <i>we</i> are forced to be aware of the sword wh. really overhangs all mortals.<br/><br/>Did I tell you I also have a bone disease? It is neither mortal nor curable: a prematurely senile loss of calcium. I was v. crippled and had much pain all summer but am in a good spell now. I was losing calcium just about as fast as Joy was gaining it, and a bargain (if it were one) for wh. I’m v. thankful. So continue your prayers but now with fervent thanks. I am almost frightened by God’s mercies: how can we ever be good enough?<br/><br/>I’ve been reading some of the books you mention. I was busy on Macrobius, Chalcidius, Boethius & Pseudo-Dionysius for a book wh. will probably be called <i>Prolegomena to Medieval Poetry.</i> That late antique period when a sort of synthesized high Paganism (mainly neo-Platonic) and Christian theology were both contending and influencing each other is fascinating …",
@@ -2766,7 +2865,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "9 May 62<br/<br/>Dear Marsh<br/<br/At last I’ve got round to the libretto. Quite frankly, I think it just stunningly good. It brought tears to my eyes in places. Ransom’s repeated “Yes, I’m frightened” is excellent. The mask on Weston is exactly right and if anyone can sing the part, bringing out the two voices properly, it will be terrific. I do very heartily congratulate you.<br/<br/Yours, C. S. Lewis",
         "type": "Letter",
-        "notes": null
+        "notes": ["Holograph reprinted in Perelandra Conference Progamme, Oxford C.S. Lewis Society, 26-27 June 2009, 2, and back cover of Perelandra, the Opera, programme for the concert production on 25 & 26 June 2009, Oxford C.S. Lewis Society, 2009."]
     },
     {
         "title": "Letter to Sister Penelope (23 June 1962)",
@@ -2780,7 +2879,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Henry Noel (12 November 1962)",
+        "title": "Letter to Henry Noel (14 November 1962)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "306",
