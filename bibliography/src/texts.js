@@ -144,6 +144,17 @@ const texts = [
         "notes": ["Does not appear in the <i>Collected Letters</i> or, to my knowledge, any other collection."]
     },
     {
+        "title": "Preface to <i>That Hideous Strength</i>",
+        "printedIn": "<i>That Hideous Strength</i> (London: John Lane the Bodley Head)",
+        "issueOrVolume": null,
+        "pageRange": "7-8",
+        "year": 1945,
+        "monthAndDay": null,
+        "textProvided": "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i></i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1st edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Madgalen College, Oxford.</i><br/>[1st UK ed. ends here, but US 1st ed. adds: <i>Christmas Eve, 1943</i>]",
+        "type": "Prose",
+        "notes": ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1st US edition (Macmillan, 1946)."]
+    },
+    {
         "title": "\"A Christian Reply to Professor Price\"",
         "printedIn": "<i>Phoenix Quarterly</i>",
         "issueOrVolume": "vol. 1, no. 1",
@@ -164,6 +175,17 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
+    },
+    {
+        "title": "Preface to <i>The Tortured Planet</i>",
+        "printedIn": "<i>The Tortured Planet (That Hideous Strength)</i> (New York: Avon Books)",
+        "issueOrVolume": null,
+        "pageRange": "[unknown]",
+        "year": 1946,
+        "monthAndDay": null,
+        "textProvided": "This is a ‘tall story’ about devilry, though it has behind it a serious ‘point’ which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think Fellows of Colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham – a university with which the only connection I have ever had was entirely pleasant.<br/><br/>In reducing the original story to a length suitable for this edition, I believe I have altered nothing but the tempo and the manner. I myself prefer the more leisurely pace-I would not wish even <i>War and Peace</i> or <i>The Faerie Queene</i> any shorter-but some critics may well think this abridgment is also an improvement.",
+        "type": "Prose",
+        "notes": ["This is a substantially shortened version of the original 1945 Preface, with an additional paragraph on the literary effect of the abridgment."]
     },
     {
         "title": "Blurb for <i>Essays Presented to Charles Williams</i>",
@@ -629,6 +651,39 @@ const texts = [
         "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-92."]
     },
     {
+        "title": "Juvenilia: note on Shakespeare",
+        "printedIn": "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
+        "issueOrVolume": null,
+        "pageRange": "9",
+        "year": 1985,
+        "monthAndDay": null,
+        "textProvided": "Who do you think wrote the best plays? I can form a good idea which poet wrote the best. When Shakespeare was alive he wrote the best, what play do you think was the best. I think <i>Hamlet</i> was.",
+        "type": "Prose",
+        "notes": ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this note can be found on 232."]
+    },
+    {
+        "title": "Juvenilia: short story “Life of Little Mr White”",
+        "printedIn": "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
+        "issueOrVolume": null,
+        "pageRange": "11-12",
+        "year": null,
+        "monthAndDay": null,
+        "textProvided": "White as we know is of good qualitys as a frog, but strange to say is of poor lineage. Many people are under an error concerning his family history. He can be traced to the Bigs. His derect parents were farmers in the country of Frog-land, but his grand-father was the brother of Big’s father: thus Marshel Wite is conected with the famous Sir Big but was much younger. Mr Little was borne at slimy-bay in the reign of ‘King Mouse the Good’. Wite at the age of 10 left his school, and served Tom Anderson for 13 years. (Tom Anderson was a millar.) No sooner had he left Tom Anderson than he went into the Army.",
+        "type": "Prose",
+        "notes": ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this story can be found on 233."]
+    },
+    {
+        "title": "Juvenilia: note on “How to Make Man Picturesc”",
+        "printedIn": "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
+        "issueOrVolume": null,
+        "pageRange": "15-16",
+        "year": null,
+        "monthAndDay": null,
+        "textProvided": "In his present state it is all-most impossible to do such a a [sic] thing. For instance: ‘The hideous topper’, ‘The Loathsome frock coat.’ Ouf the beastly things, how can man continue to wear them? The dress in which boys are generally clothed are not much better. The sailor suit is awful!! Terrible! FEARFUL!! The thing is that some old-fashioned dress must be adopted, and I really think that then man might look pictures.",
+        "type": "Prose",
+        "notes": ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this note can be found on 236."]
+    },
+    {
         "title": "“Critique of Locke” section of philosophical notes",
         "printedIn": "James Patrick, <i>The Magdalen Metaphysicals: Idealism and Orthodoxy at Oxford 1901-45</i> (Macon: Mercer University Press)",
         "issueOrVolume": null,
@@ -660,6 +715,17 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
+    },
+    {
+        "title": "Holograph of note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees  ",
+        "printedIn": "<i>Canadian C.S. Lewis Journal,</i>",
+        "issueOrVolume": "vol. 64",
+        "pageRange": "11",
+        "year": 1988,
+        "monthAndDay": "Summer",
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, please send it to me!"]
     },
     {
         "title": "Fragments of an Essay on Richard Wagner (1911)",
@@ -736,7 +802,18 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["For more information on this piece, see the introduction by Beebe in the same issue of <i>SEVEN,</i> 7-24."]
+        "notes": null
+    },
+    {
+        "title": "“Scraps” of ideas in notebook with Lefay fragment and “Language and Human Nature” fragment ",
+        "printedIn": "Steven A. Beebe, “C.S. Lewis on Language and Meaning: Manuscript Fragment Identified”",
+        "issueOrVolume": "vol. 27",
+        "pageRange": "9",
+        "year": 2010,
+        "monthAndDay": null,
+        "textProvided": "In addition to early drafts of <i>The Magician’s Nephew</i> and <i>The Voyage of the Dawn Treader,</i> there are what appear to be scraps of ideas (a short paragraph or two) about the following:<br/><br/><br/>ꞏ the authority of the church (“The fact that we accept the Bible as the authority of the Church does not make the authority of the Church the higher of the two.”)<br/>ꞏ ideas about time (“The idea of time is no more necessarily bound up with change and motion than it is with permanence and rest.”)<br/>ꞏ the nature of prayer (“Why should we tell God in our prayers of necessities He knows already? Because he prefers to hear them from us.”)<br/>ꞏ ideas reflected in the poem “The Country of the Blind” or chapter three of Miracles when he discusses the differences between an eye and a photo-sensitive spot (“One can imagine an isolated community where for some reason was gradually, generation by generation, going blind.”)<br/> ꞏ miscellaneous bibliographical notes.",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "“C.S. Lewis, interviewed by Wayland Young 19 January 1962”",
@@ -926,17 +1003,6 @@ const texts = [
         "notes": ["Prefaced with an essay by Norbert Feinendegen."]
     },
     {
-        "title": "Account of a mock Shakespearean play in the Vice-President’s Register of Magdalen College (1941)",
-        "printedIn": "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
-        "issueOrVolume": null,
-        "pageRange": "58",
-        "year": 2018,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["Derrick does not quote any excerpt of Lewis’s play, “which runs on for several pages,” but she appears to be the first Lewis scholar to publicize its existence.", "Derrick sources her account as follows: “C. S. Lewis, entry in Vice-President Register, 1941, MC:VP1/A1/6, Magdalen College Archives, Oxford University, Oxford.”"]
-    },
-    {
         "title": "Archangel Fragment from Notebook V",
         "printedIn": "Brenton D.G. Dickieson and Charlie W. Starr, \"The Archangel Fragment and C.S. Lewis's World-Building Project,\" <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 13",
@@ -1059,7 +1125,7 @@ const texts = [
         "notes": ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
     },
     {
-        "title": "Excerpt from Oxford Diary (3 Jun 1926)",
+        "title": "Excerpt from Oxford Diary (3 June 1926)",
         "printedIn": "Peter J. Schakel, <i>Reason and Imagination in C.S. Lewis: A Study of</i> Till We Have Faces (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "44",
@@ -1068,6 +1134,28 @@ const texts = [
         "textProvided": "...a curious dream in the night.",
         "type": "Diary",
         "notes": ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in <i>All My Road Before Me.</i> The final one, however, from 3 June 1926, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
+    },
+    {
+        "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        "printedIn": "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
+        "issueOrVolume": null,
+        "pageRange": "12",
+        "year": 1985,
+        "monthAndDay": null,
+        "textProvided": "[Dedicated] To Miss Maude Scott … I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat, Maude is far worse than Mat, but she thinks she is a saint … I HATE Maude. … Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin and generally weraing a jersey. … I have left out an important member of the family namly my grand-father, who lives in a little room of his own up-stairs he is a nice old man in some ways but he pitys him-self rather much, however all old people do that.",
+        "type": "Diary",
+        "notes": ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this entry can be found on 233."]
+    },
+    {
+        "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        "printedIn": "C.S. Lewis, <i>Letters to Children,</i> ed. Lyle W. Dorsett and Marjorie L. Mead (New York: Macmillan)",
+        "issueOrVolume": null,
+        "pageRange": "8",
+        "year": 1985,
+        "monthAndDay": null,
+        "textProvided": "Papy is of course the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. I am like most boys of 8 and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersey. ...Hoora! Warnie comes home this morning. I am lying in bed waiting for him and thinking about him, and before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk…",
+        "type": "Diary",
+        "notes": null
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
@@ -1095,14 +1183,13 @@ const texts = [
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
         "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
         "issueOrVolume": null,
-        "pageRange": "5-6",
+        "pageRange": "5-6, 696",
         "year": 1996,
         "monthAndDay": null,
-        "textProvided": "[5] Papy of course is the master of th house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen [6] not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice olo man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards...",
+        "textProvided": "[5] Papy of course is the master of th house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen [6] not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice olo man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards...<br/><br/> [He said his father [696] was] “very sensible” [and] “nice when not in a temper” [while his mother is] “like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry.” [As Christmas draws near we learn how Warnie comes home from school, of the various Lewis an dHamilton relations who drop in, how] “Mamy stoned raisins for the Xmas pudding” [, of how Jack and Warnie take to] “rushing about the house” [and of the play which Jack is writing to perform for the family on Christmas Day. The document ends with the words] “The old year out and the new year in” [LP III:88-92.]",
         "type": "Diary",
-        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather and (b) an additional sentence about his excitement hearing Warnie come home.", "Hooper cites the <i>Lewis Papers</i> III:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 40."]
+        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites the <i>Lewis Papers</i> III:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
-
     // LETTERS
     // letters discovered by me
     {
