@@ -62,7 +62,7 @@ const texts = [
         "pageRange": "316",
         "year": 1942,
         "monthAndDay": "2 November",
-        "textProvided": "<i>The Guardian,</i> 2 October 1942<br/><br/>MIRACLES<br/><br/>An Address by Mr. C. S. Lewis<br/><br/>On Sunday at St. Jude’s, Hampstead Garden Suburb, Mr. C. S. Lewis, author of The Screwtape Letters, gave an address after Evensong on “ Miracles.” He said that he had only met one person who claimed to have seen a “ghost,” and she was a disbeliever in immortality, both before and after she had seen it. She said that it was an hallucination; and it might have been.<br/><br/>Seeing was not believing. That was one of the first things to note in regard to mira-cles. Our senses were not infallible. If a man held a philosophy which excluded the supernatural, he could always say that he had been the victim of an illusion. Miracles would appear to have diminished and ceased as materialism became the popular philosophy of Western Europe. If the materialist saw the Heavens roll up and the great white throne appear, he would not believe in the supernatural. Experience by itself proved nothing. The materialist might doubt whether he was waking or dreaming, and what could convince him that what he saw was not a dream? People said that their ancestors, taking the supernatural for granted, saw miracles where no miracles occurred. He thought it very likely that they did. But there was one thing which they simply must not say about their ancestors, and that was that they believed in miracles because they did not know about nature. When St. Joseph was minded to put away his bride, he knew the law of biology. When he heard the Christian explanation, he accepted it as a miracle. If people had no knowledge of the laws of nature, they would not recognize anything as a miracle. They could not think and act in a world of nature without claiming even for themselves a slightly supernatural status. They would find the world buzzing with the miraculous. History was full of it. Many a missionary would tell of miracles which he had seen happening. They would find that one set of people − the Church of Rome − claimed that miracles occurred quite often. Of course, most stories of miracles were unreliable, but most stories of all events were unreliable. What they must not do was to rule out the miraculous in advance as the one impossible explanation.<br/><br/><b>The Activity of God Through Creation</b><br/><br/>When the Old Testament said that Sennacherib’s invasion was put an end to by the Angel of the Lord, and Herodotus said that it was because an enormous number of mice came along and ate the bowstrings of Sennacherib’s army, he thought that a cautious and sensible mind would be on the side of the angels, because they knew that mice did not do such things − unless it was angels who induced them to do it, in which case he wished that one of the great artists had painted a picture of it. He thought that people disbelieved in miracles, first because, though they knew that God could do those things, they did not think that He would. They confused the laws of nature with the laws of thought, and they thought that the resurrection of the dead was something intrinsically impossible, like two and two making five. The answer was that there was an activity of God displayed through creation, and men refused to recognize it. Miracles were a performance, close-up, very quick, and very small, of what God in His wholesale activity was doing all the time. Of God’s wholesale activity, part was already unrolled; other parts were not yet done on a wholesale scale.<br/><br/><b>Our Lord’s Miracles</b><br/><br/>Some of our Lord’s miracles reminded men of what God had already done; others pointed to what He had not yet done wholesale. God had created water and the vine; and He used the vine to draw up water and form a juice which, when fermented, became wine. So every year God turned water into wine. But, of course, when Christ, God Incarnate, turned water into wine in a moment, then the thing was being done in small letters so that men could recognize it. The teaching of the miracle would have its full effect when they never passed a vine without thinking: “Here works He Who turned water into wine at the marriage feast in Cana.” Every Year God turned water into wine, and men did not see it. When Christ fed the five thousand, He multiplied bread that was there. He did not make bread out of nothing, or out of stones. It was the devil who suggested that Christ should command stones to become bread. In the feeding of the five thousand, Christ did the same kind of thing as God did in nature. A doctor knew that, if there was any magic in healing, it was not in the medicine, but in the patient’s body. The medicine could only remove obstructions, or stimulate activity. Every man who was healed was healed by God from within, and men did not see it. But once God did it with the mask off, quickly and suddenly, by our Lord’s miraculous action.<br/><br/><b>The Virgin Birth</b><br/><br/>Then they came to the one miracle which for some reason seemed a greater offence to the modern mind than any other. What were they to make of the person who said: “I can believe in some miracles, but not in the Virgin Birth?” Was it that it seemed to be a slur on sexual intercourse, which seemed to be the one thing venerated in a world which had ceased to venerate? Yet nothing went further to the root of the matter. The actual moment of begetting was only the final apex, which, if they knew enough, they would have to trace back to the origin of matter. But once God did it in an instant of time, chiefly, of course, for a special purpose, avoiding the silt carried down through the ages, because at that moment He was recreating the world, but also showing men where life came from. There could be only one source of life. There was only one life. He asked them not to suppose that what he was saying was an attempt to make mira-cles less miraculous. To do suddenly what God did in nature, those things were miracles. They were of a different kind from Grimm’s Fairy Tales and Ovid’s Meta-morphoses, which were great fun to read, but the slightest suspicion of truth in them would be a nightmare. True miracles implied not merely a god, but God.<br/><br/>Secondly, there were the miracles which foretold what God had not yet done whole-sale. He raised one man from the dead, because one day He would raise all men. The Resurrection in one sense involved a reversal of nature. It meant a process in the oppo-site direction to that man had seen. It did not, he thought, imply the return to personality of the same particles as those which had made the body. But it meant that they would see played forward a film which they had only seen played backward. Of course, they could not realize an event outside all their experience.<br/><br/>Athanasius and George Macdonald seemed to have been very right. Both the laws of nature and miracles were full stores for the questioning intellect. If miracles meant that which could not be explained, then nature herself was one great miracle.",
+        "textProvided": "<i>The Guardian,</i> 2 October 1942<br/><br/>MIRACLES<br/><br/>An Address by Mr. C. S. Lewis<br/><br/>On Sunday at St. Jude’s, Hampstead Garden Suburb, Mr. C. S. Lewis, author of The Screwtape Letters, gave an address after Evensong on “Miracles.” He said that he had only met one person who claimed to have seen a “ghost,” and she was a disbeliever in immortality, both before and after she had seen it. She said that it was an hallucination; and it might have been.<br/><br/>Seeing was not believing. That was one of the first things to note in regard to mira-cles. Our senses were not infallible. If a man held a philosophy which excluded the supernatural, he could always say that he had been the victim of an illusion. Miracles would appear to have diminished and ceased as materialism became the popular philosophy of Western Europe. If the materialist saw the Heavens roll up and the great white throne appear, he would not believe in the supernatural. Experience by itself proved nothing. The materialist might doubt whether he was waking or dreaming, and what could convince him that what he saw was not a dream? People said that their ancestors, taking the supernatural for granted, saw miracles where no miracles occurred. He thought it very likely that they did. But there was one thing which they simply must not say about their ancestors, and that was that they believed in miracles because they did not know about nature. When St. Joseph was minded to put away his bride, he knew the law of biology. When he heard the Christian explanation, he accepted it as a miracle. If people had no knowledge of the laws of nature, they would not recognize anything as a miracle. They could not think and act in a world of nature without claiming even for themselves a slightly supernatural status. They would find the world buzzing with the miraculous. History was full of it. Many a missionary would tell of miracles which he had seen happening. They would find that one set of people − the Church of Rome − claimed that miracles occurred quite often. Of course, most stories of miracles were unreliable, but most stories of all events were unreliable. What they must not do was to rule out the miraculous in advance as the one impossible explanation.<br/><br/><b>The Activity of God Through Creation</b><br/><br/>When the Old Testament said that Sennacherib’s invasion was put an end to by the Angel of the Lord, and Herodotus said that it was because an enormous number of mice came along and ate the bowstrings of Sennacherib’s army, he thought that a cautious and sensible mind would be on the side of the angels, because they knew that mice did not do such things − unless it was angels who induced them to do it, in which case he wished that one of the great artists had painted a picture of it. He thought that people disbelieved in miracles, first because, though they knew that God could do those things, they did not think that He would. They confused the laws of nature with the laws of thought, and they thought that the resurrection of the dead was something intrinsically impossible, like two and two making five. The answer was that there was an activity of God displayed through creation, and men refused to recognize it. Miracles were a performance, close-up, very quick, and very small, of what God in His wholesale activity was doing all the time. Of God’s wholesale activity, part was already unrolled; other parts were not yet done on a wholesale scale.<br/><br/><b>Our Lord’s Miracles</b><br/><br/>Some of our Lord’s miracles reminded men of what God had already done; others pointed to what He had not yet done wholesale. God had created water and the vine; and He used the vine to draw up water and form a juice which, when fermented, became wine. So every year God turned water into wine. But, of course, when Christ, God Incarnate, turned water into wine in a moment, then the thing was being done in small letters so that men could recognize it. The teaching of the miracle would have its full effect when they never passed a vine without thinking: “Here works He Who turned water into wine at the marriage feast in Cana.” Every Year God turned water into wine, and men did not see it. When Christ fed the five thousand, He multiplied bread that was there. He did not make bread out of nothing, or out of stones. It was the devil who suggested that Christ should command stones to become bread. In the feeding of the five thousand, Christ did the same kind of thing as God did in nature. A doctor knew that, if there was any magic in healing, it was not in the medicine, but in the patient’s body. The medicine could only remove obstructions, or stimulate activity. Every man who was healed was healed by God from within, and men did not see it. But once God did it with the mask off, quickly and suddenly, by our Lord’s miraculous action.<br/><br/><b>The Virgin Birth</b><br/><br/>Then they came to the one miracle which for some reason seemed a greater offence to the modern mind than any other. What were they to make of the person who said: “I can believe in some miracles, but not in the Virgin Birth?” Was it that it seemed to be a slur on sexual intercourse, which seemed to be the one thing venerated in a world which had ceased to venerate? Yet nothing went further to the root of the matter. The actual moment of begetting was only the final apex, which, if they knew enough, they would have to trace back to the origin of matter. But once God did it in an instant of time, chiefly, of course, for a special purpose, avoiding the silt carried down through the ages, because at that moment He was recreating the world, but also showing men where life came from. There could be only one source of life. There was only one life. He asked them not to suppose that what he was saying was an attempt to make mira-cles less miraculous. To do suddenly what God did in nature, those things were miracles. They were of a different kind from Grimm’s Fairy Tales and Ovid’s Meta-morphoses, which were great fun to read, but the slightest suspicion of truth in them would be a nightmare. True miracles implied not merely a god, but God.<br/><br/>Secondly, there were the miracles which foretold what God had not yet done whole-sale. He raised one man from the dead, because one day He would raise all men. The Resurrection in one sense involved a reversal of nature. It meant a process in the oppo-site direction to that man had seen. It did not, he thought, imply the return to personality of the same particles as those which had made the body. But it meant that they would see played forward a film which they had only seen played backward. Of course, they could not realize an event outside all their experience.<br/><br/>Athanasius and George Macdonald seemed to have been very right. Both the laws of nature and miracles were full stores for the questioning intellect. If miracles meant that which could not be explained, then nature herself was one great miracle.",
         "type": "Prose",
         "notes": ["An earlier, shorter version of the essay \"Miracles.\""]
     },
@@ -276,15 +276,15 @@ const texts = [
         "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433."]
     },
     {
-        "title": "Preface to Miracles",
-        "printedIn": "<i>Miracles: A Preliminary Study</i> (New York: Association Press)",
+        "title": "Preface, abridgements, and revisions to <i>Miracles</i>",
+        "printedIn": "<i>Miracles: A Preliminary Study</i>, A Reflection Book (New York: Association Press)",
         "issueOrVolume": null,
-        "pageRange": "copyright page of the front matter",
+        "pageRange": "passim",
         "year": 1958,
         "monthAndDay": null,
-        "textProvided": "This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
+        "textProvided": "[Preface] <br/><br/>This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
         "type": "Prose",
-        "notes": ["This abridgement of <i>Miracles</i> was made by Lewis himself."]
+        "notes": ["Lewis deleted chapters II-VI, IX, XI, XII, XVII and the two appendices entirely.", "The first chapter “The Scope of this book” was rewritten.", "There are many other changes in the text, but no one has yet made the comparison."]
     },
     {
         "title": "<i>Molliter Ossa Cubent</i>",
@@ -805,6 +805,17 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Typescript draft of <i>The Silver Chair</i> (pages 121 and 178)",
+        "printedIn": "Michael Ward, <i>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</i> (Oxford: Oxford University Press)",
+        "issueOrVolume": null,
+        "pageRange": "figure 21 in photo gallery and 300, note 36",
+        "year": 2008,
+        "monthAndDay": null,
+        "textProvided": "[121, entire]<br/><br/>His mouth shut like a box when he had said this, and in the great silence of that cave the children felt that they would not dare to speak again. The bare feet of the gnomes, padding on the deep moss, made no sound. There was no wind, there were no birds, there was no sound of water. There was no sound of breathing from the strange beasts.<br/><br/>When they had walked for several miles, they came to a wall of rock, and in it a low archway leading into another cavern. It was not, however, so bad as the last entrance and Jill could go through it without bending her head. It brought them into a smaller cave, long and narrow, about the shape and size of a cathedral. And here, filling almost the whole length of it, lay an enormous man fast asleep. He was far bigger than any of the giants, and his face was not like a giant’s, but noble and beautiful. His breast rose and fell gently under the snowy beard which covered him to the waist. A purse, silver light (no-one saw where it came from) rested upon him.<br/><br/>“Who’s that?” asked Puddleglum. And it was so long since anyone had spoken, that Jill wondered how he had the nerve.<br/><br/>“That is the god Saturn, who once was a King in Over-land,” said the Warden. “And now he has sunk down into the Deep Realm and lies dreaming of all the things that are done in the Upper world. Many sink down and few return to the sunlit lands. They say he will wake at the end of the world.”<br/><br/>[178]<br/><br/>[Jill says] “I wonder is what’s his name—Saturn—flooded out now.” [To which Eustace replies,] “I shouldn’t think the water has reached Saturn’s cave yet.”",
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "“Scraps” of ideas in notebook with Lefay fragment and “Language and Human Nature” fragment ",
         "printedIn": "Steven A. Beebe, “C.S. Lewis on Language and Meaning: Manuscript Fragment Identified”",
         "issueOrVolume": "vol. 27",
@@ -852,12 +863,67 @@ const texts = [
         "title": "\"Light\" Manuscripts",
         "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
-        "pageRange": "[see notes for page ranges]",
+        "pageRange": "",
         "year": 2012,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
         "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
+    },
+    {
+        "title": "Note on John Foxe",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
+        "issueOrVolume": null,
+        "pageRange": "40",
+        "year": 2012,
+        "monthAndDay": null,
+        "textProvided": "The good fame of John Foxe (1517-1587), attacked by the Roman side in his own day and by many others in the century, has been ably defended in our own time.",
+        "type": "Prose",
+        "notes": ["A slightly altered version of this text appears in <i>English Literature in the Sixteenth Century,</i> 299: “In 1940, however, Mr J. F. Mozley re-opened the whole question and defended Foxe’s integrity, as it seems to me, with complete success."]
+    },
+    {
+        "title": "Early notes for “Transposition”",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
+        "issueOrVolume": null,
+        "pageRange": "41",
+        "year": 2012,
+        "monthAndDay": null,
+        "textProvided": "A limited number of visceral and cardiac sensations symbolise a much larger number of psychological states: just as a limited number of piano notes symbolise a much larger number of orchestral noises. Similar relations can be seen between toys and things, black & white pictures and paintings, 2-dimensional shapes (in art) and 3 dimensional shapes (in the real world), letters and sounds, algebra & arithmetic. … <br/><br/>When the higher (e.g. intelligence) is explained by the lower (e.g. matter) it is the higher which does the explaining.<br/><br/>To say that God is incarnate in J.C. is to say (perhaps) that the Divine Score is in one instance perfectly transposed to a human key board.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Note for “The Nature of Reason,” a paper delivered to the Socratic Club on 15 October 1945",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
+        "issueOrVolume": null,
+        "pageRange": "43",
+        "year": 2012,
+        "monthAndDay": null,
+        "textProvided": "We are <u>reasoning</u> when our thought, if spoken, takes the form of <u>must be</u> or <u>cannot be</u>.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Note on a community gradually going blind",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
+        "issueOrVolume": null,
+        "pageRange": "64",
+        "year": 2012,
+        "monthAndDay": null,
+        "textProvided": "[Believers in the modern epistemology] make all ancient thought (e.g. Plato, Aquinas) look like a series of sophismata per figuram dictionis. [And if the Logical Positivists were to talk about] The Form of Beauty [it is very likely that their words would have no meaning. Even so, Lewis asks if such words truly indicate the] experience of a kind of thought which most moderns have ceased to experience but wh. was once commoner?",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Outline for chapter on “Life” in <i>Studies in Words</i>",
+        "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
+        "issueOrVolume": null,
+        "pageRange": "100",
+        "year": 2012,
+        "monthAndDay": null,
+        "textProvided": "...an interesting theory is to see whether we can at all recover the presence of mind in which it was possible to imagine say justice as something more than a concept purchased of abstraction for particular just acts: to recover in fact what has been called a Concrete Universal.",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "\"Early Prose Joy\" Manuscript",
@@ -3064,7 +3130,18 @@ const texts = [
         "type": "Letter",
         "notes": ["The last portion of the text, “like reading Mozart” etc., is given only in Wiliam Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 410, who otherwise only paraphrases."]
     },
-    // POETRY
+    // POEMS
+    {
+        "title": "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien” ",
+        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin)",
+        "issueOrVolume": null,
+        "pageRange": "31",
+        "year": 1978,
+        "monthAndDay": null,
+        "textProvided": "There was a time before the ancient sun<br/>And swinging wheels of heaven had learned to run<br/>More certainly than dreams; for dreams themselves<br/>Had bodies then and filled the world with elves.<br/>The starveling lusts whose walk is now confined<br/>To darkness and the cellarage of the mind,<br/>And shuddering and despairs and shapes of sin<br/>Then walked at large and were not cooped within.<br/>Thought cast a shadow: brutes could speak: and men<br/>Get children on a star. For spirit then <br/>Threaded a fluid world and dreamed it new<br/>Each moment. Nothing was false or new [misprint for 'true'].",
+        "type": "Poem",
+        "notes": ["Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
+    },
     {
         "title": "\"The Old Grey Mare\"",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</iQuoted> ed. Don W. King (Kent: Kent State University Press)",
@@ -4008,6 +4085,17 @@ const texts = [
         "year": 2007,
         "monthAndDay": null,
         "textProvided": "O Caecili care, jam </br>Pridem tibi scripseram </br>Me non posse non negare </br>(Surgit aliquid amari!) </br>Tuam invitationem.</br>Diram examinationem. </br>Faciendam habeo.</br>Multos pueros aro!</br></br>[Translation]</br></br>“Dear Cecil, I should have written to you long ago that I just have to turn down your invitation. Something unpleasant has come up. I’ve got to deal with a deadly exam – and I’m plowing a lot of lads!”",
+        "type": "Poem",
+        "notes": null
+    },
+    {
+        "title": "“Each book by Empson read” written into Lewis’s copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "296",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": "Each book by Empson read, becomes a land<br/>Transformed by some malign enchanters word;<br/>Each breaking land a <u>double-entendre</u> yields<br/>And teeming Mares build nest in all his fields.",
         "type": "Poem",
         "notes": null
     },
