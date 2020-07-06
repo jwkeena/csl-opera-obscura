@@ -677,7 +677,7 @@ const texts = [
         "printedIn": "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         "issueOrVolume": null,
         "pageRange": "15-16",
-        "year": null,
+        "year": 1985,
         "monthAndDay": null,
         "textProvided": "In his present state it is all-most impossible to do such a a [sic] thing. For instance: ‘The hideous topper’, ‘The Loathsome frock coat.’ Ouf the beastly things, how can man continue to wear them? The dress in which boys are generally clothed are not much better. The sailor suit is awful!! Terrible! FEARFUL!! The thing is that some old-fashioned dress must be adopted, and I really think that then man might look pictures.",
         "type": "Prose",
