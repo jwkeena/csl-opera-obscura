@@ -37,7 +37,7 @@ const texts = [
         "title": "\"From Johnson's Life of Fox\"",
         "printedIn": "<i>The Oxford Magazine</i>",
         "issueOrVolume": "LVI",
-        "pageRange": "737-38",
+        "pageRange": "737-738",
         "year": 1938,
         "monthAndDay": "9 June",
         "textProvided": "THE poetry of Fox, which is now to be considered, is more simple and unadorned than that of any other writer; nor need it excite the wonder of posterity if the regularity of nature and the sobriety of reason were not sufficient to save his compositions from disgust in an age when taste was formed on the incoherent excursions of Eliot and the petulant obscurity of Pound. But since the modes of error are agitated by continual change while truth remains always the same, his poetry now shines with undiminished lustre when the false wit of the Fantasticks is neglected by the polite, condemned by the judicious, and read by the learned with frigid indifference.<br/><br/>It does not appear that he formed his style, like Wordsworth, upon any philological system, or was guided to plainness of diction and justness of sentiment by any principles but those of his own genius. Natvilcius tells us that as Fox appears in his poetry, so he was in his conversation, and that in correcting the verses of his friends he invariably amputated exuberances and moderated enthusiasm: yet such was the sweetness of his address and the ease of his manners that we hear of no resentment inflamed and no friendship broken by this Draconian severity.<br/><br/>That he who sacrificed to the Muses with such parsimony sometimes solicited their kindness in vain, only panegyrical criticism will deny. If his poetry never disgusts us by the vacuity of affectation or the tremour of disproportionate splendour, it sometimes chills us with imbecility and avoids excellences as well as faults. Yet he has left no poem which does not please as a whole. He always performs more than he promises. The reader who at first expected only amusement finds himself insensibly transported, and wonders at last by what stealth a composition which seems to owe so little to art has afforded him so much pleasure and so much instruction.<br/><br/>The most considerable of his performances is the King Coel, a work which some have reproached as deficient in the unity of action. It must be allowed that the events related in the last book are not otherwise connected with the principal action of the poem than as they concern some of the same persons: but this is a fault which critical science discovers in vain while the common reader is content to be pleased. Others have enquired whether the poem be a just epick, an epyllion, or an idyll; but of disputes determinable by no appeal to reason or experience and originating only in the fury of nomenclature, who shall be the arbiter? The fable is probable, and there are no machines unless the soporifick faculty of the boy Rufus be so designated; and this so far conforms to the precepts of the ancients that it performs nothing which could have been performed without it. In this poem Fox writes about the middle sort of men and things, leading us through scenes neither splendid nor sordid, neither plunging us into the vulgarity of daily occupations nor summoning us into the airy regions of the marvellous, and engaging our interest in persons whose vices are not flagitious as their vertues are not beyond irritation. The old king is not very wise: but there is in his character much of the pathetick and every reader feels a kindness towards him. The love passages were concerned in his own day for their coldness and still excite the merriment of the French criticks; but he who reads to learn what may rationally be felt and innocently enjoyed will prefer them to the cant of profligacy and fashion, to the frenzies of Calpronede, the impurities of Freud, and the bathos of Dell. Constantius offers such love as a soldier and a man of sense may be expected to feel, and is rewarded with such affection as the nature of things commonly allows men to inspire.<br/><br/>In the Sacred Satire, as the theme is more awful, the manner is more severe. The sentiments are just and every reader wonders how he himself, on such a subject, has missed them. The lyrical piece prefixed to the Satire is one of the most pleasing effusion of poetical piety.<br/><br/>So little were the merits of Fox perceived by his own age that his elevation to the Chair of Poetry in the University of Oxford is said to have excited wonder. By this event Natvilcius tells us that no rival was mortified and no faction embittered, because all confessed that the supporters of Fox had neither overawed resistance by the splendour of their names nor undermined it by policy; that they had won by mere numbers a contest in which numbers are the only lawful means of victory; and that they had enrolled these numbers by no subtler strategem than that of disseminating widely what they believed sincerely. It is pleasing to learn that when the taste of the town was so corrupt, the justice and candour of the University remained thus unimpaired. Such are the obliquities of our vitiated nature that in some ages those very qualities which Natvilcius allows to the Foxites will be found more likely to irritate than to allay the displeasure of an adversary; nor is it recorded that Goliath found any consolation in reflecting that he who slew him was a shepherd and a boy.",
@@ -277,7 +277,7 @@ const texts = [
     },
     {
         "title": "Preface, abridgements, and revisions to <i>Miracles</i>",
-        "printedIn": "<i>Miracles: A Preliminary Study</i>, A Reflection Book (New York: Association Press)",
+        "printedIn": "new paperback edition of <i>Miracles: A Preliminary Study</i>, A Reflection Book (New York: Association Press)",
         "issueOrVolume": null,
         "pageRange": "passim",
         "year": 1958,
@@ -566,7 +566,7 @@ const texts = [
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
         "printedIn": "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
-        "pageRange": "126-27, 128",
+        "pageRange": "126-127, 128",
         "year": 1979,
         "monthAndDay": null,
         "textProvided": false,
@@ -615,7 +615,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> II, 484-5."]
+        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> II, 484-485."]
     },
     {
         "title": "Preface to \"Screwtape Proposes a Toast\"",
@@ -648,7 +648,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-92."]
+        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-392."]
     },
     {
         "title": "Juvenilia: note on Shakespeare",
@@ -984,7 +984,7 @@ const texts = [
         "title": "Alternate Preface to <i>The Screwtape Letters</i>",
         "printedIn": "Brenton Dickieson, “The Unpublished Preface to C.S. Lewis’ <i>The Screwtape Letters,</i>” <i>Notes & Queries</i>",
         "issueOrVolume": "vol. 60, no. 2",
-        "pageRange": "296-98",
+        "pageRange": "297-298",
         "year": 2013,
         "monthAndDay": null,
         "textProvided": false,
@@ -1317,7 +1317,7 @@ const texts = [
         "title": "Letter to James E. Higgins (2 December 1962)",
         "printedIn": "James Higgins, “A Letter from C.S. Lewis,” <i>The Horn Book Magazine</i>",
         "issueOrVolume": "xlii.5",
-        "pageRange": "533-34",
+        "pageRange": "533-534",
         "year": 1966,
         "monthAndDay": "19 October",
         "textProvided": "Magdalene College, Cambridge <br/>2 December 1962<br/><br/>Dear Mr. Higgins<br/><br/>1. Surely I never questioned the “legitimacy” of mythopoeia – only the propriety of classifying the art which it belonged to as “Literature.”<br/>2.	The Narnian books are not as much allegory as supposal. “Suppose there were a Narnian world and it, like ours, needed redemption. What kind of incarnation and Passion might Christ be supposed to undergo <i>there</i>?”<br/>3. Only after Aslan came into the story – on His own; I never called Him – did I remember the scriptural “Lion of Judah.”<br/>4. No. I never met Chesterton. I suppose the same affinity which made me like him made us both like Macdonald.<br/>5. I turned to fairy tales because that seemed the form which certain ideas and images in my mind seemed to demand; as a man might turn to fugues because the musical phrases in his head seemed to be “good fugue subjects.”<br/>6. When I wrote <i>The Lion</i> I had no notion of writing the others.<br/>7. Writing “juveniles” certainly modified my habits of composition. Thus (<i>a</i>) It imposed a strict limit on vocabulary (<i>b</i>) excluded erotic love (<i>c</i>) cut down reflective and analytical passages (<i>d</i>) led me to produce chapters of nearly equal length, for convenience in reading aloud. All these restrictions did me great good — like writing in a strict metre.Yes. I get wonderful letters from children in U. S. A. and elsewhere. <br/><br/>Yours sincerely,<br/>C. S. Lewis",
@@ -1579,10 +1579,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to C.T. Onions (1929)",
+        "title": "Letter to C.T. Onions (~February 1929-July 1930)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "4-5",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit mioluc remaining in certain dialects after it had become meol(u)c in others. In order to explain mioluc I have to posit miluc<br/><br/>As against this I find meolean cited by Wright (OE 49) not as an example of i fractured to io later eo, but as an example of e immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive meluks.× Am I entitled, then, to assume that the root entered OE both in the milform and in the mel-. ? And in the same way that selbur & silbur, selc & silk both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/>silf > siolf (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an i- form (silba) and that Gothic i ought normally to correspond to e in O.E. etc: also that Wright (O.E. 84.) cites seolf as an example of the fracture of e. In fact all the evidence before me is against an original silf: while an original self will reach seolf without going through the siolf stage which I need. (There is no hint in any authority of an -i- or -j- to turn seolf into sielf and thence silf.)Is it possible that, since many -eo words from i (lirn > leorn) etc had the intermediate io in certain dialects still retained, false io forms arose anologically [sic] even in the case of eo words from e? I take it, it is out of the question that e itself could ever pass through io to reach eo.<br/><br/>Yours<br/>C. S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither silf nor sylf appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds Historical Study of the Mother Tongue. Wyld’s Short History has no index worth a −−. Nor has Lizzie’s O.E. grammar.",
@@ -1659,7 +1659,7 @@ const texts = [
         "title": "Letter to C.T. Onions (14 March 1932)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "6",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, <br/>Oxford March 14th 1932<br/><br/>Dear Onions<br/><br/>I am sorry to hear of your armchair of sickness. Thanks very much for your notes on Chaucer which I look forward to running through in a week or so. Your conclusion seems to me <i>a priori</i> very probable.<br/><br/>For my article I leave you to choose between <i>The Origins of Mediaeval Allegory</i> and <i>Pre-History of the Mediaeval Allegory.</i> The point is that I deal not with the allegories so much as with the things which, in my view, led up to them: my thesis being that allegory owes little to the habit of interpreting scripture allegorically (wh. is usually given as its source) and is a natural outgrowth from Silver, and later, Latin lit. I hope you’ll soon be fit again.<br/><br/>Yrs<br/><br/>C. S. Lewis",
@@ -1681,7 +1681,7 @@ const texts = [
         "title": "Letter to C.T. Onions (5 September 1934)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "8",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Sept 5th 1934<br/><br/>Dear Onions<br/><br/>Will this do? If so, and if you want it typewritten, you can either send it back to me for that purpose, or else charge it to me at the Broad St. typist. I find it a little hard to be quite sure what Chambers is up to − so there may be more than one <i>ignoratio elenchi</i> in what I have written.<br/><br/>Yours<br/><br/> C. S. Lewis<br/><br/>He <i>is</i> a Professor, isn’t he?",
@@ -1722,10 +1722,10 @@ const texts = [
         "notes": ["Only found in the 2002 Fully Revised & Expanded Edition."]
     },
     {
-        "title": "Letter to C.T. Onions (1936)",
+        "title": "Letter to C.T. Onions (1940s-mid 1950s)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "16",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "<i>substitutes</i><br/><br/>Burton. <i>Anatomy</i> Part 2. Sec. 3 Mem. 3 (<i>ad fin.</i> after quotation <i>esto [sic] quod es</i> and before <i>Parentes, patriam</i>)<br/><br/>“The earth yields nourishment to vegetables, sensible creatures feed on vegetables, both are substitutes to reasonable souls”",
@@ -1744,10 +1744,10 @@ const texts = [
         "notes": ["Also quoted (partly) in Michael Ward, <i>Planet Narnia</i> (2008), 28."]
     },
     {
-        "title": "Letter to C.T. Onions (1938)",
+        "title": "Letter to C.T. Onions (~1934-1939)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "8-9",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>The passage in Aquinas bearing out your interpretation of Milton’s <i>in mist,</i> is Sum.Theol. Pars I Quaest 52. Art 3. <i>Ad quintum</i><br/><br/>non fuit vera comestio sed figurativa spiritualis comestionis. [“it was not a true eating, but figurative of spiritual eating.”]<br/><br/>I hope the crudity of my expression of first doubts was not impudent. I have learned to come to you for information with such “keen despatch of real Hunger and concoctive heate” that sometimes I forget my table manners.<br/><br/>We didn’t succeed in aiming Fox’s mind and knowledge at <i>our</i> target did we? Yours<br/><br/>C. S. Lewis",
@@ -1755,10 +1755,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to C.T. Onions (1938)",
+        "title": "Letter to C.T. Onions (~1934-1939)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "11",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, Oxford<br/><br/>Yes − I’ll have a try at the Boethius book.<br/><br/>C. S. L.",
@@ -2064,10 +2064,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to C.T. Onions (1946)",
+        "title": "Letter to C.T. Onions (~1945-1947)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "12",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "April 29th<br/><br/>My dear Onions,<br/><br/>Have you any idea why Gavin Douglas writes DEMING where he obviously means DEME (<i>Palice of Honour</i> Part 1 5th stanza from the end l. 3) and CLEPING where he must mean CLEPE(N) (Aen. Bk. VIII cap VI. l. 7) and INQUIRING in the previous chapter 4 lines from the end?<br/><br/>Yours<br/>C. S. Lewis",
@@ -2075,10 +2075,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to C.T. Onions (1946)",
+        "title": "Letter to C.T. Onions (early 1940s)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "11-12",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, <br/>Oxford Jan 12th<br/><br/>Dear Onions − (1.) I have foolishly promised to review Atkins for the Mag and had better not do him twice (2.) You are fully justified in snibbing me for the nones about <i>European Balladry,</i> but I now realise that what has made me procrastinate is my inability. I am quite unfit to review this book and can only apologize for wasting so much time. (3.) I ordered a new copy of it to be sent to you yesterday in place of the one which (as you two rightly suspected) I have marked,<br/><br/>Yours<br/><br/>C. S. Lewis",
@@ -2131,14 +2131,14 @@ const texts = [
     },
     {
         "title": "Letter to Chad Walsh (1948)",
-        "printedIn": "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich)",
+        "printedIn": "Afterword to <i>A Grief Observed</i> (New York: Bantam)",
         "issueOrVolume": null,
-        "pageRange": "17",
-        "year": 1979,
+        "pageRange": "110",
+        "year": 1976,
         "monthAndDay": null,
         "textProvided": "The pleasant story about my locking myself in my room when a woman invaded the college precincts is – I regret to say – pure bosh. For one thing, women are wandering through “the college precincts” the whole blessed day. For another, having taken female pupils of all ages, shapes, sizes, and complexions for about twenty years, I am a bit tougher than the story makes out. If I ever fled from a female visitor it was not because she was a woman but because she was a <i>bore,</i> or because she was the fifteenth visitor on a busy day.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979), 17."]
     },
     {
         "title": "Letter to the Royal Society of Literature (19 March 1948)",
@@ -2199,7 +2199,7 @@ const texts = [
         "title": "Letter to C.T. Onions (30 November 1949)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "15",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, Oxford <br/>Nov 30 / 49<br/><br/>Dear Onions − I am told that Blackwell has a set of de Bruyne <i>Etudes d’Aesthétique Médiévale</i> for 6 or 8 guineas. The Master of Campion and Gervase Matthews both recommend it highly. Wd. you think of it for the Library?<br/><br/>Yrs<br/>C. S. Lewis",
@@ -2207,10 +2207,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to C.T. Onions (1950s)",
+        "title": "Letter to C.T. Onions (mid-1950s)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "17",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>These are my cockshots at the Pearl. I don’t suppose any of them, except possibly the first, are worth a place in <i>Medium Aevum,</i> but they may serve for your private recreation,<br/><br/>yours,<br/>C. S. Lewis",
@@ -2540,7 +2540,7 @@ const texts = [
         "title": "Letter to C.T. Onions (14 September 1953)",
         "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
-        "pageRange": "1-22", // Get precise number
+        "pageRange": "16",
         "year": 2020,
         "monthAndDay": "April",
         "textProvided": "Magdalen College, <br/>Oxford 14th. <br/>September 1953.<br/><br/>Dear Onions,<br/><br/>Thanks, I got a useful letter from Miss ? about Skelton’s Diodorus. I don’t think I have a review in me at present, but I’ll try N.S.B’s book if you are not in a hurry.<br/><br/>Yours,<br/>C. S. Lewis",
@@ -2615,14 +2615,14 @@ const texts = [
     },
     {
         "title": "Letter to Richard Ladborough (1955)",
-        "printedIn": "Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and other reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich)",
-        "issueOrVolume": null,
-        "pageRange": "99",
-        "year": 1992,
+        "printedIn": "Richard W. Ladborough, “C.S. Lewis in Cambridge,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 6, no. 9",
+        "pageRange": "8",
+        "year": 1975,
         "monthAndDay": null,
         "textProvided": "Dear Dick,<br/><br/>May I call you that? <br/><br/>Jack",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and other reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 99 and in Remembering C.S. Lewis (San Francisco: Ignatius Press, 2005).", "Text may only be a paraphrase."]
     },
     {
         "title": "Letter to Mr. Canfield (28 February 1955)",
@@ -2670,14 +2670,14 @@ const texts = [
     },
     {
         "title": "Letter to Richard Ladborough (1956)",
-        "printedIn": "Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and other reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich)",
-        "issueOrVolume": null,
-        "pageRange": "104",
-        "year": 1992,
+        "printedIn": "Richard W. Ladborough, “C.S. Lewis in Cambridge,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 6, no. 9",
+        "pageRange": "10",
+        "year": 1975,
         "monthAndDay": null,
         "textProvided": "I am in great mental agony. Please pray for us.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and other reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 104 and in Remembering C.S. Lewis (San Francisco: Ignatius Press, 2005).", "Text may only be a paraphrase."]
     },
     {
         "title": "Letter to “one friend”",
@@ -2996,7 +2996,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "I seem to have turned a bio-chemical corner and shall soon be ready for the surgical one. But on the whole I haven’t had a bad time. I knew I was in danger but was not depressed. I’ve read pretty well everything – <i>War and Peace, Odyssey, Modern Painters, Prelude, Orlando Furioso</i> and what not.",
         "type": "Letter",
-        "notes": [""]
+        "notes": null
     },
     {
         "title": "Letter to Sister Penelope (1 February 1962)",
@@ -3130,10 +3130,407 @@ const texts = [
         "type": "Letter",
         "notes": ["The last portion of the text, “like reading Mozart” etc., is given only in Wiliam Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 410, who otherwise only paraphrases."]
     },
+    {
+        "title": "Letter to Max Beloff (May 1954)",
+        "printedIn": "<i></i>The Collected Poems of C.S. Lewis: A Critical Edition, ed. Don W. King (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "467",
+        "year": 2015,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["[<i>After initially submitting the poem “Ichabod” under his pseudonym N.W., Lewis withdrew it. Beloff pressed Lewis to reconsider it, but Lewis wrote:</i>]<br/><br/>Impossible! You see my party won: which leaves me (as a satirist) undone. I even may let the embittered numbers flow, but only cads insult a beaten foe.”"]
+    },
+    {
+        "title": "Letter to Clyde S. Kilby (mid-1953)",
+        "printedIn": "Kilby, “A Visit with C.S. Lewis,” <i>Kodon</i>",
+        "issueOrVolume": "vol. 8",
+        "pageRange": "11, 28, 30",
+        "year": 1953,
+        "monthAndDay": "December",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Martin Lings (c. 1930)",
+        "printedIn": "Lings, \"Preface\", <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        "issueOrVolume": null,
+        "pageRange": "7",
+        "year": 1967,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Martin Lings (c. 1931)",
+        "printedIn": "Lings, \"Preface\", <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        "issueOrVolume": null,
+        "pageRange": "7",
+        "year": 1967,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Stephen Schofield (c. July 1960)",
+        "printedIn": "Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge)",
+        "issueOrVolume": null,
+        "pageRange": "197",
+        "year": 1983,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["Contents: 1 line permission to quote <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to J.B. Phillips (c. 1956)",
+        "printedIn": "J.B. Phillips, <i>The Price of Success</i> (London: Collins; Wheaton: Harold Shaw)",
+        "issueOrVolume": null,
+        "pageRange": "172",
+        "year": 1984,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Peter Philip (3 March 1955)",
+        "printedIn": "Peter Philip’s letter to the editor of <i>The Canadian C.S. Lewis Journal</i>",
+        "issueOrVolume": "no. 49",
+        "pageRange": "15",
+        "year": 1985,
+        "monthAndDay": "Winter",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Raymond Wilson Chambers (5 Dec 1940)",
+        "printedIn": "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
+        "issueOrVolume": "vol. 24, no. 93",
+        "pageRange": "94 (holograph conclusion)",
+        "year": 1987,
+        "monthAndDay": "February",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to John Christopher (1945?)",
+        "printedIn": "John Christopher, “Notes on Joy,” <i>Encounter</i>",
+        "issueOrVolume": "vol. 68, no. 4",
+        "pageRange": "41",
+        "year": 1987,
+        "monthAndDay": "April",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to John Christopher (nd)",
+        "printedIn": "John Christopher, “Notes on Joy,” <i>Encounter</i>",
+        "issueOrVolume": "vol. 68, no. 4",
+        "pageRange": "41",
+        "year": 1987,
+        "monthAndDay": "April",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Ruth Pitter (29 Dec 1951)",
+        "printedIn": "Lionel Adey, <i>C.S. Lewis: Writer, Dreamer, and Mentor</i> (Grand Rapids, MI: Eerdmans)",
+        "issueOrVolume": null,
+        "pageRange": "255",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "[According to Adey, <i>In 1951 he proclaimed the nineteenth century</i>]<br/><br/>almost<br/><br/>[<i>his favorite period...</i>]",
+        "type": "Letter",
+        "notes": ["Believe me, I realize how insane it is that this single word merits its own entry."]
+    },
+    {
+        "title": "Letter to “Franklin” (late 1940’s)",
+        "printedIn": "Patricia Batstone, <i>In Debt to C.S. Lewis</i> (Dunkeswell, Devon, UK: Cottage Books)",
+        "issueOrVolume": null,
+        "pageRange": "52, 87-88",
+        "year": 1999,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Owen Barfield (26 June 1929)",
+        "printedIn": " Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "294",
+        "year": 2001,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letters to three unidentified women (nd)",
+        "printedIn": "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press)",
+        "issueOrVolume": null,
+        "pageRange": "118",
+        "year": 2004,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Owen Barfield (c. 1930)",
+        "printedIn": "Simon Blaxland-de Lange, <i>Owen Barfield: Romanticism Come of Age, A Biography</i> (Forest Row, UK: Temple Lodge)",
+        "issueOrVolume": null,
+        "pageRange": "171",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Sister Penelope (1 Feb 1962)",
+        "printedIn": "Jack L. Knowles, “That ‘such a genius should be a beastly American’: C.S. Lewis as Critic of American Literature,” <i>SEVEN: Anglo-American Literary Review</i>",
+        "issueOrVolume": "vol. 23",
+        "pageRange": "43",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Owen Barfield (21 Oct 1963)",
+        "printedIn": "Jane Hipolito, “C.S. Lewis and Owen Barfield: Adversaries and Confidantes,” in <i>An Examined Life,</i> vol. 1 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
+        "issueOrVolume": null,
+        "pageRange": "239",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Owen Barfield (Autumn 1926?)",
+        "printedIn": "Roger White, “C.S. Lewis’ Poem ‘Nearly They Stood’; A Variorum and Research Notes,” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 6, no. 2",
+        "pageRange": "32",
+        "year": 2009,
+        "monthAndDay": "April",
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to R.W. Chapman (9 March 1936)",
+        "printedIn": "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
+        "issueOrVolume": null,
+        "pageRange": "258",
+        "year": 2015,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Letter to Michal MWilliams (15 June 1948)",
+        "printedIn": "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
+        "issueOrVolume": null,
+        "pageRange": "427",
+        "year": 2015,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "",
+        "printedIn": "",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": null,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "",
+        "printedIn": "",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": null,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "",
+        "printedIn": "",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": null,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["If you have this text, send it to me!"]
+    },
+
     // POEMS
     {
+        "title": "Translation of Ovid’s <i>Ars Amatoria,</i> ii. 223, in  1963)",
+        "printedIn": "Dorothy L. Sayers, “The Writing and Reading of Allegory,” <i>The Poetry of Search and Poetry of Statement</i> (London: Victor Gollancz)",
+        "issueOrVolume": null,
+        "pageRange": "207",
+        "year": 1963,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“The Sunrise”",
+        "printedIn": "<i>The Various Light: An Anthology of Modern Poetry in English,</i> ed. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
+        "issueOrVolume": null,
+        "pageRange": "211-212",
+        "year": 1964,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“Epithalamion” for Cecil and Daphne Harwood, partial translation by Owen Barfield",
+        "printedIn": "<i>Owen Barfield: A Waldorf Tribute,</i> ed. Brien Masters (East Sussex, UK: Steiner Education)",
+        "issueOrVolume": null,
+        "pageRange": "32",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“If, following your satiric muse,” a comic verse written on a paper by J.O. Reed (June 1950)",
+        "printedIn": "Joel D. Heck, Irrigating Deserts: C.S. Lewis on Education (St. Louis, MO: Concordia)",
+        "issueOrVolume": null,
+        "pageRange": "134",
+        "year": 2005,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "An untitled poem on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        "printedIn": "Edwin W. Brown (with Dan Hamilton), <i></i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "issueOrVolume": null,
+        "pageRange": "100-101",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Four other versions of “Nearly They Stood,” first published in <i>Pilgrim’s Regress</i> and revised in <i>Poems</i> and <i>Collected Poems</i>",
+        "printedIn": "Roger White, “C.S. Lewis’ Poem ‘Nearly They Stood’; A Variorum and Research Notes,” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 6, no. 2",
+        "pageRange": "31-34",
+        "year": 2009,
+        "monthAndDay": "April",
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“The King of Drum [But soon his feet]”",
+        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "274-275",
+        "year": 2001,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "A rejected version of “Epigram [You call them Fascists]”",
+        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "299",
+        "year": 2001,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Four early versions of “As the Ruin Falls”",
+        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "17-18",
+        "year": 2001,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“In Nuptias Daphnes et Caecilii, Epithalamion” for Cecil and Daphne Harwood’s wedding",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "43-44 (holograph 45)",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“Haec Fecit Barfield Ovens et Clivus Hamilton,” two poems (Latin and Greek)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "54 (holograph 53)",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "A version of “To a Friend”",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "70-71",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“Elegy,” a non-comic limerick",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "75",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
         "title": "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien” ",
-        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin)",
+        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</br> (London: Allen & Unwin)",
         "issueOrVolume": null,
         "pageRange": "31",
         "year": 1978,
