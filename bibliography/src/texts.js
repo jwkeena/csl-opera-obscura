@@ -3043,7 +3043,7 @@ const texts = [
         "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 505."]
     },
     {
-        "title": "Letter to Laurence Harwood (10 September 1962) ",
+        "title": "Letter to Laurence Harwood (10 September 1962)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "131-132",
@@ -3350,40 +3350,6 @@ const texts = [
         "type": "Letter",
         "notes": ["If you have this text, send it to me!"]
     },
-    {
-        "title": "",
-        "printedIn": "",
-        "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
-    },
-    {
-        "title": "",
-        "printedIn": "",
-        "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
-    },
-    {
-        "title": "",
-        "printedIn": "",
-        "issueOrVolume": null,
-        "pageRange": "",
-        "year": null,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
-    },
-
     // POEMS
     {
         "title": "Translation of Ovid’s <i>Ars Amatoria,</i> ii. 223, in  1963)",
