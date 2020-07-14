@@ -265,6 +265,17 @@ const texts = [
         "notes": ["To my knowledge this has never been reprinted."]
     },
     {
+        "title": "“Taste,” a revision of the original “Notes on the Way [=Different Tastes in Literature]”",
+        "printedIn": "<i>Time and Tide Anthology,</i> ed. Anthony Lejeung (London: Andre Deutsch",
+        "issueOrVolume": null,
+        "pageRange": "101-107",
+        "year": 1956,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": [""]
+    },
+    {
         "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</iMagdalene>",
         "printedIn": "<i>The Core of the Bible: Arranged from the Authorised King James Version,</i> ed. Austin Farrer (New York: Harper and Bros.)",
         "issueOrVolume": null,
@@ -365,17 +376,6 @@ const texts = [
         "notes": ["Reprinted in Samuel Joeckel, <i>The C.S. Lewis Phenomenon: Christianity and the Public Sphere</i> (Macon, Georgia: Mercer University Press, 2013), 50."]
     },
     {
-        "title": "\"I Was Decided Upon\"",
-        "printedIn": "<i>Decision</i>",
-        "issueOrVolume": "II",
-        "pageRange": "3",
-        "year": 1963,
-        "monthAndDay": "September",
-        "textProvided": "http://www.cslewisinstitute.org/webfm_send/45",
-        "type": "Prose",
-        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963."]
-    },
-    {
         "title": "A Note on the Meaning of Civilization in the Chronicles of Narnia",
         "printedIn": "Roger Lancelyn Green, <i>C.S. Lewis, A Bodley Head Monograph,</i> (London: The Bodley Head)",
         "issueOrVolume": null,
@@ -387,7 +387,29 @@ const texts = [
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
-        "title": "Blurb for Austin Farrer, <i>Saving Belief</i>",
+        "title": "\"I Was Decided Upon\"",
+        "printedIn": "<i>Decision</i>",
+        "issueOrVolume": "II",
+        "pageRange": "3",
+        "year": 1963,
+        "monthAndDay": "September",
+        "textProvided": "http://www.cslewisinstitute.org/webfm_send/45",
+        "type": "Prose",
+        "notes": ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963."]
+    },
+    {
+        "title": "“Must Our Image of God Go?” (slightly revised)",
+        "printedIn": "<i>The Honest to God Debate</i>, ed. David Lawrence Edwards (Westminster Press)",
+        "issueOrVolume": null,
+        "pageRange": "[page range unknown]",
+        "year": 1963,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Revised version also reprinted in God in the Dock, ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have this text, please send it to me!"]
+    },
+    {
+        "title": "Blurb for Austin Farrer, <i>Saving Belief</iThe>",
         "printedIn": "<i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         "issueOrVolume": null,
         "pageRange": "dust jacket",
@@ -728,7 +750,7 @@ const texts = [
         "notes": ["If you have this text, please send it to me!"]
     },
     {
-        "title": "Fragments of an Essay on Richard Wagner (1911)",
+        "title": "Fragments of an Essay on Richard Wagner (1911, LP 3:233-34)",
         "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "30, 32",
@@ -761,6 +783,39 @@ const texts = [
         "notes": ["Portions of this document had been quoted in Walter Hooper, “The Lewis That Stayed Behind,” <i>Magdalen College Record 1995</i>, which were later reprinted in the <i>Canadian C.S. Lewis Journal,</i> vol. 89 (Spring 1996), 7-9."]
     },
     {
+        "title": "Philosophy notes for “The Moral Good”",
+        "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
+        "issueOrVolume": null,
+        "pageRange": "76-77",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Word corrections on the <i></i>Screwtape manuscript",
+        "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
+        "issueOrVolume": null,
+        "pageRange": "165-166",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "A draft of <i>The Discarded Image</i>",
+        "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
+        "issueOrVolume": null,
+        "pageRange": "177",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
         "printedIn": " Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         "issueOrVolume": "23, no. 1",
@@ -770,6 +825,94 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": null
+    },
+    {
+        "title": "Description of a school friend (<i></i>LP 3:175)",
+        "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
+        "issueOrVolume": null,
+        "pageRange": "12",
+        "year": 1999,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“Home Rule” essay",
+        "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
+        "issueOrVolume": null,
+        "pageRange": "16",
+        "year": 1999,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Early short story Text A (<i>LP</i> 11:251-254)",
+        "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
+        "issueOrVolume": null,
+        "pageRange": "31-33, 90",
+        "year": 1999,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Early short story Text B (<i>LP</i> 11:254-255)",
+        "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
+        "issueOrVolume": null,
+        "pageRange": "32",
+        "year": 1999,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Note on <i>Othello</i>",
+        "printedIn": "Colin Manlove, “Shakespeare,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker Book House)",
+        "issueOrVolume": null,
+        "pageRange": "124",
+        "year": 2000,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Draft of first lines of <i>Surprised by Joy,</i>",
+        "printedIn": "John D. Rateliff, “<i>The Lost Road, The Dark Tower,</i> and <i>The Notion Club Papers:</i> Tolkien and Lewis’ Time Travel Triad,” in <i>Tolkien’s Legendarium: Essays on The History of Middle-earth,</i> ed. Verlyn Flieger and Carl F. Hostetter (Westport, Conn; London: Greenwood Press)",
+        "issueOrVolume": null,
+        "pageRange": "212",
+        "year": 2000,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Comments on a 21 Dec 1953 letter from Dorothy L. Sayers",
+        "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Four, 1951-1957: In the Midst of Life,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
+        "issueOrVolume": null,
+        "pageRange": "116",
+        "year": 2000,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Note on Lewis’ poem “The Nativity” (sent to Mary Willis Shelburne 3 Dec 1953) as photograph",
+        "printedIn": "Ruth James Cording, <i>C.S. Lewis: A Celebration of His Early Life</i> (Nashville, TN: Broadman and Holman)",
+        "issueOrVolume": null,
+        "pageRange": "119",
+        "year": 2000,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have the main text, send it to me!"]
     },
     {
         "title": "Fragments of Othello Manuscript",
@@ -794,15 +937,125 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Language and Human Nature\" (Manuscript Fragment)",
-        "printedIn": "“Language and Human Nature (Manuscript Fragment),” ed. Steven A. Beebe, <i>SEVEN: An Anglo-American Literary Review</i>",
-        "issueOrVolume": "vol. 27",
-        "pageRange": "25-28",
-        "year": 2010,
+        "title": "Essay on Richard Wagner (1911, <i>LP</i> 3:233-34)",
+        "printedIn": "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "28",
+        "year": 2001,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Parts of original scripts for BBC broadcasts (1941) not included in published versions",
+        "printedIn": "Justin Phillips, C.S. Lewis at the BBC: Messages of Hope in the Darkness of War (London: HarperCollins",
+        "issueOrVolume": null,
+        "pageRange": "120-124, 128, 143-152, 160-168, 171, 245, and 251-257",
+        "year": 2003,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Some quotations on 163-164 are from a 15 Sept 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i></i>Mere Christianity.", "If you have this text, send it to me!", "If you have this text, send it to me!"]
+    },
+    {
+        "title": "Early short story, Text A (<i>LP</i> 11:252)",
+        "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: Hidden Spring [Paulist])",
+        "issueOrVolume": null,
+        "pageRange": "14",
+        "year": 2003,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Early short story, Text A (<i>LP</i> 11:252)",
+        "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: Hidden Spring [Paulist])",
+        "issueOrVolume": null,
+        "pageRange": "14",
+        "year": 2005,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Comments written on a paper by J.O. Reed (June 1950)",
+        "printedIn": "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
+        "issueOrVolume": null,
+        "pageRange": "134",
+        "year": 2005,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Notes for <i>Beyond Personality</i> (verso of burned holograph manuscript of <i>Christian Behavior</i>)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Bloomington, IN: authorHouse)",
+        "issueOrVolume": null,
+        "pageRange": "77-78, 100-102 & Bibliography 47, 56",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Comments (holograph) accompanying two poems on the end papers of John Arlott’s copy of <i></i>The Screwtape Letters",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Bloomington, IN: authorHouse)",
+        "issueOrVolume": null,
+        "pageRange": "77-78, 100-102 & Bibliography 47, 56",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Comment on the manuscript of Lewis’ “Panegyric for Dorothy L. Sayers,”",
+        "printedIn": "Barbara Reynold’s “C.S. Lewis and Dorothy L. Sayers,” in <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues,</i> ed. Harry Lee Poe and Rebecca Whitten Poe (Grand Rapids, MI: Zondervan)",
+        "issueOrVolume": null,
+        "pageRange": "208",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Note about the meter in his poem, “To Charles Williams,” in a presentation copy of <i>Arthurian Torso</i>",
+        "printedIn": "Diana Pavlac Glyer, <i>The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community</i> (Kent, Ohio: Kent State U Press)",
+        "issueOrVolume": null,
+        "pageRange": "205",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books (year unknown).", "If you have this text, send it to me!"]
+    },
+    {
+        "title": "Handwritten addition to early typescript of <i>Letters to Malcolm</i> (later deleted by Lewis)",
+        "printedIn": "Sean Connolly, <i>Inklings of Heaven: C.S. Lewis and Eschatology</i> (Leominster, UK: Gracewing)",
+        "issueOrVolume": null,
+        "pageRange": "244",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Manuscript on prayer (Wade MS-155)",
+        "printedIn": "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
+        "issueOrVolume": "vol. 3",
+        "pageRange": "213-214",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
     },
     {
         "title": "Typescript draft of <i>The Silver Chair</i> (pages 121 and 178)",
@@ -812,6 +1065,28 @@ const texts = [
         "year": 2008,
         "monthAndDay": null,
         "textProvided": "[121, entire]<br/><br/>His mouth shut like a box when he had said this, and in the great silence of that cave the children felt that they would not dare to speak again. The bare feet of the gnomes, padding on the deep moss, made no sound. There was no wind, there were no birds, there was no sound of water. There was no sound of breathing from the strange beasts.<br/><br/>When they had walked for several miles, they came to a wall of rock, and in it a low archway leading into another cavern. It was not, however, so bad as the last entrance and Jill could go through it without bending her head. It brought them into a smaller cave, long and narrow, about the shape and size of a cathedral. And here, filling almost the whole length of it, lay an enormous man fast asleep. He was far bigger than any of the giants, and his face was not like a giant’s, but noble and beautiful. His breast rose and fell gently under the snowy beard which covered him to the waist. A purse, silver light (no-one saw where it came from) rested upon him.<br/><br/>“Who’s that?” asked Puddleglum. And it was so long since anyone had spoken, that Jill wondered how he had the nerve.<br/><br/>“That is the god Saturn, who once was a King in Over-land,” said the Warden. “And now he has sunk down into the Deep Realm and lies dreaming of all the things that are done in the Upper world. Many sink down and few return to the sunlit lands. They say he will wake at the end of the world.”<br/><br/>[178]<br/><br/>[Jill says] “I wonder is what’s his name—Saturn—flooded out now.” [To which Eustace replies,] “I shouldn’t think the water has reached Saturn’s cave yet.”",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“The Quest of Bleheris”",
+        "printedIn": "Salwa Khoddam, “From Ruined City to Edenic Garden in C. S. Lewis’s <i>The Magician’s Nephew,</i>” in <i>Truths Breathed Through Silver: The Inklings’ Moral and Mythopoeic Legacy,</i> ed. Jonathan B. Himes, with Joe R. Christopher and Salwa Khoddam (Newcastle, UK: Cambridge Scholars Publishing)",
+        "issueOrVolume": null,
+        "pageRange": "27-50",
+        "year": 2008,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "\"Language and Human Nature\" (Manuscript Fragment)",
+        "printedIn": "“Language and Human Nature (Manuscript Fragment),” ed. Steven A. Beebe, <i>SEVEN: An Anglo-American Literary Review</i>",
+        "issueOrVolume": "vol. 27",
+        "pageRange": "25-28",
+        "year": 2010,
+        "monthAndDay": null,
+        "textProvided": false,
         "type": "Prose",
         "notes": null
     },
@@ -1067,6 +1342,39 @@ const texts = [
         "textProvided": "You say that when I describe Vidler’s method as that of “scrapping inconvenient data” I am assuming from the outset a position he does not grant. I am assuming that Scripture supplies the data for theology – the “hard facts” with which all theories must square – just as sense experience (aided by instruments and forced by experiments to be unequivocal) supplies the data for the physical sciences. But this, you say, implies a view of Scripture which most theologians have ceased to hold. You believe that, if pressed, it will turn out to involve inerrancy, and miraculous purity of the text, and literal interpretation of the text; in a word, Fundamentalism. And so we shall be back at “proof-texts” and “text-hunting” and all the rest of it. And do I really want that?<br/><br/>Well, no, I don’t. One of my reasons for disbelieving in literal inspiration is that this theory is contradicted by Scripture itself. The opening sentence of St. Luke tells us explicitly that he got his facts by inquiry, in a purely human and natural fashion. And I disbelieve in the inerrancy of Scripture because there are contradictions in the historic parts. What is more important, the Bible contains compositions which don’t even offer themselves as records of fact. Anyone who is a critic at all – I don’t mean a “Higher Critic”, but a real critic, a man with some feeling for literature – sees at once that Jonah or Esther is not even trying to be the same kind of thing as the accounts of David’s court, or Acts. Job is the clearest example. He has no genealogy. He lives in a country we know nothing about, at a wholly undefined period. He has no existence apart from the main story, drags with him into light none of those uninteresting details which always accompany a historical person. “Once upon a time” is writ large over the whole book.<br/><br/>So far I go with the Modernists – but indeed also with St. Jerome and Calvin – and against the Fundamentalists. But I differ from the former in three ways.<br/><br/>Firstly, I have no a priori disbelief in the miraculous and have never yet heard any argument which convinced me that I should. A modernist would think a passage unhistorical because it contained a miracle: I would gauge the probable or improbable historicity of the miracle by the general character of the narrative in which it occurred. Thus Job is for me unhistorical for the reasons I’ve just given; not because it ends with a theophany.<br/><br/>The second difference is really a generalised form of the first. I do not bring to the reading of the Bible – nor, for that matter, of Homer, Aeschylus, Aristotle, or Beowulf – the assumption that our modern “outlook on life” is simply right and that the only valuable elements in any ancient book are those which win our immediate sympathy. I go to the past to broaden my mind, not to confirm my homebred opinions. I think every age has its blind spots and its special insights, and the present is merely a period like any other. In every age the Father of Lights and the Father of Lies are both at work. This perhaps explains my view of the miraculous. I know as well as you that ancient men easily thought they had seen it where it was not; I think it equally probable that we should fail to see if it were present. The “real world” for every age is in a large measure something selectively built out of the chaos of raw experience.<br/><br/>Thirdly and with all respect for the men themselves, I am profoundly sceptical about what they call Higher Criticism. I learned my scepticism from the reviews of my own books and books by my friends. You will laugh, but wait a moment. The author of a book is certainly the worst judge of any praise or censure it receives. But you would hardly believe how often only a small part of a review is taken up with either one or the other. Most of it may be engaged in trying to do to your book what the Higher Critics try to do to the books of the Bible; that is, to write a history of its composition  – when, with what intentions, how, under what influences, with what resources, you wrote it. Now of this, the author is not only the best but the final judge. What the critics guess at, he knows; can’t help knowing. And can you guess how often I have found such imaginary histories of my own books correct? I believe I could conscientiously say, Never. I am sure I can say, Seldom. Friendly, hostile, moderate reviewers can be equally wrong.<br/><br/>Yet consider how easy their work was compared with that of the Higher Critic. They were dealing with a contemporary; a man who wrote and thought in their own language; educated as they were, exposed to all the same influences; perhaps personally known to them. A man of their own trade (for reviewers are usually authors). The Higher Critic has none of these advantages. In addition, he has often become a higher Critic without troubling just to become a critic, without acquiring a good nose for the differences between myth, legend, fiction, history, and reportage. He may also be a man who has never written, and never attempted to write, anything like the books he is discussing.<br/><br/>These considerations have been of immense use to me in my own studies. Let no one trouble me again with a new story of how Piers Plowman or The Faerie Queene was written. All labour lost. I cannot help also concluding that what the Higher Critic claims to know about the composition of certain sacred texts cannot really be discovered. Most of their work, I fancy, will presently rank with the other strange dreams men have had about the Bible; with the medieval allegorisations or the Puritan attempt to find in it a pattern of church government.<br/><br/>From all this, I suppose you may conclude that I attach to the Bible a kind and degree of value which would not satisfy the Fundamentalist and would go a good deal too far for Vidler. Like him, I believe in the guidance of the Holy Spirit. But I could not, like him, trust that guidance for the future if I thought that nearly everything which had seemed to come from it in the past was now found to be erroneous, so that the whole intertwined history of Bible, Church, and individual religious experience can be set aside wherever we meet a difficulty. What would such a view imply? That we, being holier and wiser and more abundant in sufferings than the prophets, apostles, martyrs, and doctors of the past, were more receptive? Or that the Holy Spirit had now learned better how to guide us?<br/><br/>I don’t, do I, need to say that Scripture is the datum? But surely, at least one of the data? Let the tradition of the Church, and the agreement between dissentient churches, the experiences of great saints, the teachings of great doctors, be  all the data. It is someone’s job, perhaps, to sort them out into a strict order of precedence. I don’t think it is mine. I am content to say that the more of these data any theology can reconcile, the stronger it will be. In every other discipline, after all, reckless jettison is a sign of weakness. In dealing with a crux from Sophocles or Shakespeare the worst critic is he who just throws up the sponge by saying, “This is corrupt”. There are corruptions; not so many as a bad scholar thinks. There are illusions; but do not be too easily convinced that every reported appearance which makes against your own theory is one of them.<br/><br/>You remember, long ago, Punch’s definition of an optimist: “a man who thinks that all the words he doesn’t know are misprints.”",
         "type": "Prose",
         "notes": ["Prefaced with an essay by Norbert Feinendegen."]
+    },
+    {
+        "title": "Annotation in Lewis’s copy of Byron’s <i>Don Juan</i> (10 Feb 1924)",
+        "printedIn": "Laura Schmidt, “Treasures in the Archives: A Celebration of Archival Collections,” <i>Mythlore</i>",
+        "issueOrVolume": "vol. 36, no. 1",
+        "pageRange": "9",
+        "year": 2017,
+        "monthAndDay": "Fall/Winter",
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Comment on a student exam (nd) found on a J.R.R. Tolkien manuscript verso",
+        "printedIn": "William M. Fliss, “Things That Were, and Things That Are, and Things That Yet May Be: The J.R.R. Tolkien Manuscript Collection at Marquette University,” <i>Mythlore</i>",
+        "issueOrVolume": "vol. 36, no. 1",
+        "pageRange": "32",
+        "year": 2017,
+        "monthAndDay": "Fall/Winter",
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "Invitation in Old Norse to a Kolbiter meeting (before 20 Nov 1920), holograph",
+        "printedIn": "John Garth, “Tolkien and the Inklings” in <i>Tolkien: Maker of Middle-Earth,</i> Catalogue of the Exhibition at the Bodleian, 1 June-28 October, 2018, ed. Catherine McIlwaine (Oxford: Bodleian Library)",
+        "issueOrVolume": null,
+        "pageRange": "23",
+        "year": 2018,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you have this text, send it to me!"]
     },
     {
         "title": "Archangel Fragment from Notebook V",
@@ -1333,7 +1641,7 @@ const texts = [
         "monthAndDay": "November",
         "textProvided": "Magdalen College, Oxford <br/>Dec 4th 1938<br/><br/>Mr. N Bradshaw was my pupil while reading for the Final Honour School English Language and Literature. He is a man of untiring industry and I think he came a little stale and tired to the examination, in which, nevertheless, he was at the <i>top</i> of the Second Class. His scholarship is accurate and sensitive and he is sufficient of a musician and musical historian to illuminate his literary studies from that neglected angle. He is a <i>very</i> agreeable man to work with and I can recommend him unreservedly.<br/><br/>C S Lewis<br/>Fellow & Tutor of Magdalen",
         "type": "Letter",
-        "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
+        "notes": ["A holograph of this testimonial appeared in <i>The Canadian C.S. Lewis Journal,</i> no. 7 (July 1979), 16, before this printing.", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
     },
     {
         "title": "Letter to J.R.R. Tolkien (7 December 1929)",
@@ -3372,6 +3680,39 @@ const texts = [
         "textProvided": false,
         "type": "Poem",
         "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“Perelandra” (a fragment of verse that appears to be the idea for <i>Perelandra</i>) 1974), 171n1",
+        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
+        "issueOrVolume": null,
+        "pageRange": "171n1",
+        "year": 1974,
+        "monthAndDay": null,
+        "textProvided": "[Hooper and Green write: “There survives an undated fragment of verse in one of Lewis’s notebooks which runs:.”<br/><br/><br/>The floating islands, the flat golden sky<br/>At noon, the peacock sunset: tepid waves<br/>With the land sliding over them like a skin:<br/> The alien Eve, green-bodied, stepping forth<br/>To meet my hero from her forest home,<br/>Proud, courteous, unafraid; no thought infirm<br/>Alters her cheek —<br/><br/>[And they continue: “At first sight this might suggest that Lewis began with the idea of writing Perelandra as a narrative poem. But a study of the fragment makes it seem much more likely that he is writing about his own creation—perhaps on the very night described above.”]",
+        "type": "Poem",
+        "notes": ["Reprinted in Revised and expanded edition (2002), 202."]
+    },
+    {
+        "title": "“Two at the Table…” (in the metre of Beowulf; about J.R.R. Tolkien and E.V. Gordon examining in the English School)",
+        "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin)",
+        "issueOrVolume": null,
+        "pageRange": "55",
+        "year": 1978,
+        "monthAndDay": null,
+        "textProvided": "Two at the table in their talk borrowed<br/>Gargantua’s mouth. Gordon and Tolkien<br/>Had will to repeat well-nigh the whole<br/>That they of Verner’s law and of vowel sorrows,<br/>Cares of consonants, and case endings,<br/>Heard by hearsay.<br/>Never at board I heard<br/>Viler vivas.",
+        "type": "Poem",
+        "notes": null
+    },
+    {
+        "title": "“Poem for Jill Flewett” (written in the front of a copy of <i>The Screwtape Letters</i>)",
+        "printedIn": "Jill (Flewett) Freud, “Lewis Teaches the Retarded” in <i></i>The Canadian C.S. Lewis Journal",
+        "issueOrVolume": "vol. 16",
+        "pageRange": "5",
+        "year": 1980,
+        "monthAndDay": "April",
+        "textProvided": false,
+        "type": "Poem",
+        "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
     {
         "title": "“Epithalamion” for Cecil and Daphne Harwood, partial translation by Owen Barfield",
