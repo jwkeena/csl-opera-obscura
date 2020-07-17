@@ -141,7 +141,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "In Leeds Gordon had started for his more advanced students a seminar or discussion class, which was popular and successful. On his return to Oxford he continued the discussion class inaugur  [77] ated by Walter Raleigh. C. S. Lewis, who was a member of this class, writes of it: ‘One of the pleasantest institutions in the English School as I first knew it was Gordon’s weekly Discussion Class. Each tutor could send only one or two of his pupils to it, so we liked to regard ourselves as a corps d’élite. It was held sometimes in a Committee Room and sometimes in Gordon’s house, and it was there that I first met Nevill Coghill. I don’t remember the names of most of the others, though their faces, and indeed the whole scene, come back to me very clearly: specially Gordon himself, leonine and tolerant, at the head of the table looking very much less alert than he actually was. It was work that exactly suited him − to seem to be doing nothing and yet actually to guide the whole debate. He said surprisingly little: it was only afterwards one realized how his exiguum clinamen had, at several points, headed us all off from some blind alley, or how a few unemphatic words of apparent agreement had turned a half truth into a whole one and tacitly suppressed an error. It never crossed our minds that the papers we read and the arguments we had about them could be less interesting, novel and momentous to him than they were to us. This was partly, no doubt, because he had a real sympathy with youth: still more, as I now realize, because he was doing his job so well that we never saw it was a “job” at all. It was doubtless his suggestion that inspired us to keep our Minutes in verse. Some of them (notably Coghill’s in the style of Chaucer) I re-read recently and thought them good.’",
         "type": "Prose",
-        "notes": ["Does not appear in the <i>Collected Letters</i> or, to my knowledge, any other collection."]
+        "notes": null
     },
     {
         "title": "Preface to <i>That Hideous Strength</i>",
@@ -219,6 +219,17 @@ const texts = [
         "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peuvent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Letters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’opposent, ces affirmations ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le christianisme, la grande unité, qu’en dépit de ses divisions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les controverses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la réconciliation, non en apportant notre contribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doctrinales en seraient-elles plus tôt résolues ; et sans cette unité spirituelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confession, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur centre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Anglican layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Christians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal differences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: because the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
         "type": "Prose",
         "notes": ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
+    },
+    {
+        "title": "Extensive revisions to chapter 12 of American edition of <i>The Voyage of the Dawn Treader</i>",
+        "printedIn": "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
+        "issueOrVolume": null,
+        "pageRange": "[page range unknown]",
+        "year": 1952,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Has anyone done a complete comparison?"]
     },
     {
         "title": "Preface to <i>Dymer</i>",
@@ -418,6 +429,17 @@ const texts = [
         "textProvided": "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         "type": "Prose",
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence.", "See Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G62."]
+    },
+    {
+        "title": "“Note” on <i>Till We Have Faces</i> 1966)",
+        "printedIn": "Time special paperback edition of Till We Have Faces (New York: Time)",
+        "issueOrVolume": null,
+        "pageRange": "[page range unknown]",
+        "year": 1966,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "If you have a scan of the 1966 edition, please send it to me!"]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -757,6 +779,39 @@ const texts = [
         "year": 1990,
         "monthAndDay": null,
         "textProvided": "It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on <b>‘the great Bayreuth Master’</b>, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that <b>‘He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.’</b> What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the great Wagnerian Ring cycle and Parsifal, <b>‘his last and greatest work’</b>. He disdained Tannhäuser, in which Wagner was <b>‘led away into the tinselled realms of tunefulness’,</b> but considered Tristan unsurpassed as drama by anything the world had ever seen. <b>‘Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts.<br/><br/><b>‘One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed,’</b> the young essayist of Cherbourg had written.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Note on “Echeneis”",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "issueOrVolume": null,
+        "pageRange": "93",
+        "year": 1996,
+        "monthAndDay": null,
+        "textProvided": "<i>Echeneis</i> 1. Adj. ἐχε-νηις, ‘ship-detaining.’ Hence used of lack of winds, or unfavourable winds (Aeschylus <i>Agamemnon</i> 149.) 2. As Noun: a shell-fish credited with the power of holding a ship back = Lat. <i>echeneis remora</i>. For which cf. Donne, <i>Elegy</i> XVIII, 58; <i>Letter to Sir H. Wootton,</i> 8; Grierson’s note on the Letter; also Thos. Browne, <i>Errors</i> III, cap. 28 last para. but two.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Early “book on prayer”",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "issueOrVolume": null,
+        "pageRange": "378-379",
+        "year": 1996,
+        "monthAndDay": null,
+        "textProvided": "Many of the things we learned at school were first explained to us successfully not by masters but by other boys. One inky fourth former can make another inky fourth former understand what an adult cannot make him understand. The two boys speak the same language and have the same difficulties. The boy at your elbow knows your difficulty because it was his difficulty yesterday or perhaps half an hour ago. The master very often does not. When you ask him for an explanation he often explains very clearly and at great length all the things you understand already and leaves out the thing you wanted to have explained. The reason usually is that your difficulty about that one thing arises from a misunderstanding so elementary that he never suspected it. There are, in fact, certain kinds of help you can get only from a person on your own level. That is my only excuse for writing a book on prayer.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Note in Magdalen “Betting Book” ",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "issueOrVolume": null,
+        "pageRange": "726",
+        "year": 1996,
+        "monthAndDay": null,
+        "textProvided": "[According to Hooper, after WWII Tom Brown Stevens, a Fellow of Magdalen, “returned to Magdalen in 1946 as an Official Fellow and Tutor in Ancient History. He had not been back long when Lewis made a bet with him. We find it in the college ‘Betting Book’, written in Lewis’s hand:”]<br/><br/>Lewis bet Stevens that the word ΕΡΩΣ does not occur in the <i>Odyssey</i> (a bottle of port) 14 May ’46.<br/><br/>[“There follows in Stevens’s hand: ‘Paid by Mr Stevens.’”]",
         "type": "Prose",
         "notes": null
     },
@@ -1861,7 +1916,7 @@ const texts = [
         "monthAndDay": "September",
         "textProvided": "As from Magdalen College, Cambridge, 2/9/58. Dear Jeremy Ruskin, Thanks you [sic] for your kind letter. I got it from my publisher sent on inside one from Christopher Smith. I am very glad to hear that you like the Narnian stories. There is one you haven’t got, <i>The Last Battle</i>. That makes 7 altogether, which I think a good number to stop at, so there won’t be any more. I am sure I wouldn’t do one about Aslan as a cub, but you might try doing it yourself. Love to you and Christopher, Yours sincerely, C.S. Lewis.",
         "type": "Letter",
-        "notes": ["This letter is not in the <i>Collected Letters</i>."]
+        "notes": null
     },
     // Letters not discovered by me
     {
@@ -2427,6 +2482,39 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Letter to Owen Barfield (1 November 1948)",
+        "printedIn": " William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "290",
+        "year": 1986,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 275."]
+    },
+    {
+        "title": "Letter to Owen Barfield (8 November 1954)",
+        "printedIn": " William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "357",
+        "year": 1986,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Letter",
+        "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 332."]
+    },
+    {
+        "title": "Letter to Alec Vidler (27 July 1948, second letter)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "284",
+        "year": 1986,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "The earlier letter referred to is in <i>CL2</i>."]
+    },
+    {
         "title": "Letter to Michal Williams (22 November 1947), holograph",
         "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
@@ -2450,7 +2538,7 @@ const texts = [
     },
     {
         "title": "Letter to the Royal Society of Literature (19 March 1948)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
         "pageRange": "269",
         "year": 1988,
@@ -2604,58 +2692,58 @@ const texts = [
     },
     {
         "title": "Letter to Mrs Frank L. Jones (7 December 1950)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "295",
-        "year": 1988,
+        "pageRange": "314",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "I cannot quite understand why the errors of Rome occupy your mind so much. Have you asked yourself what exactly is your motive for dwelling on the matter so much? Are you defending some particular person from joining the R.C.s? Are you hoping to convert some R.C. to Protestantism? <br/><br/>One wants to be very careful, you know! The Devil loves drawing our attention away from our own duties and our own sins into the evil pleasure of working on some traditional enemy – the pope, the Communists, the Fascists. He hopes to produce in us all the worst pleasures – the pleasures of hatred and self-righteousness … I don’t say this is your case (I know it has often been mine), but I do say “Take care”. Your enemy is very old and very clever. And he has many assistants – in the newspaper, in the popular gossip, in the traditions of the society one lives in.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1986), 295."]
     },
     {
         "title": "Letter to the Royal Society of Literature (17 April 1951)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "301",
-        "year": 1988,
+        "pageRange": "321",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "[<i>On being asked to deliver an address on a subject of his choice:</i>]<br/><br/>I cannot oblige the Society. … I expect to be in Cornwall or the Scilly Islands on 26 June.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 301."]
     },
     {
         "title": "Letter to Ruth Pitter (12 September 1951)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "304",
-        "year": 1988,
+        "pageRange": "324",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "Your letter is a bright spot in a hailstorm of correspondence in arrears, which I find awaiting me on my return from Ireland today.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 304.", "Also quoted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State U Press, 2008), 167."]
     },
     {
         "title": "Letter to Ruth Pitter (29 December 1951)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "305",
-        "year": 1988,
+        "pageRange": "326",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "[<i>On returning a recommended and long-borrowed book which he finds unreadable:</i>]<br/><br/><i>Porcus sum,</i> I am a pig: <i>porcissimus</i><br/><br/>[<i>On Pitter’s poems:</i>]<br/><br/> I blame myself for not reading them oftener.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 305.", "Also quoted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State U Press, 2008), 167."]
     },
     {
         "title": "Letter to Dom Bede Griffiths (17 May 1952)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "310",
-        "year": 1988,
+        "pageRange": "331",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "My old <i>directeur,</i> Fr. Walter Adams, of the Cowley Fathers, died a few weeks ago.† He died suddenly while celebrating, and his last words were “I am coming, Lord Jesus”. I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 310."]
     },
     {
         "title": "Letter to Children at Grittleton House School (22 May 1952)",
@@ -2670,14 +2758,14 @@ const texts = [
     },
     {
         "title": "Letter to Joan Pile (5 June 1952)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "311",
-        "year": 1988,
+        "pageRange": "322",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "[<i>Offering her some money for legal expenses which she accepts as a loan, Lewis insists that it would not run to</i>]<br/><br/>“several” hundred pounds, for that would be unfair to other claimants.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 311."]
     },
     {
         "title": "Letter to George Sayer (1951)",
@@ -2758,7 +2846,7 @@ const texts = [
     },
     {
         "title": "Letter to the Royal Society of Literature (19 March 1948)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
         "pageRange": "269",
         "year": 1988,
@@ -2832,6 +2920,28 @@ const texts = [
         "textProvided": "You will hear with mixed feelings that I have just finished the seventh and really the last of the Narnian stories.",
         "type": "Letter",
         "notes": null
+    },
+    {
+        "title": "Letter to A.C. Harwood (24 April 1931 [probably March])",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "issueOrVolume": null,
+        "pageRange": "795",
+        "year": 1996,
+        "monthAndDay": null,
+        "textProvided": "[According to Hooper, “Most of the planning for the alks was done by Harwood, and in a delightfully funny letter to Harwood of 24 April 1931 Lewis informs him that he is”]<br/><br/>Lord of the Walks",
+        "type": "Letter",
+        "notes": null
+    },
+    {
+        "title": "Letter to Ruth Pitter (28 January 1957)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "382",
+        "year": 1986,
+        "monthAndDay": null,
+        "textProvided": "Alas, all is not well. The disease is cancer. … She may get through this time … I am sure she would love a letter from you though, for the mechanical reason, she will not be able to scrawl more than ten words in answer.",
+        "type": "Letter",
+        "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 355.", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 722.", "Also reprinted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State U Press, 2008), 237."]
     },
     {
         "title": "Letter to Joy Davidman (June 1953)",
@@ -2956,14 +3066,14 @@ const texts = [
     },
     {
         "title": "Letter to Sister Penelope (18 June 1956)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "350",
-        "year": 1988,
+        "pageRange": "377",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "If you can persuade any “sucker” (as the Americans say) to buy the MS of <i>Screwtape,</i> pray do, and use the money for any pious or charitable object you like. … Did it ever occur to you that the replacement of scrawled old manuscript by the clear, printed book in mint condition is a pretty symbol of resurrection?",
         "type": "Letter",
-        "notes": ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 720."]
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 350.", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 720."]
     },
     {
         "title": "Letter to Mr. Evans (20 September 1956)",
@@ -2997,17 +3107,6 @@ const texts = [
         "textProvided": "[<i>On Joy Gresham Davidman:</i>]<br/><br/>Never have I loved her more than since she was struck down.",
         "type": "Letter",
         "notes": null
-    },
-    {
-        "title": "Letter to Ruth Pitter (28 January 1957)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
-        "issueOrVolume": null,
-        "pageRange": "355",
-        "year": 1988,
-        "monthAndDay": null,
-        "textProvided": "[<i>On his wife:</i>]<br/><br/>Alas, all is not well. The disease is cancer … She may get through <i>this</i> time … I am sure she would love a letter from you though, for the mechanical reason, she will not be able to scrawl more than ten words in answer. … Hope is the real torture. I try to hope as little as possible. Have us in your prayers – but I know you do.",
-        "type": "Letter",
-        "notes": ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 722."]
     },
     {
         "title": "Letter to Mrs. Edward A. Allen (16 March 1957)",
@@ -3062,7 +3161,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "It is not all tribulation. A new element of beauty as well as tragedy has entered my life. certainly God has taken me at my word – I have for many years prayed “Lord take me out of myself, to seek and serve thee in others.”",
         "type": "Letter",
-        "notes": ["<i>And God Came In</i> was later reprinted as <i>Joy and C.S. Lewis; The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988)."]
+        "notes": ["<i>And God Came In</i> was later reprinted as <i>Joy and C.S. Lewis; The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown]."]
     },
     {
         "title": "PS of published letter to Arthur Greeves (27 November 1957)",
@@ -3088,14 +3187,14 @@ const texts = [
     },
     {
         "title": "Letter to Harold Dawson (6 February 1958)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "363",
-        "year": 1988,
+        "pageRange": "392",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "If my wife’s recovery <i>is</i> due to medical science (and not either to miracle or to the interior natural forces of the body), then testosterone and radio-therapy were the things that did it.",
         "type": "Letter",
-        "notes": ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 722."]
+        "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 363."]
     },
     {
         "title": "Letter to Sister Penelope (12 February 1958)",
@@ -3121,14 +3220,14 @@ const texts = [
     },
     {
         "title": "Letter to Patricia Hillis (10 March 1959)",
-        "printedIn": "William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "372",
-        "year": 1988,
+        "pageRange": "403",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "American children, as I know from the letters they write me, are just as “Aslan-olatrous” as English ones. The world of fairytale, as the world of Christianity, makes the heart and imagination royalist in a sense which mere politics hardly [touches]. What my stories do is to liberate – to free from inhibitions – a spontaneous impulse to serve and adore, to have a “dearest dread”, which the modern world starves, or diverts to film stars, crooners, and athletes.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 372."]
     },
     {
         "title": "Letter to Father Peter Bide (29 April 1959)",
@@ -3176,14 +3275,14 @@ const texts = [
     },
     {
         "title": "Letter to Mrs. Stone (17 June 1960)",
-        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "383",
-        "year": 1988,
+        "pageRange": "415",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "No, I’m afraid I’m not even an Anglo-Catholic. I’m a Protestant.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "Also reprinted in George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 383."]
     },
     {
         "title": "Letter to Miss Breckenridge (18 August 1960)",
@@ -3275,14 +3374,14 @@ const texts = [
     },
     {
         "title": "Letter to Richard Ladborough (9 October 1961)",
-        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "393",
-        "year": 1988,
+        "pageRange": "427",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "I grow quite homesick for college, and very much hope that, though not good for much, I’ll be allowed back in January.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 393."]
     },
     {
         "title": "Letter to J.R.R. Tolkien (1962)",
@@ -3330,14 +3429,14 @@ const texts = [
     },
     {
         "title": "Letter to Sister Penelope (23 June 1962)",
-        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "112",
-        "year": 1996,
+        "pageRange": "429",
+        "year": 1986,
         "monthAndDay": null,
         "textProvided": "It is kind of you to want to know my plight (by the way, apart from everything else, what a bore the subject of one’s own health is! Like wearisomely enumerating for the police all the contents of a lost handbag). It begins to look as if I shall not be fit for that operation in any reasonable time – doctor’s euphemism for NEVER? – but I’ve apparently developed a “tolerance” for the state of my blood and kidneys and can carry on, on a low diet and strict economy of exertion. So they let me [go] back to Cambridge last term “as an experiment”. The experiment, Laus Deo, has proved a wholly unexpected success and I am now very definitely better than I’ve ever been since last June…<br/><br/>You know I’m on the commission for revising the prayer book Psalter? It has been delightful work, with delightful colleagues, and I’ve learned a lot. We finished our first draft of Psalm 150 a fortnight ago.",
         "type": "Letter",
-        "notes": null
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 112."]
     },
     {
         "title": "Letter to Henry Noel (14 November 1962)",
@@ -3429,14 +3528,14 @@ const texts = [
     },
     {
         "title": "Letter to Richard Ladborough (28 October 1963)",
-        "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
+        "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
-        "pageRange": "431",
-        "year": 2002,
+        "pageRange": "446",
+        "year": 1988,
         "monthAndDay": null,
         "textProvided": "Have been reading Les liaisons dangereuses. Wow what a book! Come to lunch on Friday (fish) and tell me about it. … like reading a Mozart libretto seriously: a blood-curling experience.",
         "type": "Letter",
-        "notes": ["The last portion of the text, “like reading Mozart” etc., is given only in Wiliam Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 410, who otherwise only paraphrases."]
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins, 2002), 431.", "The last portion of the text, “like reading Mozart” etc., is given only in Wiliam Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 410, who otherwise only paraphrases."]
     },
     {
         "title": "Letter to Max Beloff (May 1954)",
@@ -3648,7 +3747,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Michal MWilliams (15 June 1948)",
+        "title": "Letter to Michal Williams (15 June 1948)",
         "printedIn": "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
         "issueOrVolume": null,
         "pageRange": "427",
