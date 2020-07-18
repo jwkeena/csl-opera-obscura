@@ -18,9 +18,9 @@ const texts = [
         "pageRange": null,
         "year": 1913,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[Excerpts from Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24]<br/><br/>No philosopher, however learned, has ever discovered what we exactly mean by the word ‘good’...<br/><br/>But while allowing that the pursuit of athletics is a wholesale—nay, a necessary pastime—one cannot lose sight of the mistakes and wrong ideas arising from an exaggerated estimation of their value.<br/><br/>[475-476]<br/><br/> If then we are to contrast the athlete with the scholar, regarding them as separate individuals, there can surely be but little doubt among reasonable persons as to which is the more beneficial to his fellow men. The days are long past when the mighty man of arms, the Goliath, the Aeneas, was the prop and pillar of his fatherland. Physical development matters little now a days on the battlefield and nothing at all in politics. The successful football player or cricket player achieves no material benefit for the country he supports. The Scholar on the other hand not only furnishes and improves his own mind, but also by the instruction he may impart, and the discoveries to which his learning may lead, benefits and glorifies his fellow beings. ...Doubtless there are many persons—and more particularly amongst my own class—schoolboys—who would regard what I have been writing as rankert treason against an athletic code to which they demand conformity from all: there are those, believe me, who in England will become next summer engaged in a dangerous and even unequal war, [who] would still follow the doings of our cricket team in Australia with more interest than those of our army in the hostile land. ... They should not blind themselves to the fact that athletic success is transitory, and will bear them no help when they are turned adrift in the world: learning, however, is everlasting and will always stand them in good stead. ...Let it not however be inferred from what I said, that I condemn the pursuit of athletics: far be it from me to oppose this healthy means of recreation. ...But while allowing that the pursuit of athletics is a wholesale—nay, a necessary pastime—one cannot lose sight of the mistakes and wrong ideas arising from an exaggerated estimation of their value.",
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 318-9 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 318-9 at the Wade Center and the Bodleian.", "Partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24, 475-476."]
     },
     {
         "title": "\"The Expedition to Holly Bush Hill\"",
@@ -128,7 +128,7 @@ const texts = [
         "pageRange": "3, 5, 112",
         "year": 1945,
         "monthAndDay": "",
-        "textProvided": "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it--no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/>[dedication]<br/><br/>“TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>“This method of travel also I learned from the ‘scientifictionists.’”",
+        "textProvided": "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it—no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/>[dedication]<br/><br/>“TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>“This method of travel also I learned from the ‘scientifictionists.’”",
         "type": "Prose",
         "notes": null
     },
@@ -871,6 +871,17 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
+        "title": "Early short story, Text A (<i>LP</i> 11:251-254) & Text B (<i>LP</i> 11:254-255)",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "18",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "[An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high]<br/><br/>miniature mountain <br/><br/>[of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before,] <br/><br/>only because he did not know how to write. This pile of rubbish<br/><br/>[, the story goes on,]<br/><br/>was my treasure, my religion, for it was my past, and the past was all I had yet made my own.<br/><br/>[But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the]<br/><br/>inwards<br/><br/>[of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.]",
+        "type": "Prose",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
+    },
+    {
         "title": "Fragments of “The Quest of Bleheris” (prose romance written in 1916)",
         "printedIn": " Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         "issueOrVolume": "23, no. 1",
@@ -1133,6 +1144,94 @@ const texts = [
         "textProvided": false,
         "type": "Prose",
         "notes": ["If you have this text, send it to me!"]
+    },
+    {
+        "title": "“The Quest of Bleheris”",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "68, 77",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Autobiographical Note prepared by the Macmillan Company in 1946",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "21n2, 63n225",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": "[21n2]<br/><br/>I gave up Christianity at about fourteen. Came back to it when getting on for thirty. Not an emotional conversion: almost purely philosophical.<br/><br/>[63n225]<br/><br/>Although I am an Anglican, the two writers who helped me most to CHristianity were a Presbyterian (George Macdonald) and a Papist (G.K. Chesterton)--I might add a third and a pagan, Plato.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“The difficulty about bodies…” extensive comments in Lewis’ edition of Aristotle’s <i>Ethica Nicomachea</i>",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "226",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“Hegemony of Moral Value Outline”",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "323-324",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“Henry More” (1924 notes, MS-170)",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "134, 137, 362",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“Home Rule” (Wade MS-158)",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "444",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": "",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“The [Moral] Good—Its Place Among the Values” (MS-76),",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "115, 163-164, 219-224, 240, 254-255, 296-297, 330-333",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "“The Whole” (Wade MS-170)",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "161, 237-238, 301",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "\"Language and Human Nature\" (Manuscript Fragment)",
@@ -1527,7 +1626,7 @@ const texts = [
         "pageRange": "213",
         "year": 1978,
         "monthAndDay": null,
-        "textProvided": "The next thing I remember was coming back from Malvern. On the way I met a big cart driven by a girl who had no clothes on. She had very light brown hair: but dark skin, pink-brown like sand. I smiled at her in the confidential way one might smile at a girl when you’d seen a hole in her stocking, and she smiled back in just the same way, as much as to say, “Yes, I know. Isn’t it a scream!” Then I went back to Malvern and woke up--having seen the girl again, this time in the distance beyond the river, with other people in the cart.",
+        "textProvided": "The next thing I remember was coming back from Malvern. On the way I met a big cart driven by a girl who had no clothes on. She had very light brown hair: but dark skin, pink-brown like sand. I smiled at her in the confidential way one might smile at a girl when you’d seen a hole in her stocking, and she smiled back in just the same way, as much as to say, “Yes, I know. Isn’t it a scream!” Then I went back to Malvern and woke up—having seen the girl again, this time in the distance beyond the river, with other people in the cart.",
         "type": "Diary",
         "notes": null
     },
@@ -1585,6 +1684,61 @@ const texts = [
         "textProvided": "Papy is of course the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. I am like most boys of 8 and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersey. ...Hoora! Warnie comes home this morning. I am lying in bed waiting for him and thinking about him, and before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk…",
         "type": "Diary",
         "notes": null
+    },
+    {
+        "title": "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "20-21",
+        "year": 1988,
+        "monthAndDay": null,
+        "textProvided": "Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. [Mamy is] like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. [Then himself:] I am like most boys of nine and I am like Papy, bad temper, thick lips, thin, and generaly weraing ajersy. [Grandfather has his own little room upstairs, but, although he is] a nice old man in some ways [he pities himself too much,] however all old people do that. [The worst thing about him was that he was dirty—] allways spitting and smoking ugh!",
+        "type": "Diary",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
+    },
+    {
+        "title": "Little Lea Diary (23 February 1908) excerpt",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "30",
+        "year": 1988,
+        "monthAndDay": null,
+        "textProvided": "[He produced a bibliography, a] list of my books, [seven items, including a novel,] Man Against Man, [a history called] The Relief of Murry, [and] My Life [(a journal)].",
+        "type": "Diary",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51.", "Sayer gives no date, and <i>LP:</i> 3:230 as a source; but Stephen Thorson gives the date and LP 3:301 as the corrected source."]
+    },
+    {
+        "title": "Malvern Diary (15 March 1911) excerpt",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "21",
+        "year": 1988,
+        "monthAndDay": null,
+        "textProvided": "I read <i>Paradise Lost,</i> reflections thereon.",
+        "type": "Diary",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51.", "Sayer gives 5 March 1908 as a date, and <i>LP</i> 3:102 as the source; but Stephen Thorson gives the date as 15 March 1911 and <i>LP</i> 3:229 as the source."]
+    },
+    {
+        "title": "Notebook entry of 28 April 1917 (<i>LP</i> 5:204)",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "118",
+        "year": 1988,
+        "monthAndDay": null,
+        "textProvided": "Matriculated. College Library. Entered name in Coll. books.",
+        "type": "Diary",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 118."]
+    },
+    {
+        "title": "Oxford Diary (17 February 1923)",
+        "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        "issueOrVolume": null,
+        "pageRange": "99",
+        "year": 1988,
+        "monthAndDay": null,
+        "textProvided": "[In the diary of the period he described Dryden as] an intolerable worm.",
+        "type": "Diary",
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 171."]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
@@ -2512,7 +2666,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "The earlier letter referred to is in <i>CL2</i>."]
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page unknown].", "The earlier letter referred to is in <i>Collected Letters</i> II."]
     },
     {
         "title": "Letter to Michal Williams (22 November 1947), holograph",
@@ -3858,6 +4012,17 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
+        "title": "Six suggested changes to J.R.R. Tolkien’s translation of <i>Beowulf</i>",
+        "printedIn": "J.R.R. Tolkien, <i>Beowulf: A Translation and Commentary, together with Sellic Spell,</i> ed. Christopher Tolkien (Boston, MA; New York: Houghton Mifflin Harcourt)",
+        "issueOrVolume": null,
+        "pageRange": "108-112",
+        "year": 2014,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "“The King of Drum [But soon his feet]”",
         "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State U Press)",
         "issueOrVolume": null,
@@ -4902,6 +5067,17 @@ const texts = [
         "type": "Poem",
         "notes": null
     },
+    {
+        "title": "<i>Dymer</i> rough draft",
+        "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
+        "issueOrVolume": null,
+        "pageRange": "69, 83",
+        "year": 2009,
+        "monthAndDay": null,
+        "textProvided": "[69]<br/><br/>Because of this land only did we love<br/>The horizon, when in earth. Our sweet disease<br/>Of longing. Our huge hope we fabled of<br/>Our Apple-islands and Hesperian trees<br/>Were but the faint stir of the laden breeze<br/>Soft blowing from this coast, and for one breath<br/>Of that breeze men went mad and longed to death.<br/><br/>[83]<br/><br/>Of that breeze men went mad and longed to death.",
+        "type": "Poem",
+        "notes": null
+    },
 ]
 // const template =
 // {
@@ -4911,7 +5087,6 @@ const texts = [
 //     "pageRange": "",
 //     "year": null,
 //     "monthAndDay": null,
-//  
 //     "textProvided": false,
 //     "type": "Poem",
 //     "notes": null
