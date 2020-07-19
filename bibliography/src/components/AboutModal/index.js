@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 7.17.20</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 7.18.20</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -33,7 +33,7 @@ class AboutModal extends Component {
 
                         <p><b>PURPOSE: </b>This bibliography is an exhaustive collection of all <b>published</b> works by C.S. Lewis, however minor or fragmentary, that are <i>either</i> obscure <i>or</i> new. By “new” I mean published after the 50th anniversary of Lewis’s death, November 22, 2013. In this sense the last of the “old” books is <i>Image and Imagination,</i> the final collection of texts edited by Walter Hooper. By an “obscure” work I mean a text that meets all of the following three criteria:</p>
                         
-                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs) of a monograph prepared for publication by Lewis himself, apart from later authorial abridgement or revision: i.e., is not the main text of 
+                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of 
                             <ol>
                                 <li>1919 - <i>Spirits in Bondage</i></li>
                                 <li>1926 - <i>Dymer</i></li>
