@@ -9,7 +9,7 @@ const texts = [
         "monthAndDay": "November",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 310-11 at the Wade Center and the Bodleian."]
+        "notes": ["Original copies have not been found. Only known to exist in <i>LP</i> 3:310-311 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"Are Athletes Better than Scholars?\"",
@@ -20,7 +20,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[Excerpts from Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24]<br/><br/>No philosopher, however learned, has ever discovered what we exactly mean by the word ‘good’...<br/><br/>But while allowing that the pursuit of athletics is a wholesale—nay, a necessary pastime—one cannot lose sight of the mistakes and wrong ideas arising from an exaggerated estimation of their value.<br/><br/>[475-476]<br/><br/> If then we are to contrast the athlete with the scholar, regarding them as separate individuals, there can surely be but little doubt among reasonable persons as to which is the more beneficial to his fellow men. The days are long past when the mighty man of arms, the Goliath, the Aeneas, was the prop and pillar of his fatherland. Physical development matters little now a days on the battlefield and nothing at all in politics. The successful football player or cricket player achieves no material benefit for the country he supports. The Scholar on the other hand not only furnishes and improves his own mind, but also by the instruction he may impart, and the discoveries to which his learning may lead, benefits and glorifies his fellow beings. ...Doubtless there are many persons—and more particularly amongst my own class—schoolboys—who would regard what I have been writing as rankert treason against an athletic code to which they demand conformity from all: there are those, believe me, who in England will become next summer engaged in a dangerous and even unequal war, [who] would still follow the doings of our cricket team in Australia with more interest than those of our army in the hostile land. ... They should not blind themselves to the fact that athletic success is transitory, and will bear them no help when they are turned adrift in the world: learning, however, is everlasting and will always stand them in good stead. ...Let it not however be inferred from what I said, that I condemn the pursuit of athletics: far be it from me to oppose this healthy means of recreation. ...But while allowing that the pursuit of athletics is a wholesale—nay, a necessary pastime—one cannot lose sight of the mistakes and wrong ideas arising from an exaggerated estimation of their value.",
         "type": "Prose",
-        "notes": ["Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> III, 318-9 at the Wade Center and the Bodleian.", "Partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24, 475-476."]
+        "notes": ["Original copies have not been found. Only known to exist in <i>LP</i> 3:318-319 at the Wade Center and the Bodleian.", "Partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24, 475-476."]
     },
     {
         "title": "\"The Expedition to Holly Bush Hill\"",
@@ -31,7 +31,7 @@ const texts = [
         "monthAndDay": "July",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in the <i>Lewis Papers</i> IV, 51 at the Wade Center and the Bodleian."]
+        "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in <i>LP</i> 4:51 at the Wade Center and the Bodleian."]
     },
     {
         "title": "\"From Johnson's Life of Fox\"",
@@ -216,7 +216,7 @@ const texts = [
         "pageRange": "11-12, 163 note",
         "year": 1950,
         "monthAndDay": null,
-        "textProvided": "<p>[FRENCH 11-12] J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peuvent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Letters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’opposent, ces affirmations ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le christianisme, la grande unité, qu’en dépit de ses divisions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les controverses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la réconciliation, non en apportant notre contribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doctrinales en seraient-elles plus tôt résolues ; et sans cette unité spirituelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confession, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur centre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97] I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Anglican layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Christians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal differences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: because the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE] Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296] I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
+        "textProvided": "<p>[FRENCH 11-12]<br/><br/> J’ai été prié d’écrire quelques mots pour présenter ce livre aux lecteurs français, qui peuvent, à première vue, trouver quelque ambiguïté dans ma position. Qui est, se demande-t-on, ce laïc anglican, traduit et présenté par des catholiques, et qui unit sur la page de garde des Screwtape Letters une citation de Sir Thomas More à un texte de Martin Luther ? Ignore-t-il les différences entre chrétiens ou les estime-t-il sans importance ? En aucune façon. Comme chrétien, je suis très conscient que nos divisions attristent le Saint-Esprit et retardent l’œuvre du Christ ; comme logicien, je reconnais que là où deux Eglises énoncent des affirmations qui s’opposent, ces affirmations ne peuvent être conciliées. Mais comme je fus longtemps incroyant, je me suis rendu compte d’une chose que peut-être les fidèles de naissance ne voient pas. Quand je craignais et détestais le christianisme, la grande unité, qu’en dépit de ses divisions il ne cessait de détenir, me frappa. Je reconnus, et je tremblai à cette reconnaissance, le même arôme irrécusable, qui me parvenait à travers l’œuvre de Dante ou celle de Bunyan, celle de Thomas d’Aquin ou de William Law. Depuis ma conversion, il m’a semblé que c’était ma tâche particulière d’apprendre au monde extérieur ce que croient tous les chrétiens. Je laisse à d’autres les controverses ; c’est une matière qui regarde les théologiens avertis. Je crois que vous et moi, le laïcat, les simples soldats de la foi, servirons mieux de manière habituelle la cause de la réconciliation, non en apportant notre contribution à de tels débats, mais par nos prières et par le partage en commun de tout ce qui peut être partagé de la vie chrétienne dès maintenant. Si l’unité de charité et d’intention était assez puis-sante entre nous, peut-être les dif-fé-rences doctrinales en seraient-elles plus tôt résolues ; et sans cette unité spirituelle, un accord doctrinal entre nos chefs religieux serait stérile.Entre-temps, il apparaîtra que celui qui est le plus fidèle à vivre la vie chrétienne dans sa propre confession, est spirituellement le plus proche de ceux qui ne relèvent pas de la même obédience ; car la géographie du monde spirituel est très différente de celle du monde physique. En ce dernier les pays se touchent par leurs frontières, dans le premier ils se touchent par leur centre. C’est le tiède et l’indifférent dans chaque région qui sont les plus éloignés de toute autre contrée.</p> <p>[TRANSLATION 296-97]<br/><br/> I was asked to write a few words of introduction to this book for French readers, who might at first find something ambiguous in my position. Who, one might ask, is this Anglican layman, translated and introduced by Catholics, who, on the frontispiece of The Screwtape Letters, brings together a quotation from Sir Thomas More and one from Martin Luther? Is he unaware of the differences between Christians, or does he consider them unimportant? By no means. As a Christian, I am very much aware that our divisions grieve the Holy Spirit and hold back the work of Christ; as a logician I realize that when two churches affirm opposing positions, these cannot be reconciled. But because I was an unbeliever for a long time, I perceived something which perhaps those brought up in the Church do not see. Even when I feared and detested Christianity, I was struck by its essential unity, which, in spite of its divisions, it has never lost. I trembled on recognizing the same unmistakable aroma coming from the writings of Dante and Bunyan, Thomas Aquinas and William Law. Since my conversion, it has seemed my particular task to tell the outside world what all Christians believe. Controversy I leave to others: that is the business of theologians. I think that you and I, the laity, simple soldiers of the Faith, will best serve the cause of reconciliation not so much by contributing to such debates, but by our prayers, and by sharing all that can already be shared of Christian life. If the unity of charity and intention between us were strong enough, perhaps our doctrinal differences would be resolved sooner; without that spiritual unity, a doctrinal agreement between our religious leaders would be sterile. In the meantime, it will be apparent that the man who is most faithful in living the Christian life in his own church is spiritually the closest to the faithful believers in other confessions: because the geography of the spiritual world is very different from that of the physical world. In the latter, countries touch each other at their borders, in the former, at their centre. It is the lukewarm and indifferent in each country who are furthest from all other countries.</p> <p>[FRENCH 163 NOTE]<br/><br/> Actuellement, je considère la conception de l’Incarnation impliquée dans ce paragraphe, comme grossière et due à l’ignorance.</p> <p>[TRANSLATION 296]<br/><br/> I now consider the conception of the Incarnation implied in this paragraph as gross and the result of ignorance.</p>",
         "type": "Prose",
         "notes": ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
     },
@@ -461,7 +461,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "This is much the best I have seen. St. Joseph riding and sliding particularly pleased me. The use of Pan is very good.",
         "type": "Prose",
-        "notes": ["This is a highly edited version of a letter in CL3, 1330 to Francis Warner (3 April 1962)."]
+        "notes": ["This is a highly edited version of a letter in <i>Collected Letters</i> 3:1330 to Francis Warner (3 April 1962)."]
     },
     {
         "title": "Martlets Society Minutes of 12 March and 14 June 1919",
@@ -470,7 +470,7 @@ const texts = [
         "pageRange": "43, 44",
         "year": 1971,
         "monthAndDay": null,
-        "textProvided": "[12 March 1919, Lewis’s writing as the club’s secretary:] <br/><br/>After a few facts about the life of Morris and some account of his position in the late romantic movement, he [CSL] went over his chief works in lyric, narrative and dramatic verse. His early lyrics contained perhaps his most unique contribution to the literature of the period, but “Jason” & the “Earthly Paradise”, were the works of his maturity and probably destined to enjoy the greater popularity. As a teller of tales he yielded to none except Homer. In his prose works he had endeavoured, with some success, to recall the melody and charm of Malory.<br/><br/>After the interval the usual informal discussion followed. The general sense of the Society was that rather too high a position had been claimed for William Morris. Dr. Carlyle  observed that in his early lyrical work Morris had probably been writing in a style which was not really natural to him under the influence of Rossetti. Other members commented on the lack of original thought and “high seri-ousness” in the poet’s work. The Society then adjourned after fixing the place of its next meeting. <br/><br/> [14 June 1919:]<br/><br/>The Society thanked Mr. Hartman for his enthusiastic and sympathetic criticism, and after the interval discussed the theory of realism – the discussion soon passing, by paths which the present writer at least has never been able to retrace, into the metaphysical question of “abstract values”. Mr. Pasley  was adamantine in refusing to allow more than subjective reality to merit in any sphere whatsoever. The meeting then adjourned, after Mr. Watling  had endeavoured to carry a rule that the patrons of the subjective theory should in future be compelled to insert the words TO ME after every adjective they had occasion to use. <br/><br/><i>[Hooper continues: Added sometime later are the words “Without success”.</i>]",
+        "textProvided": "[12 March 1919, Lewis’s writing as the club’s secretary:] <br/><br/>After a few facts about the life of Morris and some account of his position in the late romantic movement, he [CSL] went over his chief works in lyric, narrative and dramatic verse. His early lyrics contained perhaps his most unique contribution to the literature of the period, but “Jason” & the “Earthly Paradise”, were the works of his maturity and probably destined to enjoy the greater popularity. As a teller of tales he yielded to none except Homer. In his prose works he had endeavoured, with some success, to recall the melody and charm of Malory.<br/><br/>After the interval the usual informal discussion followed. The general sense of the Society was that rather too high a position had been claimed for William Morris. Dr. Carlyle  observed that in his early lyrical work Morris had probably been writing in a style which was not really natural to him under the influence of Rossetti. Other members commented on the lack of original thought and “high seri-ousness” in the poet’s work. The Society then adjourned after fixing the place of its next meeting. <br/><br/> [14 June 1919:]<br/><br/>The Society thanked Mr. Hartman for his enthusiastic and sympathetic criticism, and after the interval discussed the theory of realism – the discussion soon passing, by paths which the present writer at least has never been able to retrace, into the metaphysical question of “abstract values”. Mr. Pasley  was adamantine in refusing to allow more than subjective reality to merit in any sphere whatsoever. The meeting then adjourned, after Mr. Watling  had endeavoured to carry a rule that the patrons of the subjective theory should in future be compelled to insert the words TO ME after every adjective they had occasion to use. <br/><br/>[Hooper continues: Added sometime later are the words “Without success”.]",
         "type": "Prose",
         "notes": null
     },
@@ -505,7 +505,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "A Myth is the description of a state, an event, or a series of events, involving superhuman personages, possessing unity, not truly implying a particular time or place, and dependent for its contents not on motives developed in the course of action but on the immutable relations of the personages.",
         "type": "Prose",
-        "notes": ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3, 1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplement</i> 1 (2015)."]
+        "notes": ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplement</i> 1 (2015)."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -527,7 +527,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> III, 412-3."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
     },
     { // VERIFY AUTHENTICITY
         "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
@@ -571,7 +571,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "...after my brother, my oldest and most intimate friend.",
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>Lewis Papers</i> III, 305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>LP</i> 3:305."]
     },
     {
         "title": "Annotations on Shakespeare",
@@ -593,7 +593,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[16-17, On Greeves's Parents] <br/><br/>Joseph was a Plymouth Brother, and one of a large and wealthy family in Belfast, who claimed to have been members of this sect for many generations. He was a tall, straight sort of a man, severe in his dress and in his expression. I have been told he was handsome in his youth, and his beard, when I knew him, did not conceal a certain cold and heavy regularity of features which might have been admired if you could forgive them for their lack of all that makes a face alive. ‘There was no speculation in his eyes’ − the face, like the man, was timid, prim, sour, at once oppressed and oppressive. He was a harsh husband and a despotic father. His wife was ‘in tears half the time’ while he lived, as one of his sons told me. He died of anaemia. In his declining years his habits became very gross, and I have heard that he commonly broke wind without restraint in the presence of his wife and children. My own father described his funeral as ‘the most cheerful funeral he ever attended’.<br/><br/>Outside his own house, he was civil and even friendly, as far as his powers would let him be. He had however no conversation. Even on religious subjects he was a deadweight, and my father thought his knowledge of Scripture by no means extensive. I have heard that at  /17/  family prayers in his own house, where he daily read and then expounded a passage from the Bible, he went over and over the same passages and gave always the same explanations. His chief intellectual interests were those of an antiquary, and he had on his shelves a few volumes of local history and archaeology. It is also worth recording that his was the only private house in which I have ever seen a copy of Alison’s French Revolution,  a work endlessly familiar in the secondhand bookshops of my day. He was also a sportsman, and sometimes went shooting on the islands of Strangford Lough.<br/><br/>His wife had unmistakably been a beauty in her youth, and was a comely matron when I first remember her. Her character is not easy to describe. I think it changed a good deal during the period of my acquaintance with her. Her sincere and almost motherly affection for myself was however the same at the end as at the beginning. This perhaps gave the key to one side of her nature. She was (at first sight − or shall I say, at certain periods) the very type of the simple, warm hearted, confiding wife and mother. ‘All was conscience and tendre herte.’ Such was her naivete that she would pour out to any acquaintance met on the road, the whole plot of the last novel she had read: and her comments on her neighbours were of such a kind that one was left wondering whether quite that amount of simplicity was possible. Could it be that the sheep’s clothing concealed a cat? Yet no sooner had you veered towards this hypothesis, than the next remark would fling you back on the original view − ‘naivete, not to say mental deficiency’. Succeeding years tended to bring the truth to light, that Mrs Greeves had, with all her benevolence, a genuine streak of ill nature in her. Her unfair and partial treatment of her son John, when I last stayed in Bernagh, is the heaviest count against her. And yet, like Chaucer, ‘me ne list this silly woman chide’, for silly she was and sillier she steadily became.<br/><br/>Her chief reading after her husband’s death, was such books as prophesy the end of the world. One of them, I remember, opened with the remarkable BONA FIDE that indeed there had been many previous prophecies, but the difference about the present one was that it was really true. Her conversation came to consist more and more of a perpetual attempt, and a perpetual failure, to tell stories and riddles. A more complete triumph of hope over experience it would be impossible to imagine. NEVER ONCE have I heard her reach the end of her anecdote without either missing the point or frankly breaking down − but with scarcely a pause she would embark upon another. If stories ceased for a moment, she would talk about the Kaiser − for whom, years after the war, she retained the pious hatred of 1915. I once remarked to her that we must remember the bad upbringing he had had. She replied, ‘I don’t want to hear anything of that sort.’ The nearest meeting between her religious and patriotic views was a half tearful complaint, ‘And yet it says you ought to forgive your enemies!’ …I do not know how it is − Mrs Greeves was a better woman than any true account of her would lead you to believe. Much she did that was bad, and all that she said was foolish: but somehow it was all forgiveable. One does not love the domestic cat less because it is greedy and thievish. Somehow these facts do not reach the heart of the mystery.<br/><br/>The children all (I believe) abandoned the religion of their parents. They had all been subjected to a baptism by total immersion EN MASSE when the youngest was about 12. It had been carried out in the bathroom where the young men, the young woman, and the boys, in their bathing suits, had been plunged one by one in a bath of tepid water. But I do not think that their religion had at any time been practised with much devotion by the younger generation. Certainly all, except Willie, bore the ugly marks of ex-Puritanism − of those who are brought up in a crude antithesis of Grace and Nature, and who therefore, when they abandon the Grace, straightway become startlingly natural. All revealed each passing sensation of greed, jealousy, anger, pleasure, or disappointment in an almost savage nakedness. Their upbringing gave them no HUMANE tradition to turn to when once their theology was gone.<br/><br/>[24-26, On Arthur Greeves]<br/><br/> My refusal to draw the character of Arthur Greeves has resulted in a portrait of him by another hand, which justice and charity oblige me to supplement. I do not contradict it, nor do I accuse it of malice. It is the work of one who knew the subject less intimately than myself and who saw only the surface of a character whose faults lay very obvious to the eye.<br/><br/>Arthur was the youngest son of a doting mother and a harsh father, two evils whereof each increased the other. The mother soothed him the more, to compensate for the father’s harshness, and the father became harsher to counteract the ill effects of the mother’s indulgence. Both thus conspired to aggravate a tendency (not rare in human nature) towards self pity, and some supernumerary bullying from an older brother was hardly likely to cure it. It can easily be imagined how such a child grew up: but who could have foretold that he would be neither a liar nor a tale bearer, neither a coward nor a misanthrope? He was the frankest of men. Many of the most ludicrous episodes which could be told against him, turn on his failure to acquire that ‘visor to the human face’ which such a training usually teaches a man to wear. He was the most faithful of friends, and carried the innumerable secrets of my own furtive and ignoble adolescence locked in a silence which is not commonly thought effeminate. Under illness or inconvenience he was impatient − a loud and violent, but not a lengthy grumbler: but danger left him unmoved. He was careless of heights and as a motorist was a rash though surprisingly competent driver. He was much isolated from his fellow men, not only by real and supposed ill health, but by literary and artistic tastes which none of his family and few of his neighbours shared.<br/><br/>Until I met him, and during my frequent absences, his position was much the same as that of an imaginative boy in one of our public schools. Yet he never showed any inclina-tion to revenge himself after the fashion so familiar among our modern intelligentsia. He continued to feel − indeed he taught me to endeavour to feel with him − at once a human affection and a rich aesthetic relish for his antediluvian aunts,  /25/  his mill-owning uncles, his mother’s servants, the postman on our roads, and the cottagers whom we met in our walks. What he called the ‘Homely’ was the natural food both of his heart and his imagination. A bright hearth seen through an open door as we passed, a train of ducks following a brawny farmer’s wife, a drill of cabbages in a suburban garden − these were things that never failed to move him, even to an ecstasy, and he never found them incompatible with his admiration for Proust, or Wyndham Lewis, or Picasso.<br/><br/>He was completely unworldly. He never in his life read an ‘advanced’ book or imitated a ‘modern’ painter because he felt that he could thus become a superior being. The motive was always either his genuine pleasure in them, or else the advice of ill-chosen friends. For Arthur was both humble and unstable. He could be persuaded to read, or at least begin, any book: to adopt (for a time) any canon of taste. The last speaker was always right to him. But all these fluctuations went on over a fundamental constancy: to the charm of the ‘homely’ he was never untrue, and if he was easily drawn into the follies of any and every coterie, he could not, by any process, be infected with its pride.<br/><br/>During the earlier years of our acquaintance he was (as always) a Christian, and I was an atheist. But though (God forgive me) I bombarded him with all the thin artillery of a seventeen year old rationalist, I never made any impression on his faith − a faith both vague and confused, and in some ways too indulgent to our common weaknesses, but inexpugnable. He remains victor in that debate. It is I who have come round. The thing is symbolical of much in our joint history. He was not a clever boy, he was even a dull boy; I was a scholar. He had no ‘ideas’. I bubbled over with them. It might seem that I had much to give him, and that he had nothing to give me. But this is not the truth. I could give concepts, logic, facts, arguments, but he had feelings  to offer, feelings which most mysteriously − for he was always very inarticulate − he taught me to share. Hence, in our commerce, I dealt in superficies, but he in solids. I learned charity from him and failed,  for all my efforts, to teach him arrogance in return.<br/><br/>And since I have mentioned charity, I must speak of his ‘charity’ in the narrower sense. This was all his own, all virtue, and no nature. Heredity and early training had laid upon him as a natural curse the love of money, but he conquered it. He came to support, almost entirely, an unemployed man, and to offer me assistance in my lean times. He came (perhaps a harder thing for a constitutionally lazy man) to discharge regular duties in a charitable organisation. In this respect he defeated his nature. Against gluttony − another hereditary vice − he was less successful: he remained always a valetudinarian, though he was as much the dupe of doctors as of his self pity.<br/><br/>But if I had to write his epitaph, I should say of him what I could say of no one else known to me − ‘He despised nothing.’ Contempt − if not the worst, surely the most ludic-rously inappropriate of the sins that  /26/  men commit − was, I believe, unknown to him. He fulfilled the Gospel precept: he ‘judged not’.",
         "type": "Prose",
-        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18", "The portraits of Greeves’s parents derive from The <i>Lewis Papers</i> III, 302-4.", "The portrait of Greeves derives from The <i>Lewis Papers</i> X, 218-20."]
+        "notes": ["Portrait of Greeves, 24-26.", "Portrait of Greeves's parents, 16-18.", "The portraits of Greeves’s parents derive from <i>LP</i> 3:302-304.", "The portrait of Greeves derives from <i>LP</i> 10:218-220."]
     },
     {
         "title": "Minutes of the Martlets Society for 26 February 1919 (University College, Oxford)",
@@ -659,7 +659,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> II, 484-485."]
+        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
     },
     {
         "title": "Preface to \"Screwtape Proposes a Toast\"",
@@ -681,7 +681,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> II, 155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
+        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
         "title": "\"Commentary on the Lay of Leithian\"",
@@ -772,13 +772,13 @@ const texts = [
         "notes": ["If you have this text, please send it to me!"]
     },
     {
-        "title": "Fragments of an Essay on Richard Wagner (1911, LP 3:233-34)",
+        "title": "Fragments of an Essay on Richard Wagner (1911, <i>LP</i> 3:233-234)",
         "printedIn": "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         "issueOrVolume": null,
         "pageRange": "30, 32",
         "year": 1990,
         "monthAndDay": null,
-        "textProvided": "It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on <b>‘the great Bayreuth Master’</b>, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that <b>‘He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.’</b> What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the great Wagnerian Ring cycle and Parsifal, <b>‘his last and greatest work’</b>. He disdained Tannhäuser, in which Wagner was <b>‘led away into the tinselled realms of tunefulness’,</b> but considered Tristan unsurpassed as drama by anything the world had ever seen. <b>‘Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts.<br/><br/><b>‘One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed,’</b> the young essayist of Cherbourg had written.",
+        "textProvided": "[Lewis's words <b>in bold</b>]<br/><br/> It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on <b>‘the great Bayreuth Master’</b>, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that <b>‘He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.’</b> What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the great Wagnerian Ring cycle and Parsifal, <b>‘his last and greatest work’</b>. He disdained Tannhäuser, in which Wagner was <b>‘led away into the tinselled realms of tunefulness’,</b> but considered Tristan unsurpassed as drama by anything the world had ever seen. <b>‘Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts. One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed,’</b> the young essayist of Cherbourg had written.",
         "type": "Prose",
         "notes": null
     },
@@ -981,8 +981,8 @@ const texts = [
         "notes": ["If you have the main text, send it to me!"]
     },
     {
-        "title": "Fragments of Othello Manuscript",
-        "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost Othello Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
+        "title": "Fragments of <i>Othello</i> Manuscript",
+        "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost <i>Othello</i> Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
         "issueOrVolume": "1",
         "pageRange": "36-41",
         "year": 2001,
@@ -992,8 +992,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Fragments of Othello Manuscript",
-        "printedIn": "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered Othello Essays,” <i>Journal of the Wooden O Symposium</i>",
+        "title": "Fragments of <i>Othello</i> Manuscript",
+        "printedIn": "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered <i>Othello</i> Essays,” <i>Journal of the Wooden O Symposium</i>",
         "issueOrVolume": "1",
         "pageRange": "42-48",
         "year": 2001,
@@ -1003,7 +1003,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Essay on Richard Wagner (1911, <i>LP</i> 3:233-34)",
+        "title": "Essay on Richard Wagner (1911, <i>LP</i> 3:233-234)",
         "printedIn": "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "28",
@@ -1022,7 +1022,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Some quotations on 163-164 are from a 15 Sept 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "If you have this text, send it to me!", "If you have this text, send it to me!"]
+        "notes": ["Some quotations on 163-164 are from a 15 Sept 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
     },
     {
         "title": "Early short story, Text A (<i>LP</i> 11:252)",
@@ -1099,7 +1099,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books (year unknown).", "If you have this text, send it to me!"]
+        "notes": ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books [year unknown].", "If you have this text, send it to me!"]
     },
     {
         "title": "Handwritten addition to early typescript of <i>Letters to Malcolm</i> (later deleted by Lewis)",
@@ -1114,8 +1114,8 @@ const texts = [
     },
     {
         "title": "Manuscript on prayer (Wade MS-155)",
-        "printedIn": "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
-        "issueOrVolume": "vol. 3",
+        "printedIn": "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
+        "issueOrVolume": null,
         "pageRange": "213-214",
         "year": 2007,
         "monthAndDay": null,
@@ -1127,10 +1127,10 @@ const texts = [
         "title": "Typescript draft of <i>The Silver Chair</i> (pages 121 and 178)",
         "printedIn": "Michael Ward, <i>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</i> (Oxford: Oxford University Press)",
         "issueOrVolume": null,
-        "pageRange": "figure 21 in photo gallery and 300, note 36",
+        "pageRange": "figure 21 in photo gallery and 300 note 36",
         "year": 2008,
         "monthAndDay": null,
-        "textProvided": "[121, entire]<br/><br/>His mouth shut like a box when he had said this, and in the great silence of that cave the children felt that they would not dare to speak again. The bare feet of the gnomes, padding on the deep moss, made no sound. There was no wind, there were no birds, there was no sound of water. There was no sound of breathing from the strange beasts.<br/><br/>When they had walked for several miles, they came to a wall of rock, and in it a low archway leading into another cavern. It was not, however, so bad as the last entrance and Jill could go through it without bending her head. It brought them into a smaller cave, long and narrow, about the shape and size of a cathedral. And here, filling almost the whole length of it, lay an enormous man fast asleep. He was far bigger than any of the giants, and his face was not like a giant’s, but noble and beautiful. His breast rose and fell gently under the snowy beard which covered him to the waist. A purse, silver light (no-one saw where it came from) rested upon him.<br/><br/>“Who’s that?” asked Puddleglum. And it was so long since anyone had spoken, that Jill wondered how he had the nerve.<br/><br/>“That is the god Saturn, who once was a King in Over-land,” said the Warden. “And now he has sunk down into the Deep Realm and lies dreaming of all the things that are done in the Upper world. Many sink down and few return to the sunlit lands. They say he will wake at the end of the world.”<br/><br/>[178]<br/><br/>[Jill says] “I wonder is what’s his name—Saturn—flooded out now.” [To which Eustace replies,] “I shouldn’t think the water has reached Saturn’s cave yet.”",
+        "textProvided": "[121, entire]<br/><br/>His mouth shut like a box when he had said this, and in the great silence of that cave the children felt that they would not dare to speak again. The bare feet of the gnomes, padding on the deep moss, made no sound. There was no wind, there were no birds, there was no sound of water. There was no sound of breathing from the strange beasts.<br/><br/>When they had walked for several miles, they came to a wall of rock, and in it a low archway leading into another cavern. It was not, however, so bad as the last entrance and Jill could go through it without bending her head. It brought them into a smaller cave, long and narrow, about the shape and size of a cathedral. And here, filling almost the whole length of it, lay an enormous man fast asleep. He was far bigger than any of the giants, and his face was not like a giant’s, but noble and beautiful. His breast rose and fell gently under the snowy beard which covered him to the waist. A purse, silver light (no-one saw where it came from) rested upon him.<br/><br/>“Who’s that?” asked Puddleglum. And it was so long since anyone had spoken, that Jill wondered how he had the nerve.<br/><br/>“That is the god Saturn, who once was a King in Over-land,” said the Warden. “And now he has sunk down into the Deep Realm and lies dreaming of all the things that are done in the Upper world. Many sink down and few return to the sunlit lands. They say he will wake at the end of the world.”<br/><br/>[178, Jill says,]<br/><br/>“I wonder is what’s his name—Saturn—flooded out now.” <br/><br/>[To which Eustace replies,] <br/><br/>“I shouldn’t think the water has reached Saturn’s cave yet.”",
         "type": "Prose",
         "notes": null
     },
@@ -1160,10 +1160,10 @@ const texts = [
         "title": "Autobiographical Note prepared by the Macmillan Company in 1946",
         "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         "issueOrVolume": null,
-        "pageRange": "21n2, 63n225",
+        "pageRange": "21 note 2, 63 note 225",
         "year": 2009,
         "monthAndDay": null,
-        "textProvided": "[21n2]<br/><br/>I gave up Christianity at about fourteen. Came back to it when getting on for thirty. Not an emotional conversion: almost purely philosophical.<br/><br/>[63n225]<br/><br/>Although I am an Anglican, the two writers who helped me most to Christianity were a Presbyterian (George Macdonald) and a Papist (G.K. Chesterton)--I might add a third and a pagan, Plato.",
+        "textProvided": "[21 note 2]<br/><br/>I gave up Christianity at about fourteen. Came back to it when getting on for thirty. Not an emotional conversion: almost purely philosophical.<br/><br/>[63 note 225]<br/><br/>Although I am an Anglican, the two writers who helped me most to Christianity were a Presbyterian (George Macdonald) and a Papist (G.K. Chesterton)--I might add a third and a pagan, Plato.",
         "type": "Prose",
         "notes": null
     },
@@ -1171,7 +1171,7 @@ const texts = [
         "title": "“The difficulty about bodies…” extensive comments in Lewis’ edition of Aristotle’s <i>Ethica Nicomachea</i>",
         "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         "issueOrVolume": null,
-        "pageRange": "226n26",
+        "pageRange": "226 note 26",
         "year": 2009,
         "monthAndDay": null,
         "textProvided": "The difficulty about bodies is that if a man believes bodies to be real, he must of course believe his own body to be real. But then he will believe the accounts which physiologists give of perception, and sooner or later will regard all the coloured and tangible shapes wh we call matter, as appearances arising in his own mind, from physiological causes. But among the appearances his own body must be caused/coloured: therefore, the whole world, including his body will be inside his mind. True, there might be another world of bodies wh caused this world of appearances: but that does not matter, for the whole argument was about the perceptible bodies. He will now have fallen into a contradiction for because he believes in his own body he has been forced to disbelieve in all bodies: but as this involved disbelief in his own body wh caused disbelief in all the rest, he has now no reason left for his disbelief: yet if he abandons it for belief he must go thro the same circle again.<br/><br/>While the contemplated or the enjoyed differ in kind, the material and the psychological (much of which is contemplated) are only different in tendency. What is private to a single self at a single moment, is the lowest level, the merely psychological. What is private is a single self, but, for that self, permanent, in psychological approaching materiality. What is common to a few selves is on the border line. What is not public, which is a permanent object for the greatest number of selves is most material. <br/><br/>Characteristics of matter. <i>1.</i> resistant to (informable) will <i>2.</i> common <i>3.</i> contemplated<br/>Matter<br/><br/><i>1. </i>As a necessity if there is to be a plurality of selves knowing one another. For to know another self does not mean to enjoy its thinking etc, wh wd mean to <i>be</i> it, and thus to remove all plurality, but to contemplate what it enjoys. But to talk of something wh can be both contemplated from without and enjoyed from within is to talk of a living body or an incarnate soul. For to know an alien soul (in any world) is to apprehend what it can only be: and the difference between the being and the apprehending gives you at once a distinction between the soul itself and something that wd be analogous to our ‘body’--however it might differ from it in the detail of its laws of working.<br/><br/><i>2. </i>As the resistant stuff. We have a specimen of a world without matter in fantasy, or with a minimum of matter of wh the result is that there is no value in it.",
@@ -1193,10 +1193,10 @@ const texts = [
         "title": "“Henry More” (1924 notes, MS-170)",
         "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         "issueOrVolume": null,
-        "pageRange": "134, 139, 139n156, 362n192",
+        "pageRange": "134, 139, 139 note 156, 362 note 192",
         "year": 2009,
         "monthAndDay": null,
-        "textProvided": "[134, quoting Henry More?]<br/><br/> Christianity fulfils not only the law of Moses but all that was good in Paganism.<br/><br/>[139, quoting Henry More?]<br/><br/>...take away Reason and all Religions are alike true.<br/><br/>[139n156, quoting or paraphrasing More?]<br/><br/>Reason must never be forsaken for inspiration, wh may not come, and if it did, wd be according to reason.<br/><br/>[362n192, quoting or paraphrasing More?]<br/><br/>Yet Judaism was given by God: Paganism, by Angels or evil spirits. The latter in some places have put out the natural light of reason in their votaries: whose extinction, as among the Quakers, is an invitation to the Devil.",
+        "textProvided": "[134, quoting Henry More?]<br/><br/> Christianity fulfils not only the law of Moses but all that was good in Paganism.<br/><br/>[139, quoting Henry More?]<br/><br/>...take away Reason and all Religions are alike true.<br/><br/>[139 note 156, quoting or paraphrasing More?]<br/><br/>Reason must never be forsaken for inspiration, wh may not come, and if it did, wd be according to reason.<br/><br/>[362 note 192, quoting or paraphrasing More?]<br/><br/>Yet Judaism was given by God: Paganism, by Angels or evil spirits. The latter in some places have put out the natural light of reason in their votaries: whose extinction, as among the Quakers, is an invitation to the Devil.",
         "type": "Prose",
         "notes": null
     },
@@ -1226,7 +1226,7 @@ const texts = [
         "title": "“The Whole” (Wade MS-170)",
         "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         "issueOrVolume": null,
-        "pageRange": "163n32, 237-238, 301",
+        "pageRange": "163 note 32, 237-238, 301",
         "year": 2009,
         "monthAndDay": null,
         "textProvided": false,
@@ -1281,7 +1281,7 @@ const texts = [
         "title": "Translations of Virgil's Aeneid",
         "printedIn": "<i>C.S. Lewis’s Lost Aeneid: Arms and the Exile,</i> ed. A.T. Reyes (New Haven: Yale University Press)",
         "issueOrVolume": null,
-        "pageRange": "passim",
+        "pageRange": "<i>passim</i>",
         "year": 2011,
         "monthAndDay": null,
         "textProvided": false,
@@ -1292,15 +1292,15 @@ const texts = [
         "title": "\"Light\" Manuscripts",
         "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
-        "pageRange": "",
+        "pageRange": "116 (holograph), 117-138 (transcripts)",
         "year": 2012,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-38 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
+        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-138 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
     },
     {
-        "title": "Note on John Foxe",
+        "title": "Note on John Foxe (from Notebook V)",
         "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
         "pageRange": "40",
@@ -1322,7 +1322,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Note for “The Nature of Reason,” a paper delivered to the Socratic Club on 15 October 1945",
+        "title": "Note for “The Nature of Reason,” a paper delivered to the Socratic Club on 15 October 1945 (from Notebook V)",
         "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
         "pageRange": "43",
@@ -1339,7 +1339,7 @@ const texts = [
         "pageRange": "64",
         "year": 2012,
         "monthAndDay": null,
-        "textProvided": "[Believers in the modern epistemology] make all ancient thought (e.g. Plato, Aquinas) look like a series of sophismata per figuram dictionis. [And if the Logical Positivists were to talk about] The Form of Beauty [it is very likely that their words would have no meaning. Even so, Lewis asks if such words truly indicate the] experience of a kind of thought which most moderns have ceased to experience but wh. was once commoner?",
+        "textProvided": "[Believers in the modern epistemology]<br/><br/>make all ancient thought (e.g. Plato, Aquinas) look like a series of sophismata per figuram dictionis. <br/><br/>[And if the Logical Positivists were to talk about] <br/><br/>The Form of Beauty <br/><br/>[it is very likely that their words would have no meaning. Even so, Lewis asks if such words truly indicate the] <br/><br/>experience of a kind of thought which most moderns have ceased to experience but wh. was once commoner?",
         "type": "Prose",
         "notes": null
     },
@@ -1383,7 +1383,7 @@ const texts = [
         "pageRange": "81",
         "year": 2013,
         "monthAndDay": null,
-        "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? <br></b> LEWIS: Go on, Haddon, this is your question.<br></br> GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. <br></br> LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
+        "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? <br/><br/> LEWIS: Go on, Haddon, this is your question.<br></br> GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. <br></br> LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
         "type": "Prose",
         "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
@@ -1438,7 +1438,7 @@ const texts = [
         "pageRange": "30-62",
         "year": 2014,
         "monthAndDay": null,
-        "textProvided": "<i>On Bolshevism</i> <br/><br/>A Pagan contemporary of S[t]. Paul or of S[t]. Augustine must have been surprised when he first looked into Christian writings at the extent to which these authors are pre-occupied with polemics, not against Paganism, but against other sects of Christianity. He would have learned with amazement that a group of cognate movements which he had hitherto classed together wasinvolved in violent internal dissension. He would have realised, for the /32/ first time, the eagerness of the orthodox teachers not only to establish their doctrine as against the prevalent philosophies of ancient civilisation but also to distinguish it and disentangle it as clearly as possible from all those other doctrines which bore a superficial resemblance to it. A similar surprise awaits the modern who turns for the first time to study the writings of the Bolshevists. Here again we find the same zeal for orthodoxy: here again, when we first look carefully, we see the sharp antagonisms of a group of movements which we ignorant outsiders had roughly classed together. L at least, must confess that I had hitherto thought of extreme democracy, Bolshevism, Menshevism and the rest as things differing in degree but not in kind. I had supposed that they were all simply shades of the colour red, which remained homogenous in all its variations from blood crimson to the pink of a rosebud. It was therefore an enlightenment to me to read Lenin’s little work on The State and Revolution. Where I had looked for attacks on Capitalism 1 found attacks on Official Socialism, Anarchism and the school of Kautsky:  and the author is as bitter against these revolutionary heretics as against the capitalists themselves. No doubt this antagonism between groups whose likeness seems to us so much more important than their difference may at first raise a smile. But if we go no further than the smile we should be as foolish as our imaginary Roman would have been if he had dismissed with contempt the distinctions of early Christian orthodoxy and early Christian heresy. It is natural for a movement to wish to be itself: and no difference is too small for men who believe that vital principles are involved. We must understand before we can criticize: and for this reason it is worth while to study orthodox Bolshevism at first hand in the pages of Lenin himself.<br/><br/>Lenin’s little book “The State and Revolution” was composed in the August and Sep-tember of 1917. It was interrupted by his own share in The Russian crisis, an interruption which, as the author tells us “can only be welcomed” since “it is more pleasant and more useful to live through  the experience of a revolution than to write about it.” The main purpose of the book is to recall revolutionary thinkers to what the author regards as genuine revolutionary doctrine, and to warn them against the corruptions of that doctrine by those whom he denounces as “Opportunist” or “Official” socialists. Under this designation he includes the Austrian Kautsky (of whom I shall have something to say presently) and the English Fabians. For the actual Labour party in England to day he would doubtless find a harder name.<br/><br/>Lenin bases his teaching on the work of the nineteenth century communist writers, Karl Marx and Engels: those “wells of purest Bolshevism undefiled” of whom he always speaks with profound reverence. They are, in fact, his scriptures, his canonical books, whose priceless doctrine must be preserved intact. According to Lenin this doctrine is in great danger of being diluted or as he says “vulgarised”: for it is a favourite device of the bourgeoisie first /33/ to emasculate and then to honour with lip service the teaching of a revolutionary whom they had persecuted in his life. This in fact is what the Kautsky school are now doing with Marx and Engels.<br/><br/>To combat this tendency Lenin re-states in all its original vigour the fundamental attitude of Marx and Engels  towards the state. Their doctrine is profoundly interesting. Just as Hobbes, Rousseau and Spinoza had done, so Marx and  Engels in their turn attempt to explain the origin of the state. Like Hobbes and Spinoza they look back to an earlier stage of society when the state did not exist. How, then, and why did it come into existence? Hobbes and Spinoza had answered this question very simply. In the state of nature which preceded the political state there was a continual collision of wills, resulting in a permanent condition of war: and men, to escape from such an intolerable inconvenience,  resolved themselves into a political organism by a species of contract. (Each man forfeited his natural right of murdering his neighbour in return for the political right of being safe from murder himself.)”  Marx and Engels, on the other hand, do not regard the primitive society as a condition of war. The purely non-political, tribal life is, for them, a condition of peace and harmony and indeed, if I mistake not, the golden age. In such a condition the state could not come into existence and would have no purpose to serve. It is only when a given society has become hopelessly entangled that the need for the state, and the state itself appear. That which produces the entanglement is class antagonism. When a society  has fallen apart into classes with opposite interests a repressive force becomes necessary. But we must not suppose (and Lenin is very emphatic on this point) that the State appears as the intermediary or reconciler between the opposing classes. On the contrary, it is only when the class antagonisms have become absolutely irreconcilable that the State arises, not as an arbitrator but as the instrument by which the successful class oppresses the defeated classes. The appearance of the state marks not the solution of the class antagonisms but their suppression by the ruthless victory of one of the combatants. The Mensheviks, Lenin tells us, are guilty of a gross heresy when they suppose that the state is the arbitrator between classes. It is, on the contrary, an instrument of legalized class despotism.<br/><br/>From these premises the rest of Lenin’s position follows logically enough. The state, thus generated, is obviously a disease of society. Its characteristics are prisons and a professional army and these indicate its repressive and despotic character. It is not any particular form of state which Lenin is condemning, but the State as such. Political democracy is to him on the same level with monarchy. They are both States, parasitic growths upon society, existing only in order that some dominant class may repress and exploit the proletariat. Hence Lenin drives home the sharp distinction between true Bolshevism and the extreme political democracy which seemed to some of us not unlike it. To strive for the amelioration of social conditions within the /34/ state, to scatter uni-versal suffrage and distribute doles – all this is useless in Lenin’s eyes. Engels indeed regards the universal suffrage of democratic countries as a specially clever instrument of Capitalist domination: and the Parliamentary system means only that the oppressed proletariat have, every few years, the opportunity of choosing which members of the ruling class will oppress them. The State itself must be overturned. Those who labour to reform the state instead of destroying it are traitors to the Proletariat and whether consciously or unconsciously are working for the continuation of despotism. The state is the mark of a diseased society, and the first step towards social health is to be rid of it.<br/><br/>Lenin’s next problem  naturally arises round the condition of society which is to follow the overthrow of the State. But his exposition is rendered rather confused by the fact that he feels obliged first to denounce some heresies which have been circulated by those he calls the Official Socialists. Engels, it appears, had remarked that the rise of the Proletariat would be followed by the withering away of the state. The Official Socialists have interpreted this to mean that with the advance of the Proletarian movement the State, now useless in a happier world, will gradually and peaceably fall into ruins and finally die a natural death. From this they have argued against the use of violence and pleaded that the advance may come not by revolution but by evolution. According to Lenin there could be no more disastrous misinterpretation of Engels’ real meaning. Engels, we are told, insists on the necessity of overthrowing the existing state by the application of violence. The Proletariat must first take possession with bomb and bayonet. It is only after this that the “withering away” process can begin. For Lenin maintains that the Proletariat, thus raised to power, cannot immediately dispense with political organization. The revolution will not immediately lead us to our goal of extinguishing the State. It is thus that Lenin finds himself in opposition to the Anarchists. The Anarchists wish to pass at one stride from the miseries of capitalist domination to the free society in which there is no law nor state whatsoever. Such a society, however, as Lenin points out, can only be realised when human nature has become different. But Lenin does not want to wait till then. The result of Anarchism is, in effect, to put off the revolution into the indefinite future: Lenin wants it at once: and if the revolution is to come at once we must still look forward to a new state existing after the revolution. It is this new state which is to “wither away” and finally conduct us to that millennium in which there shall be no state at all.<br/><br/>What, then, is to be the nature of the Proletarian state which will emerge from the revolution? Its nature is summed up for Lenin in the historic words “Dictatorship of the Proletariat.” Every state, as we saw, is the organ of despotism exercised by one class over another: the Proletarian state will therefore be a simple despotism exercised by the armed workers over the other classes. In this it will be little different from previous states: There will /35/ be nothing but a change of masters. Lenin, nevertheless, labours to show that this state will be as unlike a state, as little political, as is compatible with its existence. The primitive element of the constitution will be the group of workers, the commune or Soviet, working through its elected officials. Every care will be taken, however, to keep these officials close to their electors and to prevent them from becoming an official class. They will receive ordinary workmens’ pay and they will be removable by the commune at a moment’s notice. There will be no bureaucracy. Capitalism has already so far simplified the business of the state that we need no mystery nor esoteric skill. The true image of the Proletarian officials is to be found in the clerks and sorters of the present day post office. The councils in which these humble officials meet will be very different from the Parliaments of the present day. As Lenin not unjustly observes, a Parliament tends to be a mere talking shop: the real business of government is carried on in secret by the heads of departments. The Proletarian council however will be its own executive: it will be a working committee. The distinction between legislative and executive power will disappear. The representatives of the commune, immediately removable by the commune will meet to discuss what is to be done and will do it themselves. There will be no division between them and the people.<br/><br/>Such is the new state, the Dictatorship of the Proletariat, which rises after the revolu-tion, though only with the pious hope of “withering away.” It must not be confused with Democracy. The internal organization of the Proletariat into its Soviets may seem democratic: but the Proletariat as a whole will give no share of its liberty to other classes. As Engels remarks “The Proletariat needs the state not in the interests of liberty but for the purpose of crushing its opponents”: or, to quote Lenin’s own words, the communist state means “Democracy for the vast majority of the nation, and the suppression by force – that is, the exclusion from democracy – of the exploiters and oppressors.” Being in the majority the Proletariat will find it far easier to repress their late masters than the masters ever found it to oppress them. They will not need any such complex machinery as the Capitalists had naturally needed in their day. Indeed, as Lenin grimly remarks, all that is necessary can be affected by the “organization of the armed masses.”<br/><br/>Having made this distinction Lenin goes on to explain the Marxian doctrine of the phases through which the Proletarian state will pass in its process of withering away towards the final extinction of all stateship. The first and lowest phase will be a condition of what is ordinarily called socialism. Classes will have disappeared: the means of production will belong to the people as a whole: every one will work and every one will receive a share of the common goods in strict proportion to his work. This, however, says Lenin, is only “bourgeois justice”: necessary for a time, no doubt, but to be superseded. His argument, if I understand it aright, is like this. Men are naturally unequal: their work is unequal: a distribution of /36/ wealth in proportion to work done will therefore be unequal and unjust. We must therefore look forward to a second or higher stage of Communism. In this phase the opposition between brain and manual work will have disappeared: labour will be no longer a means of supporting life but rather itself one of the necessities of life. At that level we shall transcend the imperfect bourgeois justice which gives to each man according to his services, and adopt instead the truly communistic formula “From each according to his ability: to each according to his need.”<br/><br/>Thus, at the end of 105 closely printed pages, the conjuror has brought the rabbit out of the hat. Here is the goal of the Bolshevist adventure, together with the steps by which the goal is to be reached. At this point I would willingly omit all reference to the abominations of Bolshevist practice which are perhaps no more relevant  here than the Romanoff abominations would be in a discussion on monarchy. Let us be content, for the moment, to study the Bolshevist theory. How far can the doctrines of Marx & Engels be regarded as a helpful addition to political thought? Do they offer us anything that is new or useful – anything calculated to show us the road of escape from the difficulties of our own time?<br/><br/>The fundamental assumption of the Marxian theory is, as we saw, that the State is a disease. Before the state was the non-political tribal society: after the state will be that society in which we ask from each according to his ability & give to each according to his needs. I do not quite understand how far the future period when the state has vanished is to be different (if at all) from the historical period before the state arose. Some general similarity Lenin appears glad to recognize. The absence of separate classes, the absence of specialisation, the wielding of force not by an army but by the whole armed mass of the tribe – these at any rate are points of resemblance. It is this which first gives me pause. We know something of these primitive societies in which classes and political organization has not yet arisen – some even in which a fairly complete communism is practised: but what we know does not inspire us to imitate them. Must civilised man sit at the feet of savages? It was excusable for the eighteenth century to indulge in dreams about the “noble savage”: it is not excusable for us who have modern anthropology at our command. We know too well the characteristics of primitive society, – the human sacrifices, the obscene and childish superstitions, the untroubled sensuality, the contented wallowing of the human animal in its native sty. Never again can we believe that by looking backward we shall find the forward road. To be sure, Lenin may reply that we are wrong in attributing to the free society of the future the grosser horrors of the pre-political savage society. Times have changed and it will be a man with centuries of civilisation behind him and modern science at his command who enters upon the final phase of communism. It is gratuitous to suppose that such a man, however non-political, will fall back into the primitive slough. And I think that such an answer /37/ would be reasonable. But it leaves untouched my deepest objection to the whole theory. There still remains one point in which the society which Lenin anticipates will bear a fatal resemblance to primitive society. It will be one in which the collective will of the group or herd completely dominates over the individual. Lenin is quite explicit on this point. Instead of an army we shall have the force of the armed masses as a whole. Instead of the machinery of justice we shall have the immediate pressure of public disapproval. As Lenin says, justice will be done “by the armed nation itself as simply and as readily as any crowd of civilised people, even in modern society, parts a pair of combatants or does not allow a woman to be outraged.” I admit that there is a certain attraction about this ideal. But who does not see that it opens the way to a tyranny far harsher than that of any oriental despot? I waive the obvious objection that the genuine criminal works in secret and that we should therefore still need some machinery of detection. The thing goes far deeper. Our experience of savage societies, or of petty non political societies such as we find in public schools or army messes, shows us what this direct power of the herd really leads to. The savage is the least free of all men: every act of his life is hemmed round by rigid conventions: his marriages, his food, his dress, his language, his methods of eating or spitting, every trivial form of behaviour is dictated by immemorial custom: the least sign of variation is ruthlessly suppressed as “unclean “ or “ unholy “ or “unlucky.” In some of the West African tribes a woman who is guilty of the eccentricity of bearing twins is ostracised and the twins killed. In Thibet  it is unholy to eat with the left hand. In some societies one must wash only in running water: in others only in standing water. We see the same principle at work in the society of a school – the childhood of the individual being a true image of the childhood of the race. In a school, as in the African jungle, the herd dictates all and the individual must obey. The schoolboy can seldom choose whether he is to part his hair in the middle or at the side, whether he is to wear boots or shoes, whether he is to use certain slang expressions or certain others, whether he is to walk on the footpath or in the road. In both cases – the savage tribe and the boy-tribe – we have a working model of the pure non-political society in which the blind instincts of the human pack are allowed to have their way. I am not suggesting that these herd instincts always work badly: it is indeed a matter of pure chance how they work. They may enjoin what is really good and forbid what is really bad, and they may equally well do the opposite. But whatever they do, they do blindly. It is true, as Lenin supposes, that the crowd may interfere to part two com-batants: but only if the whim takes it. It may equally well form a ring to watch them; or take sides till the whole tribe is in an uproar: or simply knock one of the combatants on the head if he happens to be unpopular – though his unpopularity may be based only on the colour of his socks or a cold manner of speech. The direct action of the herd is only another name for what used to be called mob-law, which is /38/ the expression of the mob mind. But we know, as a matter of psychology, what the mob mind is. We know that [it] is generally more stupid, more cruel and more aimless than the mind of the worst individual in the mob. A crowd swayed by panic or by anger will behave worse than perhaps any one member of that crowd would have behaved alone. There is no mystery about this. The collective spirit of the herd is just the survival of the non-human element in man: the instinctive, animal basis showing through under his specifically human and rational variation. The transition from animal to man is the transition from blind collective herd action, to intelligent action by the individual. The history of man’s emergence from savagery is the history of the individual’s gradual release from the pressure of the herd. Through the individual comes all advance, all knowledge, wisdom, justice and nobility: through the herd comes the resistance, the drag. The martyr who is burned for his own private and reasoned convictions is the type of the individual: the mob that burns him, not understanding itself nor him,but conscious only of a blind impulse, is the type of the herd. I am not pretending, of course, that the herd spirit is in a perpetual state of panic or fury: on the contrary its rare moments of excitement only punctuate a steady level of stagnation. But when it is most quiet it is most insidious. Even now, while it is still in chains, we can see it at work in every club and every street. We can see it in the sway of fashion – the blind impulse which drives the herd to wear the same clothes and read the same books this year which they will throw aside next year: we can see it in the contempt and dislike of the crowd for all who do not conform: in the disinterested hatred of the average unregenerate human animal for all that he stigmatises as “highbrow” and knows by instinct to be out of reach: in the dogmatic athleticism of our schools: in the carping criticism and finger pointed at every man who walks his own way. We have all at times felt the fingers of the herd itching to be at us. The drunken subaltern who prefers fox trots to civilised music hates me at heart for not sharing his preference: my Irish friends are angry that I have acquired some English pronunciations. They would all like to make us conform. At best the herd spirit moves at the pace of the slowest members in the herd. By its nature it hates all that is pre-eminent. The brute in man recognizes its natural enemy in every individual who would possess his own soul in private and be free from the pressure of his fellows. It is said that if you tie a scarlet rag about a chicken’s foot the other chickens will peck it to death for being different: there is the essence of the herd spirit.<br/><br/>Here then lies the whole failure, for me, of Lenin’s theory. To reach the non-political society in which the herd shall be all in all is, in effect, to dehumanize man: to return him to the condition of the gregarious animals, to elevate the pack above the individual and dethrone reason in favour of instinct. The state, even at its worst, is the preferable alternative of the two: if, at least, it is better to be an unhappy man than a happy sheep. The state /39/ always implies the dominance of the conscious reason of the individual over the mere instincts of the collective mass. It may be a dominance of one class over others guided by selfish cunning and cruelly exercised: but so long as the individual, not the collective instinct, is at the helm there will be some freedom and some hope for the future. In the herd-life there is no room for advance and no freedom, for the first signs of individual development will be ruthlessly repressed.<br/><br/>And if Lenin’s goal is thus undesirable the steps which he proposes to take towards that goal are even more so. What are we to say of the Dictatorship of the Proletariat, the revolutionary state which is to “wither away”? Firstly, that neither abstract probability nor the actual history of the Russian revolution encourages [us] to believe in the withering away process. Nor can we attach much importance to Lenin’s theory of the miraculous simplification which will reduce all officials in the Communist state to the level of post office clerks and dispense with developed bureaucracy. Such a theory is typical of the herd’s dislike of all that is pre-eminent. The average man has only an average intellect and he believes that all necessary work can be done by such an intellect. He believes that we have no need for talents which he does not possess and skill which he  cannot acquire. The result of applying this theory in practice has been to reduce a large empire to a condition of famine, without in reality keeping the officials any closer to the people than they are elsewhere. As to the despotism of the Proletariat over all other classes, it might at the first flush seem to be more just than the despotism of the Capitalists. If we must have a ruling class, why should it not be the largest class. In fact, however, the despotism of the Proletariat has proved less just, less intelligent and less merciful than any previous despotism and we can see why it must always do so. Where the few are masters and the many serve, the numbers on one side will always to some extent counterbalance and check the power on the other. A ruling class which is in the minority must observe some limits: even in absolute monarchy, as Dr. Johnson observed, if the king is too oppressive the people will rise up and cut his head off. When the positions are re-versed, when the many are masters, this check is removed. The Proletarian despotism has nothing to fear: it is the only perfect tyranny. Yet again, when the few rule, they rule by merit of some sort: some pre-eminence, though it were only of cunning or physical strength, they must have to enable to lead the many headed beast in harness. But the many, in the nature of things, have no claim but their numbers: they represent merely the dead level – the average human mudflat. What hope is there that they whose very claim is that they have no outstanding power of brain nor goodness of heart, should learn to rule justly or even to guard their own interests. Mixed with other elements in a democratic constitution they may have their use: erected into a privileged class it is impossible that they should bring forth other fruits than those of misery and confusion. I am not, /40/ of course, defending existing conditions: justice and prudence may demand a drastic alteration in social life. But no alteration that leads to the Dictatorship of the Proletariat can lead to happiness. A despotism exercised without restraint by those who owe their power to  no single desirable quality of mind or spirit and whose very Shibboleth is to be undistinguished must by its nature be too stupid to rule, too selfish to abdicate and too weak to resist external aggression.</br><br/><i>[Mythonomy: a Fragment]</i><br/><br/>Zeus, in the graver pictures of him, sits immovably on some cold mountain top far beyond the region of clouds and storms. He “neither slumbers nor sleeps” and his nod shakes all Olympus. Such a god, from the first, invites metaphysical treatment. We know that the people who talked thus of Zeus will sooner or later talk of the One, and the Form of the Good which is beyond existence. In his lighter vein – the vein of the Adis 67rtiTq  – he represents the animalism made perfect, the eternal irresponsibility, in which tired moderns sometimes find the most attractive side of Paganism.  The first Zeus is above the human struggle, the second, simply outside it. Neither of them has anything to do with time. But Odin is a spirit rooted in time. He waits for the twilight of the gods. He has no true immortality, only longevity : no one ever thought of him as young. This seriousness of mortality raises him above the frivolous Zeus, while the mortal limitation depresses him below the Zeus of Phidias.  And being in time, he is also in the struggle. He has descended into Hel, been tortured between two fires, hung on the tree Ygdrasil, starved, grown grey, and lost an eye. If we look for his parallel in the Greek stories we shall find it not in the “easily living” gods but rather in the resourceful, stubborn, hard-bitten Ulysses. But even Ulysses reached home in the end, while Odin expects no final victory. He is the type of the man “up agin’ it”. His mythus, as told in the Eddas, is one long illustration of the principle that finds expression in the lines <br/><br/>Hyge sceal pe heardra, heorte  Pe re Genre,<br/> Mod Pe mare, pe ure maegen LytIaJ. <br/><br/>Piudric > peodric <br/><br/>To invent is one thing : to know that we are inventing is another, and it will be convenient to keep the name of Fiction for this second thing, the conscious invention. One sometimes hears a couple of children speculating as to what happened “afterwards” to the characters in a story they have heard, or what the cat does when she goes away  at nights. Each detail, as it first appears, wears the likeness of a hypothesis : it may be introduced by such words as “perhaps” or “ I expect.” But the earlier hypotheses, without being tested, are simply assumed as background for the later : the whole that results is an invention. Yet the same children, if they are not exceptional or precocious, might become dumb, or lose half their virtue, if they were told to cease guessing and “make up” a story instead. Such, or something like it, may be the process by which the stories of Atli and Gunther  were first conjured out of their historical germ. No doubt there <br/><br/>Drael  /45/<br/><br/> 1.The “external world.” <br/>2. Distinction between subjective & objective.<br/>3 Universals.<br/>4 Is “something outside the mind” conceivable?<br/>5. Ideas & Notions<br/>6 Causation<br/>7. The Self <br/><br/>are other elements to be reckoned with besides the unavowed invention. Much has to be allowed for happy errors and for the remeniscent [sic] delusion which, even in his own age, multiplies the appearances  of a great man in more times and places than he could really have occupied. How many airmen in our late wars killed Von Richtoven?  Who had not seen his terrible colored plane? I can swear to it myself: yet perhaps a good case historically could be made against my having seen it. As the conversation of children helps us to understand one side of the epic process, so the talk in any I. B. D.  in France helps to understand another. That endless gossiping of what so and so did in Palestine  and someone else in Rouen,  in which real memory, confusion, imagination, the instinct to complete and round off what is imperfect or to colour a little more highly what is drab, together with “sound and solid lying”, all bear their parts, would be the seedground of epic stories if it were <br/><br/>Abstract Ideas are really same as Notion <br/>“Logical’ conclusions are same as spirits.” <br/><br/>not checked by the opposing tendencies of a printing and tabulating age. The third ele-ment that goes to the making of epic is harder for us to understand. There is little in our modern experience that illuminates the mythical scenes and characters. Where do the dragons come from? <s>The origin of myths is</s> We must answer that we do not know.",
+        "textProvided": "[<i>On Bolshevism</i>] <br/><br/>A Pagan contemporary of S[t]. Paul or of S[t]. Augustine must have been surprised when he first looked into Christian writings at the extent to which these authors are pre-occupied with polemics, not against Paganism, but against other sects of Christianity. He would have learned with amazement that a group of cognate movements which he had hitherto classed together wasinvolved in violent internal dissension. He would have realised, for the /32/ first time, the eagerness of the orthodox teachers not only to establish their doctrine as against the prevalent philosophies of ancient civilisation but also to distinguish it and disentangle it as clearly as possible from all those other doctrines which bore a superficial resemblance to it. A similar surprise awaits the modern who turns for the first time to study the writings of the Bolshevists. Here again we find the same zeal for orthodoxy: here again, when we first look carefully, we see the sharp antagonisms of a group of movements which we ignorant outsiders had roughly classed together. L at least, must confess that I had hitherto thought of extreme democracy, Bolshevism, Menshevism and the rest as things differing in degree but not in kind. I had supposed that they were all simply shades of the colour red, which remained homogenous in all its variations from blood crimson to the pink of a rosebud. It was therefore an enlightenment to me to read Lenin’s little work on The State and Revolution. Where I had looked for attacks on Capitalism 1 found attacks on Official Socialism, Anarchism and the school of Kautsky:  and the author is as bitter against these revolutionary heretics as against the capitalists themselves. No doubt this antagonism between groups whose likeness seems to us so much more important than their difference may at first raise a smile. But if we go no further than the smile we should be as foolish as our imaginary Roman would have been if he had dismissed with contempt the distinctions of early Christian orthodoxy and early Christian heresy. It is natural for a movement to wish to be itself: and no difference is too small for men who believe that vital principles are involved. We must understand before we can criticize: and for this reason it is worth while to study orthodox Bolshevism at first hand in the pages of Lenin himself.<br/><br/>Lenin’s little book “The State and Revolution” was composed in the August and Sep-tember of 1917. It was interrupted by his own share in The Russian crisis, an interruption which, as the author tells us “can only be welcomed” since “it is more pleasant and more useful to live through  the experience of a revolution than to write about it.” The main purpose of the book is to recall revolutionary thinkers to what the author regards as genuine revolutionary doctrine, and to warn them against the corruptions of that doctrine by those whom he denounces as “Opportunist” or “Official” socialists. Under this designation he includes the Austrian Kautsky (of whom I shall have something to say presently) and the English Fabians. For the actual Labour party in England to day he would doubtless find a harder name.<br/><br/>Lenin bases his teaching on the work of the nineteenth century communist writers, Karl Marx and Engels: those “wells of purest Bolshevism undefiled” of whom he always speaks with profound reverence. They are, in fact, his scriptures, his canonical books, whose priceless doctrine must be preserved intact. According to Lenin this doctrine is in great danger of being diluted or as he says “vulgarised”: for it is a favourite device of the bourgeoisie first /33/ to emasculate and then to honour with lip service the teaching of a revolutionary whom they had persecuted in his life. This in fact is what the Kautsky school are now doing with Marx and Engels.<br/><br/>To combat this tendency Lenin re-states in all its original vigour the fundamental attitude of Marx and Engels  towards the state. Their doctrine is profoundly interesting. Just as Hobbes, Rousseau and Spinoza had done, so Marx and  Engels in their turn attempt to explain the origin of the state. Like Hobbes and Spinoza they look back to an earlier stage of society when the state did not exist. How, then, and why did it come into existence? Hobbes and Spinoza had answered this question very simply. In the state of nature which preceded the political state there was a continual collision of wills, resulting in a permanent condition of war: and men, to escape from such an intolerable inconvenience,  resolved themselves into a political organism by a species of contract. (Each man forfeited his natural right of murdering his neighbour in return for the political right of being safe from murder himself.)”  Marx and Engels, on the other hand, do not regard the primitive society as a condition of war. The purely non-political, tribal life is, for them, a condition of peace and harmony and indeed, if I mistake not, the golden age. In such a condition the state could not come into existence and would have no purpose to serve. It is only when a given society has become hopelessly entangled that the need for the state, and the state itself appear. That which produces the entanglement is class antagonism. When a society  has fallen apart into classes with opposite interests a repressive force becomes necessary. But we must not suppose (and Lenin is very emphatic on this point) that the State appears as the intermediary or reconciler between the opposing classes. On the contrary, it is only when the class antagonisms have become absolutely irreconcilable that the State arises, not as an arbitrator but as the instrument by which the successful class oppresses the defeated classes. The appearance of the state marks not the solution of the class antagonisms but their suppression by the ruthless victory of one of the combatants. The Mensheviks, Lenin tells us, are guilty of a gross heresy when they suppose that the state is the arbitrator between classes. It is, on the contrary, an instrument of legalized class despotism.<br/><br/>From these premises the rest of Lenin’s position follows logically enough. The state, thus generated, is obviously a disease of society. Its characteristics are prisons and a professional army and these indicate its repressive and despotic character. It is not any particular form of state which Lenin is condemning, but the State as such. Political democracy is to him on the same level with monarchy. They are both States, parasitic growths upon society, existing only in order that some dominant class may repress and exploit the proletariat. Hence Lenin drives home the sharp distinction between true Bolshevism and the extreme political democracy which seemed to some of us not unlike it. To strive for the amelioration of social conditions within the /34/ state, to scatter uni-versal suffrage and distribute doles – all this is useless in Lenin’s eyes. Engels indeed regards the universal suffrage of democratic countries as a specially clever instrument of Capitalist domination: and the Parliamentary system means only that the oppressed proletariat have, every few years, the opportunity of choosing which members of the ruling class will oppress them. The State itself must be overturned. Those who labour to reform the state instead of destroying it are traitors to the Proletariat and whether consciously or unconsciously are working for the continuation of despotism. The state is the mark of a diseased society, and the first step towards social health is to be rid of it.<br/><br/>Lenin’s next problem  naturally arises round the condition of society which is to follow the overthrow of the State. But his exposition is rendered rather confused by the fact that he feels obliged first to denounce some heresies which have been circulated by those he calls the Official Socialists. Engels, it appears, had remarked that the rise of the Proletariat would be followed by the withering away of the state. The Official Socialists have interpreted this to mean that with the advance of the Proletarian movement the State, now useless in a happier world, will gradually and peaceably fall into ruins and finally die a natural death. From this they have argued against the use of violence and pleaded that the advance may come not by revolution but by evolution. According to Lenin there could be no more disastrous misinterpretation of Engels’ real meaning. Engels, we are told, insists on the necessity of overthrowing the existing state by the application of violence. The Proletariat must first take possession with bomb and bayonet. It is only after this that the “withering away” process can begin. For Lenin maintains that the Proletariat, thus raised to power, cannot immediately dispense with political organization. The revolution will not immediately lead us to our goal of extinguishing the State. It is thus that Lenin finds himself in opposition to the Anarchists. The Anarchists wish to pass at one stride from the miseries of capitalist domination to the free society in which there is no law nor state whatsoever. Such a society, however, as Lenin points out, can only be realised when human nature has become different. But Lenin does not want to wait till then. The result of Anarchism is, in effect, to put off the revolution into the indefinite future: Lenin wants it at once: and if the revolution is to come at once we must still look forward to a new state existing after the revolution. It is this new state which is to “wither away” and finally conduct us to that millennium in which there shall be no state at all.<br/><br/>What, then, is to be the nature of the Proletarian state which will emerge from the revolution? Its nature is summed up for Lenin in the historic words “Dictatorship of the Proletariat.” Every state, as we saw, is the organ of despotism exercised by one class over another: the Proletarian state will therefore be a simple despotism exercised by the armed workers over the other classes. In this it will be little different from previous states: There will /35/ be nothing but a change of masters. Lenin, nevertheless, labours to show that this state will be as unlike a state, as little political, as is compatible with its existence. The primitive element of the constitution will be the group of workers, the commune or Soviet, working through its elected officials. Every care will be taken, however, to keep these officials close to their electors and to prevent them from becoming an official class. They will receive ordinary workmens’ pay and they will be removable by the commune at a moment’s notice. There will be no bureaucracy. Capitalism has already so far simplified the business of the state that we need no mystery nor esoteric skill. The true image of the Proletarian officials is to be found in the clerks and sorters of the present day post office. The councils in which these humble officials meet will be very different from the Parliaments of the present day. As Lenin not unjustly observes, a Parliament tends to be a mere talking shop: the real business of government is carried on in secret by the heads of departments. The Proletarian council however will be its own executive: it will be a working committee. The distinction between legislative and executive power will disappear. The representatives of the commune, immediately removable by the commune will meet to discuss what is to be done and will do it themselves. There will be no division between them and the people.<br/><br/>Such is the new state, the Dictatorship of the Proletariat, which rises after the revolu-tion, though only with the pious hope of “withering away.” It must not be confused with Democracy. The internal organization of the Proletariat into its Soviets may seem democratic: but the Proletariat as a whole will give no share of its liberty to other classes. As Engels remarks “The Proletariat needs the state not in the interests of liberty but for the purpose of crushing its opponents”: or, to quote Lenin’s own words, the communist state means “Democracy for the vast majority of the nation, and the suppression by force – that is, the exclusion from democracy – of the exploiters and oppressors.” Being in the majority the Proletariat will find it far easier to repress their late masters than the masters ever found it to oppress them. They will not need any such complex machinery as the Capitalists had naturally needed in their day. Indeed, as Lenin grimly remarks, all that is necessary can be affected by the “organization of the armed masses.”<br/><br/>Having made this distinction Lenin goes on to explain the Marxian doctrine of the phases through which the Proletarian state will pass in its process of withering away towards the final extinction of all stateship. The first and lowest phase will be a condition of what is ordinarily called socialism. Classes will have disappeared: the means of production will belong to the people as a whole: every one will work and every one will receive a share of the common goods in strict proportion to his work. This, however, says Lenin, is only “bourgeois justice”: necessary for a time, no doubt, but to be superseded. His argument, if I understand it aright, is like this. Men are naturally unequal: their work is unequal: a distribution of /36/ wealth in proportion to work done will therefore be unequal and unjust. We must therefore look forward to a second or higher stage of Communism. In this phase the opposition between brain and manual work will have disappeared: labour will be no longer a means of supporting life but rather itself one of the necessities of life. At that level we shall transcend the imperfect bourgeois justice which gives to each man according to his services, and adopt instead the truly communistic formula “From each according to his ability: to each according to his need.”<br/><br/>Thus, at the end of 105 closely printed pages, the conjuror has brought the rabbit out of the hat. Here is the goal of the Bolshevist adventure, together with the steps by which the goal is to be reached. At this point I would willingly omit all reference to the abominations of Bolshevist practice which are perhaps no more relevant  here than the Romanoff abominations would be in a discussion on monarchy. Let us be content, for the moment, to study the Bolshevist theory. How far can the doctrines of Marx & Engels be regarded as a helpful addition to political thought? Do they offer us anything that is new or useful – anything calculated to show us the road of escape from the difficulties of our own time?<br/><br/>The fundamental assumption of the Marxian theory is, as we saw, that the State is a disease. Before the state was the non-political tribal society: after the state will be that society in which we ask from each according to his ability & give to each according to his needs. I do not quite understand how far the future period when the state has vanished is to be different (if at all) from the historical period before the state arose. Some general similarity Lenin appears glad to recognize. The absence of separate classes, the absence of specialisation, the wielding of force not by an army but by the whole armed mass of the tribe – these at any rate are points of resemblance. It is this which first gives me pause. We know something of these primitive societies in which classes and political organization has not yet arisen – some even in which a fairly complete communism is practised: but what we know does not inspire us to imitate them. Must civilised man sit at the feet of savages? It was excusable for the eighteenth century to indulge in dreams about the “noble savage”: it is not excusable for us who have modern anthropology at our command. We know too well the characteristics of primitive society, – the human sacrifices, the obscene and childish superstitions, the untroubled sensuality, the contented wallowing of the human animal in its native sty. Never again can we believe that by looking backward we shall find the forward road. To be sure, Lenin may reply that we are wrong in attributing to the free society of the future the grosser horrors of the pre-political savage society. Times have changed and it will be a man with centuries of civilisation behind him and modern science at his command who enters upon the final phase of communism. It is gratuitous to suppose that such a man, however non-political, will fall back into the primitive slough. And I think that such an answer /37/ would be reasonable. But it leaves untouched my deepest objection to the whole theory. There still remains one point in which the society which Lenin anticipates will bear a fatal resemblance to primitive society. It will be one in which the collective will of the group or herd completely dominates over the individual. Lenin is quite explicit on this point. Instead of an army we shall have the force of the armed masses as a whole. Instead of the machinery of justice we shall have the immediate pressure of public disapproval. As Lenin says, justice will be done “by the armed nation itself as simply and as readily as any crowd of civilised people, even in modern society, parts a pair of combatants or does not allow a woman to be outraged.” I admit that there is a certain attraction about this ideal. But who does not see that it opens the way to a tyranny far harsher than that of any oriental despot? I waive the obvious objection that the genuine criminal works in secret and that we should therefore still need some machinery of detection. The thing goes far deeper. Our experience of savage societies, or of petty non political societies such as we find in public schools or army messes, shows us what this direct power of the herd really leads to. The savage is the least free of all men: every act of his life is hemmed round by rigid conventions: his marriages, his food, his dress, his language, his methods of eating or spitting, every trivial form of behaviour is dictated by immemorial custom: the least sign of variation is ruthlessly suppressed as “unclean “ or “ unholy “ or “unlucky.” In some of the West African tribes a woman who is guilty of the eccentricity of bearing twins is ostracised and the twins killed. In Thibet  it is unholy to eat with the left hand. In some societies one must wash only in running water: in others only in standing water. We see the same principle at work in the society of a school – the childhood of the individual being a true image of the childhood of the race. In a school, as in the African jungle, the herd dictates all and the individual must obey. The schoolboy can seldom choose whether he is to part his hair in the middle or at the side, whether he is to wear boots or shoes, whether he is to use certain slang expressions or certain others, whether he is to walk on the footpath or in the road. In both cases – the savage tribe and the boy-tribe – we have a working model of the pure non-political society in which the blind instincts of the human pack are allowed to have their way. I am not suggesting that these herd instincts always work badly: it is indeed a matter of pure chance how they work. They may enjoin what is really good and forbid what is really bad, and they may equally well do the opposite. But whatever they do, they do blindly. It is true, as Lenin supposes, that the crowd may interfere to part two com-batants: but only if the whim takes it. It may equally well form a ring to watch them; or take sides till the whole tribe is in an uproar: or simply knock one of the combatants on the head if he happens to be unpopular – though his unpopularity may be based only on the colour of his socks or a cold manner of speech. The direct action of the herd is only another name for what used to be called mob-law, which is /38/ the expression of the mob mind. But we know, as a matter of psychology, what the mob mind is. We know that [it] is generally more stupid, more cruel and more aimless than the mind of the worst individual in the mob. A crowd swayed by panic or by anger will behave worse than perhaps any one member of that crowd would have behaved alone. There is no mystery about this. The collective spirit of the herd is just the survival of the non-human element in man: the instinctive, animal basis showing through under his specifically human and rational variation. The transition from animal to man is the transition from blind collective herd action, to intelligent action by the individual. The history of man’s emergence from savagery is the history of the individual’s gradual release from the pressure of the herd. Through the individual comes all advance, all knowledge, wisdom, justice and nobility: through the herd comes the resistance, the drag. The martyr who is burned for his own private and reasoned convictions is the type of the individual: the mob that burns him, not understanding itself nor him,but conscious only of a blind impulse, is the type of the herd. I am not pretending, of course, that the herd spirit is in a perpetual state of panic or fury: on the contrary its rare moments of excitement only punctuate a steady level of stagnation. But when it is most quiet it is most insidious. Even now, while it is still in chains, we can see it at work in every club and every street. We can see it in the sway of fashion – the blind impulse which drives the herd to wear the same clothes and read the same books this year which they will throw aside next year: we can see it in the contempt and dislike of the crowd for all who do not conform: in the disinterested hatred of the average unregenerate human animal for all that he stigmatises as “highbrow” and knows by instinct to be out of reach: in the dogmatic athleticism of our schools: in the carping criticism and finger pointed at every man who walks his own way. We have all at times felt the fingers of the herd itching to be at us. The drunken subaltern who prefers fox trots to civilised music hates me at heart for not sharing his preference: my Irish friends are angry that I have acquired some English pronunciations. They would all like to make us conform. At best the herd spirit moves at the pace of the slowest members in the herd. By its nature it hates all that is pre-eminent. The brute in man recognizes its natural enemy in every individual who would possess his own soul in private and be free from the pressure of his fellows. It is said that if you tie a scarlet rag about a chicken’s foot the other chickens will peck it to death for being different: there is the essence of the herd spirit.<br/><br/>Here then lies the whole failure, for me, of Lenin’s theory. To reach the non-political society in which the herd shall be all in all is, in effect, to dehumanize man: to return him to the condition of the gregarious animals, to elevate the pack above the individual and dethrone reason in favour of instinct. The state, even at its worst, is the preferable alternative of the two: if, at least, it is better to be an unhappy man than a happy sheep. The state /39/ always implies the dominance of the conscious reason of the individual over the mere instincts of the collective mass. It may be a dominance of one class over others guided by selfish cunning and cruelly exercised: but so long as the individual, not the collective instinct, is at the helm there will be some freedom and some hope for the future. In the herd-life there is no room for advance and no freedom, for the first signs of individual development will be ruthlessly repressed.<br/><br/>And if Lenin’s goal is thus undesirable the steps which he proposes to take towards that goal are even more so. What are we to say of the Dictatorship of the Proletariat, the revolutionary state which is to “wither away”? Firstly, that neither abstract probability nor the actual history of the Russian revolution encourages [us] to believe in the withering away process. Nor can we attach much importance to Lenin’s theory of the miraculous simplification which will reduce all officials in the Communist state to the level of post office clerks and dispense with developed bureaucracy. Such a theory is typical of the herd’s dislike of all that is pre-eminent. The average man has only an average intellect and he believes that all necessary work can be done by such an intellect. He believes that we have no need for talents which he does not possess and skill which he  cannot acquire. The result of applying this theory in practice has been to reduce a large empire to a condition of famine, without in reality keeping the officials any closer to the people than they are elsewhere. As to the despotism of the Proletariat over all other classes, it might at the first flush seem to be more just than the despotism of the Capitalists. If we must have a ruling class, why should it not be the largest class. In fact, however, the despotism of the Proletariat has proved less just, less intelligent and less merciful than any previous despotism and we can see why it must always do so. Where the few are masters and the many serve, the numbers on one side will always to some extent counterbalance and check the power on the other. A ruling class which is in the minority must observe some limits: even in absolute monarchy, as Dr. Johnson observed, if the king is too oppressive the people will rise up and cut his head off. When the positions are re-versed, when the many are masters, this check is removed. The Proletarian despotism has nothing to fear: it is the only perfect tyranny. Yet again, when the few rule, they rule by merit of some sort: some pre-eminence, though it were only of cunning or physical strength, they must have to enable to lead the many headed beast in harness. But the many, in the nature of things, have no claim but their numbers: they represent merely the dead level – the average human mudflat. What hope is there that they whose very claim is that they have no outstanding power of brain nor goodness of heart, should learn to rule justly or even to guard their own interests. Mixed with other elements in a democratic constitution they may have their use: erected into a privileged class it is impossible that they should bring forth other fruits than those of misery and confusion. I am not, /40/ of course, defending existing conditions: justice and prudence may demand a drastic alteration in social life. But no alteration that leads to the Dictatorship of the Proletariat can lead to happiness. A despotism exercised without restraint by those who owe their power to  no single desirable quality of mind or spirit and whose very Shibboleth is to be undistinguished must by its nature be too stupid to rule, too selfish to abdicate and too weak to resist external aggression.</br><br/>[<i>Mythonomy: a Fragment</i>]<br/><br/>Zeus, in the graver pictures of him, sits immovably on some cold mountain top far beyond the region of clouds and storms. He “neither slumbers nor sleeps” and his nod shakes all Olympus. Such a god, from the first, invites metaphysical treatment. We know that the people who talked thus of Zeus will sooner or later talk of the One, and the Form of the Good which is beyond existence. In his lighter vein – the vein of the Adis 67rtiTq  – he represents the animalism made perfect, the eternal irresponsibility, in which tired moderns sometimes find the most attractive side of Paganism.  The first Zeus is above the human struggle, the second, simply outside it. Neither of them has anything to do with time. But Odin is a spirit rooted in time. He waits for the twilight of the gods. He has no true immortality, only longevity : no one ever thought of him as young. This seriousness of mortality raises him above the frivolous Zeus, while the mortal limitation depresses him below the Zeus of Phidias.  And being in time, he is also in the struggle. He has descended into Hel, been tortured between two fires, hung on the tree Ygdrasil, starved, grown grey, and lost an eye. If we look for his parallel in the Greek stories we shall find it not in the “easily living” gods but rather in the resourceful, stubborn, hard-bitten Ulysses. But even Ulysses reached home in the end, while Odin expects no final victory. He is the type of the man “up agin’ it”. His mythus, as told in the Eddas, is one long illustration of the principle that finds expression in the lines <br/><br/>Hyge sceal pe heardra, heorte  Pe re Genre,<br/> Mod Pe mare, pe ure maegen LytIaJ. <br/><br/>Piudric > peodric <br/><br/>To invent is one thing : to know that we are inventing is another, and it will be convenient to keep the name of Fiction for this second thing, the conscious invention. One sometimes hears a couple of children speculating as to what happened “afterwards” to the characters in a story they have heard, or what the cat does when she goes away  at nights. Each detail, as it first appears, wears the likeness of a hypothesis : it may be introduced by such words as “perhaps” or “ I expect.” But the earlier hypotheses, without being tested, are simply assumed as background for the later : the whole that results is an invention. Yet the same children, if they are not exceptional or precocious, might become dumb, or lose half their virtue, if they were told to cease guessing and “make up” a story instead. Such, or something like it, may be the process by which the stories of Atli and Gunther  were first conjured out of their historical germ. No doubt there <br/><br/>Drael  /45/<br/><br/> 1.The “external world.” <br/>2. Distinction between subjective & objective.<br/>3 Universals.<br/>4 Is “something outside the mind” conceivable?<br/>5. Ideas & Notions<br/>6 Causation<br/>7. The Self <br/><br/>are other elements to be reckoned with besides the unavowed invention. Much has to be allowed for happy errors and for the remeniscent [sic] delusion which, even in his own age, multiplies the appearances  of a great man in more times and places than he could really have occupied. How many airmen in our late wars killed Von Richtoven?  Who had not seen his terrible colored plane? I can swear to it myself: yet perhaps a good case historically could be made against my having seen it. As the conversation of children helps us to understand one side of the epic process, so the talk in any I. B. D.  in France helps to understand another. That endless gossiping of what so and so did in Palestine  and someone else in Rouen,  in which real memory, confusion, imagination, the instinct to complete and round off what is imperfect or to colour a little more highly what is drab, together with “sound and solid lying”, all bear their parts, would be the seedground of epic stories if it were <br/><br/>Abstract Ideas are really same as Notion <br/>“Logical’ conclusions are same as spirits.” <br/><br/>not checked by the opposing tendencies of a printing and tabulating age. The third ele-ment that goes to the making of epic is harder for us to understand. There is little in our modern experience that illuminates the mythical scenes and characters. Where do the dragons come from? <s>The origin of myths is</s> We must answer that we do not know.",
         "type": "Prose",
         "notes": ["“On Bolshevism,” 31-40.", "“Mythonomy,” 43-5.", "Images of both texts on 30."]
     },
@@ -1446,7 +1446,7 @@ const texts = [
         "title": "Annotations of <i>The Pilgrim’s Regress</i>",
         "printedIn": "<i>The Pilgrim’s Regress, Wade Annotated Edition,</i> ed. David C. Downing (Grand Rapids: Eerdmans, 2014)",
         "issueOrVolume": null,
-        "pageRange": "passim",
+        "pageRange": "<i>passim</i>",
         "year": 2014,
         "monthAndDay": null,
         "textProvided": false,
@@ -1473,7 +1473,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-4.", "“Replies to Objections in Detail,” 124-30 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-44.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnoes, 145-69."]
+        "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnoes, 145-169."]
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
@@ -1484,7 +1484,7 @@ const texts = [
         "monthAndDay": "10 December",
         "textProvided": "https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html",
         "type": "Prose",
-        "notes": ["The relevant passages are as follows.", "He spoke on the subject ‘The Norse Spirit in English Literature.’ Lewis provided a touchstone between the Norse people and the English, which Lewis made clear in his first recorded statement. He said that he did not know why he had been asked to address the people of Iceland, but that he agreed to do it in order to repay a great debt. He explained that his imaginative life had been awakened by Norse mythology when he was 14. He went on to explain how his love of Norse mythology only deepened when he began to learn the Icelandic language at Oxford.", "After this introduction, Lewis proceeded to praise the Icelandic tongue as one of the most poetic on earth. Rather than a private view of his own, Lewis argued that successive generations of English writers have felt this affinity with the old Norse tales and that this influence has found its way into the greatest of English literature. He cited Sir William Temple, William Morris, Charles Dickens, Shakespeare, Fielding, and Thomas Grey as examples of what he meant. The literature of England, inspired by the Norse, views self-important office holders as knaves and fools. By implication, the English had come to Iceland to repay a great debt and help fend off the knave and fool who ran Germany.", "Behind the literature itself, Lewis focused on a prevailing spirit found in those Norse explorers who refused to be part of a mere medieval kingdom. Instead, Lewis argued that the English and the Norse share a spirit of independence which finds its origins in the Norse settlers of Iceland and animates English literature.", "Lewis claimed that this common spirit is different from what one finds in Europe. He did not want to identify it as democracy, because this spirit rejects the interference of democracy as much as dictatorshiNor does he regard it as a revolutionary spirit or individualism. This spirit is often marked by great loyalty that individualism does not possess. This loyalty, however, is based on choice rooted in worthy values—a chief who deserves loyalty. Just when it seems that Lewis had succeeded in avoiding jargon altogether, he names this spirit personal realism! Fortunately, he explained that personal realism involves loyalty between two people that is not based on abstractions, but on what those two people really are.", "Portions of these paragraphs are also quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
+        "notes": ["Some of this essay has been quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
     },
     {
         "title": "\"Letters to Malcolm: Letter XIIa\"",
@@ -1509,7 +1509,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Comment on a student exam (undated) found on a J.R.R. Tolkien manuscript verso",
+        "title": "Comment on a student exam (date unknown) found on a J.R.R. Tolkien manuscript verso",
         "printedIn": "William M. Fliss, “Things That Were, and Things That Are, and Things That Yet May Be: The J.R.R. Tolkien Manuscript Collection at Marquette University,” <i>Mythlore</i>",
         "issueOrVolume": "vol. 36, no. 1",
         "pageRange": "32",
@@ -1531,7 +1531,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Archangel Fragment from Notebook V",
+        "title": "Archangel Fragment (from Notebook V)",
         "printedIn": "Brenton D.G. Dickieson and Charlie W. Starr, \"The Archangel Fragment and C.S. Lewis's World-Building Project,\" <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 13",
         "pageRange": "19",
@@ -1692,7 +1692,7 @@ const texts = [
         "pageRange": "20-21",
         "year": 1988,
         "monthAndDay": null,
-        "textProvided": "Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. [Mamy is] like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. [Then himself:] I am like most boys of nine and I am like Papy, bad temper, thick lips, thin, and generaly weraing ajersy. [Grandfather has his own little room upstairs, but, although he is] a nice old man in some ways [he pities himself too much,] however all old people do that. [The worst thing about him was that he was dirty—] allways spitting and smoking ugh!",
+        "textProvided": "Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. <br/><br/>[Mamy is] <br/><br/>like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. <br/><br/>[Then himself:] <br/><br/>I am like most boys of nine and I am like Papy, bad temper, thick lips, thin, and generaly weraing ajersy [sic]. <br/><br/>[Grandfather has his own little room upstairs, but, although he is] <br/><br/>a nice old man in some ways <br/><br/>[he pities himself too much,] <br/><br/>however all old people do that. <br/><br/>[The worst thing about him was that he was dirty—] <br/><br/>allways spitting and smoking ugh!",
         "type": "Diary",
         "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
     },
@@ -1705,7 +1705,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[Lewis' words <b>in bold</b>]<br/><br/>He produced a bibliography, a <b>list of my books</b>, seven items, including a novel, <b>Man Against Man</b>, a history called <b>The Relief of Murry</b>, and <b>My Life</b> (a journal).",
         "type": "Diary",
-        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51.", "Sayer gives no date, and <i>LP:</i> 3:230 as a source; but Stephen Thorson gives the date and LP 3:301 as the corrected source."]
+        "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51.", "Sayer gives no date, and <i>LP:</i> 3:230 as a source; but Stephen Thorson gives the date and <i>LP</i> 3:301 as the corrected source."]
     },
     {
         "title": "Malvern Diary (15 March 1911) excerpt",
@@ -1758,9 +1758,9 @@ const texts = [
         "pageRange": "68-69",
         "year": 1990,
         "monthAndDay": null,
-        "textProvided": "[Oxford Diary (25 May 1923), on p. 69] <br/><br/><b>We each had a man wrapped in sacking and helmeted with a biscuit tin, and we are throwing them up in the air to kill them with the fall. When that failed it became one man whom we succeeded in murdering (I am not sure how. I think by drumming his head on the pavement) and the rest of the dream consists of fearful anxiety lest we should be discovered.<br/><br/>[Unknown source (Bodley MS. facs. d.264 f.140), text 1, on p. 68]<br/><br/> “He always regarded this spell of angry estrangement from Albert as <b>‘the blackest chapter of my life’.</b>”<br/><br/>[Unknown source (no reference given), text 2, on pp. 68-69: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, <b>‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’</b>",
+        "textProvided": "[Oxford Diary (25 May 1923), on p. 69] <br/><br/>We each had a man wrapped in sacking and helmeted with a biscuit tin, and we are throwing them up in the air to kill them with the fall. When that failed it became one man whom we succeeded in murdering (I am not sure how. I think by drumming his head on the pavement) and the rest of the dream consists of fearful anxiety lest we should be discovered.<br/><br/>[Unknown source (Bodley MS. facs. d.264 f.140), text 1, on p. 68; Lewis's words <b>in bold</b>]<br/><br/> “He always regarded this spell of angry estrangement from Albert as <b>‘the blackest chapter of my life’.</b>”<br/><br/>[Unknown source (no reference given), text 2, on pp. 68-69: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, <b>‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’</b>",
         "type": "Diary",
-        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to the <i>Lewis Papers</i> VI, 193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
+        "notes": ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-9: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child (Maureen, of course, ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to <i>LP</i> 6:193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
     },
     {
         "title": "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
@@ -1769,14 +1769,14 @@ const texts = [
         "pageRange": "5-6, 696",
         "year": 1996,
         "monthAndDay": null,
-        "textProvided": "[5] Papy of course is the master of th house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen [6] not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice olo man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards...<br/><br/> [He said his father [696] was] “very sensible” [and] “nice when not in a temper” [while his mother is] “like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry.” [As Christmas draws near we learn how Warnie comes home from school, of the various Lewis an dHamilton relations who drop in, how] “Mamy stoned raisins for the Xmas pudding” [, of how Jack and Warnie take to] “rushing about the house” [and of the play which Jack is writing to perform for the family on Christmas Day. The document ends with the words] “The old year out and the new year in” [LP III:88-92.]",
+        "textProvided": "[5-6]<br/><br/>Papy of course is the master of th house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice old man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards...<br/><br/>[696: He said his father was] <br/><br/>very sensible <br/><br/>[and] <br/><br/>nice when not in a temper<br/><br/>[while his mother is]<br/><br/>like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. <br/><br/>[As Christmas draws near we learn how Warnie comes home from school, of the various Lewis and Hamilton relations who drop in, how]<br/><br/>Mamy stoned raisins for the Xmas pudding <br/><br/>[, of how Jack and Warnie take to] <br/><br/>rushing about the house<br/><br/>[and of the play which Jack is writing to perform for the family on Christmas Day. The document ends with the words]<br/><br/>The old year out and the new year in.",
         "type": "Diary",
-        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites the <i>Lewis Papers</i> III:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, The Fellowship: The Literary Lives of the Inklings (New York, Farrar, Strauss and Giroux, 2015), 40."]
+        "notes": ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites <i>LP</i> 3:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
     // LETTERS
     // letters discovered by me
     {
-        "title": "Letter to Dorothy L. Sayers (undated)",
+        "title": "Letter to Dorothy L. Sayers (date unknown)",
         "printedIn": "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         "issueOrVolume": "vol. 28, no. 3",
         "pageRange": "[page range unknown]",
@@ -1787,7 +1787,7 @@ const texts = [
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, this letter is not in the <i>Collected Letters</i>. However, his listing claims it is found in volume 38, which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.", "And it is also available here: <a class='link-to-text'></a>"]
     },
     {
-        "title": "Letter to Mahmoud Manzalaoui (undated)",
+        "title": "Letter to Mahmoud Manzalaoui (date unknown)",
         "printedIn": "Mahmoud Manzalaoui, “Lydgate and English Prosody,” <i>Cairo Studies in English</i>",
         "issueOrVolume": null,
         "pageRange": "94",
@@ -1809,7 +1809,7 @@ const texts = [
         "notes": ["The text is only available in this source."]
     },
     {
-        "title": "Letter to Dorothea Conybeare (undated)",
+        "title": "Letter to Dorothea Conybeare (date unknown)",
         "printedIn": "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         "issueOrVolume": null,
         "pageRange": "261, note 1",
@@ -1837,7 +1837,7 @@ const texts = [
         "pageRange": "533-534",
         "year": 1966,
         "monthAndDay": "19 October",
-        "textProvided": "Magdalene College, Cambridge <br/>2 December 1962<br/><br/>Dear Mr. Higgins<br/><br/>1. Surely I never questioned the “legitimacy” of mythopoeia – only the propriety of classifying the art which it belonged to as “Literature.”<br/>2.	The Narnian books are not as much allegory as supposal. “Suppose there were a Narnian world and it, like ours, needed redemption. What kind of incarnation and Passion might Christ be supposed to undergo <i>there</i>?”<br/>3. Only after Aslan came into the story – on His own; I never called Him – did I remember the scriptural “Lion of Judah.”<br/>4. No. I never met Chesterton. I suppose the same affinity which made me like him made us both like Macdonald.<br/>5. I turned to fairy tales because that seemed the form which certain ideas and images in my mind seemed to demand; as a man might turn to fugues because the musical phrases in his head seemed to be “good fugue subjects.”<br/>6. When I wrote <i>The Lion</i> I had no notion of writing the others.<br/>7. Writing “juveniles” certainly modified my habits of composition. Thus (<i>a</i>) It imposed a strict limit on vocabulary (<i>b</i>) excluded erotic love (<i>c</i>) cut down reflective and analytical passages (<i>d</i>) led me to produce chapters of nearly equal length, for convenience in reading aloud. All these restrictions did me great good — like writing in a strict metre.Yes. I get wonderful letters from children in U. S. A. and elsewhere. <br/><br/>Yours sincerely,<br/>C. S. Lewis",
+        "textProvided": "Magdalene College, Cambridge <br/>2 December 1962<br/><br/>Dear Mr. Higgins<br/><br/>1. Surely I never questioned the “legitimacy” of mythopoeia – only the propriety of classifying the art which it belonged to as “Literature.”<br/>2.	The Narnian books are not as much allegory as supposal. “Suppose there were a Narnian world and it, like ours, needed redemption. What kind of incarnation and Passion might Christ be supposed to undergo <i>there</i>?”<br/>3. Only after Aslan came into the story – on His own; I never called Him – did I remember the scriptural “Lion of Judah.”<br/>4. No. I never met Chesterton. I suppose the same affinity which made me like him made us both like Macdonald.<br/>5. I turned to fairy tales because that seemed the form which certain ideas and images in my mind seemed to demand; as a man might turn to fugues because the musical phrases in his head seemed to be “good fugue subjects.”<br/>6. When I wrote <i>The Lion</i> I had no notion of writing the others.<br/>7. Writing “juveniles” certainly modified my habits of composition. Thus (<i>a</i>) It imposed a strict limit on vocabulary (<i>b</i>) excluded erotic love (<i>c</i>) cut down reflective and analytical passages (<i>d</i>) led me to produce chapters of nearly equal length, for convenience in reading aloud. All these restrictions did me great good — like writing in a strict metre.Yes. I get wonderful letters from children in U. S. A. and elsewhere. <br/><br/>Yours sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>, though Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-37."]
     },
@@ -1859,7 +1859,7 @@ const texts = [
         "pageRange": "30",
         "year": 1978,
         "monthAndDay": null,
-        "textProvided": "My dear Tolkien, <br/><br/>Just a line to say that I sat up late last night and have read the <i>Geste</i> as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the <i>rēaf.</i> I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should <i>suggest</i> incipient allegories to the reader. So much at the first flush. Detailed criticisms (including grumbles at individual lines) will follow.<br/><br/>Yours,<br/>C.S. Lewis",
+        "textProvided": "My dear Tolkien, <br/><br/>Just a line to say that I sat up late last night and have read the <i>Geste</i> as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the <i>rēaf.</i> I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should <i>suggest</i> incipient allegories to the reader. So much at the first flush. Detailed criticisms (including grumbles at individual lines) will follow.<br/><br/>Yours,<br/><br/>C.S. Lewis",
         "type": "Letter",
         "notes": ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437-438, this letter is not in the <i>Collected Letters</i>.", "This letter also appears, with the salutation and closing sentences cut, in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin), 150-51."]
     },
@@ -1911,12 +1911,12 @@ const texts = [
         "title": "Letter to Malcolm M. Ferguson (20 February 1953)",
         "printedIn": "Douglas A. Anderson, “A Footnote to Tales before Narnia,” <i>Mythlore</i>",
         "issueOrVolume": "vol. 29/1-2 (#111-112), Fall/Winter",
-        "pageRange": "162",
+        "pageRange": "162 <a href='http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         "year": 2010,
         "monthAndDay": null,
         "textProvided": "What a good idea! It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see. But very many thanks.",
         "type": "Letter",
-        "notes": ["Anderson reproduces the Mythlore article in a blog post: <a class='link-to-text'>http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html.</a>"]
+        "notes": null
     },
     {
         "title": "Letter to the Nobel Prize Committee (16 January 1961), holograph",
@@ -1941,7 +1941,7 @@ const texts = [
         "notes": ["A transcription of the letter itself is on 20-1."]
     },
     {
-        "title": "Letter to Nevill Coghill in Old English (1926, exact date unknown)",
+        "title": "Letter to Nevill Coghill in Old English (1926)",
         "printedIn": "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 32",
         "pageRange": "18-28",
@@ -1958,7 +1958,7 @@ const texts = [
         "pageRange": "18 (holographs), 21 (transcript)",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 28 June 1961<br/><br/>Dear Mr. Park<br/><br/>The MS of C.W.’s <i>FofA</i> [<i>Figure of Arthur</i>] is not in my possession. I <i>think</i> he would have said that the old authors represent the grail as a vessel connected with the Last Supper and therefore with the N.T., and that in a <i>story</i> (as distinct from history) an object “is” what it is said to be. Its <i>resemblance</i> to anything in the Celtic stories, he probably thought, had been grossly exaggerated. I am no Celticist myself and have no qualifications for contributing to the debate. But C.W. and I were both opposed to any approach which doesn’t give far more weight to the inventions of individual men of genius than to “motifs” represented as passing by some mysterious power of their own from one author to another − as if they were <i>things,</i> whereas they are really products of analysis.<br/><br/>Yours sincerely,<br/>C. S. Lewis",
+        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 28 June 1961<br/><br/>Dear Mr. Park<br/><br/>The MS of C.W.’s <i>FofA</i> [<i>Figure of Arthur</i>] is not in my possession. I <i>think</i> he would have said that the old authors represent the grail as a vessel connected with the Last Supper and therefore with the N.T., and that in a <i>story</i> (as distinct from history) an object “is” what it is said to be. Its <i>resemblance</i> to anything in the Celtic stories, he probably thought, had been grossly exaggerated. I am no Celticist myself and have no qualifications for contributing to the debate. But C.W. and I were both opposed to any approach which doesn’t give far more weight to the inventions of individual men of genius than to “motifs” represented as passing by some mysterious power of their own from one author to another − as if they were <i>things,</i> whereas they are really products of analysis.<br/><br/>Yours sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["Holographs of the letter on 18, transcription on 21."]
     },
@@ -1980,7 +1980,7 @@ const texts = [
         "pageRange": "40-41",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": "[On being invited for a meeting to discuss “A Call to Christian Action in Public Affairs”]<br/><br/>Magdalen, June 9 / 46<br/><br/>Dear Collins<br/><br/>I can’t come to the tea but you can count me in on the project and I will do anything I’m told to do.<br/><br/>Yours<br/>C. S. Lewis",
+        "textProvided": "[On being invited for a meeting to discuss “A Call to Christian Action in Public Affairs”:]<br/><br/>Magdalen, June 9 / 46<br/><br/>Dear Collins<br/><br/>I can’t come to the tea but you can count me in on the project and I will do anything I’m told to do.<br/><br/>Yours<br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["Lewis makes seven criticisms of the resolution draft he had been sent.","Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4."]
     },
@@ -2002,7 +2002,7 @@ const texts = [
         "pageRange": "20",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows: <b>H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.</b>",
+        "textProvided": "[\"We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows:\"]<br/><br/>H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.",
         "type": "Letter",
         "notes": null
     },
@@ -2013,7 +2013,7 @@ const texts = [
         "pageRange": "21",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "Ans’d 13/4/39	Magdalen College, Oxford.<br/>April 12th 1939<br/><br/>Dear Belgion<br/><br/>Thanks for your encouraging letter. What I was referring to in <i>Descent into Hell</i> was the ‘substitution’ – the poet bearing the heroine’s fear as she bears the Marian martyr’s fear.But I forgot that this is not really the main action. It’s much his best novel, isn’t it: the old flamboyant element in his style – always his great weakness – has almost disappeared.<br/><br/>Someone told me that you, of all people, are the anonymous reviewer of De Rougemont with whom I have been contending in the <i>Tablet</i> and that I mistook the point of your argument. If this is all true, I can only plead that the company in which I found you naturally predisposed me to read the review in the wrong sense. I don’t (much) mind making a fool of myself but I hope I haven’t made the pair of us – or the Church of England – look silly in such a place.<br/><br/>How hard it is to live spiritually in Easter when ones <i>nervous system</i> can’t get out of Gethsemane.<br/><br/>Yours<br/>C. S. Lewis",
+        "textProvided": "Ans’d 13/4/39	Magdalen College, Oxford.<br/>April 12th 1939<br/><br/>Dear Belgion<br/><br/>Thanks for your encouraging letter. What I was referring to in <i>Descent into Hell</i> was the ‘substitution’ – the poet bearing the heroine’s fear as she bears the Marian martyr’s fear.But I forgot that this is not really the main action. It’s much his best novel, isn’t it: the old flamboyant element in his style – always his great weakness – has almost disappeared.<br/><br/>Someone told me that you, of all people, are the anonymous reviewer of De Rougemont with whom I have been contending in the <i>Tablet</i> and that I mistook the point of your argument. If this is all true, I can only plead that the company in which I found you naturally predisposed me to read the review in the wrong sense. I don’t (much) mind making a fool of myself but I hope I haven’t made the pair of us – or the Church of England – look silly in such a place.<br/><br/>How hard it is to live spiritually in Easter when ones <i>nervous system</i> can’t get out of Gethsemane.<br/><br/>Yours<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45."]
     },
@@ -2024,7 +2024,7 @@ const texts = [
         "pageRange": "22-23",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "Ans’d 26/4/39	<br/>Magdalen.<br/>April 25th 1939<br/><br/>Dear Belgion<br/><br/>I see no particular reason why you should have told me you were writing that review. I took it to be primarily a Papist attack on – ‘see what a mess an Anglican has got himself into celebrating what now turns out to be a Pagan doctrine’ – and I still think that is the impression it is likely to produce on most readers. That was what I replied to. When I discovered it was by you I felt (a.) That I had made sport for the editors of the <i>Tablet</i> by showing two Anglicans fighting at cross purposes in <i>their</i> columns. (b.) That, since I had apparently misunderstood you, my letter might sound ungracious. That is why I wrote to you. Nothing was further from my mind than the idea that people who are friends ought not to criticise one another in public without private warnings and apologies. All that kind of collusion and secret society business in the world of modern literature is my pet abomination. I neither ask nor offer anything but ‘the rigour of the game’.<br/><br/>As to my failure to follow up the question raised in your original letter to me about de Rougemont, the truth is that I am not very interested in the <i>origins</i> of courtly love.  I raise all the usual theories in the first chapter of my book, dismiss them in a purely agnostic way, and hurry on to my real subject – what the thing was like once it <i>had</i> originated and what sort of poetry it produced. I might go further and say that I am less interested in Courtly Love itself than most people suppose. My real concern was allegory and C. L. originally came in for the sake of studying allegory, not <i>vice-versa</i> as most people think. Temperamentally I find the phase of sexuality exhibited in C. L. <i>most uncongenial.</i> Any strength my book has results from the fact that it is the work of an outsider.*<br/><br/>I hope it is now clear that I have nothing to ‘forgive’. I never thought you had injured me. I did think we had between us given the Papists an occasion for some chuckles, but it’s no great matter. I enclose the page from the <i>Tablet,</i><br/><br/>Yours<br/>C. S. Lewis<br/><br/>* i.e. if you regard perfectly normal sexuality as the centre, and C. L. as the extreme left, then I am to the right of centre rather than to the left – I mean as a chap not as a moralist or critic. In <i>those capacities</i> I of course support the centre i.e. the Dominical and Pauline utterances on marriage. What I dislike to the point of nausea is all that ‘love and death’ stuff in de Rougemont…better be a eunuch than a Tristan",
+        "textProvided": "Ans’d 26/4/39	<br/>Magdalen.<br/>April 25th 1939<br/><br/>Dear Belgion<br/><br/>I see no particular reason why you should have told me you were writing that review. I took it to be primarily a Papist attack on – ‘see what a mess an Anglican has got himself into celebrating what now turns out to be a Pagan doctrine’ – and I still think that is the impression it is likely to produce on most readers. That was what I replied to. When I discovered it was by you I felt (a.) That I had made sport for the editors of the <i>Tablet</i> by showing two Anglicans fighting at cross purposes in <i>their</i> columns. (b.) That, since I had apparently misunderstood you, my letter might sound ungracious. That is why I wrote to you. Nothing was further from my mind than the idea that people who are friends ought not to criticise one another in public without private warnings and apologies. All that kind of collusion and secret society business in the world of modern literature is my pet abomination. I neither ask nor offer anything but ‘the rigour of the game’.<br/><br/>As to my failure to follow up the question raised in your original letter to me about de Rougemont, the truth is that I am not very interested in the <i>origins</i> of courtly love.  I raise all the usual theories in the first chapter of my book, dismiss them in a purely agnostic way, and hurry on to my real subject – what the thing was like once it <i>had</i> originated and what sort of poetry it produced. I might go further and say that I am less interested in Courtly Love itself than most people suppose. My real concern was allegory and C. L. originally came in for the sake of studying allegory, not <i>vice-versa</i> as most people think. Temperamentally I find the phase of sexuality exhibited in C. L. <i>most uncongenial.</i> Any strength my book has results from the fact that it is the work of an outsider.*<br/><br/>I hope it is now clear that I have nothing to ‘forgive’. I never thought you had injured me. I did think we had between us given the Papists an occasion for some chuckles, but it’s no great matter. I enclose the page from the <i>Tablet,</i><br/><br/>Yours<br/><br/>C. S. Lewis<br/><br/>* i.e. if you regard perfectly normal sexuality as the centre, and C. L. as the extreme left, then I am to the right of centre rather than to the left – I mean as a chap not as a moralist or critic. In <i>those capacities</i> I of course support the centre i.e. the Dominical and Pauline utterances on marriage. What I dislike to the point of nausea is all that ‘love and death’ stuff in de Rougemont…better be a eunuch than a Tristan",
         "type": "Letter",
         "notes": ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46."]
     },
@@ -2035,7 +2035,7 @@ const texts = [
         "pageRange": "24-25",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "Ans’d 6/5/39	<br/>Magdalen College, Oxford.<br/>May 2nd 1939<br/><br/>Dear Belgion<br/><br/>It seems we are agreed.  I fully admit that there is “in the notion of C. L. as expounded by the Troubadours an element irreconcilable with the description of C.L. by a Christian as a ‘noble and ennobling passion’.” But when did I describe C. L. as a noble and ennobling passion? What I said (p. 3) was that ‘it seems or seemed to us till lately natural that love shd. be regarded as a noble and ennobling passion’ and thought this prevalent view resulted from the change begun by the Troubadours. We are confusing 2 different propositions.<br/><br/>A.	I, C. S. Lewis, think C. L. a noble passion.<br/>B.	Courtly Love inaugurated a tradition which still survives in the prevalent view that Love is a noble passion.<br/><br/>I asserted B, never A. Surely the difference is obvious<br/><br/>A.	C. L. = noble passion<br/>B.	View that L is a noble passion = a result of C. L.<br/><br/>I admit I seem to have missed the <i>tone</i> of your review and taken <i>au pied de la lettre</i> what was meant as light raillery.<br/><br/>My reference to Lewis Carroll etc was a way (perhaps rather unkind) of pointing out the difference between the statement you attributed to me (that the <i>themes</i> of modern <i>imaginative literature</i> were derived from the Troubadours) and my real claim (that the <i>tone</i> of modern <i>imaginative lit. about love</i> were derived from the Troubadours) Once again its the difference between<br/><br/>TH (m. I. L) = d. from TR <br/>T (m. I. L about Love) = d. from TR. <br/><br/>Sorry to be so troublesome, <br/><br/>Yours<br/>C.	S. Lewis",
+        "textProvided": "Ans’d 6/5/39	<br/>Magdalen College, Oxford.<br/>May 2nd 1939<br/><br/>Dear Belgion<br/><br/>It seems we are agreed.  I fully admit that there is “in the notion of C. L. as expounded by the Troubadours an element irreconcilable with the description of C.L. by a Christian as a ‘noble and ennobling passion’.” But when did I describe C. L. as a noble and ennobling passion? What I said (p. 3) was that ‘it seems or seemed to us till lately natural that love shd. be regarded as a noble and ennobling passion’ and thought this prevalent view resulted from the change begun by the Troubadours. We are confusing 2 different propositions.<br/><br/>A.	I, C. S. Lewis, think C. L. a noble passion.<br/>B.	Courtly Love inaugurated a tradition which still survives in the prevalent view that Love is a noble passion.<br/><br/>I asserted B, never A. Surely the difference is obvious<br/><br/>A.	C. L. = noble passion<br/>B.	View that L is a noble passion = a result of C. L.<br/><br/>I admit I seem to have missed the <i>tone</i> of your review and taken <i>au pied de la lettre</i> what was meant as light raillery.<br/><br/>My reference to Lewis Carroll etc was a way (perhaps rather unkind) of pointing out the difference between the statement you attributed to me (that the <i>themes</i> of modern <i>imaginative literature</i> were derived from the Troubadours) and my real claim (that the <i>tone</i> of modern <i>imaginative lit. about love</i> were derived from the Troubadours) Once again its the difference between<br/><br/>TH (m. I. L) = d. from TR <br/>T (m. I. L about Love) = d. from TR. <br/><br/>Sorry to be so troublesome, <br/><br/>Yours<br/><br/>C.S. Lewis",
         "type": "Letter",
         "notes": ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C. S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47."]
     },
@@ -2046,7 +2046,7 @@ const texts = [
         "pageRange": "87-98",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 6 Sept 59<br/><br/>Dear Mr. Fairhurst<br/><br/>I parted company from MacDonald on that point because a higher authority – the Dominical utterances themselves – seemed to me irreconcilable with universalism. The finality of the Either-Or, the Sheep and Goats, the Wheat and Tares, the Wise and Foolish Virgins – is so emphatic and reiterated in Our Lord’s teaching that, in my opinion, it simply cannot be evaded. If we do not know that He said that, then we do not know what He said about anything. And this my sole reason. So far as I know my views on the retributive element in human punishments went for nothing here. Need I add that I shd. v. much prefer to followG.M. in this point if I could? <br/><br/>Yours sincerely,<br/>C. S. Lewis<br/>P.T.O.<br/><br/>P.S. I don’t know the answer about Maurice. The Life of G.M. by his son, Dr. Greville MacDonald (not a very good book) would very likely tell you.",
+        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 6 Sept 59<br/><br/>Dear Mr. Fairhurst<br/><br/>I parted company from MacDonald on that point because a higher authority – the Dominical utterances themselves – seemed to me irreconcilable with universalism. The finality of the Either-Or, the Sheep and Goats, the Wheat and Tares, the Wise and Foolish Virgins – is so emphatic and reiterated in Our Lord’s teaching that, in my opinion, it simply cannot be evaded. If we do not know that He said that, then we do not know what He said about anything. And this my sole reason. So far as I know my views on the retributive element in human punishments went for nothing here. Need I add that I shd. v. much prefer to followG.M. in this point if I could? <br/><br/>Yours sincerely,<br/><br/>C. S. Lewis<br/>P.T.O.<br/><br/>P.S. I don’t know the answer about Maurice. The Life of G.M. by his son, Dr. Greville MacDonald (not a very good book) would very likely tell you.",
         "type": "Letter",
         "notes": ["Transcriptions of the letters are found on 91-92.", "Originally quoted in Kendall Harmon, “Nothingness and Human Destiny: Hell in the Thought of C.S. Lewis,” in <i>The Pilgrim’s Guide: C.S. Lewis and the Art of Witness</i>, ed. David Mills (Grand Rapids, MI: Eerdmans, 1998), 241 and 253."]
     },
@@ -2086,7 +2086,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (24 March 1924)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "13-14",
         "year": 2007,
@@ -2102,7 +2102,7 @@ const texts = [
         "pageRange": "4-5",
         "year": 2020,
         "monthAndDay": "April",
-        "textProvided": "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit mioluc remaining in certain dialects after it had become meol(u)c in others. In order to explain mioluc I have to posit miluc<br/><br/>As against this I find meolean cited by Wright (OE 49) not as an example of i fractured to io later eo, but as an example of e immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive meluks.× Am I entitled, then, to assume that the root entered OE both in the milform and in the mel-. ? And in the same way that selbur & silbur, selc & silk both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/>silf > siolf (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an i- form (silba) and that Gothic i ought normally to correspond to e in O.E. etc: also that Wright (O.E. 84.) cites seolf as an example of the fracture of e. In fact all the evidence before me is against an original silf: while an original self will reach seolf without going through the siolf stage which I need. (There is no hint in any authority of an -i- or -j- to turn seolf into sielf and thence silf.)Is it possible that, since many -eo words from i (lirn > leorn) etc had the intermediate io in certain dialects still retained, false io forms arose anologically [sic] even in the case of eo words from e? I take it, it is out of the question that e itself could ever pass through io to reach eo.<br/><br/>Yours<br/>C. S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither silf nor sylf appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds Historical Study of the Mother Tongue. Wyld’s Short History has no index worth a −−. Nor has Lizzie’s O.E. grammar.",
+        "textProvided": "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit mioluc remaining in certain dialects after it had become meol(u)c in others. In order to explain mioluc I have to posit miluc<br/><br/>As against this I find meolean cited by Wright (OE 49) not as an example of i fractured to io later eo, but as an example of e immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive meluks.× Am I entitled, then, to assume that the root entered OE both in the milform and in the mel-. ? And in the same way that selbur & silbur, selc & silk both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/>silf > siolf (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an i- form (silba) and that Gothic i ought normally to correspond to e in O.E. etc: also that Wright (O.E. 84.) cites seolf as an example of the fracture of e. In fact all the evidence before me is against an original silf: while an original self will reach seolf without going through the siolf stage which I need. (There is no hint in any authority of an -i- or -j- to turn seolf into sielf and thence silf.)Is it possible that, since many -eo words from i (lirn > leorn) etc had the intermediate io in certain dialects still retained, false io forms arose anologically [sic] even in the case of eo words from e? I take it, it is out of the question that e itself could ever pass through io to reach eo.<br/><br/>Yours<br/><br/>C. S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither silf nor sylf appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds Historical Study of the Mother Tongue. Wyld’s Short History has no index worth a −−. Nor has Lizzie’s O.E. grammar.",
         "type": "Letter",
         "notes": ["The × is Lewis’s. It may refer to two lines of text on the verso side, the first of which is lost; the second reads, “That is all plain sailing. But how does he get his original sioluc, mioluc etc.?”"]
     },
@@ -2119,7 +2119,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (10 December 1926)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "57",
         "year": 2007,
@@ -2141,18 +2141,18 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (March 1931)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "18-19",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": "March 1931*<br/><br/>My dear Harwood,<br/><br/>I am instructed to inform you that at a meeting of the walk committee held yesterday in the rooms of the Union Society Oxford, the following resolutions were passed:<br/><br/>1.	That Mr. A. C. Harwood be created Lord of the Walks, with all feudalities appertaining thereto: i.e. sac and soc, corvée, jus primae noctis vel romanice, droit de seigneur,* jus impune guitandi, the high justice, the middle and the low.<br/>2.	That a petition be presented to the said Lord of the Walks on behalf of us his vassals, requesting permission to commute the said feudalities for rent or money payment: the said vassals to be declared, in return, free and delivered from all such services as the said feudalities imply. It is estimated that the said rent would amount to a sum between £5 and £6; the denomination of the said sum, notwithstanding, to rest in the last resort with the said Lord.<br/>3.	That the following resolution in rescript of the Sub-Committee for ethical problems be forwarded to the said Lord: “That it is the moral duty of the Lord of the Walks to grant the petition of his vassals for the commutation of his feudalities.”<br/>4.	That the Walk shall begin on the morning of Friday April 17th from Hay: and shall return to Hay through Builth, Rhayader, and New Radnor.<br/>5.	That the said Lord be humbly requested to notify his pleasure in this matter to the committee at his earliest convenience.<br/>In nomine sanctae et individui trinitatis.<br/><br/>Of course you’ll come. Hoity toity. What has that Captain Field been about not to leave a period open.<br/><br/>Yrs. C. S. Lewis.<br/><br/>* N.B. The said Lord, however, shall have no right to command the marriage of any of his vassals during the Walk.",
+        "textProvided": "March 1931<br/><br/>My dear Harwood,<br/><br/>I am instructed to inform you that at a meeting of the walk committee held yesterday in the rooms of the Union Society Oxford, the following resolutions were passed:<br/><br/>1.	That Mr. A. C. Harwood be created Lord of the Walks, with all feudalities appertaining thereto: i.e. sac and soc, corvée, jus primae noctis vel romanice, droit de seigneur,* jus impune guitandi, the high justice, the middle and the low.<br/>2.	That a petition be presented to the said Lord of the Walks on behalf of us his vassals, requesting permission to commute the said feudalities for rent or money payment: the said vassals to be declared, in return, free and delivered from all such services as the said feudalities imply. It is estimated that the said rent would amount to a sum between £5 and £6; the denomination of the said sum, notwithstanding, to rest in the last resort with the said Lord.<br/>3.	That the following resolution in rescript of the Sub-Committee for ethical problems be forwarded to the said Lord: “That it is the moral duty of the Lord of the Walks to grant the petition of his vassals for the commutation of his feudalities.”<br/>4.	That the Walk shall begin on the morning of Friday April 17th from Hay: and shall return to Hay through Builth, Rhayader, and New Radnor.<br/>5.	That the said Lord be humbly requested to notify his pleasure in this matter to the committee at his earliest convenience.<br/>In nomine sanctae et individui trinitatis.<br/><br/>Of course you’ll come. Hoity toity. What has that Captain Field been about not to leave a period open.<br/><br/>Yrs. C. S. Lewis.<br/><br/>* N.B. The said Lord, however, shall have no right to command the marriage of any of his vassals during the Walk.",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Daphne Harwood (10 September 1931)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "65",
         "year": 2007,
@@ -2163,7 +2163,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (1932)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "20-21",
         "year": 2007,
@@ -2185,7 +2185,7 @@ const texts = [
     },
     {
         "title": "Letter to George Sayer (1933)",
-        "printedIn": "George Sayer, “Recollections of J.R.R. Tolkien,” ><i>Proceedings of the J.R.R. Tolkien Centenary Conference 1992,</i> ed. Patricia Reynolds and Glen GoodKnight, <i>Mythlore</i>",
+        "printedIn": "George Sayer, “Recollections of J.R.R. Tolkien,” <i>Proceedings of the J.R.R. Tolkien Centenary Conference 1992,</i> ed. Patricia Reynolds and Glen GoodKnight, <i>Mythlore</i>",
         "issueOrVolume": "vol. 21/2, #80",
         "pageRange": "21",
         "year": 1996,
@@ -2234,7 +2234,7 @@ const texts = [
         "pageRange": "135",
         "year": 2002,
         "monthAndDay": null,
-        "textProvided": "[c/o Oxford University Press; on <i>The Allegory of Love</i>(1936):]<br/><br/>The book as a whole has two themes: 1. the birth of allegory and its growth from what it is in Prudentius to what it is in Spenser. 2. the birth of the romantic conception of love and the long struggle between its earlier form (the romance of adultery) and its later form (the romance of marriage).",
+        "textProvided": "[c/o Oxford University Press; on <i>The Allegory of Love</i> (1936):]<br/><br/>The book as a whole has two themes: 1. the birth of allegory and its growth from what it is in Prudentius to what it is in Spenser. 2. the birth of the romantic conception of love and the long struggle between its earlier form (the romance of adultery) and its later form (the romance of marriage).",
         "type": "Letter",
         "notes": ["Only found in the 2002 Fully Revised & Expanded Edition."]
     },
@@ -2284,12 +2284,12 @@ const texts = [
     },
     {
         "title": "Letter to Mary Neylan (1940)",
-        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "224",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "[On receiving a letter written during “the agonies of her conversion”:] You have told me rather too much.",
+        "textProvided": "[On receiving a letter written during “the agonies of her conversion”:]<br/><br/> You have told me rather too much.",
         "type": "Letter",
         "notes": null
     },
@@ -2306,7 +2306,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (3 August 1940)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "76-77",
         "year": 2007,
@@ -2322,7 +2322,7 @@ const texts = [
         "pageRange": "84",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "My dear Barfield, A book on this subject from me at Oxford (wh. continues to be Gideon’s fleece) to you in the front line seems rather impertinent. When wd. you like a few quiet nights here? Do come and spend one or two. You are daily in my thoughts. Yours, C. S. Lewis",
+        "textProvided": "My dear Barfield, <br/><br/>A book on this subject from me at Oxford (wh. continues to be Gideon’s fleece) to you in the front line seems rather impertinent. When wd. you like a few quiet nights here? Do come and spend one or two. You are daily in my thoughts. <br/><br/>Yours, C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2372,7 +2372,7 @@ const texts = [
     },
     {
         "title": "Letter to Eric Fenn (29 August 1941)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2002,
@@ -2383,7 +2383,7 @@ const texts = [
     },
     {
         "title": "Letter to Eric Fenn (2 March 1942)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "158",
         "year": 2002,
@@ -2405,7 +2405,7 @@ const texts = [
     },
     {
         "title": "Letter to James Welch (May 1942)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "223",
         "year": 2002,
@@ -2416,7 +2416,7 @@ const texts = [
     },
     {
         "title": "Letter to Eric Fenn (26 June 1942)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "159",
         "year": 2002,
@@ -2438,7 +2438,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (September 1942)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "74",
         "year": 2007,
@@ -2449,7 +2449,7 @@ const texts = [
     },
     {
         "title": "Letter to Eric Fenn (31 October 1942)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "169",
         "year": 2002,
@@ -2460,7 +2460,7 @@ const texts = [
     },
     {
         "title": "Letter to Cecil Harwood (September 1942)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "75",
         "year": 2007,
@@ -2471,7 +2471,7 @@ const texts = [
     },
     {
         "title": "Letter to Harold Montgomery Belgion (February 1943)",
-        "printedIn": "Midge Gillies, <i>The Barbed-Wire University: The real lives of Allied prisoners of war in the Second World War</i> (London: Aurun)",
+        "printedIn": "Midge Gillies, <i>The Barbed-Wire University: The Real Lives of Allied Prisoners of War in the Second World War</i> (London: Aurun)",
         "issueOrVolume": null,
         "pageRange": "255",
         "year": 2011,
@@ -2504,12 +2504,12 @@ const texts = [
     },
     {
         "title": "Letter to Edward Sniders (1944)",
-        "printedIn": "Edward Sniders, <i>Flying In, Walking Out: Memories of war and escape, 1939-1945</i> (Barnsley, South Yorkshire: Leo Cooper)",
+        "printedIn": "Edward Sniders, <i>Flying In, Walking Out: Memories of War and Escape, 1939-1945</i> (Barnsley, South Yorkshire: Leo Cooper)",
         "issueOrVolume": null,
         "pageRange": "106",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": "<i>A former student of Lewis, Sniders, now a prisoner of war in German custody, received a parcel from his wife including books “books on the advice of C. S. Lewis, and she enclosed a copious list he had given her in longhand of further books to be ordered or read from the camp library of the Red Cross. He said that if I read them all,</i><br/><br/>the rest would just be top dressing<br/><br/><i>when I worked for my degree after the war.</i>",
+        "textProvided": "[A former student of Lewis, Sniders, now a prisoner of war in German custody, received a parcel from his wife including books “books on the advice of C. S. Lewis, and she enclosed a copious list he had given her in longhand of further books to be ordered or read from the camp library of the Red Cross. He said that if I read them all,\"]<br/><br/>the rest would just be top dressing<br/><br/>[\"when I worked for my degree after the war.\"]",
         "type": "Letter",
         "notes": null
     },
@@ -2526,18 +2526,18 @@ const texts = [
     },
     {
         "title": "Letter to the Contracts staff of the BBC (25 April 1944)",
-        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of hope in the darkness of war</i> (London: HarperCollins)",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "258",
         "year": 2002,
         "monthAndDay": null,
-        "textProvided": "[I am sorry to say that I <i>do</i> appear to have lost the contract, and would be obliged if you would send me another. With apologies for my stupidity.",
+        "textProvided": "I am sorry to say that I <i>do</i> appear to have lost the contract, and would be obliged if you would send me another. With apologies for my stupidity.",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Cecil Harwood (July 1944)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "79-81",
         "year": 2007,
@@ -2587,7 +2587,7 @@ const texts = [
         "pageRange": "12",
         "year": 2020,
         "monthAndDay": "April",
-        "textProvided": "April 29th<br/><br/>My dear Onions,<br/><br/>Have you any idea why Gavin Douglas writes DEMING where he obviously means DEME (<i>Palice of Honour</i> Part 1 5th stanza from the end l. 3) and CLEPING where he must mean CLEPE(N) (Aen. Bk. VIII cap VI. l. 7) and INQUIRING in the previous chapter 4 lines from the end?<br/><br/>Yours<br/>C. S. Lewis",
+        "textProvided": "April 29th<br/><br/>My dear Onions,<br/><br/>Have you any idea why Gavin Douglas writes DEMING where he obviously means DEME (<i>Palice of Honour</i> Part 1 5th stanza from the end l. 3) and CLEPING where he must mean CLEPE(N) (Aen. Bk. VIII cap VI. l. 7) and INQUIRING in the previous chapter 4 lines from the end?<br/><br/>Yours<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2620,7 +2620,7 @@ const texts = [
         "pageRange": "3-4",
         "year": 2009,
         "monthAndDay": "March/April",
-        "textProvided": "REF. 230/47.	<br/>Magdalen College, Oxford.<br/>16th April 1947.<br/><br/>Dear Professor Bush,<br/><br/>What I mean by refusing to call Hooker a Dynamist is that he says “They do err who hold that of the Will of God to do thus or thus there is no reason save His will.” I’m glad you liked the review. Congratulations on writing the best O.H.E.L. volume yet – if this is not to damn with faint praise, for E. K. C.* I thought wretched. I never dreamed of your having read my stories.<br/><br/>With all good wishes. Are you coming to this island? Be sure and beat up my quarters if you do.<br/><br/>yours sincerely,<br/>C. S. Lewis",
+        "textProvided": "REF. 230/47.	<br/>Magdalen College, Oxford.<br/>16th April 1947.<br/><br/>Dear Professor Bush,<br/><br/>What I mean by refusing to call Hooker a Dynamist is that he says “They do err who hold that of the Will of God to do thus or thus there is no reason save His will.” I’m glad you liked the review. Congratulations on writing the best O.H.E.L. volume yet – if this is not to damn with faint praise, for E. K. C.* I thought wretched. I never dreamed of your having read my stories.<br/><br/>With all good wishes. Are you coming to this island? Be sure and beat up my quarters if you do.<br/><br/>yours sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2666,7 +2666,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "The earlier letter referred to is in <i>Collected Letters</i> II."]
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "The earlier letter referred to is in <i>Collected Letters</i> 2."]
     },
     {
         "title": "Letter to Michal Williams (22 November 1947), holograph",
@@ -2741,7 +2741,7 @@ const texts = [
         "pageRange": "127",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "REF.321/49.	<br/>Magdalen College, Oxford.<br/>14th July 1949.<br/><br/>Dear Mr. Kennedy,<br/><br/>I am leaving Oxford tomorrow, and shall be to and fro for a bit. Will you be here after August 15th? I should find it easier to arrange a meeting then.<br/><br/>Yours sincerely,<br/>C. S. Lewis",
+        "textProvided": "REF.321/49.	<br/>Magdalen College, Oxford.<br/>14th July 1949.<br/><br/>Dear Mr. Kennedy,<br/><br/>I am leaving Oxford tomorrow, and shall be to and fro for a bit. Will you be here after August 15th? I should find it easier to arrange a meeting then.<br/><br/>Yours sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2752,7 +2752,7 @@ const texts = [
         "pageRange": "15",
         "year": 2020,
         "monthAndDay": "April",
-        "textProvided": "Magdalen College, Oxford <br/>Nov 30 / 49<br/><br/>Dear Onions − I am told that Blackwell has a set of de Bruyne <i>Etudes d’Aesthétique Médiévale</i> for 6 or 8 guineas. The Master of Campion and Gervase Matthews both recommend it highly. Wd. you think of it for the Library?<br/><br/>Yrs<br/>C. S. Lewis",
+        "textProvided": "Magdalen College, Oxford <br/>Nov 30 / 49<br/><br/>Dear Onions − I am told that Blackwell has a set of de Bruyne <i>Etudes d’Aesthétique Médiévale</i> for 6 or 8 guineas. The Master of Campion and Gervase Matthews both recommend it highly. Wd. you think of it for the Library?<br/><br/>Yrs<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2763,7 +2763,7 @@ const texts = [
         "pageRange": "17",
         "year": 2020,
         "monthAndDay": "April",
-        "textProvided": "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>These are my cockshots at the Pearl. I don’t suppose any of them, except possibly the first, are worth a place in <i>Medium Aevum,</i> but they may serve for your private recreation,<br/><br/>yours,<br/>C. S. Lewis",
+        "textProvided": "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>These are my cockshots at the Pearl. I don’t suppose any of them, except possibly the first, are worth a place in <i>Medium Aevum,</i> but they may serve for your private recreation,<br/><br/>yours,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2780,7 +2780,7 @@ const texts = [
     },
     {
         "title": "Letter to Laurence Harwood (1940s)",
-        "printedIn": "Harwood, “The Kilns Celebration and Dedication Service” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Harwood, “The Kilns Celebration and Dedication Service” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "226",
         "year": 2006,
@@ -2802,29 +2802,29 @@ const texts = [
     },
     {
         "title": "Letter to John Harwood (9 May 1950)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "118",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": "My dear Harwood,<br/><br/>I can find no words to say what I thought and felt at getting your note this morning. When the same doom descended on my own mother I was a child, which made things worse in some ways, better in others; at any rate different: so I know I can’t fully enter into your state of mind, still less your father’s. You have had a rough passage, with a war to spoil the first part of your youth and then this. God help you.<br/><br/>Does your mother know of her own state? I mean, wd. a letter to your Father raise any difficulties? It sometimes does at such a moment. Let me know.<br/><br/>I always thought yr. Father the happiest man among all my friends. This somehow seems to make it worse – like seeing the highest house submerged by the flood.<br/><br/>Yours<br/>C. S. L.",
+        "textProvided": "My dear Harwood,<br/><br/>I can find no words to say what I thought and felt at getting your note this morning. When the same doom descended on my own mother I was a child, which made things worse in some ways, better in others; at any rate different: so I know I can’t fully enter into your state of mind, still less your father’s. You have had a rough passage, with a war to spoil the first part of your youth and then this. God help you.<br/><br/>Does your mother know of her own state? I mean, wd. a letter to your Father raise any difficulties? It sometimes does at such a moment. Let me know.<br/><br/>I always thought yr. Father the happiest man among all my friends. This somehow seems to make it worse – like seeing the highest house submerged by the flood.<br/><br/>Yours<br/><br/>C. S. L.",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Cecil Harwood (May 1950)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "117-118",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": "[On hearing that Harwood’s wife Daphne had been diagnosed with cancer]<br/><br/>My dear Harwood,<br/><br/>I heard your terrible news from John this morning. I had hoped that you at least – you who alone of my friends always seemed to me, in any full sense of that word, happy –  might be left so. You have been in that sense such a <i>rock</i> to us all, strong and solid. And I’m sure you will be still: but I hoped this mode would not be exacted. I have nothing to say: this letter is only a substitute for a look or a touch. I suppose all that mere friends can do is to prevent (if they can do even that) one very minor bye-product of sorrow, the sense, of isolation from the whole of one’s old world, the feeling that all else goes on the same. Believe me, it doesn’t. Please give my dear love to Daphne.",
+        "textProvided": "[On hearing that Harwood’s wife Daphne had been diagnosed with cancer:]<br/><br/>My dear Harwood,<br/><br/>I heard your terrible news from John this morning. I had hoped that you at least – you who alone of my friends always seemed to me, in any full sense of that word, happy –  might be left so. You have been in that sense such a <i>rock</i> to us all, strong and solid. And I’m sure you will be still: but I hoped this mode would not be exacted. I have nothing to say: this letter is only a substitute for a look or a touch. I suppose all that mere friends can do is to prevent (if they can do even that) one very minor bye-product of sorrow, the sense, of isolation from the whole of one’s old world, the feeling that all else goes on the same. Believe me, it doesn’t. Please give my dear love to Daphne.",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Cecil Harwood (22 May 1950)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "119",
         "year": 2007,
@@ -3033,7 +3033,7 @@ const texts = [
     },
     {
         "title": "Letter to Mary Neylan (1940)",
-        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "222",
         "year": 2006,
@@ -3082,7 +3082,7 @@ const texts = [
         "pageRange": "795",
         "year": 1996,
         "monthAndDay": null,
-        "textProvided": "[According to Hooper, “Most of the planning for the alks was done by Harwood, and in a delightfully funny letter to Harwood of 24 April 1931 Lewis informs him that he is”]<br/><br/>Lord of the Walks",
+        "textProvided": "[According to Hooper, “Most of the planning for the alks was done by Harwood, and in a delightfully funny letter to Harwood of 24 April 1931 Lewis informs him that he is”]<br/><br/>Lord of the Walks...",
         "type": "Letter",
         "notes": null
     },
@@ -3115,13 +3115,13 @@ const texts = [
         "pageRange": "16",
         "year": 2020,
         "monthAndDay": "April",
-        "textProvided": "Magdalen College, <br/>Oxford 14th. <br/>September 1953.<br/><br/>Dear Onions,<br/><br/>Thanks, I got a useful letter from Miss ? about Skelton’s Diodorus. I don’t think I have a review in me at present, but I’ll try N.S.B’s book if you are not in a hurry.<br/><br/>Yours,<br/>C. S. Lewis",
+        "textProvided": "Magdalen College, <br/>Oxford 14th. <br/>September 1953.<br/><br/>Dear Onions,<br/><br/>Thanks, I got a useful letter from Miss ? about Skelton’s Diodorus. I don’t think I have a review in me at present, but I’ll try N.S.B’s book if you are not in a hurry.<br/><br/>Yours,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Paul Piehler (14 November 1953)",
-        "printedIn": "Piehler, “Encounters with Lewis: An Interim Report” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected reflections of students, friends & colleagues</i> (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Piehler, “Encounters with Lewis: An Interim Report” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "136-137",
         "year": 2006,
@@ -3326,7 +3326,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "W. is well and busily writing.",
         "type": "Letter",
-        "notes": ["The rest of the letter can be found both here and in CL3, 900."]
+        "notes": ["The rest of the letter can be found both here and in <i>Collected Letters</i> 3:900."]
     },
     {
         "title": "Letter to Mrs. Edward A. Allen (1 February 1958)",
@@ -3480,7 +3480,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "P. S. I shd warn you that I am very bad at German and this has doubtless influenced my choice of reading.<br/><br/>I suppose you will have access to a complete Aristotle wherever you are working? He is often useful.",
         "type": "Letter",
-        "notes": ["The rest of the letter can be found in CL1, 140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
+        "notes": ["The rest of the letter can be found in <i>Collected Letters</i> 1:140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
         "title": "PS of published letter to Alastair Fowler (24 February 1960)",
@@ -3489,9 +3489,9 @@ const texts = [
         "pageRange": "209",
         "year": 2015,
         "monthAndDay": null,
-        "textProvided": "[On D. E. Harding, <i>The Hierarchy of Heaven and Earth</i>(1952):]<br/><br/>I don’t accept him. But it’s a “fine air”, isn’t it?",
+        "textProvided": "[On D. E. Harding, <i>The Hierarchy of Heaven and Earth</i> (1952):]<br/><br/>I don’t accept him. But it’s a “fine air”, isn’t it?",
         "type": "Letter",
-        "notes": ["The rest of the letter can be found in CL3, 1200-1201."]
+        "notes": ["The rest of the letter can be found in <i>Collected Letters</i> 3:1200-1201."]
     },
     {
         "title": "Letter to Jocelyn Gibb (4 December 1960)",
@@ -3577,7 +3577,7 @@ const texts = [
         "pageRange": "69",
         "year": 1996,
         "monthAndDay": null,
-        "textProvided": "9 May 62<br/<br/>Dear Marsh<br/<br/At last I’ve got round to the libretto. Quite frankly, I think it just stunningly good. It brought tears to my eyes in places. Ransom’s repeated “Yes, I’m frightened” is excellent. The mask on Weston is exactly right and if anyone can sing the part, bringing out the two voices properly, it will be terrific. I do very heartily congratulate you.<br/<br/Yours, C. S. Lewis",
+        "textProvided": "9 May 62<br/<br/>Dear Marsh<br/><br/>At last I’ve got round to the libretto. Quite frankly, I think it just stunningly good. It brought tears to my eyes in places. Ransom’s repeated “Yes, I’m frightened” is excellent. The mask on Weston is exactly right and if anyone can sing the part, bringing out the two voices properly, it will be terrific. I do very heartily congratulate you.<br/><br/>Yours, C. S. Lewis",
         "type": "Letter",
         "notes": ["Holograph reprinted in Perelandra Conference Progamme, Oxford C.S. Lewis Society, 26-27 June 2009, 2, and back cover of Perelandra, the Opera, programme for the concert production on 25 & 26 June 2009, Oxford C.S. Lewis Society, 2009."]
     },
@@ -3605,12 +3605,12 @@ const texts = [
     },
     {
         "title": "Letter to Laurence Harwood (10 September 1962)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "131-132",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 10 Sept 62<br/><br/>Dear Laurence,<br/><br/> (Yes, I’d much rather be called Jack. And also, like you, I’ve never discovered the plural of <i>syllabus</i>. Like <i>rhinoceros</i> and <i>genius,</i> it has “a thing about” its plural).<br/><br/>Your letter was not long-winded but heroic – for I know what dull work it is writing a long, clear account of what one already knows. Our present objective for Douglas is merely G.C.E. as a preliminary for Christmas.<br/><br/>A thousand thanks. <br/>Yours,<br/>Jack",
+        "textProvided": "The Kilns, Headington Quarry, <br/>Oxford 10 Sept 62<br/><br/>Dear Laurence,<br/><br/> (Yes, I’d much rather be called Jack. And also, like you, I’ve never discovered the plural of <i>syllabus</i>. Like <i>rhinoceros</i> and <i>genius,</i> it has “a thing about” its plural).<br/><br/>Your letter was not long-winded but heroic – for I know what dull work it is writing a long, clear account of what one already knows. Our present objective for Douglas is merely G.C.E. as a preliminary for Christmas.<br/><br/>A thousand thanks. <br/>Yours,<br/><br/>Jack",
         "type": "Letter",
         "notes": null
     },
@@ -3791,7 +3791,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to John Christopher (undated)",
+        "title": "Letter to John Christopher (date unknown)",
         "printedIn": "John Christopher, “Notes on Joy,” <i>Encounter</i>",
         "issueOrVolume": "vol. 68, no. 4",
         "pageRange": "41",
@@ -3835,7 +3835,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letters to three unidentified women (undated)",
+        "title": "Letters to three unidentified women (dates unknown)",
         "printedIn": "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press)",
         "issueOrVolume": null,
         "pageRange": "118",
@@ -3941,7 +3941,7 @@ const texts = [
         "pageRange": "171 note 1",
         "year": 1974,
         "monthAndDay": null,
-        "textProvided": "[Hooper and Green write: “There survives an undated fragment of verse in one of Lewis’s notebooks which runs:.”<br/><br/>The floating islands, the flat golden sky<br/>At noon, the peacock sunset: tepid waves<br/>With the land sliding over them like a skin:<br/> The alien Eve, green-bodied, stepping forth<br/>To meet my hero from her forest home,<br/>Proud, courteous, unafraid; no thought infirm<br/>Alters her cheek —<br/><br/>[And they continue: “At first sight this might suggest that Lewis began with the idea of writing Perelandra as a narrative poem. But a study of the fragment makes it seem much more likely that he is writing about his own creation—perhaps on the very night described above.”]",
+        "textProvided": "[Hooper and Green write: “There survives an undated fragment of verse in one of Lewis’s notebooks which runs:]”<br/><br/>The floating islands, the flat golden sky<br/>At noon, the peacock sunset: tepid waves<br/>With the land sliding over them like a skin:<br/> The alien Eve, green-bodied, stepping forth<br/>To meet my hero from her forest home,<br/>Proud, courteous, unafraid; no thought infirm<br/>Alters her cheek —<br/><br/>[And they continue: “At first sight this might suggest that Lewis began with the idea of writing Perelandra as a narrative poem. But a study of the fragment makes it seem much more likely that he is writing about his own creation—perhaps on the very night described above.”]",
         "type": "Poem",
         "notes": ["Reprinted in Revised and Expanded edition (2002), 202."]
     },
@@ -3979,8 +3979,8 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "“If, following your satiric muse,” a comic verse written on a paper by J.O. Reed (June 1950)",
-        "printedIn": "Joel D. Heck, Irrigating Deserts: C.S. Lewis on Education (St. Louis, MO: Concordia)",
+        "title": "“If, following your satiric muse,” comic verse written on a paper by J.O. Reed (June 1950)",
+        "printedIn": "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         "issueOrVolume": null,
         "pageRange": "134",
         "year": 2005,
@@ -4024,7 +4024,7 @@ const texts = [
     },
     {
         "title": "“The King of Drum [But soon his feet]”",
-        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        "printedIn": "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "274-275",
         "year": 2001,
@@ -4035,7 +4035,7 @@ const texts = [
     },
     {
         "title": "A rejected version of “Epigram [You call them Fascists]”",
-        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        "printedIn": "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "299",
         "year": 2001,
@@ -4046,7 +4046,7 @@ const texts = [
     },
     {
         "title": "Four early versions of “As the Ruin Falls”",
-        "printedIn": "in Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        "printedIn": "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "17-18",
         "year": 2001,
@@ -4057,7 +4057,7 @@ const texts = [
     },
     {
         "title": "“In Nuptias Daphnes et Caecilii, Epithalamion” for Cecil and Daphne Harwood’s wedding",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "43-44 (holograph 45)",
         "year": 2007,
@@ -4068,7 +4068,7 @@ const texts = [
     },
     {
         "title": "“Haec Fecit Barfield Ovens et Clivus Hamilton,” two poems (Latin and Greek)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "54 (holograph 53)",
         "year": 2007,
@@ -4079,7 +4079,7 @@ const texts = [
     },
     {
         "title": "A version of “To a Friend”",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "70-71",
         "year": 2007,
@@ -4090,7 +4090,7 @@ const texts = [
     },
     {
         "title": "“Elegy,” a non-comic limerick",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "75",
         "year": 2007,
@@ -4112,7 +4112,7 @@ const texts = [
     },
     {
         "title": "\"The Old Grey Mare\"",
-        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</iQuoted> ed. Don W. King (Kent: Kent State University Press)",
+        "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "9",
         "year": 2015,
@@ -4207,7 +4207,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 168-69."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 168-169."]
     },
     {
         "title": "\"To the Gods of Old Time\"",
@@ -4229,7 +4229,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-70."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-170."]
     },
     {
         "title": "\"The Wood Desolate (near Bookham)\"",
@@ -4240,7 +4240,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-71."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-171."]
     },
     {
         "title": "\"Anamnesis\"",
@@ -4251,7 +4251,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 171-72."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 171-172."]
     },
     {
         "title": "\"Sonnet to John Keats\"",
@@ -4262,7 +4262,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 172-73."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 172-173."]
     },
     {
         "title": "\"Yet More of the Wood Desolate\"",
@@ -4273,7 +4273,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 173-75."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 173-175."]
     },
     {
         "title": "\"The Wind\"",
@@ -4284,7 +4284,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-76."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-176."]
     },
     {
         "title": "\"New Year's Eve\"",
@@ -4317,7 +4317,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176-77."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176-177."]
     },
     {
         "title": "\"Sonnet [The clouds are red behind us and before].\"",
@@ -4361,7 +4361,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179-80."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179-180."]
     },
     {
         "title": "\"Exercise on an Old Theme\"",
@@ -4383,7 +4383,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180-81."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180-181."]
     },
     {
         "title": "\"Decadence\"",
@@ -4394,7 +4394,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 181-82."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 181-182."]
     },
     {
         "title": "\"Ballade on a Certain Pious Gentleman\"",
@@ -4405,10 +4405,10 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182-83."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182-183."]
     },
     {
-        "title": "\"MHΔEN ’ATAN\"",
+        "title": "\"MHΔEN ἈΓAN\"",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
@@ -4416,7 +4416,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182.", "King misprints ἈTΑΝ (ATAN) instead of ἈΓΑΝ (AGAN)."]
     },
     {
         "title": "\"Despoina, Bear with Me\"",
@@ -5047,7 +5047,7 @@ const texts = [
     },
     {
         "title": "\"O Caecili care\" (April 1936)",
-        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, photos and recollections</i> (Downer's Grove, IL: IVP Books)",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "33",
         "year": 2007,
@@ -5057,7 +5057,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "“Each book by Empson read” written into Lewis’s copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
+        "title": "“Each book by Empson read,” a poem written into Lewis’s copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
         "printedIn": "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         "issueOrVolume": null,
         "pageRange": "296",
