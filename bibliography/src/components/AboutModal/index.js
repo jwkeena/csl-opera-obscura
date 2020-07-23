@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 7.19.20</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 7.21.20</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -33,95 +33,94 @@ class AboutModal extends Component {
 
                         <p><b>PURPOSE: </b>This bibliography is an exhaustive collection of all <b>published</b> works by C.S. Lewis, however minor or fragmentary, that are <i>either</i> obscure <i>or</i> new. By “new” I mean published after the 50th anniversary of Lewis’s death, November 22, 2013. In this sense the last of the “old” books is <i>Image and Imagination,</i> the final collection of texts edited by Walter Hooper. By an “obscure” work I mean a text that meets all of the following three criteria:</p>
                         
-                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of 
-                            <ol>
-                                <li>1919 - <i>Spirits in Bondage</i></li>
-                                <li>1926 - <i>Dymer</i></li>
-                                <li>1933 - <i>The Pilgrim’s Regress</i></li>
-                                <li>1936 - <i>The Allegory of Love</i></li>
-                                <li>1938 - <i>Out of the Silent Planet</i></li>
-                                <li>1939 - <i>The Personal Heresy</i></li>
-                                <li>1940 - <i>The Problem of Pain</i></li>
-                                <li>1942 - <i>The Screwtape Letters</i></li>
-                                <li>1942 - <i>A Preface to Paradise Lost</i></li>
-                                <li>1942 - <i>Broadcast Talks</i> (UK)/<i>The Case for Christianity</i> (US)</li>
-                                <li>1943 - <i>Perelandra</i></li>
-                                <li>1943 - <i>Christian Behaviour</i></li>
-                                <li>1944 - <i>Beyond Personality</i></li>
-                                <li>1945 - <i>That Hideous Strength</i></li>
-                                <li>1946 - <i>The Abolition of Man</i></li>
-                                <li>1946 - <i>The Great Divorce</i></li>
-                                <li>1947 - <i>Miracles</i></li>
-                                <li>1948 - <i>Arthurian Torso</i></li>
-                                <li>1950 - <i>The Lion, the Witch, and the Wardrobe</i></li>
-                                <li>1951 - <i>Prince Caspian</i></li>
-                                <li>1952 - <i>Mere Christianity</i></li>
-                                <li>1952 - <i>The Voyage of the Dawn Treader</i></li>
-                                <li>1953 - <i>The Silver Chair</i></li>
-                                <li>1954 - <i>The Horse and His Boy</i></li>
-                                <li>1954 - <i>English Literature in the Sixteenth Century Excluding Drama</i></li>
-                                <li>1955 - <i>The Magician’s Nephew</i></li>
-                                <li>1955 - <i>Surprised by Joy</i></li>
-                                <li>1956 - <i>The Last Battle</i></li>
-                                <li>1956 - <i>Till We Have Faces</i></li>
-                                <li>1958 - <i>Reflections on the Psalms</i></li>
-                                <li>1960 - <i>Studies in Words</i></li>
-                                <li>1961 - <i>A Grief Observed</i></li>
-                                <li>1961 - <i>An Experiment in Criticism</i></li>
-                                <li>1961 - <i>The Screwtape Letters and Screwtape Proposes a Toast</i></li>
-                                <li>1963 - <i>Beyond the Bright Blur (US only)</i></li>
-                                <li>1964 - <i>Letters to Malcolm</i></li>
-                                <li>1964 - <i>The Discarded Image</i></li>
-                            </ol>
-                        </p>
+                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of</p> 
+                        
+                        <ol>
+                            <li>1919 - <i>Spirits in Bondage</i></li>
+                            <li>1926 - <i>Dymer</i></li>
+                            <li>1933 - <i>The Pilgrim’s Regress</i></li>
+                            <li>1936 - <i>The Allegory of Love</i></li>
+                            <li>1938 - <i>Out of the Silent Planet</i></li>
+                            <li>1939 - <i>The Personal Heresy</i></li>
+                            <li>1940 - <i>The Problem of Pain</i></li>
+                            <li>1942 - <i>The Screwtape Letters</i></li>
+                            <li>1942 - <i>A Preface to Paradise Lost</i></li>
+                            <li>1942 - <i>Broadcast Talks</i> (UK)/<i>The Case for Christianity</i> (US)</li>
+                            <li>1943 - <i>Perelandra</i></li>
+                            <li>1943 - <i>Christian Behaviour</i></li>
+                            <li>1944 - <i>Beyond Personality</i></li>
+                            <li>1945 - <i>That Hideous Strength</i></li>
+                            <li>1946 - <i>The Abolition of Man</i></li>
+                            <li>1946 - <i>The Great Divorce</i></li>
+                            <li>1947 - <i>Miracles</i></li>
+                            <li>1948 - <i>Arthurian Torso</i></li>
+                            <li>1950 - <i>The Lion, the Witch, and the Wardrobe</i></li>
+                            <li>1951 - <i>Prince Caspian</i></li>
+                            <li>1952 - <i>Mere Christianity</i></li>
+                            <li>1952 - <i>The Voyage of the Dawn Treader</i></li>
+                            <li>1953 - <i>The Silver Chair</i></li>
+                            <li>1954 - <i>The Horse and His Boy</i></li>
+                            <li>1954 - <i>English Literature in the Sixteenth Century Excluding Drama</i></li>
+                            <li>1955 - <i>The Magician’s Nephew</i></li>
+                            <li>1955 - <i>Surprised by Joy</i></li>
+                            <li>1956 - <i>The Last Battle</i></li>
+                            <li>1956 - <i>Till We Have Faces</i></li>
+                            <li>1958 - <i>Reflections on the Psalms</i></li>
+                            <li>1960 - <i>Studies in Words</i></li>
+                            <li>1961 - <i>A Grief Observed</i></li>
+                            <li>1961 - <i>An Experiment in Criticism</i></li>
+                            <li>1961 - <i>The Screwtape Letters and Screwtape Proposes a Toast</i></li>
+                            <li>1963 - <i>Beyond the Bright Blur (US only)</i></li>
+                            <li>1964 - <i>Letters to Malcolm</i></li>
+                            <li>1964 - <i>The Discarded Image</i></li>
+                        </ol>
 
-                        <p>ii. Was not prepared for publication as an essay collection written by Lewis himself: i.e., does not appear in 
-                            <ol>
-                                <li>1939 - <i>Rehabilitations and Other Essays</i></li>
-                                <li>1949 - <i>Transposition, and Other Addresses</i></li>
-                                <li>1960 - <i>The World’s Last Night and Other Essays</i></li>
-                                <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
-                            </ol>
-                        </p>
+                        <p>ii. Was not prepared for publication as an essay collection written by Lewis himself: i.e., does not appear in</p>
+                        
+                        <ol>
+                            <li>1939 - <i>Rehabilitations and Other Essays</i></li>
+                            <li>1949 - <i>Transposition, and Other Addresses</i></li>
+                            <li>1960 - <i>The World’s Last Night and Other Essays</i></li>
+                            <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
+                        </ol>
 
-                        <p>iii. Has not been published as a monograph, anthology, or collection of stories, poems, or essays by Walter Hooper (unless it’s a letter omitted from the <i>Collected Letters</i>): i.e., does not appear in 
-
-                            <ol>
-                                <li>1966 - <i>Studies in Medieval and Renaissance Literature</i></li>
-                                <li>1964 - <i>Poems</i></li>
-                                <li>1966 - <i>Of Other Worlds: Essays and Stories</i></li>
-                                <li>1967 - <i>Christian Reflections</i></li>
-                                <li>1969 - <i>Narrative Poems</i></li>
-                                <li>1969 - <i>Selected Literary Essays</i></li>
-                                <li>1970 - <i>God in the Dock: Essays on Theology and Ethics</i>(US) / <i>Undeceptions</i> (UK)</li>
-                                <li>1975 - <i>Fern-seed and Elephants and Other Essays on Christianity</i></li>
-                                <li>1977 - <i>The Dark Tower & Other Stories</i></li>
-                                <li>1979 - <i>God in the Dock: Essays on Theology</i> (UK only)</li>
-                                <li>1979 - <i>They Stand Together: The Letters of C.S. Lewis to Arthur Greeves</i></li>
-                                <li>1980 - <i>Letters of C.S. Lewis,</i> revised and enlarged</li>
-                                <li>1980 - <i>The Weight of Glory and Other Addresses,</i> revised and expanded</li>
-                                <li>1982 - <i>On Stories, and Other Essays on Literature</i></li>
-                                <li>1982 - <i>Of This & Other Worlds</i></li>
-                                <li>1984 - <i>The Business of Heaven: Daily Readings From C.S. Lewis</i></li>
-                                <li>1984 - <i>Spirits in Bondage: A Cycle of Lyrics</i></li>
-                                <li>1985 - <i>Boxen: The Imaginary World of the Young C.S. Lewis</i></li>
-                                <li>1985 - <i>First and Second Things: Essays on Theology and Ethics</i></li>
-                                <li>1986 - <i>Present Concerns</i></li>
-                                <li>1986 - <i>The Grand Miracle: And Other Selected Essays on Theology and Ethics from God in the Dock</i></li>
-                                <li>1986 - <i>The Seeing Eye and Other Selected Essays from Christian Reflections</i></li>
-                                <li>1987 - <i>Timeless at Heart: Essays on Theology</i></li>
-                                <li>1990 - <i>Christian Reunion: And Other Essays</i></li>
-                                <li>1992 - <i>Daily Readings with C.S. Lewis / C.S. Lewis: Readings for Reflection and Meditation</i></li>
-                                <li>1992 - <i>C.S. Lewis: Readings for Meditation and Reflection</i></li>
-                                <li>1993 - <i>All My Road Before Me: The Diary of C.S. Lewis 1922-27</i></li>
-                                <li>1994 - <i>The Collected Poems of C.S. Lewis</i></li>
-                                <li>2000 - <i>Collected Letters, Vol. I: Family Letters 1905-1930</i></li>
-                                <li>2004 - <i>Collected Letters, Vol. II: Books, Broadcasts and War 1931-1949</i></li>
-                                <li>2007 - <i>Collected Letters, Vol. III: Narnia, Cambridge and Joy 1950-1963</i></li>
-                                <li>2008 - <i>Boxen: Childhood Chronicles Before Narnia</i></li>
-                                <li>2013 - <i>Image and Imagination</i></li>
-                            </ol>
-                        </p>
+                        <p>iii. Has not been published as a monograph, anthology, or collection of stories, poems, or essays by Walter Hooper (unless it’s a letter omitted from the <i>Collected Letters</i>): i.e., does not appear in</p>
+                        
+                        <ol>
+                            <li>1966 - <i>Studies in Medieval and Renaissance Literature</i></li>
+                            <li>1964 - <i>Poems</i></li>
+                            <li>1966 - <i>Of Other Worlds: Essays and Stories</i></li>
+                            <li>1967 - <i>Christian Reflections</i></li>
+                            <li>1969 - <i>Narrative Poems</i></li>
+                            <li>1969 - <i>Selected Literary Essays</i></li>
+                            <li>1970 - <i>God in the Dock: Essays on Theology and Ethics</i>(US) / <i>Undeceptions</i> (UK)</li>
+                            <li>1975 - <i>Fern-seed and Elephants and Other Essays on Christianity</i></li>
+                            <li>1977 - <i>The Dark Tower & Other Stories</i></li>
+                            <li>1979 - <i>God in the Dock: Essays on Theology</i> (UK only)</li>
+                            <li>1979 - <i>They Stand Together: The Letters of C.S. Lewis to Arthur Greeves</i></li>
+                            <li>1980 - <i>Letters of C.S. Lewis,</i> revised and enlarged</li>
+                            <li>1980 - <i>The Weight of Glory and Other Addresses,</i> revised and expanded</li>
+                            <li>1982 - <i>On Stories, and Other Essays on Literature</i></li>
+                            <li>1982 - <i>Of This & Other Worlds</i></li>
+                            <li>1984 - <i>The Business of Heaven: Daily Readings From C.S. Lewis</i></li>
+                            <li>1984 - <i>Spirits in Bondage: A Cycle of Lyrics</i></li>
+                            <li>1985 - <i>Boxen: The Imaginary World of the Young C.S. Lewis</i></li>
+                            <li>1985 - <i>First and Second Things: Essays on Theology and Ethics</i></li>
+                            <li>1986 - <i>Present Concerns</i></li>
+                            <li>1986 - <i>The Grand Miracle: And Other Selected Essays on Theology and Ethics from God in the Dock</i></li>
+                            <li>1986 - <i>The Seeing Eye and Other Selected Essays from Christian Reflections</i></li>
+                            <li>1987 - <i>Timeless at Heart: Essays on Theology</i></li>
+                            <li>1990 - <i>Christian Reunion: And Other Essays</i></li>
+                            <li>1992 - <i>Daily Readings with C.S. Lewis / C.S. Lewis: Readings for Reflection and Meditation</i></li>
+                            <li>1992 - <i>C.S. Lewis: Readings for Meditation and Reflection</i></li>
+                            <li>1993 - <i>All My Road Before Me: The Diary of C.S. Lewis 1922-27</i></li>
+                            <li>1994 - <i>The Collected Poems of C.S. Lewis</i></li>
+                            <li>2000 - <i>Collected Letters, Vol. I: Family Letters 1905-1930</i></li>
+                            <li>2004 - <i>Collected Letters, Vol. II: Books, Broadcasts and War 1931-1949</i></li>
+                            <li>2007 - <i>Collected Letters, Vol. III: Narnia, Cambridge and Joy 1950-1963</i></li>
+                            <li>2008 - <i>Boxen: Childhood Chronicles Before Narnia</i></li>
+                            <li>2013 - <i>Image and Imagination</i></li>
+                        </ol>
 
                         <p>If you are interested in reading everything by Lewis (at least, all that’s been published) come back here when you’ve finished the (often overlapping) contents of those works. For an account of just how labyrinthine and confusing the bibliography of Lewis's shorter pieces is, see <a href="http://lewisiana.nl/shorterwritings/index.htm" rel="noopener noreferrer" target="_blank">Arend Smilde's “A History of C.S. Lewis’s Collected Shorter Writings, 1939-2000),” <i>Journal of Inklings Studies</i> vol. 2, no. 2 (October 2012), 91-100</a>. If you are looking for the minimal combination of essay collections required to read them all, see Brenton Dickieson’s post <a className="blue-link" href="https://apilgriminnarnia.com/2017/02/08/essays/" rel="noopener noreferrer" target="_blank">“How to Read All of C.S. Lewis’ Essays”</a> and its accompanying <a className="blue-link" href="https://apilgriminnarnia.files.wordpress.com/2017/02/how-to-read-csl-essays-public.xlsx" rel="noopener noreferrer" target="_blank">Excel spreadsheet</a>.</p>
                         
