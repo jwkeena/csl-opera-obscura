@@ -581,9 +581,9 @@ const texts = [
         "pageRange": "40, 98",
         "year": 1974,
         "monthAndDay": null,
-        "textProvided": "[40]<br/><br/>...after my brother, my oldest and most intimate friend.",
+        "textProvided": "[40]<br/><br/>...after my brother, my oldest and most intimate friend.<br/><br/>[98, on Greeves remained a Christian despite Lewis bombardhim him with the \"thin artillery\" of the rationalist:]<br/><br/>He remains the victor in that debate. It is I who have come round. The thing is symbolical of much in our joint history. He was not a clever boy, he was even a dull boy; I was a scholar. He had no \"ideas\". I bubbled over with them. It might seem that I had much to give him and that he had nothing to give me. But this is not the truth. I could give concepts, logic, facts, arguments, but he had feelings to offer, feelings which most mysteriously—for he was always very inarticulate—he taught me to share. Hence, in our commerce, I dealt in superficies, but he in solids. I learned charity from him but failed, for all my efforts, to teach him arrogance in return.",
         "type": "Prose",
-        "notes": ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Also according to Hooper’s bibliographies, there is a pen portrait of Arthur Greeves on 98, though I can’t find it. Can it be located?", "Both sources ultimately come from the <i>LP</i> 3:305."]
+        "notes": ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on p.40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23. ", "Both sources ultimately come from the <i>LP</i> 3:305."]
     },
     {
         "title": "Annotations on Shakespeare",
@@ -663,10 +663,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Holographs of Narnia Manuscript (\"Plots\")",
+        "title": "Holograph of Narnia Manuscript (\"Plots\")",
         "printedIn": "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         "issueOrVolume": null,
-        "pageRange": "[see notes for page ranges]",
+        "pageRange": "112",
         "year": 1982,
         "monthAndDay": null,
         "textProvided": false,
@@ -2951,7 +2951,7 @@ const texts = [
         "pageRange": "326",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": "[On returning a recommended and long-borrowed book which he finds unreadable:]<br/><br/><i>Porcus sum,</i> I am a pig: <i>porcissimus</i><br/><br/>[On Pitter’s poems:]<br/><br/> I blame myself for not reading them oftener.",
+        "textProvided": "[From William Griffin, <i>Clive Staples Lewis: A Dramatic Life,</i> 326, on returning a recommended and long-borrowed book which he finds unreadable]<br/><br/><i>Porcus sum,</i> I am a pig: <i>porcissimus</i><br/><br/>[From William Griffin, <i>Clive Staples Lewis: A Dramatic Life,</i> 326, on Pitter’s poems:]<br/><br/> I blame myself for not reading them oftener.<br/><br/>[Additional text from Don W. King, <i>Hunting the Unicorn,</i> 167:]<br/><br/>Congratulations on [<i>Urania</i>] being a Book of the Year for ’51. Whenever I re-read your poems, I blame myself for not re-reading them oftener. … All blessings. I will drink to your health (not ‘only with my eyes’) at lunch time...",
         "type": "Letter",
         "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 305.", "Also quoted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press, 2008), 167."]
     },
@@ -3160,7 +3160,7 @@ const texts = [
         "pageRange": "382",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": "Alas, all is not well. The disease is cancer. …She may get through this time …I am sure she would love a letter from you though, for the mechanical reason, she will not be able to scrawl more than ten words in answer.",
+        "textProvided": "From William Griffin, <i>Clive Staples Lewis: A Dramatic Life,</i> 382:]<br/><br/>Alas, all is not well. The disease is cancer. …She may get through this time …I am sure she would love a letter from you though, for the mechanical reason, she will not be able to scrawl more than ten words in answer.<br/><br/>[Additional text from Don W. King, <i>Hunting the Unicorn,</i> 237:]<br/><br/>I am sure [Joy] wd. love a letter from you though, for the mechanical reason, she will not be able to scrawl more than 10 words in answer. Thanks very greatly for your letter and kind offer of a tray, which we’d both love—later, when, and if, we get her out of the [Mayfair] Wingfield [Hospital]. … Hope is the <i>real</i> torture. I try to hope as little as possible. Have us in your prayers—but I know you do.",
         "type": "Letter",
         "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 355.", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 722.", "Also reprinted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press, 2008), 237."]
     },
