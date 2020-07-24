@@ -111,7 +111,7 @@ const texts = [
         "notes": ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Revised and Expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
-        "title": "Comments and Questions after a lecture by H.A. Hodges",
+        "title": "Comments and questions after a lecture by H.A. Hodges",
         "printedIn": "“Philosophy Today,” <i>The Socratic Digest</i>",
         "issueOrVolume": "vol. 2",
         "pageRange": "28-30",
@@ -127,8 +127,8 @@ const texts = [
         "issueOrVolume": null,
         "pageRange": "3, 5, 112",
         "year": 1945,
-        "monthAndDay": "",
-        "textProvided": "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it—no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/><br/>[dedication]<br/><br/>“TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>“This method of travel also I learned from the ‘scientifictionists.’”",
+        "monthAndDay": null,
+        "textProvided": "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it—no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/><br/>[dedication]<br/><br/>TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>This method of travel also I learned from the ‘scientifictionists.’",
         "type": "Prose",
         "notes": null
     },
@@ -150,7 +150,7 @@ const texts = [
         "pageRange": "7-8",
         "year": 1945,
         "monthAndDay": null,
-        "textProvided": "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1st edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Madgalen College, Oxford.</i><br/>[1st UK ed. ends here, but US 1st ed. adds: <i>Christmas Eve, 1943</i>]",
+        "textProvided": "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1st edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Magdalen College, Oxford.</i><br/>[1st UK ed. ends here, but US 1st ed. adds: <i>Christmas Eve, 1943</i>]",
         "type": "Prose",
         "notes": ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1st US edition (Macmillan, 1946)."]
     },
@@ -163,7 +163,7 @@ const texts = [
         "monthAndDay": "Autumn",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
     },
     {
         "title": "\"A Christmas Sermon for Pagans\"",
@@ -178,7 +178,7 @@ const texts = [
     },
     {
         "title": "Preface to <i>The Tortured Planet</i>",
-        "printedIn": "<i>The Tortured Planet (That Hideous Strength)</i> (New York: Avon Books)",
+        "printedIn": "<i>The Tortured Planet (=That Hideous Strength)</i> (New York: Avon Books)",
         "issueOrVolume": null,
         "pageRange": "[page range unknown]",
         "year": 1946,
@@ -232,7 +232,7 @@ const texts = [
         "notes": ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
     },
     {
-        "title": "Extensive revisions to chapter 12 of American edition of <i>The Voyage of the Dawn Treader</i>",
+        "title": "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
         "printedIn": "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "[page range unknown]",
@@ -321,7 +321,7 @@ const texts = [
     },
     {
         "title": "<i>Molliter Ossa Cubent</i>",
-        "printedIn": "<i>The Campbellian</i> (the School Magainze of Campbell College, Belfast)",
+        "printedIn": "<i>The Campbellian</i> (the school magainze of Campbell College, Belfast)",
         "issueOrVolume": "XIV, no. 9",
         "pageRange": "692-93",
         "year": 1959,
@@ -362,10 +362,10 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         "type": "Prose",
-        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
+        "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the US 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 bibliography in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him</i> only gives the four-sentence version on 471, item G52.."]
     },
     {
-        "title": "\"Preface to the 1961 Edition\"",
+        "title": "\"Preface to the 1961 edition\"",
         "printedIn": "<i>The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface</i>",
         "issueOrVolume": null,
         "pageRange": "5-13",
@@ -387,7 +387,7 @@ const texts = [
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
-        "title": "Comments on Obstacles to the Christian Initiative",
+        "title": "Comments on contemporary Christianity",
         "printedIn": "“Scholars Cite Obstacles to Christian Advance,” <i>Christianity Today</i>",
         "issueOrVolume": "vol. 7, no. 1",
         "pageRange": "35",
@@ -398,7 +398,7 @@ const texts = [
         "notes": ["Reprinted in Samuel Joeckel, <i>The C.S. Lewis Phenomenon: Christianity and the Public Sphere</i> (Macon, Georgia: Mercer University Press, 2013), 50."]
     },
     {
-        "title": "A Note on the Meaning of Civilization in the Chronicles of Narnia",
+        "title": "A Note on the meaning of civilization in the Chronicles of Narnia",
         "printedIn": "Roger Lancelyn Green, <i>C.S. Lewis, A Bodley Head Monograph,</i> (London: The Bodley Head)",
         "issueOrVolume": null,
         "pageRange": "51",
@@ -497,7 +497,7 @@ const texts = [
         "notes": ["Lewis summarizes Book I of Leibniz’s “Sur l’Entendement Humain” for the sake of his philosophy tutorials (not lectures)."]
     },
     {
-        "title": "Fragment of a Story Beginning \"It was in autumn\"",
+        "title": "Fragment of a story beginning \"It was in autumn\"",
         "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "291",
@@ -517,7 +517,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "A Myth is the description of a state, an event, or a series of events, involving superhuman personages, possessing unity, not truly implying a particular time or place, and dependent for its contents not on motives developed in the course of action but on the immutable relations of the personages.",
         "type": "Prose",
-        "notes": ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplement</i> 1 (2015)."]
+        "notes": ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplement</i> no. 1 (2015), 36."]
     },
     {
         "title": "Narnian Manuscripts (various)",
@@ -528,7 +528,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>"]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of <i></i>The Silver Chair,</i> 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>"]
     },
     {
         "title": "Narnian Manuscripts (various)",
@@ -539,7 +539,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar, (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of 49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-307. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
     },
     { // VERIFY AUTHENTICITY
         "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
@@ -564,7 +564,7 @@ const texts = [
         "notes": ["This manuscript is written on the back of the first page of the manuscript of \"The Dark Tower,\" found in the Bodleian Library."]
     },
     {
-        "title": "Holograph of a Story \"To Mars and Back\" (fragment of a story written by Lewis as a six-year-old)",
+        "title": "Holograph of a story \"To Mars and Back\" (fragment of a story written by Lewis as a six-year-old)",
         "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "104",
@@ -671,7 +671,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
+        "notes": ["“Plots,” an outline of <i></i>The Voyage of the Dawn Treader,</i> was previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
     },
     {
         "title": "Preface to \"Screwtape Proposes a Toast\"",
@@ -699,7 +699,7 @@ const texts = [
         "title": "\"Commentary on the Lay of Leithian\"",
         "printedIn": "<i>J.R.R. Tolkien, in The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         "issueOrVolume": null,
-        "pageRange": "unknown", // Need to find this
+        "pageRange": "[page range unknown]",
         "year": 1985,
         "monthAndDay": null,
         "textProvided": false,
@@ -2149,7 +2149,7 @@ const texts = [
         "monthAndDay": "18 April",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor \"On Cross-Channel Ships</i>\"",
@@ -2160,7 +2160,7 @@ const texts = [
         "monthAndDay": "18 November",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G5.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G5.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor \"Poetic License</i>\"",
@@ -2171,7 +2171,7 @@ const texts = [
         "monthAndDay": "11 August",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G20.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G20.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor \"The Suggestion from Old English</i>\"",
@@ -2182,7 +2182,7 @@ const texts = [
         "monthAndDay": "30 August",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor",
@@ -2193,7 +2193,7 @@ const texts = [
         "monthAndDay": "Summer",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor \"Spenser's Irish Experiences and <i>The Faerie Queene</i>\"",
@@ -2204,7 +2204,7 @@ const texts = [
         "monthAndDay": "January",
         "textProvided": "SPENSER’S IRISH EXPERIENCES AND THE FAERIE QUEENE<br/><br/>SIR,<br/><br/>In an interesting article printed in your October number Mr. M. M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article − an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial − that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br/><br/>If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br/><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br/><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br/><br/>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br/><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br/><br/>Il manto si rivolse al braccio manco <br/>E con la spada i malandrini affronta. Mai non fu campion cotanto franco. Questo tocca di taglio e quel di ponta,<br/>A l’un il petto, a l’altro passa il fianco:<br/>Or che bisogna che più vi racconta? <br/>Tutti i ladroni uccise in poco d’ora, Si ben col brando intorno li lavora.<br/><br/>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br/><br/>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br/><br/>Thus as he spoke, loe! with outragious cry<br/>A thousand villeins round about them swarm’d <br/>Out of the rockes and caves adjoyning nye<br/>(<i>F.Q.</i> II, ix, 13)<br/><br/>is the passage in which the same Brandimarte − who has particularly bad luck in the matter of robbers − is attacked in <i>O.I.</i> II, ××vi, 53.<br/><br/>Ragionava in tal modo Doristella <br/>Ed altre cose assai volea seguire <br/>Che non era compita sua novella,<br/>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br/><br/>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the Lestrigoni whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br/><br/>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung</i>: “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br/><br/>Yours faithfully,<br/>C. S. LEWIS.",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G2."]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G2."]
     },
     {
         "title": "Letter to Cecil Harwood (March 1931)",
@@ -2468,7 +2468,7 @@ const texts = [
         "monthAndDay": "4 February",
         "textProvided": "It would perhaps be going too far to say that British prisoners of war can now read the Oxford Honours School of English in their camps. But they can do something like it. The exact steps by which what was originally envisaged as advice for private study and even recreational reading became the syllabus for something like an honours course on the university model need not be recapitulated. The initiative came from the prisoners. Miss Herdman and I met their wishes by arranging an examination. A number of scholars offered their services as unpaid examiners, and the German authorities consented to allow the forwarding of the prisoners’ answers. Finally academic recognition was obtained and a decree has handed over to the Board of the Faculty of English at Oxford the duty of nominating examiners. It has not been possible to offer a degree as the result of this examination. The candidates will be admitted to it without any preliminary examinations, and, of course, they will lack matriculation and residence. The papers will, however, be set and marked according the honours standards (though of course with an eye to certain inevitable limitations of reading) and it is hoped that a good class in this examination, backed by a good report from the examiners, will have a definite practical value after the war. On the cultural side I anticipate, along with much bad work, answers of real interest, for I believe that the necessary restriction on bulky works of criticism, literary history, and apparatus, by forcing the students to concentrate on the texts and to digest them more thoroughly and, above all, to find in one great author their chief commentary on another, may have certain positive advantages over the normal procedure.",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of CL3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G9."]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G9."]
     },
     {
         "title": "Letter to James Welch (May 1942)",
