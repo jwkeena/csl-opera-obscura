@@ -1027,7 +1027,7 @@ const texts = [
     },
     {
         "title": "Parts of original scripts for BBC broadcasts (1941) not included in published versions",
-        "printedIn": "Justin Phillips, C.S. Lewis at the BBC: Messages of Hope in the Darkness of War (London: HarperCollins",
+        "printedIn": "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins",
         "issueOrVolume": null,
         "pageRange": "120-124, 128, 143-152, 160-168, 171, 245, and 251-257",
         "year": 2003,
@@ -2384,7 +2384,7 @@ const texts = [
     },
     {
         "title": "Letter to Owen Barfield (16 October 1940)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in collecting his works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting his Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
         "pageRange": "84",
         "year": 2006,
@@ -2406,7 +2406,7 @@ const texts = [
     },
     {
         "title": "Letter to Ms. Jacob (3 July 1941)",
-        "printedIn": "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud debate God, love, sex, and the meaning of life</i> (New York: The Free Press)",
+        "printedIn": "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud Debate God, Love, Sex, and the Meaning of Life</i> (New York: The Free Press)",
         "issueOrVolume": null,
         "pageRange": "106",
         "year": 2002,
@@ -2792,7 +2792,7 @@ const texts = [
     },
     {
         "title": "Letter to Canon Smyth (13 March 1949)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in collecting his works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
         "pageRange": "128",
         "year": 2006,
@@ -2803,7 +2803,7 @@ const texts = [
     },
     {
         "title": "Letter to Mr. Kennedy (14 July 1949)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in collecting his works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
         "pageRange": "127",
         "year": 2006,
@@ -3078,7 +3078,7 @@ const texts = [
     },
     {
         "title": "Letter to Dom Bede Griffiths (17 May 1952)",
-        "printedIn": "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud debate God, love, sex, and the meaning of life</i> (New York: The Free Press)",
+        "printedIn": "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud Debate God, Love, Sex, and the Meaning of Life</i> (New York: The Free Press)",
         "issueOrVolume": null,
         "pageRange": "185",
         "year": 2002,
@@ -3584,7 +3584,7 @@ const texts = [
     },
     {
         "title": "Letter to George Sayer (18 December 1960)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in collecting his works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
         "pageRange": "47-48",
         "year": 2006,
