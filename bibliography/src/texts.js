@@ -961,7 +961,7 @@ const texts = [
     },
     {
         "title": "Draft of first lines of <i>Surprised by Joy</i>",
-        "printedIn": "John D. Rateliff, “<i>The Lost Road, The Dark Tower,</i> and <i>The Notion Club Papers:</i> Tolkien and Lewis’ Time Travel Triad,” in <i>Tolkien’s Legendarium: Essays on The History of Middle-earth,</i> ed. Verlyn Flieger and Carl F. Hostetter (Westport, Conn; London: Greenwood Press)",
+        "printedIn": "John D. Rateliff, “<i>The Lost Road, The Dark Tower,</i> and <i>The Notion Club Papers:</i> Tolkien and Lewis’ Time Travel Triad,” in <i>Tolkien’s Legendarium: Essays on The History of Middle-earth,</i> ed. Verlyn Flieger and Carl F. Hostetter (Westport, CT; London: Greenwood Press)",
         "issueOrVolume": null,
         "pageRange": "212",
         "year": 2000,
@@ -971,7 +971,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Comments on a 21 Dec 1953 letter from Dorothy L. Sayers",
+        "title": "Comments on a 21 December 1953 letter from Dorothy L. Sayers",
         "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Four, 1951-1957: In the Midst of Life,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         "issueOrVolume": null,
         "pageRange": "116",
@@ -982,7 +982,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Note on Lewis’ poem “The Nativity” (sent to Mary Willis Shelburne 3 Dec 1953) as photograph",
+        "title": "Note on Lewis’ poem “The Nativity” (sent to Mary Willis Shelburne 3 December 1953) as photograph",
         "printedIn": "Ruth James Cording, <i>C.S. Lewis: A Celebration of His Early Life</i> (Nashville, TN: Broadman and Holman)",
         "issueOrVolume": null,
         "pageRange": "119",
@@ -995,7 +995,7 @@ const texts = [
     {
         "title": "Fragments of <i>Othello</i> Manuscript",
         "printedIn": "J. Duke Pesta, “C.S. Lewis’ Lost <i>Othello</i> Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
-        "issueOrVolume": "1",
+        "issueOrVolume": "vol. 1",
         "pageRange": "36-41",
         "year": 2001,
         "monthAndDay": null,
@@ -1006,7 +1006,7 @@ const texts = [
     {
         "title": "Fragments of <i>Othello</i> Manuscript",
         "printedIn": "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered <i>Othello</i> Essays,” <i>Journal of the Wooden O Symposium</i>",
-        "issueOrVolume": "1",
+        "issueOrVolume": "vol. 1",
         "pageRange": "42-48",
         "year": 2001,
         "monthAndDay": null,
@@ -1034,7 +1034,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Some quotations on 163-164 are from a 15 Sept 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
+        "notes": ["Some quotations on 163-164 are from a 15 September 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
     },
     {
         "title": "Early short story, Text A (<i>LP</i> 11:252)",
@@ -1093,7 +1093,7 @@ const texts = [
     },
     {
         "title": "Comment on the manuscript of Lewis’ “Panegyric for Dorothy L. Sayers,”",
-        "printedIn": "Barbara Reynold’s “C.S. Lewis and Dorothy L. Sayers,” in <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues,</i> ed. Harry Lee Poe and Rebecca Whitten Poe (Grand Rapids, MI: Zondervan)",
+        "printedIn": "Barbara Reynold’s “C.S. Lewis and Dorothy L. Sayers,” in <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues,</i> eds. Harry Lee Poe and Rebecca Whitten Poe (Grand Rapids, MI: Zondervan)",
         "issueOrVolume": null,
         "pageRange": "208",
         "year": 2006,
@@ -1477,15 +1477,15 @@ const texts = [
         "notes": ["Prefaced with an essay by Crystal Hurd."]
     },
     {
-        "title": "Great War Papers",
+        "title": "Great War papers",
         "printedIn": "Norbert Feinendegen and Arend Smilde, <i>The “Great War” of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),</i> Inklings Studies Supplement",
-        "issueOrVolume": "vol. 1",
+        "issueOrVolume": "no. 1",
         "pageRange": "[see notes for page ranges]",
         "year": 2015,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnoes, 145-169."]
+        "notes": ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnotes, 145-169."]
     },
     {
         "title": "Summary of broadcast lecture “The Norse Spirit in English Literature”",
@@ -1510,7 +1510,7 @@ const texts = [
         "notes": ["Prefaced with an essay by Norbert Feinendegen."]
     },
     {
-        "title": "Annotation in Lewis’s copy of Byron’s <i>Don Juan</i> (10 Feb 1924)",
+        "title": "Annotation in Lewis’s copy of Byron’s <i>Don Juan</i> (10 February 1924)",
         "printedIn": "Laura Schmidt, “Treasures in the Archives: A Celebration of Archival Collections,” <i>Mythlore</i>",
         "issueOrVolume": "vol. 36, no. 1",
         "pageRange": "9",
@@ -1532,7 +1532,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Invitation in Old Norse to a Kolbiter meeting (before 20 Nov 1920), holograph",
+        "title": "Invitation in Old Norse to a Kolbitar meeting (before 20 November 1920), holograph",
         "printedIn": "John Garth, “Tolkien and the Inklings” in <i>Tolkien: Maker of Middle-Earth,</i> Catalogue of the Exhibition at the Bodleian, 1 June-28 October, 2018, ed. Catherine McIlwaine (Oxford: Bodleian Library)",
         "issueOrVolume": null,
         "pageRange": "23",
@@ -1555,7 +1555,7 @@ const texts = [
     },
     // DIARIES
     {
-        "title": "Excerpt from Wynyard School Diary (Nov 1909)",
+        "title": "Excerpt from Wynyard School Diary (November 1909)",
         "printedIn": "Walter Hooper, \"C.S. Lewis\", <i>The Franciscan</i>",
         "issueOrVolume": " vol. IX, no. 4",
         "pageRange": "163",
@@ -1599,7 +1599,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Excerpts from Wynyard School Diary (Nov 1909)",
+        "title": "Excerpts from Wynyard School Diary (November 1909)",
         "printedIn": "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         "issueOrVolume": null,
         "pageRange": "27",
@@ -1621,7 +1621,7 @@ const texts = [
         "notes": ["Quotes the first sentences on 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on 4 in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
     },
     {
-        "title": "Excerpt from Wynyard School Diary (Nov 1909)",
+        "title": "Excerpt from Wynyard School Diary (November 1909)",
         "printedIn": "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends,</i> (London: Allen & Unwin)",
         "issueOrVolume": null,
         "pageRange": "50",
@@ -1643,7 +1643,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Excerpt from Wynyard School Diary (Nov 1909)",
+        "title": "Excerpt from Wynyard School Diary (November 1909)",
         "printedIn": "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "19",
@@ -1654,7 +1654,7 @@ const texts = [
         "notes": ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no \"(Watford)\" after St John's, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
     {
-        "title": "Excerpt from Wynyard School Diary (Nov 1909)",
+        "title": "Excerpt from Wynyard School Diary (November 1909)",
         "printedIn": "Walter Hooper, “C.S. Lewis in Hertfordshire (2): Wynyard School’s Tormenter”, <i>Hertfordshire Countryside</i>",
         "issueOrVolume": "vol. 37",
         "pageRange": "35",
@@ -1824,7 +1824,7 @@ const texts = [
         "title": "Letter to Dorothea Conybeare (date unknown)",
         "printedIn": "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         "issueOrVolume": null,
-        "pageRange": "261, note 1",
+        "pageRange": "261 note 1",
         "year": 1964,
         "monthAndDay": null,
         "textProvided": "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or <i>persona</i>.",
@@ -1833,14 +1833,14 @@ const texts = [
     },
     {
         "title": "Letter to James E. Higgins (31 July 1962)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "304",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "31 July 1962 <br/><br/>I shall be glad to help if I can. It is however rather a big IF, for my knowledge of children’s literature is really very limited. The real expert is Roger L. Green, Poulton-Lancelyn, Bebington, Wirral, Cheshire. My own range is about exhausted by MacDonald, Tolkien, E. Nesbit, and Kenneth Grahame. The <i>Alice</i> books are, aren’t they, in a totally different category, the effect being exclusively comic-nonsensical: not, in my experience, fully appreciated by children. Oh by the way, don’t miss the utterly unexpected influence of Rabelais on Kingsley’s <i>Water Babies</i>.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient's name is first identified. In the 1966 version, the letter is prefaced \"To an Enquirer\".", "A fragment of this letter (\"...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.\") was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient's name is first identified. In the 1966 version, the letter is prefaced \"To an Enquirer\".", "A fragment of this letter (\"...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.\") was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
     },
     {
         "title": "Letter to James E. Higgins (2 December 1962)",
@@ -1909,7 +1909,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Patience Fetherston (20 August 1945) and Note on the Letter",
+        "title": "Letter to Patience Fetherston (20 August 1945) and note on the Letter",
         "printedIn": "Patience Fetherston, “C.S. Lewis on Rationalism: (Unpublished Notes),” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 9",
         "pageRange": "87-89",
@@ -1953,7 +1953,7 @@ const texts = [
         "notes": ["A transcription of the letter itself is on 20-1."]
     },
     {
-        "title": "Letter to Nevill Coghill in Old English (1926)",
+        "title": "Letter to Nevill Coghill in Old English (c.1926)",
         "printedIn": "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 32",
         "pageRange": "18-28",
@@ -2462,7 +2462,7 @@ const texts = [
     {
         "title": "Letter to J.H. Oldham, editor (4 February 1942)",
         "printedIn": "<i>The Christian News-Letter</i>",
-        "issueOrVolume": "No. 119",
+        "issueOrVolume": "no. 119",
         "pageRange": "4",
         "year": 1942,
         "monthAndDay": "4 February",
@@ -2962,7 +2962,7 @@ const texts = [
         "pageRange": "331",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": "My old <i>directeur,</i> Fr. Walter Adams, of the Cowley Fathers, died a few weeks ago.† He died suddenly while celebrating, and his last words were “I am coming, Lord Jesus”. I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.",
+        "textProvided": "My old <i>directeur,</i> Fr. Walter Adams, of the Cowley Fathers, died a few weeks ago. He died suddenly while celebrating, and his last words were “I am coming, Lord Jesus”. I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.",
         "type": "Letter",
         "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 310."]
     },
@@ -3001,25 +3001,25 @@ const texts = [
     },
     {
         "title": "Letter to Mary Van Deusen [\"Mrs. Arnold\"] (26 December 1951)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "235-236",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "26 December 1951<br/><br/>I am v. glad you have discovered François de Sales. I would regard his prose and Geo. Herbert’s verse as the <i>sweetest</i> of religious writings. And how remarkable it is that such a man’s mere statement that anxiety is a great evil at once helps you to escape from that evil. That indeed seems to be one of the magical Laws of this very creation in which we live: that the thing we know already, the thing we have said to ourselves a hundred times, when said by <i>someone else</i> becomes suddenly operative. It is part of C. Williams’ doctrine, isn’t it? – that no one can paddle his own canoe but everyone can paddle someone else’s …",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 415."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 415."]
     },
     {
         "title": "Letter to “Mrs. Lockley” from Magdalen College (8 January 1952) ",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "236-237",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "8 January 1952<br/><br/>“Whether it is any good praying for actual things” – the first question is what one means by “any good.” Is it a good thing to do? Yes: however we explain it, we are <i>told</i> to ask for particular things such as our daily bread. Does it “work”? Certainly not like a mechanical operation or a magical spell. It is a <i>request</i> which of course the Other Party may or may not, for His own good reasons, grant. But how can it change God’s will? Well – but how v. odd it would be if God in His actions towards me were bound to ignore what I did (including my prayers). Surely He hasn’t to forgive me for sins I didn’t commit or to cure me of errors into which I have never fallen? In other words His will (however changeless in some ultimate metaphysical sense) must be related to what I am and do? And once grant that, and why should my asking or not asking not be <i>one</i> of the things He takes into account? At any rate He <i>said</i> He would – and He ought to know. (We often talk as if He were not very good at Theology!)<br/><br/>I certainly believe (now <i>really,</i> long since with a merely intellectual assent) that a sin once repented and forgiven, is gone, annihilated, burnt up in the fire of Divine Love, white as snow. There is no harm in continuing to “bewail” it, i.e. to express one’s sorrow, but not to ask for pardon, for that you already have – one’s sorrow for being that sort of person. Your conscience need not be “burdened” with it in the sense of feeling that you have an unsettled account, but you can still in a sense be <i>patiently</i> and (in a sense) <i>contentedly</i> humbled by it …",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 416."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 416."]
     },
     {
         "title": "Letter to Ruth Pitter (29 December 1951)",
@@ -3061,7 +3061,7 @@ const texts = [
         "pageRange": "3 and <a href='https://bit.ly/2S72UCq' target='_blank' rel='noopener noreferrer' class='link-to-text'> online</a>",
         "year": 1952,
         "monthAndDay": "28 February",
-        "textProvided": "Thank you for sending me your article, which is at once terrifying and consoling, and always of absorbing interest. Alas! I do not find any of it “inconceivable”. I wish. it were more widely known to the fools in the free countries who still rally with Bolshevism.<br/>With all good wishes to yourself, yours sincerely,<br/><br/>C. S. Lewis.",
+        "textProvided": "Thank you for sending me your article, which is at once terrifying and consoling, and always of absorbing interest. Alas! I do not find any of it “inconceivable”. I wish it were more widely known to the fools in the free countries who still rally with Bolshevism.<br/>With all good wishes to yourself, yours sincerely,<br/><br/>C. S. Lewis.",
         "type": "Letter",
         "notes": ["<i>Meie Kudu</i> was a weekly newspaper for Estonian immigrants in Australia, published in Sidney. In a short article with the headline “TO THE FOOLS IN THE FREE COUNTRIES” this letter is printed after the introductory lines: “A copy of our article ‘Religion in Soviet Russia’ (No. 51, 1951 and no. 1, 1952) was sent to Professor C. S. LEWIS, Fellow Magdalene College, Oxford, England, and well-known author of famous books, such as ‘Abolition of Man’ and ‘The Screwtape Letters’. Now Prof. Haljaspõld has had a very encouraging reply which reads as follows: …”"]
     },
@@ -3243,14 +3243,14 @@ const texts = [
     },
     {
         "title": "Letter to Dom Bede Griffiths (1 November 1954)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "258",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "Your book came at a moment of low spiritual temper, external worry, and (mild) physical pain. I had prayed v. hard a couple of nights before that my faith might be strengthened. The response was immediate and your book gave the finishing touch. It did me a great deal of good: apart, of course from its lower gains in the way of interest and enjoyment. That made an objective literary judgement v. difficult, but I think you have probably done it very well. It must have been a job to keep it so short without becoming perfunctory, and so subjective without being (and it is not in the least) mawkish or suffocating. Much that you said about the Sacraments was v. illuminating. One felt how Paganism does not merely survive but first becomes really itself in the v. heart of Christianity. By the way wd you agree that the un-Christening of Europe (much of it) is an even bigger change that its Christening? So that the gap between Professor [Gilbert] Ryle and, say Dante, is <i>wider</i> than that between Dante and Virgil?",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 441."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 441."]
     },
     {
         "title": "Letter to Richard Ladborough (1955)",
@@ -3283,7 +3283,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "Cambridge is charming. No Lord Nuffield (drat the man!) has come to turn it into a huge industrial city, and one can still feel the county-town under the academic surface. In that way it is more like what Oxford was in my young days.",
         "type": "Letter",
-        "notes": ["This letter was deleted from the Revised and Expanded version of this <i>Biography</i>."]
+        "notes": ["This letter was deleted from the Revised and Expanded edition (2002) of this <i>Biography</i>."]
     },
     {
         "title": "Letter to Sister Penelope (18 June 1956)",
@@ -3331,47 +3331,47 @@ const texts = [
     },
     {
         "title": "Letter to Mrs. Edward A. Allen (16 March 1957)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "275",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "16 March 1957<br/><br/>I think I haven’t told you my news. I have lately married a lady who is very ill and probably dying: I shall be left with two stepsons. Thus, as you may guess, great beauty and great tragedy have come into my life. We need your prayers more than ever …<br/><br/>In my job one hardly works to a schedule of hours you know: nor, apart from lectures and committees, can one draw any hard and fast line between what is and what is not “work.” I couldn’t tell you which of the books I read are professional reading and which are for pleasure. In <i>writing</i> I do regard all non-academic works (all the ones you have read) as being leisure occupations. They have been done at odd moments: nothing unusual about that for better authors would have said the same – Caesar, Chaucer, Sidney, Fielding, Lamb, Jane Austen and Trollope (the last incredibly copious: he wrote most of his novels on railway journeys).",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 464."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 464."]
     },
     {
         "title": "Letter to Sister Madeleva (8 May 1957)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks)",
         "issueOrVolume": null,
         "pageRange": "464-465",
         "year": 1988,
         "monthAndDay": null,
         "textProvided": "8 May ’57<br/>Dear Sister Madeleva<br/><br/>It is always nice to hear from you again. But alas, I was never less likely to come to America than now. I am newly married and to a dying woman. Every moment is spent at her bedside. I am sure we may both count on your prayers: and I, your prayers for help and guidance in the difficult responsibility of bringing up two orphan stepsons. I have only one qualification, if it is one: these two boys are now facing the very same calamity that befell my brother and me at about their age.",
         "type": "Letter",
-        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
+        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
     },
     {
         "title": "Letter to Sister Penelope (12 May 1957)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "465",
         "year": 1988,
         "monthAndDay": null,
         "textProvided": "The idea of anyone seeking a “sober, male opinion” from such a wretched man of business as I am! I would advise you to do as I have at last done: put yourself in the hands of a good Literary Agent (Curtis Brown, Henrietta St., Covent Garden, is probably the best) and never deal direct with publishers again. An agent will of course take his percentage off your royalties, but then he will probably get you better terms.<br/><br/>One of my publishers, on hearing that I was in touch with Brown, motored down to Cambridge at once and offered to raise the terms on all previous books if I wd promise not to! That is surely significant. Also, which may be no less important, it will save you a lot of work and thought and frustration of a sort that people like you and me are not good at. (“Study to be quiet – !)<br/><br/>Joy is now home here, completely bed-ridden. Though the doctors hold out no ultimate hope, the progress of the disease does seem to be temporarily arrested, to a degree they never expected. There is little pain, often none, her strength increases, and she eats and sleeps well. This has the paradoxical (but, come to think of it, natural) result of giving her lower spirits and less peace. The more <i>general</i> health, of course the stronger is the instinctive will to live. Forbidden and torturing hopes <i>will</i> intrude (on us both). In short, a dungeon is never harder to bear than when the door is opened and the sunshine & birdsongs float in. It is the doom of Tantalus. Pray hard for us both, dear sister.",
         "type": "Letter",
-        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
+        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
     },
     {
         "title": "Letter to Sister Penelope (6 November 1957)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "470-471",
         "year": 1988,
         "monthAndDay": null,
         "textProvided": "6 November 1957<br/>Dear Sister Penelope<br/><br/>Whatever our state had been a letter from you wd always have cheered and comforted. In reality it is beyond all we dared to hope. When they sent Joy home from hospital last April, they sent her home to die. The experienced nurses expected her life to be a matter of weeks. She could not even be moved in bed without a lifting squad of three of us, and, with all our care, we nearly always hurt her.<br/><br/>Then it began to appear that the cancer had been arrested: the diseased spots in the bones were no longer spreading or multiplying. Then the tide began to turn – they were disappearing. New bone was being made. And so little by little till the woman who cd hardly be moved in bed can now walk about the house and into the garden – limping and with a stick, but walking. She even found herself getting up <i>unconsciously</i> to answer the telephone the other day. It is the unconsciousness that is the real triumph – the body wh. could not obey the most planned volition now begins to act on its own. General health and spirits excellent. Of <i>course</i> the sword of Damocles still hangs over us: or, shd I say, <i>we</i> are forced to be aware of the sword wh. really overhangs all mortals.<br/><br/>Did I tell you I also have a bone disease? It is neither mortal nor curable: a prematurely senile loss of calcium. I was v. crippled and had much pain all summer but am in a good spell now. I was losing calcium just about as fast as Joy was gaining it, and a bargain (if it were one) for wh. I’m v. thankful. So continue your prayers but now with fervent thanks. I am almost frightened by God’s mercies: how can we ever be good enough?<br/><br/>I’ve been reading some of the books you mention. I was busy on Macrobius, Chalcidius, Boethius & Pseudo-Dionysius for a book wh. will probably be called <i>Prolegomena to Medieval Poetry.</i> That late antique period when a sort of synthesized high Paganism (mainly neo-Platonic) and Christian theology were both contending and influencing each other is fascinating …",
         "type": "Letter",
-        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 280."]
+        "notes": ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles), 280."]
     },
     {
         "title": "Letter to Dom Bede Griffiths (1 August 1957)",
@@ -3397,14 +3397,14 @@ const texts = [
     },
     {
         "title": "Letter to Mrs. Edward A. Allen (1 February 1958)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "281",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "1 February 1958<br/><br/>I quite agree with the Archbishop that no <i>sin,</i> simply as such, should be made a <i>crime</i>. Who the deuce are our rulers to enforce their opinions about sin on us? – a lot of professional politicians, often venal time-servers, whose opinion on a moral problem in one’s life we shd attach very little value to. Of course many acts which are sins against God are also injuries to our fellow-citizens, and must on that account, but only on that account, be made crimes. But of all the sins in the world I shd have thought homosexuality was the one that least concerns the State. We hear too much of the State. Government is at its best a necessary evil. Let’s keep it in its place.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 473."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 473."]
     },
     {
         "title": "Letter to Harold Dawson (6 February 1958)",
@@ -3452,14 +3452,14 @@ const texts = [
     },
     {
         "title": "Letter to Father Peter Bide (29 April 1959)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "285",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "29 April 1959<br/><br/>Indeed, indeed we both will. I don’t see how any degree of faith can exclude the dismay, since Christ’s faith did not save Him from dismay in Gethsemane. We are not necessarily doubting that God will do the best for us: we are wondering how painful the best will turn out to be. In a case like the one you refer to, where the growth is detected in its primary state and in the most operable part, there are of course solid grounds for an entirely optimistic view. But then <i>one</i> of your fears and hers is of all the fears you <i>will</i> have to suffer before you are out of the wood. The monotony of anxiety – the circular movement of the mind – is horrible. As far as possible I think it is best to treat one’s own anxiety as being also an illness. I wish I could help. Can I? You did so much for me.<br/><br/>As to the “frightening monotony” I think this disease now ranks as a <i>plague</i> and we live in a plague-stricken population.<br/><br/>God bless you both. I shall have no need to “remind” myself to remember you. Let us have news as soon as there is any.<br/><br/>If you find (some do) that mental anguish produces an inclination to eat more – paradoxical but it can – I should jolly well do so.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
         "title": "Letter to Geoffrey R. Lennox (22 May 1959)",
@@ -3540,14 +3540,14 @@ const texts = [
     },
     {
         "title": "PS of published letter to Sister Madeleva (7 June 1934)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "157",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "P. S. I shd warn you that I am very bad at German and this has doubtless influenced my choice of reading.<br/><br/>I suppose you will have access to a complete Aristotle wherever you are working? He is often useful.",
         "type": "Letter",
-        "notes": ["The rest of the letter can be found in <i>Collected Letters</i> 1:140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
+        "notes": ["The rest of the letter can be found in <i>Collected Letters</i> 1:140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
         "title": "PS of published letter to Alastair Fowler (24 February 1960)",
@@ -3661,14 +3661,14 @@ const texts = [
     },
     {
         "title": "Letter to Henry Noel (14 November 1962)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "306",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "[From Magdalene College; with reference to a theme central to <i>The Great Divorce:</i>]<br/><br/>About all I know of the “Refrigerium” is derived from Jeremy Taylor’s sermon on “Christ’s advent to judgement” and the quotations there given from a Roman missal printed at Paris in 1626, and from Prudentius. See Taylor’s <i>Whole Works,</i> edit. R. Heber, London 1822, Vol. V, p. 45.<br/><br/>The Prudentius says, “Often below the Styx holidays from their punishments are kept, even by the guilty spirits ... Hell grows feeble with mitigated torments and the shadowy nation, free from fires, exults in the leisure of its prison; the rivers cease to burn with their usual sulphur”.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 505."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 505."]
     },
     {
         "title": "Letter to Laurence Harwood (10 September 1962)",
@@ -3694,14 +3694,14 @@ const texts = [
     },
     {
         "title": "Letter to Sister Penelope (17 September 1963)",
-        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
+        "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "307",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": "17 September 1963<br/>What a pleasant change to get a letter which does not say the conventional things!I was unexpectedly revived from a long coma – and perhaps the almost continuous prayers of my friends did it – but it would have been a luxuriously easy passage and one almost (but <i>nella sua voluntade e nostra pace</i>) regrets having the door shut in one’s face. Ought we to honor Lazarus rather than Stephen as the protomartyr? To be brought back and all one’s dying to do <i>again</i> was rather hard.<br/><br/>If you die first, and if “prison visiting” is allowed, come down and look me up in Purgatory.<br/><br/>It <i>is</i> all rather fun – solemn fun – isn’t it?.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 508-509."]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 508-509."]
     },
     {
         "title": "Letter to Spencer Curtis Brown (1963)",
@@ -3836,7 +3836,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Raymond Wilson Chambers (5 Dec 1940)",
+        "title": "Letter to Raymond Wilson Chambers (5 December1940)",
         "printedIn": "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
         "issueOrVolume": "vol. 24, no. 93",
         "pageRange": "94 (holograph conclusion)",
@@ -3869,7 +3869,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Ruth Pitter (29 Dec 1951)",
+        "title": "Letter to Ruth Pitter (29 December1951)",
         "printedIn": "Lionel Adey, <i>C.S. Lewis: Writer, Dreamer, and Mentor</i> (Grand Rapids, MI: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "255",
@@ -3924,7 +3924,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Sister Penelope (1 Feb 1962)",
+        "title": "Letter to Sister Penelope (1 February 1962)",
         "printedIn": "Jack L. Knowles, “That ‘such a genius should be a beastly American’: C.S. Lewis as Critic of American Literature,” <i>SEVEN: Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 23",
         "pageRange": "43",
@@ -3935,7 +3935,7 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Owen Barfield (21 Oct 1963)",
+        "title": "Letter to Owen Barfield (21 October 1963)",
         "printedIn": "Jane Hipolito, “C.S. Lewis and Owen Barfield: Adversaries and Confidantes,” in <i>An Examined Life,</i> vol. 1 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
         "issueOrVolume": null,
         "pageRange": "239",
