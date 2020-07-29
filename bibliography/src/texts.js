@@ -1553,6 +1553,17 @@ const texts = [
         "type": "Prose",
         "notes": null
     },
+    {
+        "title": "Notes on iconoclasm and satire in Joy Gresham’s copy of <i>The Great Divorce</i> (1952) 58",
+        "printedIn": "Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers)",
+        "issueOrVolume": null,
+        "pageRange": "58",
+        "year": 2020,
+        "monthAndDay": null,
+        "textProvided": "[From an unwritten chapter on Iconoclasm:]<br/><br/>There are three images in my mind which I must continually forsake and replace by better ones: the false image of God, the false image of my neighbours, and the false image of myself. C. S. Lewis 30 December 1952<br/><br/>[And directly below this quote:]<br/><br/>‘Satire is a glass in which the reader commonly sees every face except his own.’ [Swift, quoted from memory]",
+        "type": "Prose",
+        "notes": ["Joy’s copy of <i>The Great Divorce</i> is now in the possession of Steve Beebe."]
+    },
     // DIARIES
     {
         "title": "Excerpt from Wynyard School Diary (November 1909)",
@@ -5156,12 +5167,23 @@ const texts = [
         "type": "Poem",
         "notes": null
     },
+    {
+        "title": "“Patruae Verba Linguae,” a poem on the prefixes un- and dis- (undated)",
+        "printedIn": "Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers)",
+        "issueOrVolume": null,
+        "pageRange": "92 and notes 95, 96",
+        "year": 2020,
+        "monthAndDay": null,
+        "textProvided": "Dear me, how different you are,<br/>Penelope, from Grandmamma!<br/>Words with the prefix Dis- or Un-<br/>Alone describe the course you run.<br/>While grandmamma from early youth<br/>Was shevelled, gainly, kempt and couth.<br/>No sudden crisis ever caught<br/>Her otherwise than turbed and traught;<br/>She suffered fools with modest dain<br/>And sent them gruntled home again,<br/>And then – however long they’d stayed –<br/>Some paraging remark she made,<br/>Nay, even for prettiest female friends<br/>Foretold, and wished, more astrous ends.<br/><br/>If you, dear Pen, prove such as she,<br/>Oh how appointed I shall be!",
+        "type": "Poem",
+        "notes": ["Beebe discovered the poem on the back of a manuscript in the Bodleian. Don King has verified its authenticity."]
+    }
 ]
 // const template =
 // {
 //     "title": "",
 //     "printedIn": "",
-//     "issueOrVolume": "",
+//     "issueOrVolume": null,
 //     "pageRange": "",
 //     "year": null,
 //     "monthAndDay": null,
