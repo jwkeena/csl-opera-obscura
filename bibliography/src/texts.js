@@ -207,7 +207,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945. ‘In this book,’ says Mr. C.S. Lewis, ‘the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
         "type": "Prose",
-        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Essays Presented to Charles Williams. That Preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
+        "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to <i>Essays Presented to Charles Williams</i>. That Preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-24."]
     },
     {
         "title": "“Note” in Author's Foreword",
@@ -260,7 +260,7 @@ const texts = [
         "pageRange": "9, 31-34",
         "year": 1954,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Even when I first went to Magdalen (1925) Benecke was already an almost mythological figure and many of the stories told about him hardly pretended to be true. They mostly represented him in a ludicrous light. This might be misunderstood by one who did not know the habits of the English male. Our relations to him were like those of boys to a master who is always ridiculed behind his back, not although, but because, he is both loved and feared. He was regarded by at least one of his junior colleagues (not me) as an inveterate romancer. I am sure myself that all his stories were intended to be strictly true, but possibly had unconsciously been moulded by a mixture of memory and imagination.",
         "type": "Prose",
         "notes": ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
     },
@@ -443,14 +443,14 @@ const texts = [
     },
     {
         "title": "“Note” on <i>Till We Have Faces</i>",
-        "printedIn": "Time special paperback edition of Till We Have Faces (New York: Time)",
+        "printedIn": "Time special paperback edition of <i>Till We Have Faces</i> (New York: Time) and Eerdmans paperback edition (Grand Rapids, MI: Eerdmans)",
         "issueOrVolume": null,
-        "pageRange": "[page range unknown]",
+        "pageRange": "[page range unknown] (Time); 311-313 (Eerdmans)",
         "year": 1966,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "If you have a scan of the 1966 edition, please send it to me!"]
+        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012)."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -753,13 +753,13 @@ const texts = [
     {
         "title": "Notes on an essay written by Kenneth Tynan (c.1946)",
         "printedIn": "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
-        "issueOrVolume": "83",
-        "pageRange": "unknown", // Need to find this
+        "issueOrVolume": null,
+        "pageRange": "83", 
         "year": 1987,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Keep a strict eye on eulogistic & dyslogistic adjectives—They shd <i>diagnose</i> (not merely blame) & distinguish (not merely praise).",
         "type": "Prose",
-        "notes": ["If you have this text, please send it to me!"]
+        "notes": ["Later reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 42 and John Lahr, “The Whirlwind” <i>The New Yorker</i> (August 7, 2000)."]
     },
     {
         "title": "“The Quest of Bleheris” excerpts (prose romance written in 1916)",
@@ -795,8 +795,19 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Blurb (complete) for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
+        "printedIn": "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
+        "issueOrVolume": null,
+        "pageRange": "62",
+        "year": 1992,
+        "monthAndDay": null,
+        "textProvided": "It would be almost safe to say that no book like this has ever been written. If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once so multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters—comic, homely, epic, monstrous, or diabolic!",
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "Note on “Echeneis”",
-        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "93",
         "year": 1996,
@@ -889,9 +900,31 @@ const texts = [
         "pageRange": "18",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": "[An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high]<br/><br/>miniature mountain <br/><br/>[of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before,] <br/><br/>only because he did not know how to write. This pile of rubbish<br/><br/>[, the story goes on,]<br/><br/>was my treasure, my religion, for it was my past, and the past was all I had yet made my own.<br/><br/>[But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the]<br/><br/>inwards<br/><br/>[of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.]",
+        "textProvided": "[They had time, however, in those few weeks to discover]<br/><br/>the secret dark hole upstairs<br/><br/>[and to claim it for their own ...An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high]<br/><br/>miniature mountain <br/><br/>[of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before,] <br/><br/>only because he did not know how to write. This pile of rubbish<br/><br/>[, the story goes on,]<br/><br/>was my treasure, my religion, for it was my past, and the past was all I had yet made my own.<br/><br/>[But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the]<br/><br/>inwards<br/><br/>[of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.]",
         "type": "Prose",
         "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
+    },
+    {
+        "title": "Footnote for Dorothy L. Sayers added to a letter sent by Sir Humphrey Milford to Lewis and forwarded (5 or 6 July 1945) to Sayers",
+        "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
+        "issueOrVolume": null,
+        "pageRange": "155",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "Best quality sackcloth and ashes in sealed packets delivered in plain vans at moderate charges.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Comment on Dorothy L. Sayers’s Dante article",
+        "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
+        "issueOrVolume": null,
+        "pageRange": "",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "Great gods! Yes, I know it is in places—but lucid just like that! Whose style would you call obscure I’d like to know?",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "“The Quest of Bleheris” excerpts (prose romance written in 1916)",
@@ -2185,15 +2218,15 @@ const texts = [
         "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G20.", "If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to the editor \"The Suggestion from Old English</i>\"",
-        "printedIn": "<i>Time and Tide</i>",
-        "issueOrVolume": "vol. 28, no. 33",
-        "pageRange": "935",
-        "year": 1946,
-        "monthAndDay": "30 August",
+        "title": "Letter to the editor (“A Difference of Outlook”)",
+        "printedIn": "<i>The Guardian</i>",
+        "issueOrVolume": null,
+        "pageRange": "283",
+        "year": 1947,
+        "monthAndDay": "27 June",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G22.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor",
@@ -2204,7 +2237,7 @@ const texts = [
         "monthAndDay": "Summer",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G23.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 472, item G59.", "If you have this text, send it to me!"]
     },
     {
         "title": "Letter to the editor \"Spenser's Irish Experiences and <i>The Faerie Queene</i>\"",
