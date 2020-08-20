@@ -864,12 +864,12 @@ const texts = [
         "title": "Passages from the “Moral Good” manuscript (1924)",
         "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         "issueOrVolume": null,
-        "pageRange": "76-77",
+        "pageRange": "76",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "to ask ‘what is in my mind while I am thinking?’ usually means to stop the real thinking and then ‘introspect’: and then I could naturally find only the irrelevant pictures or words which, as a matter of psychological fact, do accompany the thinking. ...Does all introspection always leave out the important things?",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Word corrections on the <i>Screwtape</i> manuscript",
@@ -878,20 +878,31 @@ const texts = [
         "pageRange": "165-166",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Lewis had written “rivit”, then “revit”, and the “rivet”, then struck all three out, and wrote “FIX”",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "A draft of <i>The Discarded Image</i>",
+        "title": "Annotation in his copy of I.A. Richards’s <i>Practical Criticism</i>",
+        "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
+        "issueOrVolume": null,
+        "pageRange": "171",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "Words are the meeting points at which regions of experience which can never combine...come together. They are the occasions and means of that growth which is the mind’s endless endeavor to order itself. ...It is no mere signalling system.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Comment on a draft of <i>The Discarded Image</i>",
         "printedIn": "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         "issueOrVolume": null,
         "pageRange": "177",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "From a draft of section on rhetoric: “abominably rhetorical”.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Early short story, Text A (<i>LP</i> 11:251-254) & Text B (<i>LP</i> 11:254-255)",
@@ -982,15 +993,15 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Note on <i>Othello</i>",
+        "title": "Annotation on flyleaf of his copy of <i>Othello</i>",
         "printedIn": "Colin Manlove, “Shakespeare,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker Book House)",
         "issueOrVolume": null,
         "pageRange": "124",
         "year": 2000,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[...the flyleaf of Lewis’s personal copy of Othello has a long note by him, describing the play in terms of the hero’s frightening blackness for its contemporary audiences (not the same as color- or race- prejudice), and seeing Othello as a good but dangerous ogre from the wild outside, whom the foolish white lady marries, like Beauty and the Beast. Othello]<br/><br/>may do anything<br/><br/>[, Iago serving as a mere catalyst for a primed explosive. Othello’s essence, not the situation in the play, makes him jealous and mad.]",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Draft of first lines of <i>Surprised by Joy</i>",
@@ -999,20 +1010,20 @@ const texts = [
         "pageRange": "212",
         "year": 2000,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I was born on Nov 29th <s>1946</s> 1898 in a semi-detached house in the suburbs of Belfast, being the second son and second child of a solicitor and a clergyman’s daughter.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["Text is written on the back of the 2nd page of the <i>Dark Tower</i> MS."]
     },
     {
-        "title": "Comments on a 21 December 1953 letter from Dorothy L. Sayers",
+        "title": "Comment on a 21 December 1953 letter from Dorothy L. Sayers",
         "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Four, 1951-1957: In the Midst of Life,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         "issueOrVolume": null,
         "pageRange": "116",
         "year": 2000,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "No action (but well worth reading)",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["Comment written at the top of the letter."]
     },
     {
         "title": "Note on Lewis’ poem “The Nativity” (sent to Mary Willis Shelburne 3 December 1953) as photograph",
@@ -1054,9 +1065,9 @@ const texts = [
         "pageRange": "28",
         "year": 2001,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "His next, and perhaps his greatest work, was his immortal ‘Nibelung Ring,’ a trilogy whose three parts, the ‘Walkyrie,’ ‘Siegfried,’ and the ‘Twilight of the Gods’ are preceded by a prelude, ‘The Rhinegold.’ It is based on the great Scandinavian epic, the Nibelungen Lied or Lot and is a beautiful piece of work.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Parts of original scripts for BBC broadcasts (1941) not included in published versions",
@@ -1076,20 +1087,9 @@ const texts = [
         "pageRange": "14",
         "year": 2003,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Only one word was not in George Sayer’s <i>Jack</i> (1998): “lonely”.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
-    },
-    {
-        "title": "Early short story, Text A (<i>LP</i> 11:252)",
-        "printedIn": "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: Hidden Spring [Paulist])",
-        "issueOrVolume": null,
-        "pageRange": "14",
-        "year": 2005,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Comments written on a paper by J.O. Reed (June 1950)",
@@ -2830,7 +2830,7 @@ const texts = [
         "pageRange": "1",
         "year": 1987,
         "monthAndDay": "Summer",
-        "textProvided": false,
+        "textProvided": "Mr. E. L. Edmonds was my pupil while reading for the Final Honours School of English Language and Literature. He was one of the most enthusiastic and voracious workers I have ever had; a man who never seemed to lose old interests though he was constantly finding new ones; in fact “a robust genius born to grapple with whole libraries” and backed by a very tough physical constitution. He carried too much rather than too little knowledge into the examination, but this will be all to the good in a year or two, though, there, it may not have been an advantage. I have very great respect for him as a man; he has an unusually straightforward, unselfish turn of mind and a great driving power which will be invaluable to any institution that harnesses it. He will always give of his best. Finally, he is still growing and learning and one may look forward to his future development with every confidence. I shall be happy to answer any further enquiries about him.<br/><br/>C. S. Lewis<br/><br/>Fellow, Tutor<br/><br/>Oct. 18th, 1937",
         "type": "Letter",
         "notes": null
     },
@@ -3935,15 +3935,15 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Letter to Owen Barfield (26 June 1929)",
+        "title": "Note above Lewis’s poem “Artless and Ignorant” in letter to Owen Barfield (26 June 1929)",
         "printedIn": " Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "294",
         "year": 2001,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "What do you think of the following alliterative lines—as metre: the matter in unintelligible out of its context (After that you are pretty well bound to find something in it?)",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letters to three unidentified women (dates unknown)",
