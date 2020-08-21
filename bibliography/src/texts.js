@@ -317,7 +317,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[Preface] <br/><br/>This is an abridgement, approved and corrected by me, of a book which appeared more than ten years ago under the same title and is still available. I am satisfied that this abridgment preserves without distortion or falsification as much of the original as will fit into a paperback edition. C.S.L.",
         "type": "Prose",
-        "notes": ["Lewis deleted chapters II-VI, IX, XI, XII, XVII and the two appendices entirely.", "The first chapter “The Scope of this book” was rewritten.", "There are many other changes in the text, but no one has yet made the comparison."]
+        "notes": ["Lewis deleted chapters II-VI, IX, XI, XII, XVII and the two appendices entirely.", "The first chapter “The Scope of this book” was rewritten.", "There are many other changes in the text, but no one has yet made the complete comparison."]
     },
     {
         "title": "<i>Molliter Ossa Cubent</i>",
@@ -905,13 +905,13 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Early short story, Text A (<i>LP</i> 11:251-254) & Text B (<i>LP</i> 11:254-255)",
+        "title": "Fragments of early short story, Text A (<i>LP</i> 11:251-254) and Text B (<i>LP</i> 11:254-255)",
         "printedIn": "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         "issueOrVolume": null,
         "pageRange": "18",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": "[They had time, however, in those few weeks to discover]<br/><br/>the secret dark hole upstairs<br/><br/>[and to claim it for their own ...An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high]<br/><br/>miniature mountain <br/><br/>[of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before,] <br/><br/>only because he did not know how to write. This pile of rubbish<br/><br/>[, the story goes on,]<br/><br/>was my treasure, my religion, for it was my past, and the past was all I had yet made my own.<br/><br/>[But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the]<br/><br/>inwards<br/><br/>[of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.]",
+        "textProvided": "Text as follows, with Lewis’s words in quotes: They had time, however, in those few weeks to discover “the secret dark hole upstairs” and to claim it for their own ...An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high “miniature mountain” of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before, “only because he did not know how to write. This pile of rubbish,” the story goes on, “was my treasure, my religion, for it was my past, and the past was all I had yet made my own.” But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the “inwards” of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.",
         "type": "Prose",
         "notes": ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
     },
@@ -955,31 +955,31 @@ const texts = [
         "pageRange": "12",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Now Boivie is a Swede, and therefore a good Northerner, and like us, hates anything that savours of the South of England.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "“Home Rule” essay (Wade MS-158) excerpt",
+        "title": "Excerpts from “Home Rule” essay (Wade MS-158)",
         "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         "issueOrVolume": null,
         "pageRange": "16",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Text as follows, with Lewis’s words in quotes: It is an essay written by Jack in 1908, entitled “Home Rule”, however, which reveals the extent of his grasp of the Irish political situation. In it he states that he will defend home rule when he grows up while also acknowledging that it is a “matter of mighty weight not to be answered in a moment.” The short essay concludes with the young author echoing grandmother Hamilton’s sentiments,  posing the question, “What would you do with Home Rule if you got it?” The reply, “what we will do with [it] is our business but we would do a great deal more than you would like”, strikes Jack as being “a pretty smart answer I think.”",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "Early short story Text A (<i>LP</i> 11:251-254)",
+        "title": "Excerpts from early short story Text A (<i>LP</i> 11:251-254)",
         "printedIn": "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         "issueOrVolume": null,
         "pageRange": "31-33, 90",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[31, with Lewis’s words in quotes:] <br/><br/>The first attempt at the story, which Warnie calls ‘Text A’, concerns a character clearly based on Jack’s own experiences, asserting a claim to his “kingdom”. This “kingdom” is in an old attic room of his father’s house and its treasure consists of all the stories, plays, songs, and drawings that the young protagonist has accumulated since early childhood. The father in the story is introduced and when seated, “silent and unmoving as a Yogi”, the tension palpably increases and the character remarks that the silence of the little end room “swelled like a bubble till I thought it must instantly burst into some undefined catastrophe.” We learn that the son is fourteen and an only child (his mother had died “in giving me birth”). The fictional father is in some unspecified “business”, though to the son this merely means that the father leaves the house in the morning and returns in the evening. On his father’s return, the youth would have to be seated in the dining room next to the fire, having been “forbidden” to sit in his ‘kingdom’ by his father due to his weak chest and persistent colds. The rest of the fragment attempts to articulate and assert his, rather melodramatic, sense of individuality.<br/><br/>[32-33, with Lewis’s words in quotes:]<br/><br/>Text A also contains an account of adolescent angst that suggests an imaginative amalgamation of his schoolboy experiences at Campbell College. We learn that the young protagonist made no friends, was in his own words “a thoroughgoing snob”, and having surmounted bullying and general unhappiness, wins at least toleration from his fellow pupils. The image of the “big house” and the “kingdom” therein as sanctuary and refuge from the, “clamour of the boys, the playground, the sordid books”, is subtly evoked. Following the road up the hill beyond his father’s house and leaving behind “the fields and works of men”, Text A’s protagonist passes solitary hours upon the moor smoking cigarettes, reading, writing, and staring “myself dizzy upon the blue hills or (lying in the heather) upon the tremendous cliffs and towers of summer cloud, eating out my heart with vague and indistinguishable desires.” Inevitably, the consequence of being such a “vain, introspective, prurient, and romantic” boy was the derision of his peers and this is masterfully and painfully portrayed in Text A, where he describes himself as a “dull, slouching, unattractive boy”. Envying his more popular peers, the “enforced spectator” attempts to ingratiate himself by joining in their conversation, perhaps with a joke “long meditated” in solitude, only to be jeered, red-faced, into embarrassed silence. He finds compensation for this treatment in dreams where he is the “hero” and people do not “stare or titter” when he speaks, and if they do he [33] at least has the courage and strength to hit back. This unfinished story ends with the boy returning home to his father, after a day on the moors, to face his fate. What this fate is we do not know but the imagery used suggests is not good: it is cold and dark and has been raining all day: “a cold, slanting raing with a wind that bent the trees and sent their surviving leaves up-sky in showers, wheeling like crows”. The abrupt break in the fragment leaves us wondering just what this confrontation with the father entails...<br/><br/>[90, with Lewis’s words in quotes:]<br/><br/>Having incorporated the same idea into his early fiction, written in his teens and known as Text A, we again see the dominant image of the Ulster landscape exerting its influence. The young protagonist in the fragment describes the allure of the surrounding Holywood Hills, and the distant Mourne mountains, “source of all my drams perhaps even to this day” and questions th ability of the artist to “recapture that strange longing, that discontent…?”",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Early short story Text B (<i>LP</i> 11:254-255)",
@@ -988,9 +988,9 @@ const texts = [
         "pageRange": "32",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Text as follows, with Lewis’s words in quotes: The version of the story which follows this [Text A] was written when Jack was in his mid-twenties: the story is more focused, the author considerably older, and the discontent with the fictional father, who bears more than a passing resemblance to Albert Lewis, is now more keenly felt than the young man in the story announcing that while he does not hate his father, he “hated and feared to be with him”.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Annotation on flyleaf of his copy of <i>Othello</i>",
@@ -1098,9 +1098,9 @@ const texts = [
         "pageRange": "134",
         "year": 2005,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "You must learn to steer while driving quickly.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Notes for <i>Beyond Personality</i> (verso of burned holograph manuscript of <i>Christian Behavior</i>)",
@@ -1131,9 +1131,9 @@ const texts = [
         "pageRange": "208",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Will this do? C.S. Lewis",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Note about the meter in his poem, “To Charles Williams,” in a presentation copy of <i>Arthurian Torso</i>",
@@ -1549,9 +1549,9 @@ const texts = [
         "pageRange": "9",
         "year": 2017,
         "monthAndDay": "Fall/Winter",
-        "textProvided": false,
+        "textProvided": "Never again!",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Comment on a student exam (date unknown) found on a J.R.R. Tolkien manuscript verso",
@@ -1560,9 +1560,9 @@ const texts = [
         "pageRange": "32",
         "year": 2017,
         "monthAndDay": "Fall/Winter",
-        "textProvided": false,
+        "textProvided": "One very interesting, quite new idea – plenty of knowledge – and excellently expressed.",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Invitation in Old Norse to a Kolbitar meeting (before 20 November 1920), holograph",
