@@ -693,7 +693,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
+        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center.", "Portions of the text with Lewis’s answers were later reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35"]
     },
     {
         "title": "\"Commentary on the Lay of Leithian\"",
@@ -1103,6 +1103,17 @@ const texts = [
         "notes": null
     },
     {
+        "title": "Suggested revisions of Psalms I-XLI (10 March 1959), LXVII-LXXXI, and LXXXIV-LXXIX for the Archbishops’ Commission to Revise the Psalter",
+        "printedIn": "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        "issueOrVolume": "Vol. 22",
+        "pageRange": "134",
+        "year": 2005,
+        "monthAndDay": null,
+        "textProvided": "[47]<br/><br/>On 10 March 1959, just a few weeks after this initial meeting, Lewis sent the COmmission’s secretary eleven pages of his “suggested revisions of Psalms I-XLI,” written in his own hand. In his small cursive script, complete with cross-outs and circled footnotes, Lewis considers such things as accuracy, clarity, rhythm, alliteration, and figurative language. In Psalm 11:3 he notes an illogical image. Where Coverdale has “For the foundations will be cast down,” Lewis notes: “We can’t have what is already the lowest (foundations) cast <i>down;</i> it’s like talking about falling off the floor” (2, n. 2). He suggests “If the foundations be removed” (2). Though concerned with accuracy, he is not interested in strict literalism. In Psalm 4:8 (subsequently published as 4:7) he prefers “as joyful as” to the accurate “<i>more joyful than,</i> which will produce an inferior rhythm” (1, n. 1). And of Psalm 19:3 he says, “Leave it alone: it is only <i>verbally</i> false to the original” (5, n. 1). <br/><br/>[52]<br/><br/>We glanced earlier at Lewis’s suggestions for Psalms 1-41, submitted in March 1959; later he sent handwritten suggestions for Psalms 67-81 (2 pages) and 84-89 (2 pages). In all three lists his emendations, like Eliot’s, contain plenty of instances in which he says the equivalent of “Keep Coverdale’s wording.” <i>The Revised Psalter</i> (1964) contains at least six retentions of Coverdale recommended by Lewis; three others did not make the final version. One loss is in Psalm 25:4, where Coverdale has “Lead me forth in thy truth, and learn me: for thou art the God of my salvation.” Of course <i>teach</i> is the obvious modern replacement for <i>learn,</i> but Lewis objects. “To change <i>learn</i> into <i>teach</i> wd. be pedantic pseudo scholarship,” he writes. “<i>Learn</i> (wh. was good enough for Mr. Badger) will mislead no-one” (6, n. 3).",
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "Notes for <i>Beyond Personality</i> (verso of burned holograph manuscript of <i>Christian Behavior</i>)",
         "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Bloomington, IN: authorHouse)",
         "issueOrVolume": null,
@@ -1139,12 +1150,12 @@ const texts = [
         "title": "Note about the meter in his poem, “To Charles Williams,” in a presentation copy of <i>Arthurian Torso</i>",
         "printedIn": "Diana Pavlac Glyer, <i>The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community</i> (Kent, Ohio: Kent State University Press)",
         "issueOrVolume": null,
-        "pageRange": "205",
+        "pageRange": "205 endnote 49 for chapter 7",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[Glyer’s additions in square brackets including the incorrect additional “t” in contour, and no comma in Glyer before “consconances”]<br/><br/>It was an experiment in a metre invented by my friend Barfield, an 8-stressed line with the first six stresses coming in pairs (roughly u-- u-- u-- u- u-) and underlined (to taste) by internal rhymes (call, all - truly, new l[ight] -) consonances (once, wince) or both mixed (can’t, cont[tuor], slant).",
         "type": "Prose",
-        "notes": ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books [year unknown].", "If you have this text, send it to me!"]
+        "notes": ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books [year unknown]."]
     },
     {
         "title": "Handwritten addition to early typescript of <i>Letters to Malcolm</i> (later deleted by Lewis)",
@@ -1158,15 +1169,15 @@ const texts = [
         "notes": ["If you have this text, send it to me!"]
     },
     {
-        "title": "Manuscript on prayer (Wade MS-155)",
+        "title": "References to manuscript on prayer (Wade MS-155)",
         "printedIn": "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
         "issueOrVolume": null,
         "pageRange": "213-214",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Three references, as follows: two fictional characters mentioned, Mr. Drysdale and Mr. Land; Moderns do not know how to “bow” spiritually; “looking at” and “looking along” reprised from Lewis’s essay, “Meditation in a Toolshed.”",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Typescript draft of <i>The Silver Chair</i> (pages 121 and 178)",
@@ -1571,9 +1582,9 @@ const texts = [
         "pageRange": "23",
         "year": 2018,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Skulu allir Kolbítar soekja heim C. S. Lewis Mariae Magdalenae helgu í búi í Odins degi Nov XX (d. 30) Er þín bit. Helgakviþa Hundingsbana I 50-100<br/><br/>[Translation: “All the Coalbiters should visit Lewis at Magdalen College on Wednesday, November 20 [1929]. Your bit is Helgakvitha Hundingsbana I 50-100.”]",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Archangel Fragment (from Notebook V)",
@@ -2193,7 +2204,7 @@ const texts = [
         "monthAndDay": "18 April",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1."]
     },
     {
         "title": "Letter to the editor \"On Cross-Channel Ships</i>\"",
@@ -2202,9 +2213,9 @@ const texts = [
         "pageRange": "12",
         "year": 1938,
         "monthAndDay": "18 November",
-        "textProvided": false,
+        "textProvided": "CROSS-CHANNEL SHIPS<br/>As one who has crossed the Irish Sea twice or three times a year ever since 1910 I venture to protest against the proposals made by Mr. A.C. Hardy before the Institute of Transport. Mr. Hardy blames railway companies for entrusting the design of cross-channel ships “too much to shipbuilders,” and urges the elimination of open deck spaces “as far as possible.” If it is too much to hope that there are many travellers left who prefer shipbuilders’ ships, which have beauty, to hotel-keepers’ ships, internally disguised as “old baronial” roadhouses, I suggest that there may yet be some who value the sight, the smell, and the airs of the sea. There are certainly those who find the “open deck spaces” their best safeguard against seasickness. It should not be forgotten that ships of this type are necessarily over-engined, and therefore hot and noisy below decks. The retreat at present left us from such heat and noise, from the blare of the wireless, and the vulgarity of the decorations below, is already very small; need we reduce it to nothing? −Mr. C. S. LEWIS, Magdalen College, Oxford.",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G5.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G5."]
     },
     {
         "title": "Letter to the editor \"Poetic License</i>\"",
@@ -2213,9 +2224,10 @@ const texts = [
         "pageRange": "6",
         "year": 1946,
         "monthAndDay": "11 August",
-        "textProvided": false,
+        "textProvided": "Poetic License<br/><br/>Sir, – I do not understand on what grounds we can forbid English poets to treat Aphrodite as a trisyllable rhyming with “light.” This is not, of course, the Greek pronunciation; but neither is “Affrodighty.”<br/><br/>If we want to preserve the Greek we must say <i>Ap-hrod-eet-è</i> and (if we can) put on a tonic accent. But why should we? It is a sign of health in the vernacular to be able to assimilate foreign names. We all make the first syllable of Romulus short and the first of Remus long, not because we are all ignorant that the Latin quantities were exactly the opposite but because we are obeying an English sound-law. In the same way nearly all English poets scan Hyperion so that it would rhyme either with “ferry on” or “Chaucerian,” not with “[l]ion” (still less with “peon”). What is funny about Thucydides rhyming with “brides” or Miltiades rhyming with “brigades” is not the departure from ancient pronunciation but the departure from established English usage. Our “correct” pronunciation of Thucydides (Thisiddideez) would have been unintelligible to a Greek. <br/><br/>The real justification for “Affrodight” as well as “Affrodighty” is that they differ aesthetically. When you say “Affrodight” you are making a slightly different poem. Keats’s Proserpine (rhyming with “wine” is not exactly the same person poetically either as Prosérpina or Persephone. Thus “Suliman” carries us to the Arabian Nights, “Solomon” to the Authorised Version and “Salamon” to the Middle Ages.<br/><br/>C.S. LEWIS.	<br/> Magdalen College, Oxford.
+        ",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G20.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G20."]
     },
     {
         "title": "Letter to the editor (“A Difference of Outlook”)",
@@ -2224,9 +2236,9 @@ const texts = [
         "pageRange": "283",
         "year": 1947,
         "monthAndDay": "27 June",
-        "textProvided": false,
+        "textProvided": "A DIFFERENCE OF OUTLOOK<br/>Sir–The article on adult colleges contributed by “A Correspondent” to The Guardian of May 30, contains a sentence in which (no doubt unintentionally) I am misrepresented. From that sentence a reader would gather that in my Preface to Paradise Lost I included the maxims “Honesty is the best policy” and “War is horrible” among the maxims with which I wished men to be habitually indoctrinated. This is not so. I wrote not “Honesty is the best policy” but “Virtue is lovely”; not “War is horrible” but “Death is bitter.” I have no wish to defend my maxims at this point against those which have been substituted for them: my point is that they are different and indeed involve a difference of outlook which is fundamental.<br/><br/>C. S. Lewis",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G22.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</iSir–The> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 466, item G22."]
     },
     {
         "title": "Letter to the editor",
@@ -2235,9 +2247,9 @@ const texts = [
         "pageRange": "75",
         "year": 1962,
         "monthAndDay": "Summer",
-        "textProvided": false,
+        "textProvided": "To the Editor of <i>English</i><br/>Dear Madam,<br/><br/>I think it is time I corrected the widespread belief that my <i>Experiment in Criticism</i> is a veiled attack on Dr. Leavis. It is not. I am attacking a climate of critical opinion which I meet all over the place. What share Dr. Leavis’s work may or may not have had in producing it is a historical question that I did not raise. A critique of Dr. Leavis would require a much fuller study of his works than I have made. If I undertook that, I should expect to find as much difference between him and those who invoke his authority as we find between Plato and the Platonists. To analyse a puddle is not to analyse any one of the springs that may have contributed to it. <br/><br/> Yours faithfully,<br/><i>Magdalene College, Cambridge</i><br/>C. S. Lewis",
         "type": "Letter",
-        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 472, item G59.", "If you have this text, send it to me!"]
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 472, item G59."]
     },
     {
         "title": "Letter to the editor \"Spenser's Irish Experiences and <i>The Faerie Queene</i>\"",
@@ -4041,9 +4053,9 @@ const texts = [
         "pageRange": "207",
         "year": 1963,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Go early ere the appointed hour to meet<br/>The fair, and long await her in the street.<br/>Through shouldering crowds on all her errands run:<br/>Through graver business wait the while undone.<br/>If she commands your presence on her way<br/>Home from the ball to lacky her, obey!<br/>Or if from rural scenes she bids you, “Come”,<br/>Drive if you can, if not, walk, to Rome.<br/><br/><i>Ars Amatoria</i> ii. 223 (trans. C. S. Lewis)",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“The Sunrise”",
@@ -4052,9 +4064,9 @@ const texts = [
         "pageRange": "211-212",
         "year": 1964,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel<br/><br/>That in their own right earth and sky<br/>Continually do dance<br/>For their own sakes – and here crept I<br/>To watch the world by chance.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“Perelandra” (a fragment of verse that appears to be the idea for <i>Perelandra</i>)",
@@ -4085,7 +4097,7 @@ const texts = [
         "pageRange": "5",
         "year": 1980,
         "monthAndDay": "April",
-        "textProvided": false,
+        "textProvided": "Beauty and brains and virtue never dwell<br/>Together in one place, the critics say<br/>Yet we have known a case.<br/>You must not ask her name<br/>But seek it ‘twixt July and May.",
         "type": "Poem",
         "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
