@@ -298,7 +298,7 @@ const texts = [
         "notes": [""]
     },
     {
-        "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</iMagdalene>",
+        "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
         "printedIn": "<i>The Core of the Bible: Arranged from the Authorised King James Version,</i> ed. Austin Farrer (New York: Harper and Bros.)",
         "issueOrVolume": null,
         "pageRange": "back cover",
@@ -307,6 +307,17 @@ const texts = [
         "textProvided": "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
         "type": "Prose",
         "notes": ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433."]
+    },
+    {
+        "title": "Account of a lecture on Classical translations, “‘Translations from Hatred’: Classics in Modern Dress Condemned”",
+        "printedIn": "<i>The Times</i>",
+        "issueOrVolume": null,
+        "pageRange": "[page range unknown]",
+        "year": 1958,
+        "monthAndDay": "8 August",
+        "textProvided": "<div style='text-align: center'>“TRANSLATIONS FROM HATRED”</div><br/><div style='text-align: center'>CLASSICS IN MODERN DRESS CONDEMNED<br/>FROM OUR SPECIAL CORRESPONDENT</div><br/><div style='text-align: right'>CAMBRIDGE, AUG. 7</div><br/> In spite of the unlikely hour (immediately after breakfast) the hilarity of Professor C. S. Lewis, in his most mischievous mood, proved irresistible this morning when he delivered to the conference of classical teachers here a withering attack on modern translations of the classics. They apparently sprang, he declared, from “a very real hatred” of what most poetry, other than that of relatively recent times, has been.<br/><br/>Surveying, with acid asides, the great change he had seen during his lifetime, he admitted so little sympathy for the new idea that a translation should try to be “what the author would have written if he had lived in our own day.” What reason had we to suppose that Virgil, for instance, would have written anything at all or, if he did, would have got anywhere with it? Our age, with implacable hostility, would have known how to deal with him.<br/><br/><div style='text-align: center'>TWO CARDINAL SINS</div><br/>The present view seemed to be that ours were the only possible poetics, Professor Lewis observed; and that the old poets really must have conformed to them, however little they might appear to have done—and if they did not they must be made to do so. He singled out the opinions and Homeric translations of W. H. D. Rouse as his main target, though neither T. E. Lawrence nor Professor C. Day Lewis escaped wholly unscathed. (Of Dr. E. V. Rieu he would only say with a smile: “Rieu’s daughter was a pupil of mine and I have met him and liked them both very much.”)<br/><br/>Why, he demanded, was the Rousean view so widely held? He found much of the answer in the fact that the two cardinal sins to-day were archaisms and poetic diction. “I have seen strong young men almost turn pale at the use of an archaism.” With few exceptions all the poetry written in the past was now assumed to be “bunk”; poetry began with Mr. Eliot and Mr. Pound. Or it was argued, if you like to give the name poetry to the old stuff we shall give a new one to ours, but we want to take over the goodwill of the business.<div style='text-align: center'>ARCHAISM AND RITUAL</div><br/>Staunchly Profesor Lewis denied that “poetical language” was fit only for “toffs and cissies.” We still kept archaism and ritual elsewhere in life—in dressing for dances, for example—because there could not be a more obvious way of heightening the effect. He confessed he had found the same deplorable point of view in his own field. You were always discovering that some work the world had enjoyed for 300, 500, or 800 years was not what had been thought, but bore an extremely close resemblance to <i>The Outsider</i> or the like.<br/><br/>It was almost, he complained, as if there were a set of people who did not want the modern man to know there had once been a language different from our own. The age had to be carefully guarded, cut off from any subversive influence that might creep in from the poetry of the past.<br/>Professor Lewis did not subscribe either to the theory that translations should try to recreate the impression the originals gave to their contemporaries. In this case we were not dealing with a snark or a boojum, but how could we know what any poem sounded like to its contemporaries? The only safe way was to seek as closely as possible the effect it would give a reader if he was really a tiptop, modern, classical scholar. Even so he gave warning against making the classics sound too English: “You don’t go to France to get tea, do you?”<div style='text-align: center'>MORAL LESSON</div><br/>We all knew he was a moralist, Professor Lewis cheerfully concluded, and he would be very sorry to end without drawing a useful moral lesson. It was that surely this picture of what happens to dead authors would cure us of any desire for posthumous fame, since we would only be attached to some cause we had never heard of and would probably have detested.<br/><br/>The conference ended with an obviously heartfelt discussion on the position of classics in the schools. It was introduced by Mr. H. D. P. Lee, headmaster of Winchester College, and Mr. A. W. Eagling, headmaster of the Cambridgeshire High School for Boys, both of whom doubted whether the most was being got out of Latin or Greek. ",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "Preface, abridgements, and revisions to <i>Miracles</i>",
@@ -1219,7 +1230,7 @@ const texts = [
         "pageRange": "21 note 2, 63 note 225",
         "year": 2009,
         "monthAndDay": null,
-        "textProvided": "[21 note 2]<br/><br/>I gave up Christianity at about fourteen. Came back to it when getting on for thirty. Not an emotional conversion: almost purely philosophical.<br/><br/>[63 note 225]<br/><br/>Although I am an Anglican, the two writers who helped me most to Christianity were a Presbyterian (George Macdonald) and a Papist (G.K. Chesterton)--I might add a third and a pagan, Plato.",
+        "textProvided": "[21 note 2]<br/><br/>I gave up Christianity at about fourteen. Came back to it when getting on for thirty. Not an emotional conversion: almost purely philosophical.<br/><br/>[63 note 225]<br/><br/>Although I am an Anglican, the two writers who helped me most to Christianity were a Presbyterian (George Macdonald) and a Papist (G.K. Chesterton)—I might add a third and a pagan, Plato.",
         "type": "Prose",
         "notes": null
     },
@@ -1230,7 +1241,7 @@ const texts = [
         "pageRange": "226 note 26",
         "year": 2009,
         "monthAndDay": null,
-        "textProvided": "The difficulty about bodies is that if a man believes bodies to be real, he must of course believe his own body to be real. But then he will believe the accounts which physiologists give of perception, and sooner or later will regard all the coloured and tangible shapes wh we call matter, as appearances arising in his own mind, from physiological causes. But among the appearances his own body must be caused/coloured: therefore, the whole world, including his body will be inside his mind. True, there might be another world of bodies wh caused this world of appearances: but that does not matter, for the whole argument was about the perceptible bodies. He will now have fallen into a contradiction for because he believes in his own body he has been forced to disbelieve in all bodies: but as this involved disbelief in his own body wh caused disbelief in all the rest, he has now no reason left for his disbelief: yet if he abandons it for belief he must go thro the same circle again.<br/><br/>While the contemplated or the enjoyed differ in kind, the material and the psychological (much of which is contemplated) are only different in tendency. What is private to a single self at a single moment, is the lowest level, the merely psychological. What is private is a single self, but, for that self, permanent, in psychological approaching materiality. What is common to a few selves is on the border line. What is not public, which is a permanent object for the greatest number of selves is most material. <br/><br/>Characteristics of matter. <i>1.</i> resistant to (informable) will <i>2.</i> common <i>3.</i> contemplated<br/>Matter<br/><br/><i>1. </i>As a necessity if there is to be a plurality of selves knowing one another. For to know another self does not mean to enjoy its thinking etc, wh wd mean to <i>be</i> it, and thus to remove all plurality, but to contemplate what it enjoys. But to talk of something wh can be both contemplated from without and enjoyed from within is to talk of a living body or an incarnate soul. For to know an alien soul (in any world) is to apprehend what it can only be: and the difference between the being and the apprehending gives you at once a distinction between the soul itself and something that wd be analogous to our ‘body’--however it might differ from it in the detail of its laws of working.<br/><br/><i>2. </i>As the resistant stuff. We have a specimen of a world without matter in fantasy, or with a minimum of matter of wh the result is that there is no value in it.",
+        "textProvided": "The difficulty about bodies is that if a man believes bodies to be real, he must of course believe his own body to be real. But then he will believe the accounts which physiologists give of perception, and sooner or later will regard all the coloured and tangible shapes wh we call matter, as appearances arising in his own mind, from physiological causes. But among the appearances his own body must be caused/coloured: therefore, the whole world, including his body will be inside his mind. True, there might be another world of bodies wh caused this world of appearances: but that does not matter, for the whole argument was about the perceptible bodies. He will now have fallen into a contradiction for because he believes in his own body he has been forced to disbelieve in all bodies: but as this involved disbelief in his own body wh caused disbelief in all the rest, he has now no reason left for his disbelief: yet if he abandons it for belief he must go thro the same circle again.<br/><br/>While the contemplated or the enjoyed differ in kind, the material and the psychological (much of which is contemplated) are only different in tendency. What is private to a single self at a single moment, is the lowest level, the merely psychological. What is private is a single self, but, for that self, permanent, in psychological approaching materiality. What is common to a few selves is on the border line. What is not public, which is a permanent object for the greatest number of selves is most material. <br/><br/>Characteristics of matter. <i>1.</i> resistant to (informable) will <i>2.</i> common <i>3.</i> contemplated<br/>Matter<br/><br/><i>1. </i>As a necessity if there is to be a plurality of selves knowing one another. For to know another self does not mean to enjoy its thinking etc, wh wd mean to <i>be</i> it, and thus to remove all plurality, but to contemplate what it enjoys. But to talk of something wh can be both contemplated from without and enjoyed from within is to talk of a living body or an incarnate soul. For to know an alien soul (in any world) is to apprehend what it can only be: and the difference between the being and the apprehending gives you at once a distinction between the soul itself and something that wd be analogous to our ‘body’—however it might differ from it in the detail of its laws of working.<br/><br/><i>2. </i>As the resistant stuff. We have a specimen of a world without matter in fantasy, or with a minimum of matter of wh the result is that there is no value in it.",
         "type": "Prose",
         "notes": null
     },
@@ -2477,7 +2488,7 @@ const texts = [
         "pageRange": "88",
         "year": 1988,
         "monthAndDay": null,
-        "textProvided": false, // Arend has: "...??"
+        "textProvided": "You have the angels, the <i>eldila.</i> You have Maleldil ‘who lives with the Old One:—i.e., God the Father and God the Son. . . . He did and suffered terrible things in retrieving Thulcandra (i.e. was incarnate and crucified in Earth) fighting the Bent One, the <i>eldil</i> who had gone wrong (Satan, the rebel angel). The “confined and regimented” state of my mind is revealed in the story at every point.",
         "type": "Letter",
         "notes": null
     },
@@ -2554,7 +2565,7 @@ const texts = [
         "pageRange": "29",
         "year": 1981,
         "monthAndDay": null,
-        "textProvided": false, // Arend has "...??"
+        "textProvided": "No. I <i>don’t</i> believe people sat down and “made up” mythology. There are both divine and diabolical elements in it. And anyway what <i>is</i> the process we describe as “making up”[?] I am willing to believe, with Henry More (the Cambridge Platonist) that some, at least, of the “gods” were good spirits “as innocent of the worship idolatrously offered them as Peter and Mary are of that offered them by the Papists.” (The simile is his.) But of course we know nothing. It’s a view good enough to base a romance on—not part of mythology.",
         "type": "Letter",
         "notes": null
     },
@@ -3011,6 +3022,17 @@ const texts = [
         "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 305.", "Also quoted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press, 2008), 167."]
     },
     {
+        "title": "Letter to Dorothy L. Sayers (3 or 4 July 1945)",
+        "printedIn": "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
+        "issueOrVolume": null,
+        "pageRange": "155",
+        "year": 1998,
+        "monthAndDay": null,
+        "textProvided": "That’s the spirit! But Faber and Faber (tho’ Eliot promises to contribute an essay) are also shy.  I heard a rumour that Collins might.  All authors wd. Retain copyright as you suggest, of course. I’ll keep you informed of further developments.",
+        "type": "Letter",
+        "notes": null
+    },
+    {
         "title": "Letter to Dom Bede Griffiths (17 May 1952)",
         "printedIn": "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         "issueOrVolume": null,
@@ -3019,7 +3041,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "My old <i>directeur,</i> Fr. Walter Adams, of the Cowley Fathers, died a few weeks ago. He died suddenly while celebrating, and his last words were “I am coming, Lord Jesus”. I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.",
         "type": "Letter",
-        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 310."]
+        "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 310.", "A shorter portion of the text was later reprinted in <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press, 2004), 102: “I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.”"]
     },
     {
         "title": "Letter to Children at Grittleton House School (22 May 1952)",
@@ -3831,9 +3853,9 @@ const texts = [
         "pageRange": "11, 28, 30",
         "year": 1953,
         "monthAndDay": "December",
-        "textProvided": false,
+        "textProvided": "[Although this article is an interview, Kilby quotes a follow-up letter from Lewis. In that follow-up letter, Lewis gives a definition of the Renaissance as follows:] <br/><br/>...an imaginary entity responsible for everything the modern reader likes in the fifteenth and sixteenth centuries.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Martin Lings (c. 1930)",
@@ -3842,9 +3864,9 @@ const texts = [
         "pageRange": "7",
         "year": 1967,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I have a very clear-cut idea of the difference between poetry and mere verse, and this is poetry beyond a doubt.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Martin Lings (c. 1931)",
@@ -3853,9 +3875,9 @@ const texts = [
         "pageRange": "7",
         "year": 1967,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "You have changed from being a young man who merely writes poetry to a young man who has written a poem—not a very great poem, but none the less a poem, a unity with a  distinct flavour all its own which it keeps from beginning to end.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Stephen Schofield (c. July 1960)",
@@ -3864,9 +3886,9 @@ const texts = [
         "pageRange": "197",
         "year": 1983,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[Giving permission to quote <i>Mere Christianity</i>:<br/><br/>Certainly. With compliments. C.S.L.",
         "type": "Letter",
-        "notes": ["Contents: 1 line permission to quote <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to J.B. Phillips (c. 1956)",
@@ -3886,9 +3908,9 @@ const texts = [
         "pageRange": "15",
         "year": 1985,
         "monthAndDay": "Winter",
-        "textProvided": false,
+        "textProvided": "How very kind of you to write. As you see I have not changed my patroness, tho’ they don’t spell her name so correctly over here. Between ourselves, though, there is a lot to be said for Cambridge: no Cowley, no Nuffield, but still a country town. And after the leftism and atheism and general hard-wiledness [?] of Magd. Oxon., this tiny, beautiful college is so gentle, so courteous, that I feel as if Q. Victoria had returned to the throne. I say, your children are dreadfully behind-hand with their Narnian history! After <i>LWW</i> came <i>Prince Caspian:</i> then <i>The Voyage of the Dawn Treader:</i> then <i>The Silver Chair:</i> then <i>The Horse and His Boy.</i> Call yourself a father and let them grow up in such ignorance! All good wishes.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Raymond Wilson Chambers (5 December1940)",
@@ -3974,20 +3996,9 @@ const texts = [
         "pageRange": "171",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Thank God you’ve got your foot into the New Criterion. Let them have five rounds rapid of sense.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
-    },
-    {
-        "title": "Letter to Sister Penelope (1 February 1962)",
-        "printedIn": "Jack L. Knowles, “That ‘such a genius should be a beastly American’: C.S. Lewis as Critic of American Literature,” <i>SEVEN: Anglo-American Literary Review</i>",
-        "issueOrVolume": "vol. 23",
-        "pageRange": "43",
-        "year": 2006,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Owen Barfield (21 October 1963)",
@@ -3996,9 +4007,9 @@ const texts = [
         "pageRange": "239",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I think I can say that in sheer pleasure content <i>Worlds Apart</i> and the <i>Iliad</i> have been the high lights of this summer.  As before, the difficulty in digesting <i>W.A.</i> comes from this irresistible tendency to wolf it down too quickly.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Owen Barfield (Autumn 1926?)",
@@ -4018,9 +4029,9 @@ const texts = [
         "pageRange": "258",
         "year": 2015,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Do you remember advising me to read Charles Williams? Well, I have—<i>The Place of the Lion</i> and <i>Many Dimensions.</i> It is ‘beyond expectation, beyond desire’. To have a rattling good thriller, and on top of that a learned machinery, and after that a theology, and real characters, and a real Katharsis—I never thought to read it. Amazing man! Is he still in Oxford? Is he so senior that an approach on my part would look like impudence, or so junior that it would look like patronage? Coghill put me on to him, and I have put [him] on Tolkien. All three hum with excited approval.", // Check this against the text
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Michal Williams (15 June 1948)",
@@ -4029,9 +4040,9 @@ const texts = [
         "pageRange": "427",
         "year": 2015,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "It began as a nightmare. I was being followed through a house of many passages by lions and came out down a backstair onto a moonlit lawn. A figure approached—touched my hand—‘Hallo Jack!’—and it was Charles. And I knew that everything (lions included) was ALL RIGHT. I live on him almost every day. Sometimes I have felt he was just beside me and almost heard him say, with his inimitable gaiety, ‘You know, the only reason I don’t <i>appear</i> is that it would be … well, bad manners.’",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Clyde Kilby (1961)",
@@ -4118,9 +4129,9 @@ const texts = [
         "pageRange": "134",
         "year": 2005,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "If, following your satiric muse,<br/>You chanced to meet a satyr<br/>I’m sure you’d ne’er again confuse<br/>The former with the latter.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "An untitled poem on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
@@ -5179,7 +5190,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"O Caecili care\" (April 1936)",
+        "title": "\"O Caecili care\" in letter to Cecil Harwood (April 1936)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "33",
