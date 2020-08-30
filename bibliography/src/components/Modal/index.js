@@ -5,7 +5,7 @@ import './styles.css';
 const styles = {
     bookIcon: {
         position: "relative",
-        top: "4px"
+        top: "6px"
     }, 
     infoIcon: {
         position: "relative",
