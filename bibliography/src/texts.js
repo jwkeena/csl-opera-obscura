@@ -119,7 +119,7 @@ const texts = [
         "monthAndDay": "June",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["These were printed as an actual transcript, not as summary notes by a secretary.", "Please send me this text if you have it!"]
+        "notes": ["These were printed as an actual transcript, not as summary notes by a secretary.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Epigraph, dedication, and footnote exclusive to British edition of <i>The Great Divorce</i>",
@@ -163,7 +163,7 @@ const texts = [
         "monthAndDay": "Autumn",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "\"A Christmas Sermon for Pagans\"",
@@ -174,7 +174,7 @@ const texts = [
         "monthAndDay": "December",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017), 47-50."]
+        "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017), 47-50.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Preface to <i>The Tortured Planet</i>",
@@ -196,7 +196,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Blurb for <i>Essays Presented to Charles Williams</i>",
@@ -295,7 +295,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": [""]
+        "notes": ["If anyone has this text, please send it to me!"]
     },
     {
         "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
@@ -350,7 +350,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "https://docs.google.com/document/d/1ZBak3pTpEUwQWyYoIjuEgflDLoBr-zqmBPBEXY_0naY/edit?usp=sharing",
         "type": "Prose",
-        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called <i>Four Talks on Love</i>. The scripts served as a basis for Lewis’s book, <i>The Four Loves</i>."]
+        "notes": ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called <i>Four Talks on Love</i>. The scripts served as a basis for Lewis’s book, <i>The Four Loves</i>.", "If anyone has scans of this text, please send it to me!"]
     },
     {
         "title": "Blurb for <i>Titus Alone</i>",
@@ -461,7 +461,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012)."]
+        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -472,7 +472,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63."]
+        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Blurb for <i>Poetry of Francis Warner</i>",
@@ -516,7 +516,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["To my knowledge this text has never been reprinted."]
+        "notes": ["To my knowledge this text has never been reprinted.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Definition of “Myth”",
@@ -539,7 +539,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of <i></i>The Silver Chair,</i> 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>"]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of <i></i>The Silver Chair,</i> 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Narnian Manuscripts (various)",
@@ -550,7 +550,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar, (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of 49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-307. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar, (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of 49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-307. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     { // VERIFY AUTHENTICITY
         "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
@@ -605,7 +605,7 @@ const texts = [
         "monthAndDay": "May",
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Pen portraits of Arthur Greeves and his parents",
@@ -649,7 +649,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["This text would be a total nightmare to transcribe, but let me know if you're interested."]
     },
     {
         "title": "\"Answers to Listeners’ Questions\", holograph of the typescript Lewis read over the BBC on 3 Sept. 1941",
@@ -660,7 +660,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in <i>Broadcast Talks</i>."]
+        "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in <i>Broadcast Talks</i>.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "“The Anvil,” BBC broadcast in which Lewis took part (22 July 1943)",
@@ -704,7 +704,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center.", "Portions of the text with Lewis’s answers were later reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35"]
+        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center.", "Portions of the text with Lewis’s answers were later reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "\"Commentary on the Lay of Leithian\"",
@@ -715,7 +715,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-392."]
+        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-392.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Juvenilia: note on Shakespeare",
@@ -784,8 +784,8 @@ const texts = [
         "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
     },
     {
-        "title": "Holograph of note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees  ",
-        "printedIn": "<i>Canadian C.S. Lewis Journal,</i>",
+        "title": "Holograph of note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees",
+        "printedIn": "<i>Canadian C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 64",
         "pageRange": "11",
         "year": 1988,
@@ -817,8 +817,8 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Note on “Echeneis”",
-        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</> (London: HarperCollins)",
+        "title": "Note on ancient Greek word “Echeneis”",
+        "printedIn": "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         "issueOrVolume": null,
         "pageRange": "93",
         "year": 1996,
@@ -1089,7 +1089,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Some quotations on 163-164 are from a 15 September 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
+        "notes": ["Some quotations on 163-164 are from a 15 September 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Early short story, Text A (<i>LP</i> 11:252)",
@@ -1126,25 +1126,25 @@ const texts = [
     },
     {
         "title": "Notes for <i>Beyond Personality</i> (verso of burned holograph manuscript of <i>Christian Behavior</i>)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "77-78, 100-102 & Bibliography 47, 56",
+        "pageRange": "89-90",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Have passed from Atheism to Xnity - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master - dog: father - son: man - woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Comments (holograph) accompanying two poems on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "77-78, 100-102 & Bibliography 47, 56",
+        "pageRange": "112-113",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[112, below four-line poem beginning “This first edition,” and corresponding to an asterisk next to his signature above the poem]<br/><br/>* I never could develop a nice grown-up “signature” so I just have to write my name like any other word.<br/><br/>[113, at the end of the book, on the blank page opposite page 160]<br/><br/>I tried v. hard to get hold of the letters on the other side - from the archangel to the guardian angel. But the only bit that ever came through didn’t make much sense. It was “The children continued instructing their Bears in the bend of the great river.”",
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["The second comment, on p. 113, was later reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15."]
     },
     {
         "title": "Comment on the manuscript of Lewis’ “Panegyric for Dorothy L. Sayers,”",
@@ -1296,6 +1296,17 @@ const texts = [
         "pageRange": "163 note 32, 237-238, 301",
         "year": 2009,
         "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Annotations in his copies of Chaucer’s works",
+        "printedIn": "Somon Horobin, “What C.S. Lewis Really Did to Chaucer’s <i>Troilus and Criseyde,</i>” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 6, no. 2",
+        "pageRange": "23-29",
+        "year": 2009,
+        "monthAndDay": "April",
         "textProvided": false,
         "type": "Prose",
         "notes": null
@@ -1873,7 +1884,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["The text is only available in this source."]
+        "notes": ["The text is only available in this source.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         "title": "Letter to Edward Meškys (3 October 1963)",
@@ -2213,7 +2224,7 @@ const texts = [
         "pageRange": "315",
         "year": 1929,
         "monthAndDay": "18 April",
-        "textProvided": false,
+        "textProvided": "<div style='text-align: center'>THE KINGIS QUAIR<br/><br/>TO THE EDITOR OF THE TIMES</div>Sir,—Readers of the “Kingis Quair” will remember the problem of its opening stanzas (1-19). Their content may be briefly analysed thus:— The poet, being unable to sleep, takes up his Boethius in the hope of finding it a soporific, but, growing interested, continues to read far into the night, and finally lays it aside only to reflect on the theme of fortune in general and his own fortune in particular. He is interrupted by the matins bell, which seems to say to him, “Tell on, man, quhat the befell.” This determines him—since he has already spent much paper in vain—to make a new beginning. He therefore makes a cross in his manuscript and begins “his book.” There follow two stanzas on the dangers of youth, one in which he applies the previous two to his own youth, two more in which he compares the difficulties of his literary undertaking to those of a mariner becalmed by night, and a final stanza in which he invokes the Muses.<br/><br/>The problem is to find the connexion between this apparently rambling induction and the poem which actually follows. Skeat, in the introduction to his text (published for the E.E.T.S. in 1884), regards it as a slab of aimless poetizing composed <i>before</i> the King had seen Joan Beaufort and when he had “no very clear idea as to what he was going to write about.” The new work—<i>i.e.,</i> the work written after he had fallen in love—does not (for Skeat) begin until Stanza twenty-nine. We are to suppose that when James at last <i>had</i> found a theme he collected the several scraps of aimless verse previously composed and tacked them thus clumsily on to the beginning of his new poem. The obvious objection to this theory is contained in Stanza ten (“In tender youth how sche—<i>i.e.,</i> Fortune—was first my fo And eft my frende, and how I gat recur off my distresse”)—lines which must clearly have been written after the success of his suit to Joan Beaufort; and this objection Skeat disposes of by the supposition that these lines were added later, as also the passage in Stanza nineteen (“My turment and my ioye”). It will be noticed that both passages involve rime-words, and that it is therefore a question not of the lines themselves but of the whole stanzas in which they occur. Gregory Smith (in Chapter X. of the Cambridge ‘History of English Literature,” Vol. II.), while rightly protesting against Skeat’s rather drastic surgery, and stating that the poem is a unity, does not explain how that unity manifests itself in the passage we are considering.<br/><br/>I venture to suggest that the difficulty all arises from the fact that the reader, blinded by the history of James as a man, approaches his induction determined to see in it some reference to that history; but when once we have grasped that James is her speaking not of his history as a man but of his history as a poet, the whole thing becomes clear. Stanzas one to thirteen are an introduction which describes the genesis of the poem. The author tells us he took up Boethius one sleepless night. (It will be noted that it was neither his love nor his imprisonment that kept him awake. Cf. Stanza two: “Can I nought say quharfore.” If we must assume that cares hinder sleep, they were the cares of a poet.) Boethius suggested the idea of Fortune, which inevitably suggested the curious fortunes of his own life—some months ago a lonely prisoner, now an accepted lover soon to return, a free man, with his bride, to Scotland. At this point the matins bell rang and a new idea occurred to him. He had already wanted much paper in the effort to write a Chaucerian poem, but had made little progress. Suddenly—so suddenly that it needed only the slightest conceit to identify the suggestion with the actual sound of the bell—it flashed upon him that his own life provided a capital theme for the sort of poem he had been trying to write. A moment later he would have been seeing how well the circumstances of his falling in love could be worked up on lines of the “Knight’s Tale.” Having thus seen where his real task lay—namely, in using the framework of the allegorical poem for the expression of a personal and actual emotion—he realized that his literary development had entered on a new phase. In fine, the first thirteen stanzas of the “Kingis Quair” correspond almost exactly to Sidney’s first sonnet, and the words “Tell on, man, quhat the befell” are James’s version of “Look in thy heart and write.” (In a modern author the matter of these thirteen stanzas would probably go into a prose preface.) At Stanza fourteen the poem proper begins. The author, after referring to the weakness of youth in general and of his own youth in particular, goes on with a modesty not unusual in medieval poets to express vividly (17 and 18) the sense of his unfitness for the arduous work he has in hand, but finally plucks up courage to invoke the Muses. I would, therefore, divide as follows: (1) Stanzas one to thirteen, autobiographical preface describing the literary genesis of the poem; (2) Stanzas fourteen to nineteen, formal induction to the poem proper, with moral reflections, modest hesitations, and invocation en regle; (3) Stanzas twenty to twenty-eight, first step in the narrative, describing his life previous to the love affair with Joan Beaufort. After this the poem needs no explanation.<br/><br/>Only those who forget the tendency of young poets to write about poetry itself and the intense feelings which they suffer in connexion with their own poetical progress will think that such a purely literary adventure as I describe is too slight a theme for these stanzas. James himself supplies the answer to such objections. If Stanza seventeen had survived alone out of this poem, would not criticism have supposed that these pathetic lines referred to the author’s misery as a prisoner, or, at least, as a lover? Yet we see from Stanza eighteen that the “rokkis” are only those of “prolixitee” and the “lak of wynd” is only “the deficultee in enditing.”<br/><br/>Magdalen College, Oxford.<br/>C. S. LEWIS.",
         "type": "Letter",
         "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1."]
     },
@@ -2450,12 +2461,12 @@ const texts = [
     },
     {
         "title": "Letter to Owen Barfield (16 October 1940)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting his Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting his Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "84",
+        "pageRange": "96",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "My dear Barfield, <br/><br/>A book on this subject from me at Oxford (wh. continues to be Gideon’s fleece) to you in the front line seems rather impertinent. When wd. you like a few quiet nights here? Do come and spend one or two. You are daily in my thoughts. <br/><br/>Yours, C. S. Lewis",
+        "textProvided": "16 October 1940<br/><br/>My dear Barfield, <br/><br/>A book on this subject from me at Oxford (wh. continues to be Gideon’s fleece) to you in the front line seems rather impertinent. When wd. you like a few quiet nights here? Do come and spend one or two. You are daily in my thoughts. <br/><br/>Yours, C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2858,23 +2869,23 @@ const texts = [
     },
     {
         "title": "Letter to Canon Smyth (13 March 1949)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "128",
+        "pageRange": "139",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "REF.162/49.<br/>Magdalen College, Oxford.<br/>14th March 1949.<br/><br/>Dear Canon Smyth,<br/><br/>Whether Milton would have liked to be commemorated by a window in an Anglican church is a question! But I’ll ask my Solicitor to send you a small check.<br/><br/>About Pride: <i>Samson and Agonistes</i> 502-515 is the bit which, for me, shows that Milton finally saw through its subtlest form and definitely got beyond Stoicism. And thanks for the delicious Howler.<br/><br/>yours sincerely,<br/><br/>C. S. Lewis",
+        "textProvided": "REF.162/49.<br/>Magdalen College, Oxford.<br/>14th March 1949.<br/><br/>Dear Canon Smyth,<br/><br/>Whether Milton would have liked to be commemorated by a window in an Anglican church is a question! But I’ll ask my Solicitor to send you a small check.<br/><br/>About Pride: <i>Samson and Agonistes</i> 502-515 is the bit which, for me, shows that Milton finally saw through its subtlest form and definitely got beyond Stoicism. And thanks for the delicious Howler.<br/><br/>yours sincerely,<br/><br/><s>C. S. Lewis</s>sorry!<s>C. S. Lewis</s><br/><br/>sorry again<br/>C. S. Lewis<br/><br/>Something radically wrong with this blotting paper!",
         "type": "Letter",
         "notes": null
     },
     {
         "title": "Letter to Mr. Kennedy (14 July 1949)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "127",
+        "pageRange": "138",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "REF.321/49.	<br/>Magdalen College, Oxford.<br/>14th July 1949.<br/><br/>Dear Mr. Kennedy,<br/><br/>I am leaving Oxford tomorrow, and shall be to and fro for a bit. Will you be here after August 15th? I should find it easier to arrange a meeting then.<br/><br/>Yours sincerely,<br/><br/>C. S. Lewis",
+        "textProvided": "REF.321/49. <br/>Magdalen College, Oxford.<br/>14th July 1949.<br/><br/>Dear Mr. Kennedy,<br/><br/>I am leaving Oxford tomorrow, and shall be to and fro for a bit. Will you be here after August 15th? I should find it easier to arrange a meeting then.<br/><br/>Yours sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -3661,12 +3672,12 @@ const texts = [
     },
     {
         "title": "Letter to George Sayer (18 December 1960)",
-        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
         "pageRange": "47-48",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": "The Kilns, Headington Quarry, Oxford <br/>18 Dec. 1960<br/><br/>My dear George, It would be the very thing I pine for and you have both (bless’d pair of Sirens) been much in mind. But I already have to be away from home for some days after Christmas – on that evaluating commission on the Psalter – and I don’t feel I ought to hew another cantle out of so short a vacation. Perhaps you’ll ask me in the Easter one! Who is Gnonwy (Sorowy? Inowy?) Sir Henry’s successor I take it. Blessings on you, and a thorough thanks.<br/><br/>Yours, Jack<br/><br/>Any chance of your spending a night at Magdalene next term. You’d be very welcome.",
+        "textProvided": "The Kilns, Headington Quarry, Oxford <br/>18 Dec. 1960<br/><br/>My dear George, It would be the very thing I pine for and you have both (bless’d pair of Sirens) been much in mind. But I already have to be away from home for some days after Christmas – on that evaluating commission on the Psalter – and I don’t feel I ought to hew another cantle out of so short a vacation. Perhaps you’ll ask me in the Easter one! Who is Gnonwy (Sorowy? Inowy?) Sir Henry’s successor I take it. Blessings on you, and a thorough thanks.<br/><br/>Yours, Jack<br/><br/>Any chance of your spending a night at Magdalene next term. You’d be <u>very</u> welcome.",
         "type": "Letter",
         "notes": null
     },
@@ -4018,9 +4029,9 @@ const texts = [
         "pageRange": "32",
         "year": 2009,
         "monthAndDay": "April",
-        "textProvided": false,
+        "textProvided": "The letter, apart from being labeled ‘Sunday’, is not dated, but in it, Lewis indicates an interest that Barfield come to Headington ‘that I may show you our new domain’.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to R.W. Chapman (9 March 1936)",
@@ -4112,17 +4123,6 @@ const texts = [
         "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
     {
-        "title": "“Epithalamion” for Cecil and Daphne Harwood, partial translation by Owen Barfield",
-        "printedIn": "<i>Owen Barfield: A Waldorf Tribute,</i> ed. Brien Masters (East Sussex, UK: Steiner Education)",
-        "issueOrVolume": null,
-        "pageRange": "32",
-        "year": 1998,
-        "monthAndDay": null,
-        "textProvided": false,
-        "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
-    },
-    {
         "title": "“If, following your satiric muse,” comic verse written on a paper by J.O. Reed (June 1950)",
         "printedIn": "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         "issueOrVolume": null,
@@ -4134,15 +4134,15 @@ const texts = [
         "notes": null
     },
     {
-        "title": "An untitled poem on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
-        "printedIn": "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Milton Keynes, UK; Bloomington, IN: authorHouse)",
+        "title": "An untitled poem beginning “This first edition” on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        "printedIn": "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         "issueOrVolume": null,
-        "pageRange": "100-101",
+        "pageRange": "112-113",
         "year": 2006,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "This first edition<br/>Is full of printer’s errors:<br/>Aptly it mirrors<br/>Man’s first condition.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Four other versions of “Nearly They Stood,” first published in <i>Pilgrim’s Regress</i> and revised in <i>Poems</i> and <i>Collected Poems</i>",
@@ -4153,7 +4153,7 @@ const texts = [
         "monthAndDay": "April",
         "textProvided": false,
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Six suggested changes to J.R.R. Tolkien’s translation of <i>Beowulf</i>",
@@ -4173,9 +4173,9 @@ const texts = [
         "pageRange": "274-275",
         "year": 2001,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Warren Lewis writes: “In the same note book is what appears to be another beginning of the same poem; in this version however ‘Hippolytus’ becomes ‘The King of Drum.’ The storm and the hero’s awaking are told in much the same, often the same language as in the version above, but the poem is in a lighter vein. After the hero’s entry into the moonlit street it continues:—”<br/><br/>But soon his feet<br/>Ran in the singing grass, by leaping hedges<br/>That flogged the entangled stars, by reeds’ and sedges’<br/>Dry treble in steep glens: upward to where<br/>On the higher slopes the huge ninth wave of air<br/>Caught him behind the knees. Holm oak like bows<br/>Bends double. The leaves race. Among them goes<br/>Head-over-heels the king—one pace in thirty <br/>Touching the earth by luck—through clean and dirty<br/>A king of the dead leaves. Oh night, be dumb,<br/>Cover his shame. Whisper it not in Drum<br/>How Majesty scuds breechless, blown away<br/>Like washing from the line: up past the grey<br/>And niggard grass of the heights, further than sheep<br/>Climb furtherest [sic], through the pines and heathery steep<br/>Up to the moon, straight on.<br/><br/>[275] There suddenly<br/>Crowding the nine leagues ridge, the king could see<br/>Innumerable hordes—beast, woman, man.<br/>Nuzzling his feet, tongues out, the foxes ran.<br/>Wings lashed him in the face. Often he felt <br/>The wheezy mountain bear with icy pelt<br/>Brushing his side. But the men—alas for Drum.<br/>Why should my lord Archbishop home hither come<br/>Showing his teeth so yellow, and except<br/>His mitre, bare as an egg? And now he has leapt<br/>The chasm ***********************<br/><br/>Warren Lewis writes: “Another fragment of the ‘Drum’ version:—”<br/><br/>The rough breathed mountain bear with icy pelt<br/>Brushing him. Then came whinney and drumm’d hoof<br/>And over his head a momentary roof<br/>Of darkness: and he ducked: and square between<br/>The vast moon and his eyes, one moment seen,<br/>Dead black the alighting horse appeared—a shape <br/>Well known—his horse—how should the brute escape?<br/>Was he not stalled—are the grooms mad? And now<br/>Flicking irreverent hoofs at our dread brow.<br/>Oats are the devil.<br/>The men—alas for Drum.<br/>Why should my lord Archbishop hither have come,<br/>Showing his teeth so tawny, bare except <br/>His mitre and soft beard? And now he’s leapt<br/>The crevase [sic] (eighty years upon his shoulder)<br/>Laughing, amid young lads, and no lad bolder,<br/>Nor, by the Lord, none fairer. Who’d have thought it?<br/>What has alighted on his limbs? He caught it<br/>Out of the moon. He spread both hands and dipped<br/>***********************",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "A rejected version of “Epigram [You call them Fascists]”",
@@ -4184,42 +4184,42 @@ const texts = [
         "pageRange": "299",
         "year": 2001,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "You call them Fascists: so the rabbit,<br/>Regardless of their varying merits,<br/>Thinks all who share the simple habit<br/>Of eating rabbit-pie [meat] are ferrets",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "Four early versions of “As the Ruin Falls”",
+        "title": "Three early versions of “As the Ruin Falls”",
         "printedIn": "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "17-18",
         "year": 2001,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Draft A (written on very thin typing paper)<br/><br/>This is all flashy rhetoric about loving you;<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through,<br/>I want God, Man, and you, only to serve my turn.<br/><br/>Pleasure, ease, reassurance are the goals I seek,<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of “love” (a scholar’s parrot might talk Greek)<br/>But, self-imprisoned, end always where I begin.<br/><br/>But this at least: you have shown me, dearest, what I lack,<br/>Revealed the gulf, and me on the wrong side of it,<br/>Shown me the impossibility of turning back,<br/>And pointed me the one way from[?] the noisome pit.<br/><br/>For this I bless you for my broken heart. The pains You cause me are more precious than all other gains.<br/><br/>Draft B (written on a scrap of paper)<br/><br/>All this is flashy rhetoric, about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want friends, you, and God only to serve my turn.<br/><br/>Pleasure, peace, re-assurance are the goals I seek;<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of love--a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have shown me (oh how late) my lack:<br/>I see the chasm; and everything you are was making<br/>Each moment a long bridge by which I might get back<br/>From exile and grow man. And now the bridge is breaking.<br/><br/>Yet so, I bless you for my hammered heart: the pains<br/>You give me are more precious than all other gains.<br/><br/>Draft C (written on lined, greenish paper)<br/><br/>All this is flashy rhetoric about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want God, you, all friends, merely to serve my turn.<br/><br/>Peace, re-assurance, pleasure, are the goals I seek,<br/>I cannot crawl one inch outside my proper skin:<br/>I talk of love—a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have taught me (but how late) my lack.<br/>I see the chasm. And everything you are was making<br/>My heart into a bridge by which I might get back<br/>From exile, and grow man. And now the bridge is breaking.<br/><br/>For this I bless you as the ruin falls. The pains<br/>You give me are more precious than all other gains.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“In Nuptias Daphnes et Caecilii, Epithalamion” for Cecil and Daphne Harwood’s wedding",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
-        "pageRange": "43-44 (holograph 45)",
+        "pageRange": "43-44 (holograph 45, translation 47-48).",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "IN NUPTIAS DAPHNES ET CAECILII, EPITHALAMION.<br/><br/>Qualis in immensum iam iam mare vela daturos<br/>Ille vale dicens dulces adfatur amicos<br/>Pauper et ignavae nimium telluris amator;<br/>Haeret: longe oculis sequitur de litore cymbam,<br/>Dum licet, albenti zephyro super aequora vectam:<br/>Tum solus villam repetit, solosque penates<br/>Vespertinus adit. Ego Daphnen Caeciliumque<br/>Haud aliter precibus foveo votisque remitto.<br/>Vos manet—et maneat divom delubra fatigo—<br/>Oceanus late ridens lunaque serena<br/>Strata maris. Vento tumeant iam vela secundo.<br/>Apparent μακαρες νησοι noctemque per albam<br/>Dulce sonant unda crepitania litora lenta<br/>Refluit et viridi fulgore anfractibus aequor.<br/>Iam per opaca potes ingens vidisse cacumen <br/>Arborum nemorumque, comarum audire susurrum<br/>Silvasque Hesperidum: ramos ubi pondere poma<br/>Aurea declinant philomela ubi voce canona<br/>Quae canit et cantabit in omne volubilis aevum,<br/>Florem ubi non hiemes ubi gramina non terit aestus.<br/>Hic licet, ut referunt, paucis quos musa perennis<br/>Quos Venus et ridens ducit Saturnia luno,<br/>Queis intacta fides, quibus et sapientia rerum,<br/>Hic licet ad terram proras devertere fessas<br/>Per vada Sirenis resonantia: nec vetat ullus:<br/>Virginibus quid non licitum doctisque poetis?<br/>Hic fas egredier. Semel hic pede pressere fas est<br/>Mortali immortale solum lucosque beatos<br/>Visere, ephemeridae, dicomque accedere fontes.<br/>Forsitan et vobis gravis admratio[sic] mentis<br/>Crescat dum reputatis: “Adhuc stat Pontus et aer <br/>Stelliferique poli: solis lunaeque meatus<br/>Haud cessant: mutatque vices iam frugifer annus.<br/>Cur non Luna suum repetens pulchrum Endymiona <br/>Ebria desiluit de caelo? Quove modo nunc<br/>Non flammata ruit pereuntis Tellus amores<br/>Caeli proripere et gravidas miscere ruinas?<br/>Omnia more suo? Naturae foedera rerum<br/>Immutata manent? Nec spectant gaudia nostra?”<br/>O vires Sanctos! Veneris sunt omnia motu. <br/>Rorem perditum amat terra arida et amnis amator<br/>Oceanum: Caelum oceanus: sic Forma colentem <br/>Materiam; noctemque dies: sic corpus amicum<br/>Incola mens, hominemque deus, lacrimasque voluptas:<br/>Attamen in tanta fornace et turbine amoris.<br/>Viribus ipsa suis pollens placidissima semper<br/>Inviolata manet spirantis machina mundi.<br/>Ast non immemores veteris vos este sodalis,<br/>Ast, dum vos teneat procul hinc gratiosimus error<br/>Inter odoratus silvas ubi murmur aquai<br/>Insula sancta sonat, multis ex fontibus unam<br/>Ne temptate labris. Dulci ne credite Lethe.<br/><br/>[Prose translation on 47-48]<br/><br/>Epithalamium for the Nuptuals [sic] of Daphne and Cecil<br/><br/>As when a ship is about to set sail upon the vasty deep, a poor timid landlubber, saying farewell to dear friends, stands still and follows the vessel as far into the distance as the eye can reach, where it is being borne over the ocean by a whitening breeze: then in the evening returns home to his villa and its familiar household gods. Thus I cherish Daphne and Cecil with my prayers and speed them with my vows. For you there awaits—I weary the shrines of the Gods (with my prayer that it be so)—the sea’s expansive smile and the paths of ocean tranquil in the light of the moon. May your sails be billowing even now with a lucky wind. The Isles of the Blest are in sight and through the pale night their beaches rustle sweetly beneath the impact of the slow withdrawing, greenly shining wave. Already you may see through the mist a lofty summit of grass and trees, may hear the whispering of the foliage of the forests of the Hesperides: where golden apples weigh down their branches, where the nightingale with her melodious voice sings and will be singing. Ceaseless, for all time; where winters do not destroy flowers, or heat scorch the grass.<br/><br/>Here, as they tell, it is permitted to a few, who are guided by smiling Venus and Saturnian Juno, whose faith is inviolate, and who are wise in their dealings with the world. Here it is allowed them to divert their wearied barque through shallows loud with the songs of Sirens, and no-one forbids it. What is not lawful to virgins and learned poets? Here it is right to disembark, here it is right for once to pace with mortal feet immortal ground and to visit the groves of the blest and approach the fountains of the everlasting gods, though creatures of a day. Perchance in you too a solemn amazement may [48] arise, as you bethink you: The sea, the air, the star-studded vault of heaven are still in place: the wayfarings of sun and moon go on, and the fruitful year passes through season to season. Why does not the Moon leap drunken from the sky, seeking her fair Endymion? How comes it that the fiery Earth does not ravish the loves of the dying Heavens and scatter them in pregnant ruins? What! The laws of nature abide unchanged? Everything going on as usual? Do they behold our joy?<br/><br/>O sacred powers! All motion is born of love (or Venus). Desperately the parched earth loves the dew, the river, the ocean, the sky. So Form loves willing Matter, and day loves night; so the indwelling spirit loves the friendly body, God loves man, and pleasure loves tears. And within such a furnace, such a maelstrom of love, the mechanism of the breathing world, calmly relying on its proper forces, remains inviolate.<br/><br/>Only be ye not unmindful of an old friend. As long as your delightful wanderings keep you far from here, among fragrant woodlands where your island echoes with the gentle sound of water, out of many fountains leave one untested by your lips: eschew the sweet waters of Lethe.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "“Haec Fecit Barfield Ovens et Clivus Hamilton,” two poems (Latin and Greek)",
+        "title": "“Haec Fecit Barfield Ovens et Clivus Hamilton,” two poems (one in Latin, one in Greek)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "54 (holograph 53)",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POIEMA DE XVI ANIMALIBUS ARCAMJ NOE INTROANTIBUS.<br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>ΙΙ. ΠΕΡΙ ΣΤΕΦΑΝΟΥ<br/><br/> Ἂχιος ἢν Στεφανὸς βασιλεὺς μέγα κῦδος Ἀχαίων<br/> Ἢδ' ισοστεφάνους βράκας ἐπιείμενος ἄει<br/> Καὶ δὴ φώνησας ἔπεα πτερόεντα πρόσηυδα<br/>Ὠ πόποι ἤ μέγα θωῦμα τὸδ ὀφθάλμοισιν ὁρῶμαι·<br/> Ὦνον μοὶ δεκτημορίῳ κῆρ λύγρον ἔθηκε<br/>Λίην, ἢδε τομεὺς, κυναλωπηξ ἤματα πᾶντα (1)<br/>------------------------------<br/>(1) Vat. μῆδε ἴδοι τομέως τις κύντερον ἄλλο.<br/><br/>[Translation and commentary on 54-55]<br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress,<br/>Rhinoceros with “rhinoceress” came:<br/>Also silly little mouse with silly Mrs. Mouse,<br/>Tomcat with she-cat, lion with lioness.<br/><br/>This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to ridiculus mus is a quote from Horace, “The mountains are in labor, and then out comes a silly little mouse”—a satirical comment on the spectacular effort of the writer for little result.<br/><br/>II. About Stephen<br/><br/>Worthy was King Stephen, great glory of the Achaeans<br/>[55] and always clad in trousers Stephen-like.<br/>And speaking he uttered winged words:<br/>Oh dear, great wonder I see with my eyes.<br/><br/>The last two lines and the note in Greek appear to refer to some in-joke.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "A version of “To a Friend”",
@@ -4228,9 +4228,9 @@ const texts = [
         "pageRange": "70-71",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "To a Friend<br/><br/>If knowledge like a midday heat,<br/>Uncooled with cloud, unstirred with breath<br/>Of undulant air, begins to beat<br/>On souls one moment after death,<br/><br/>From your rich soil what lives will spring, <br/>What flower-unfolding paradise,<br/>Through what green walks what birds will sing,<br/>[71] What med’cinable gums, what spice!<br/><br/>Apples of what smooth gold! But <br/>Fear is on me for myself. The noon <br/>That nourishes Earth can only sear<br/>And scald the unresponding Moon.<br/><br/>On her dry vales there is no soil,<br/>Her needle pointed hills are bare.<br/>Water, poured on those rocks, would boil<br/>And noon lasts long, and long despair.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“Elegy,” a non-comic limerick",
@@ -4239,9 +4239,20 @@ const texts = [
         "pageRange": "75",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Elegy<br/>(Written to prove that the Limerick metre is not irretrievably comic)<br/><br/>She was delicately, beautifully made;<br/>So small, so unafraid,<br/>Till the bomb came<br/>(Bombs are the same<br/>Delicately, beautifully made).",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
+    },
+    {
+        "title": "Partial draft of “Abecedarium Philosophicum”",
+        "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
+        "issueOrVolume": null,
+        "pageRange": "84",
+        "year": 2007,
+        "monthAndDay": null,
+        "textProvided": "A is the Absolute, none can express it<br/>The Absolute! Gentlemen (fill up) God bless it.<br/><br/>M is the Many, the mortal, the body,<br/>The formless, the female, the thoroughly shoddy<br/><br/>P is for Plato who thought that ideas<br/>Were snobs who wd. only leave rinds on their peers<br/><br/>We’ve done as far as P, so let your higher thought illuminate Q-Z.",
+        "type": "Poem",
+        "notes": null
     },
     {
         "title": "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien” ",
@@ -5197,6 +5208,17 @@ const texts = [
         "year": 2007,
         "monthAndDay": null,
         "textProvided": "O Caecili care, jam </br>Pridem tibi scripseram </br>Me non posse non negare </br>(Surgit aliquid amari!) </br>Tuam invitationem.</br>Diram examinationem. </br>Faciendam habeo.</br>Multos pueros aro!</br></br>[Translation]</br></br>“Dear Cecil, I should have written to you long ago that I just have to turn down your invitation. Something unpleasant has come up. I’ve got to deal with a deadly exam – and I’m plowing a lot of lads!”",
+        "type": "Poem",
+        "notes": null
+    },
+    {
+        "title": "Side-by-side comparison of “Arrangement of Pindar” and “Pindar Sang”",
+        "printedIn": "“‘Arrangement of Pindar’ and ‘Pindar Sang’: A Variorum Edition,” ed. Brendon N. Wolfe and Judith E. Tonning<i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
+        "issueOrVolume": "vol. 5, no. 3",
+        "pageRange": "4-7",
+        "year": 2008,
+        "monthAndDay": "October",
+        "textProvided": false,
         "type": "Poem",
         "notes": null
     },

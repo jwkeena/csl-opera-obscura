@@ -7,7 +7,7 @@ const styles = {
         position: "relative",
         top: "8px",
     },
-    disabledTooltip: {
+    disabledIcon: {
         position: "relative",
         top: "6px"
     },
@@ -66,7 +66,7 @@ class Tooltip extends Component {
                     href="#!"
                     className="btn disabled"
                 >
-                    <span className="material-icons" style={styles.disabledTooltip}>block</span>
+                    <span className="material-icons" style={styles.disabledIcon}>block</span>
                 </a>
             )
         }
