@@ -3386,7 +3386,7 @@ const texts = [
     },
     {
         "title": "Letter to Mr. Evans (20 September 1956)",
-        "printedIn": "Charlie W. Starr, <i>The Faun’s Bookshelf: C.S. Lewis on Why Myth Matters (Kent, OH: Black Squirrel Books)",
+        "printedIn": "Charlie W. Starr, <i>The Faun’s Bookshelf: C.S. Lewis on Why Myth Matters</i> (Kent, OH: Black Squirrel Books)",
         "issueOrVolume": null,
         "pageRange": "107",
         "year": 2018,
