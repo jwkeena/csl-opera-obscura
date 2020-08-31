@@ -830,7 +830,7 @@ const texts = [
         "title": "His will",
         "printedIn": "<i>Discovery Institute</i>",
         "issueOrVolume": "",
-        "pageRange": null
+        "pageRange": null,
         "year": 1998,
         "monthAndDay": null,
         "textProvided": "https://www.discovery.org/a/509/",
