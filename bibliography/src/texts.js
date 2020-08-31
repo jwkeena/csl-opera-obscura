@@ -119,7 +119,7 @@ const texts = [
         "monthAndDay": "June",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["These were printed as an actual transcript, not as summary notes by a secretary.", "Please send me this text if you have it!"]
+        "notes": ["These were printed as an actual transcript, not as summary notes by a secretary.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Epigraph, dedication, and footnote exclusive to British edition of <i>The Great Divorce</i>",
@@ -163,7 +163,7 @@ const texts = [
         "monthAndDay": "Autumn",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“A Christmas Sermon for Pagans”",
@@ -174,7 +174,7 @@ const texts = [
         "monthAndDay": "December",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017)."]
+        "notes": ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017).", "If you have a transcription of this text, please send it to me!"]
     },
     {
         "title": "Preface to <i>The Tortured Planet</i>",
@@ -249,7 +249,7 @@ const texts = [
         "pageRange": "9, 31-34",
         "year": 1954,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Even when I first went to Magdalen (1925) Benecke was already an almost mythological figure and many of the stories told about him hardly pretended to be true. They mostly represented him in a ludicrous light. This might be misunderstood by one who did not know the habits of the English male. Our relations to him were like those of boys to a master who is always ridiculed behind his back, not although, but because, he is both loved and feared. He was regarded by at least one of his junior colleagues (not me) as an inveterate romancer. I am sure myself that all his stories were intended to be strictly true, but possibly had unconsciously been moulded by a mixture of memory and imagination.",
         "type": "Prose",
         "notes": ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
     },
@@ -284,7 +284,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": [""]
+        "notes": ["If you have this text, please send it to me!"]
     },
     {
         "title": "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</iMagdalene>",
@@ -417,7 +417,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have this text, please send it to me!"]
+        "notes": ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have a scan of the Westminster Press text, please send it to me!"]
     },
     {
         "title": "Blurb for Austin Farrer, <i>Saving Belief</iThe>",
@@ -439,7 +439,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "If you have a scan of the 1966 edition, please send it to me!"]
+        "notes": ["Previously only a portion of this “Note” was printed on the back flap of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of Till We Have Faces (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "If you have a scan of the 1966 edition, please send it to me!", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Holographs of Manuscripts on Spenser",
@@ -450,7 +450,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63."]
+        "notes": ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Blurb for <i>Poetry of Francis Warner</i>",
@@ -494,7 +494,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["To my knowledge this text has never been reprinted."]
+        "notes": ["To my knowledge this text has never been reprinted.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Definition of “Myth”",
@@ -516,7 +516,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>"]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -527,7 +527,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     { // VERIFY AUTHENTICITY
         "title": "“Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology”",
@@ -582,7 +582,7 @@ const texts = [
         "monthAndDay": "May",
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Pen portraits of Arthur Greeves and his parents",
@@ -615,7 +615,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses."]
+        "notes": ["Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Parts of original BBC broadcasts (1942) not included in the published versions",
@@ -626,7 +626,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Answers to Listeners’ Questions” holograph of the typescript Lewis read over the BBC on 3 Sept. 1941",
@@ -637,7 +637,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in <i>Broadcast Talks</i>."]
+        "notes": ["This piece was later rewritten to form Chapter II (“Some Objections”) in <i>Broadcast Talks</i>.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Anvil,” BBC broadcast in which Lewis took part (22 July 1943)",
@@ -659,7 +659,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
+        "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Preface to “Screwtape Proposes a Toast”",
@@ -681,18 +681,18 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
+        "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Commentary on the Lay of Leithian”",
         "printedIn": "<i>J.R.R. Tolkien, in The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         "issueOrVolume": null,
-        "pageRange": "unknown", // Need to find this
+        "pageRange": "[page range unknown]",
         "year": 1985,
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-392."]
+        "notes": ["Pagination of the 1994 Ballantine paperback edition: 374-392.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Juvenilia: note on Shakespeare",
@@ -741,13 +741,13 @@ const texts = [
     {
         "title": "Notes on an essay written by Kenneth Tynan (c.1946)",
         "printedIn": "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
-        "issueOrVolume": "83",
-        "pageRange": "unknown", // Need to find this
+        "issueOrVolume": null
+        "pageRange": "83",
         "year": 1987,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Keep a strict eye on eulogistic & dyslogistic adjectives—They shd <i></i>diagnose (not merely blame) & distinguish (not merely praise).",
         "type": "Prose",
-        "notes": ["If you have this text, please send it to me!"]
+        "notes": null
     },
     {
         "title": "“The Quest of Bleheris” excerpts (prose romance written in 1916)",
@@ -1795,7 +1795,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["The text is only available in this source."]
+        "notes": ["The text is only available in this source.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Letter to Edward Meškys (3 October 1963)",
@@ -1938,7 +1938,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "[On his brother Warnie’s condition]<br/><br/>5/7/49<br/><br/>My dear Owen<br/><br/>Things look much better as regards <i>this</i> attack (“but after this night comes another night” as in <i>Dymer</i>). The matron of the Acland consented to keep W. on trial for one night more provided a MAN wd. sit up outside his door from 8 pm to 5 am. I did: and during the night gathered from the Sister & Nurse, tho’ not in so many words, that they thought Matron a silly old fusser and said that <i>they</i> could have managed W. perfectly well and nothing wd. ever have been heard of it if by mere ill luck, zooming about the corridor like a bumblebee or a doped St. Bernard, he hadn’t (literally) <i>bumped</i> into matron herself. <i>Notumque furens quid femina possit.</i> We’re a long way from real D. T. [<i>delirium tremens</i>] yet. The main reason for putting him in Hospital is to prevent him from continuing to drink & to compel him to take bromides but not take overdoses of them wh. he takes if left to himself. His general plan is heavy drinking for 3 days, a terrific overdose of dope followed by 3 days’ almost continuous sleep, an announcement that he is “cured,” then 3 more days drink – and so on. The two things I’m chiefly afraid of are (a.) The traffic in the streets: I have found him being <i>led</i> to my rooms by a grinning scout. (b.) lest he shd. insult someone. Drink unovers a quite unsuspected side in him. He keeps on talking about who is or isn’t a gentleman or a Pukka Sahib or an <i>honnete homme</i> “eh wha’” and describing people as “gutter-filth.” But I think this attack is over.<br/><br/><i>Lion, Witch & Wardrobe</i> has been approved by a child of 11 but with one objection. He doesn’t like their staying years & years in Narnia & growing up, feels that after a day in the country (or a month) one ought to go home. Also doesn’t see how they could have forgotten the lamp post as they & Mr. Tumnus wd. constantly have talked of his first meeting with Lucy. I shd. be v. sorry to lose my ending, but what do you think. Ask Geoffrey.<br/><br/>Any chance of you and I going somewhere for a few days together in the near future.<br/><br/>On sitting up all night – how odd that while each half hour goes incredibly slowly the <i>whole</i> night seems to go v. quickly. The nurses were very good & seemed to be bringing me lots of tea & toast & (of all things) Welsh Rarebit every hour or so.<br/><br/>Jack<br/><br/>Of course W. <i>can’t</i> afford it – he floats his powerful faculties on an overdraft.",
         "type": "Letter",
-        "notes": ["A transcription of the letter itself is on 20-1."]
+        "notes": ["A transcription of the letter itself is on 20-21."]
     },
     {
         "title": "Letter to Nevill Coghill in Old English (1926)",
@@ -2127,6 +2127,18 @@ const texts = [
         "textProvided": "I hope you will both come over and lunch. Barfield seems able to walk with you. You, happy man, are the common theme of walking whereon he and I are but alternative variations. “The one remains!!” My conversation with B. revealed the many slanders you have uttered against me. I am always being told that you say I say so-and-so, which I never said at all: and that you say you didn’t say what I (truly) say that you said. This was a great scandal, in the etymological sense of a stumbling block or offendicle. I am a chewed string, a wrung floor cloth, an extenuated kipper, at present – cold, cough, wakeful nights, bad dreams, inferiority complex, bad reviews, unable to write …",
         "type": "Letter",
         "notes": null
+    },
+    {
+        "title": "Letter to the editor \"The Kingis Quair</i>\"",
+        "printedIn": "<i>The Times Literary Supplement</i>",
+        "issueOrVolume": null,
+        "pageRange": "315",
+        "year": 1929,
+        "monthAndDay": "18 April",
+        "textProvided": false,
+        "textProvided": "<div style='text-align: center'>THE KINGIS QUAIR<br/><br/>TO THE EDITOR OF THE TIMES</div>Sir,—Readers of the “Kingis Quair” will remember the problem of its opening stanzas (1-19). Their content may be briefly analysed thus:— The poet, being unable to sleep, takes up his Boethius in the hope of finding it a soporific, but, growing interested, continues to read far into the night, and finally lays it aside only to reflect on the theme of fortune in general and his own fortune in particular. He is interrupted by the matins bell, which seems to say to him, “Tell on, man, quhat the befell.” This determines him—since he has already spent much paper in vain—to make a new beginning. He therefore makes a cross in his manuscript and begins “his book.” There follow two stanzas on the dangers of youth, one in which he applies the previous two to his own youth, two more in which he compares the difficulties of his literary undertaking to those of a mariner becalmed by night, and a final stanza in which he invokes the Muses.<br/><br/>The problem is to find the connexion between this apparently rambling induction and the poem which actually follows. Skeat, in the introduction to his text (published for the E.E.T.S. in 1884), regards it as a slab of aimless poetizing composed <i>before</i> the King had seen Joan Beaufort and when he had “no very clear idea as to what he was going to write about.” The new work—<i>i.e.,</i> the work written after he had fallen in love—does not (for Skeat) begin until Stanza twenty-nine. We are to suppose that when James at last <i>had</i> found a theme he collected the several scraps of aimless verse previously composed and tacked them thus clumsily on to the beginning of his new poem. The obvious objection to this theory is contained in Stanza ten (“In tender youth how sche—<i>i.e.,</i> Fortune—was first my fo And eft my frende, and how I gat recur off my distresse”)—lines which must clearly have been written after the success of his suit to Joan Beaufort; and this objection Skeat disposes of by the supposition that these lines were added later, as also the passage in Stanza nineteen (“My turment and my ioye”). It will be noticed that both passages involve rime-words, and that it is therefore a question not of the lines themselves but of the whole stanzas in which they occur. Gregory Smith (in Chapter X. of the Cambridge ‘History of English Literature,” Vol. II.), while rightly protesting against Skeat’s rather drastic surgery, and stating that the poem is a unity, does not explain how that unity manifests itself in the passage we are considering.<br/><br/>I venture to suggest that the difficulty all arises from the fact that the reader, blinded by the history of James as a man, approaches his induction determined to see in it some reference to that history; but when once we have grasped that James is her speaking not of his history as a man but of his history as a poet, the whole thing becomes clear. Stanzas one to thirteen are an introduction which describes the genesis of the poem. The author tells us he took up Boethius one sleepless night. (It will be noted that it was neither his love nor his imprisonment that kept him awake. Cf. Stanza two: “Can I nought say quharfore.” If we must assume that cares hinder sleep, they were the cares of a poet.) Boethius suggested the idea of Fortune, which inevitably suggested the curious fortunes of his own life—some months ago a lonely prisoner, now an accepted lover soon to return, a free man, with his bride, to Scotland. At this point the matins bell rang and a new idea occurred to him. He had already wanted much paper in the effort to write a Chaucerian poem, but had made little progress. Suddenly—so suddenly that it needed only the slightest conceit to identify the suggestion with the actual sound of the bell—it flashed upon him that his own life provided a capital theme for the sort of poem he had been trying to write. A moment later he would have been seeing how well the circumstances of his falling in love could be worked up on lines of the “Knight’s Tale.” Having thus seen where his real task lay—namely, in using the framework of the allegorical poem for the expression of a personal and actual emotion—he realized that his literary development had entered on a new phase. In fine, the first thirteen stanzas of the “Kingis Quair” correspond almost exactly to Sidney’s first sonnet, and the words “Tell on, man, quhat the befell” are James’s version of “Look in thy heart and write.” (In a modern author the matter of these thirteen stanzas would probably go into a prose preface.) At Stanza fourteen the poem proper begins. The author, after referring to the weakness of youth in general and of his own youth in particular, goes on with a modesty not unusual in medieval poets to express vividly (17 and 18) the sense of his unfitness for the arduous work he has in hand, but finally plucks up courage to invoke the Muses. I would, therefore, divide as follows: (1) Stanzas one to thirteen, autobiographical preface describing the literary genesis of the poem; (2) Stanzas fourteen to nineteen, formal induction to the poem proper, with moral reflections, modest hesitations, and invocation en regle; (3) Stanzas twenty to twenty-eight, first step in the narrative, describing his life previous to the love affair with Joan Beaufort. After this the poem needs no explanation.<br/><br/>Only those who forget the tendency of young poets to write about poetry itself and the intense feelings which they suffer in connexion with their own poetical progress will think that such a purely literary adventure as I describe is too slight a theme for these stanzas. James himself supplies the answer to such objections. If Stanza seventeen had survived alone out of this poem, would not criticism have supposed that these pathetic lines referred to the author’s misery as a prisoner, or, at least, as a lover? Yet we see from Stanza eighteen that the “rokkis” are only those of “prolixitee” and the “lak of wynd” is only “the deficultee in enditing.”<br/><br/>Magdalen College, Oxford.<br/>C. S. LEWIS.",
+        "type": "Letter",
+        "notes": ["In Walter Hooper’s latest bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>Collected Letters</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 464, item G1."]
     },
     {
         "title": "Letter to the editor “Spenser's Irish Experiences and <i>The Faerie Queene</i>”",
@@ -2355,7 +2367,7 @@ const texts = [
         "pageRange": "88",
         "year": 1988,
         "monthAndDay": null,
-        "textProvided": false, // Arend has: "...??"
+        "textProvided": "You have the angels, the <i>eldila</i>. You have Maleldil ‘who lives with the Old One:—i.e., God the Father and God the Son. . . . He did and suffered terrible things in retrieving Thulcandra (i.e. was incarnate and crucified in Earth) fighting the Bent One, the <i>eldil</i> who had gone wrong (Satan, the rebel angel). The “confined and regimented” state of my mind is revealed in the story at every point.",
         "type": "Letter",
         "notes": null
     },
@@ -2432,7 +2444,7 @@ const texts = [
         "pageRange": "29",
         "year": 1981,
         "monthAndDay": null,
-        "textProvided": false, // Arend has "...??"
+        "textProvided": "No. I <i>don’t</i> believe people sat down and “made up” mythology. There are both divine and diabolical elements in it. And anyway what is the process we describe as “making up”[?] I am willing to believe, with Henry More (the Cambridge Platonist) that some, at least, of the “gods” were good spirits “as innocent of the worship idolatrously offered them as Peter and Mary are of that offered them by the Papists.” (The simile is his.) But of course we know nothing. It’s a view good enough to base a romance on—not part of mythology.",
         "type": "Letter",
         "notes": null
     },
@@ -2642,7 +2654,7 @@ const texts = [
         "pageRange": "290",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "All Saints’ Day<br/>My dear Owen<br/><br/>Thanks for long letter from lady. I don’t know about a poem I haven’t seen whose subject as stated in your letter I can’t read. But she sounds a good object for £100 from Agapony, and if you think proper, will you send it.<br/><br/>Perhaps Mr. Micawber & Atlas are “ultimately” the same (amazing paradox!)<br/><br/><i>Much-Bearer</i> = OE<br/><i>Michel-bera</i><br/>>Micebber<br/>>Micawber a<br/>>Micawber<br/>(cf. further loss of L, calf etc).<br/><br/>Yrs Jack<br/><br/>(By metathesis, Mulciber. L = POS. Everything is everything.) Inquire further into relation with √MACHABEEOn 17th go straight to Royal Oxford Hotel (outside Magdalen station) where you’ll find us from 7 p.m. on.",
         "type": "Letter",
         "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 275."]
     },
@@ -2653,7 +2665,7 @@ const texts = [
         "pageRange": "357",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Magdalen College, Oxford Nov 8/54<br/>Dear Owen<br/><br/>Miss Margaret Radcliffe (Tree Top, Hindhead, Surrey) has had an operation and been in hospital for 4 weeks at 4-4-1 a week; and you know her income. Cd. you send her 21?<br/><br/>yours<br/> Jack",
         "type": "Letter",
         "notes": ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 332."]
     },
@@ -2664,7 +2676,7 @@ const texts = [
         "pageRange": "284",
         "year": 1986,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "7/27/48<br/>Dear Vidler – <i>Peccavi.</i> Don’t print the letter I sent you this morning. I don’t yet think it was unjust but I am sure it was uncharitable. I was momentarily transported by the spectacle of apparent terrier revealing itself as rabbit as the first threat. I have now repented. But, Grrr! What a little sneak!<br/><br/>Yrs<br/>C. S. Lewis",
         "type": "Prose",
         "notes": ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "The earlier letter referred to is in <i>Collected Letters</i> 2."]
     },
@@ -2719,7 +2731,7 @@ const texts = [
         "pageRange": "1",
         "year": 1987,
         "monthAndDay": "Summer",
-        "textProvided": false,
+        "textProvided": "Mr. E. L. Edmonds was my pupil while reading for the Final Honours School of English Language and Literature. He was one of the most enthusiastic and voracious workers I have ever had; a man who never seemed to lose old interests though he was constantly finding new ones; in fact “a robust genius born to grapple with whole libraries” and backed by a very tough physical constitution. He carried too much rather than too little knowledge into the examination, but this will be all to the good in a year or two, though, there, it may not have been an advantage. I have very great respect for him as a man; he has an unusually straightforward, unselfish turn of mind and a great driving power which will be invaluable to any institution that harnesses it. He will always give of his best. Finally, he is still growing and learning and one may look forward to his future development with every confidence. I shall be happy to answer any further enquiries about him.<br/><br/>C. S. Lewis<br/>Fellow, Tutor<br/>Oct. 18th, 1937",
         "type": "Letter",
         "notes": null
     },
@@ -3709,9 +3721,9 @@ const texts = [
         "pageRange": "11, 28, 30",
         "year": 1953,
         "monthAndDay": "December",
-        "textProvided": false,
+        "textProvided": "Although this article is an interview, Kilby quotes a follow-up letter from Lewis. In that follow-up letter, Lewis gives a definition of the Renaissance as follows: “...an imaginary entity responsible for everything the modern reader likes in the fifteenth and sixteenth centuries.”",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Martin Lings (c. 1930)",
@@ -3720,9 +3732,9 @@ const texts = [
         "pageRange": "7",
         "year": 1967,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I have a very clear-cut idea of the difference between poetry and mere verse, and this is poetry beyond a doubt.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Martin Lings (c. 1931)",
@@ -3731,9 +3743,9 @@ const texts = [
         "pageRange": "7",
         "year": 1967,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "You have changed from being a young man who merely writes poetry to a young man who has written a poem—not a very great poem, but none the less a poem, a unity with a  distinct flavour all its own which it keeps from beginning to end.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Letter to Stephen Schofield (c. July 1960)",
@@ -3742,9 +3754,9 @@ const texts = [
         "pageRange": "197",
         "year": 1983,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Certainly. With compliments. C.S.L.",
         "type": "Letter",
-        "notes": ["Contents: 1 line permission to quote <i>Mere Christianity</i>.", "If you have this text, send it to me!"]
+        "notes": ["Contents: 1 line permission to quote <i>Mere Christianity</i>."]
     },
     {
         "title": "Letter to J.B. Phillips (c. 1956)",
@@ -3764,12 +3776,12 @@ const texts = [
         "pageRange": "15",
         "year": 1985,
         "monthAndDay": "Winter",
-        "textProvided": false,
+        "textProvided": "How very kind of you to write. As you see I have not changed my patroness, tho’ they don’t spell her name so correctly over here. Between ourselves, though, there is a lot to be said for Cambridge: no Cowley, no Nuffield, but still a country town. And after the leftism and atheism and general hard-wiledness [?] of Magd. Oxon., this tiny, beautiful college is so gentle, so courteous, that I feel as if Q. Victoria had returned to the throne. I say, your children are dreadfully behind-hand with their Narnian history! After <i>LWW</i> came <i>Prince Caspian:</i> then <i>The Voyage of the Dawn Treader:</i> then <i>The Silver Chair:</i> then <i>The Horse and His Boy.</i> Call yourself a father and let them grow up in such ignorance! All good wishes.",
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
-        "title": "Letter to Raymond Wilson Chambers (5 Dec 1940)",
+        "title": "Letter to R.W. Chambers (5 Dec 1940)",
         "printedIn": "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
         "issueOrVolume": "vol. 24, no. 93",
         "pageRange": "94 (holograph conclusion)",
@@ -3919,9 +3931,9 @@ const texts = [
         "pageRange": "207",
         "year": 1963,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Go early ere the appointed hour to meet<br/>The fair, and long await her in the street.<br/>Through shouldering crowds on all her errands run:<br/>Through graver business wait the while undone.<br/>If she commands your presence on her way<br/>Home from the ball to lacky her, obey!<br/>Or if from rural scenes she bids you, “Come”,<br/>Drive if you can, if not, walk, to Rome.<br/><br/><i>Ars Amatoria</i> ii. 223 (trans. C. S. Lewis)",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“The Sunrise”",
@@ -3930,9 +3942,9 @@ const texts = [
         "pageRange": "211-212",
         "year": 1964,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel<br/><br/>That in their own right earth and sky<br/>Continually do dance<br/>For their own sakes – and here crept I<br/>To watch the world by chance.",
         "type": "Poem",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": null
     },
     {
         "title": "“Perelandra” (a fragment of verse that appears to be the idea for <i>Perelandra</i>)",
@@ -3963,7 +3975,7 @@ const texts = [
         "pageRange": "5",
         "year": 1980,
         "monthAndDay": "April",
-        "textProvided": false,
+        "textProvided": "Beauty and brains and virtue never dwell<br/>Together in one place, the critics say<br/>Yet we have known a case.<br/>You must not ask her name<br/>But seek it ‘twixt July and May.",
         "type": "Poem",
         "notes": ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
