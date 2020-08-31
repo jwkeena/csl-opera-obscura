@@ -1,7 +1,7 @@
 const texts = [
     // PROSE PIECES
     {
-        "title": "\"The Expedition to Holly Bush Hill\"",
+        "title": "“The Expedition to Holly Bush Hill”",
         "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": null,
         "pageRange": null,
@@ -12,7 +12,7 @@ const texts = [
         "notes": ["Original copies have not been found. Only known to exist in <i>LP</i> 3:310-311 at the Wade Center and the Bodleian."]
     },
     {
-        "title": "\"Are Athletes Better than Scholars?\"",
+        "title": "“Are Athletes Better than Scholars?”",
         "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": "No 2",
         "pageRange": null,
@@ -23,7 +23,7 @@ const texts = [
         "notes": ["Original copies have not been found. Only known to exist in <i>LP</i> 3:318-319 at the Wade Center and the Bodleian.", "Partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 24, 475-476."]
     },
     {
-        "title": "\"The Expedition to Holly Bush Hill\"",
+        "title": "“The Expedition to Holly Bush Hill”",
         "printedIn": "<i>Cherbourg School Magazine</i>",
         "issueOrVolume": null,
         "pageRange": null,
@@ -34,7 +34,7 @@ const texts = [
         "notes": ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in <i>LP</i> 4:51 at the Wade Center and the Bodleian."]
     },
     {
-        "title": "\"From Johnson's Life of Fox\"",
+        "title": "“From Johnson's Life of Fox”",
         "printedIn": "<i>The Oxford Magazine</i>",
         "issueOrVolume": "LVI",
         "pageRange": "737-738",
@@ -45,7 +45,7 @@ const texts = [
         "notes": ["A description of Adam Fox’s poetry in the style of Samuel Johnson. Fox was Oxford’s Professor of Poetry from 1938-1942.", "The piece is anonymous."]
     },
     {
-        "title": "\"The Allegory of Love\"",
+        "title": "“The Allegory of Love”",
         "printedIn": "<i>The Tablet</i>",
         "issueOrVolume": "vol. 173",
         "pageRange": "294",
@@ -56,7 +56,7 @@ const texts = [
         "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>, vol. 11 (2017), 17."]
     },
     {
-        "title": "\"Miracles\"",
+        "title": "“Miracles”",
         "printedIn": "<i>The Guardian</i>",
         "issueOrVolume": null,
         "pageRange": "316",
@@ -64,7 +64,7 @@ const texts = [
         "monthAndDay": "2 November",
         "textProvided": "<i>The Guardian,</i> 2 October 1942<br/><br/>MIRACLES<br/><br/>An Address by Mr. C. S. Lewis<br/><br/>On Sunday at St. Jude’s, Hampstead Garden Suburb, Mr. C. S. Lewis, author of The Screwtape Letters, gave an address after Evensong on “Miracles.” He said that he had only met one person who claimed to have seen a “ghost,” and she was a disbeliever in immortality, both before and after she had seen it. She said that it was an hallucination; and it might have been.<br/><br/>Seeing was not believing. That was one of the first things to note in regard to mira-cles. Our senses were not infallible. If a man held a philosophy which excluded the supernatural, he could always say that he had been the victim of an illusion. Miracles would appear to have diminished and ceased as materialism became the popular philosophy of Western Europe. If the materialist saw the Heavens roll up and the great white throne appear, he would not believe in the supernatural. Experience by itself proved nothing. The materialist might doubt whether he was waking or dreaming, and what could convince him that what he saw was not a dream? People said that their ancestors, taking the supernatural for granted, saw miracles where no miracles occurred. He thought it very likely that they did. But there was one thing which they simply must not say about their ancestors, and that was that they believed in miracles because they did not know about nature. When St. Joseph was minded to put away his bride, he knew the law of biology. When he heard the Christian explanation, he accepted it as a miracle. If people had no knowledge of the laws of nature, they would not recognize anything as a miracle. They could not think and act in a world of nature without claiming even for themselves a slightly supernatural status. They would find the world buzzing with the miraculous. History was full of it. Many a missionary would tell of miracles which he had seen happening. They would find that one set of people − the Church of Rome − claimed that miracles occurred quite often. Of course, most stories of miracles were unreliable, but most stories of all events were unreliable. What they must not do was to rule out the miraculous in advance as the one impossible explanation.<br/><br/><b>The Activity of God Through Creation</b><br/><br/>When the Old Testament said that Sennacherib’s invasion was put an end to by the Angel of the Lord, and Herodotus said that it was because an enormous number of mice came along and ate the bowstrings of Sennacherib’s army, he thought that a cautious and sensible mind would be on the side of the angels, because they knew that mice did not do such things − unless it was angels who induced them to do it, in which case he wished that one of the great artists had painted a picture of it. He thought that people disbelieved in miracles, first because, though they knew that God could do those things, they did not think that He would. They confused the laws of nature with the laws of thought, and they thought that the resurrection of the dead was something intrinsically impossible, like two and two making five. The answer was that there was an activity of God displayed through creation, and men refused to recognize it. Miracles were a performance, close-up, very quick, and very small, of what God in His wholesale activity was doing all the time. Of God’s wholesale activity, part was already unrolled; other parts were not yet done on a wholesale scale.<br/><br/><b>Our Lord’s Miracles</b><br/><br/>Some of our Lord’s miracles reminded men of what God had already done; others pointed to what He had not yet done wholesale. God had created water and the vine; and He used the vine to draw up water and form a juice which, when fermented, became wine. So every year God turned water into wine. But, of course, when Christ, God Incarnate, turned water into wine in a moment, then the thing was being done in small letters so that men could recognize it. The teaching of the miracle would have its full effect when they never passed a vine without thinking: “Here works He Who turned water into wine at the marriage feast in Cana.” Every Year God turned water into wine, and men did not see it. When Christ fed the five thousand, He multiplied bread that was there. He did not make bread out of nothing, or out of stones. It was the devil who suggested that Christ should command stones to become bread. In the feeding of the five thousand, Christ did the same kind of thing as God did in nature. A doctor knew that, if there was any magic in healing, it was not in the medicine, but in the patient’s body. The medicine could only remove obstructions, or stimulate activity. Every man who was healed was healed by God from within, and men did not see it. But once God did it with the mask off, quickly and suddenly, by our Lord’s miraculous action.<br/><br/><b>The Virgin Birth</b><br/><br/>Then they came to the one miracle which for some reason seemed a greater offence to the modern mind than any other. What were they to make of the person who said: “I can believe in some miracles, but not in the Virgin Birth?” Was it that it seemed to be a slur on sexual intercourse, which seemed to be the one thing venerated in a world which had ceased to venerate? Yet nothing went further to the root of the matter. The actual moment of begetting was only the final apex, which, if they knew enough, they would have to trace back to the origin of matter. But once God did it in an instant of time, chiefly, of course, for a special purpose, avoiding the silt carried down through the ages, because at that moment He was recreating the world, but also showing men where life came from. There could be only one source of life. There was only one life. He asked them not to suppose that what he was saying was an attempt to make mira-cles less miraculous. To do suddenly what God did in nature, those things were miracles. They were of a different kind from Grimm’s Fairy Tales and Ovid’s Meta-morphoses, which were great fun to read, but the slightest suspicion of truth in them would be a nightmare. True miracles implied not merely a god, but God.<br/><br/>Secondly, there were the miracles which foretold what God had not yet done whole-sale. He raised one man from the dead, because one day He would raise all men. The Resurrection in one sense involved a reversal of nature. It meant a process in the oppo-site direction to that man had seen. It did not, he thought, imply the return to personality of the same particles as those which had made the body. But it meant that they would see played forward a film which they had only seen played backward. Of course, they could not realize an event outside all their experience.<br/><br/>Athanasius and George Macdonald seemed to have been very right. Both the laws of nature and miracles were full stores for the questioning intellect. If miracles meant that which could not be explained, then nature herself was one great miracle.",
         "type": "Prose",
-        "notes": ["An earlier, shorter version of the essay \"Miracles.\""]
+        "notes": ["An earlier, shorter version of the essay “Miracles.”"]
     },
     {
         "title": "Footnote on “The Three Parts of Morality”",
@@ -155,7 +155,7 @@ const texts = [
         "notes": ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1st US edition (Macmillan, 1946)."]
     },
     {
-        "title": "\"A Christian Reply to Professor Price\"",
+        "title": "“A Christian Reply to Professor Price”",
         "printedIn": "<i>Phoenix Quarterly</i>",
         "issueOrVolume": "vol. 1, no. 1",
         "pageRange": "31-44",
@@ -163,10 +163,10 @@ const texts = [
         "monthAndDay": "Autumn",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: \"Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "\"Religion Without Dogma\" was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
+        "notes": ["As Walter Hooper notes in his 1996 Bibliography, 829, item 134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94."]
     },
     {
-        "title": "\"A Christmas Sermon for Pagans\"",
+        "title": "“A Christmas Sermon for Pagans”",
         "printedIn": "Strand",
         "issueOrVolume": null,
         "pageRange": "30-33",
@@ -265,7 +265,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Critical Forum: De Descriptione Temporum\"",
+        "title": "“Critical Forum: De Descriptione Temporum”",
         "printedIn": "<i>Essays in Criticism</i>",
         "issueOrVolume": "VI, issue 2",
         "pageRange": "247",
@@ -354,7 +354,7 @@ const texts = [
         "notes": ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
-        "title": "\"Preface to the 1961 Edition\"",
+        "title": "“Preface to the 1961 Edition”",
         "printedIn": "<i>The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface</i>",
         "issueOrVolume": null,
         "pageRange": "5-13",
@@ -365,7 +365,7 @@ const texts = [
         "notes": ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to <i>The Screwtape Letters</i> is also printed on 19-20."]
     },
     {
-        "title": "\"Going into Europe: A Symposium\"",
+        "title": "“Going into Europe: A Symposium”",
         "printedIn": "<i>Encounter</i>",
         "issueOrVolume": "XIX",
         "pageRange": "57",
@@ -398,7 +398,7 @@ const texts = [
         "notes": ["To my knowledge this text has never been reprinted."]
     },
     {
-        "title": "\"I Was Decided Upon\"",
+        "title": "“I Was Decided Upon”",
         "printedIn": "<i>Decision</i>",
         "issueOrVolume": "II",
         "pageRange": "3",
@@ -481,12 +481,12 @@ const texts = [
         "pageRange": "52",
         "year": 1971,
         "monthAndDay": null,
-        "textProvided": "To prove that an idea is innate it wd. not be sufficient (even if it were possible) to show that it is universal: we must demostrate that its certainty \"ne vient que de ce qui est en nous.\" Nor, again, does it follow that an idea is <i>not</i> innate because all men do not know of it: it may be <i>virtually</i> present, ready to come into consciousness at the proper stimulus. In this sense, indeed, all necessary truths are innate–discoverable in the resources of our own minds, tho some less easily than others. This is not simply to say that we have the <i>faculty</i> for knowing such truths: what we have is a faculty for finding them in our own minds...",
+        "textProvided": "To prove that an idea is innate it wd. not be sufficient (even if it were possible) to show that it is universal: we must demostrate that its certainty “ne vient que de ce qui est en nous.” Nor, again, does it follow that an idea is <i>not</i> innate because all men do not know of it: it may be <i>virtually</i> present, ready to come into consciousness at the proper stimulus. In this sense, indeed, all necessary truths are innate–discoverable in the resources of our own minds, tho some less easily than others. This is not simply to say that we have the <i>faculty</i> for knowing such truths: what we have is a faculty for finding them in our own minds...",
         "type": "Prose",
         "notes": ["Lewis summarizes Book I of Leibniz’s “Sur l’Entendement Humain” for the sake of his philosophy tutorials (not lectures)."]
     },
     {
-        "title": "Fragment of a story beginning \"It was in autumn\"",
+        "title": "Fragment of a story beginning “It was in autumn”",
         "printedIn": "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "291",
@@ -530,7 +530,7 @@ const texts = [
         "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413."]
     },
     { // VERIFY AUTHENTICITY
-        "title": "\"Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology\"",
+        "title": "“Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology”",
         "printedIn": "<i>The Times</i>",
         "issueOrVolume": null,
         "pageRange": "15",
@@ -549,10 +549,10 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "This book is about four children whose names were Ann, Martin, Rose and Peter. But it is most about Peter who was the youngest. They all had to go away from London suddenly because of the Air Raids, and because Father, who was in the army, had gone off to the War and Mother was doing some kind of war work. They were sent to stay with a relation of Mother’s who was a very old Professor who lived by himself in the country.",
         "type": "Prose",
-        "notes": ["This manuscript is written on the back of the first page of the manuscript of \"The Dark Tower,\" found in the Bodleian Library."]
+        "notes": ["This manuscript is written on the back of the first page of the manuscript of “The Dark Tower” found in the Bodleian Library."]
     },
     {
-        "title": "Holograph of a story \"To Mars and Back\"",
+        "title": "Holograph of a story “To Mars and Back”",
         "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         "issueOrVolume": null,
         "pageRange": "104",
@@ -602,7 +602,7 @@ const texts = [
         "pageRange": "250, Note 6",
         "year": 1979,
         "monthAndDay": null,
-        "textProvided": "An interesting discussion on \"Vers Libre\", arising out of one poem quoted by Mr Wyllie, then followed. Mr Pasley maintained that this school was not entirely free from a certain charlatanism, but the Society was interested to find in Mr [Geoffrey Odell] Vinter an enthusiastic defender of this kind of composition.",
+        "textProvided": "An interesting discussion on “Vers Libre” arising out of one poem quoted by Mr Wyllie, then followed. Mr Pasley maintained that this school was not entirely free from a certain charlatanism, but the Society was interested to find in Mr [Geoffrey Odell] Vinter an enthusiastic defender of this kind of composition.",
         "type": "Prose",
         "notes": ["Library call number: MS. Top. Oxon. D. 95/3, fo. 69."]
     },
@@ -629,7 +629,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Answers to Listeners’ Questions\", holograph of the typescript Lewis read over the BBC on 3 Sept. 1941",
+        "title": "“Answers to Listeners’ Questions” holograph of the typescript Lewis read over the BBC on 3 Sept. 1941",
         "printedIn": "<i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan, 1981)",
         "issueOrVolume": null,
         "pageRange": "Appendix A", // TODO: Are there numerical pages?
@@ -662,7 +662,7 @@ const texts = [
         "notes": ["Holograph of “Plots,” an outline of The Voyage of the Dawn Treader, previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
     },
     {
-        "title": "Preface to \"Screwtape Proposes a Toast\"",
+        "title": "Preface to “Screwtape Proposes a Toast”",
         "printedIn": "<i>The Screwtape Letters with Screwtape Proposes a Toast,</i> revised edition (New York: Macmillan)",
         "issueOrVolume": null,
         "pageRange": "preface",
@@ -684,7 +684,7 @@ const texts = [
         "notes": ["Limited to 100 copies, according to <i>Collected Letters</i> 2:155, note 8.", "Only held by three libraries in North America, one of which is the Wade Center."]
     },
     {
-        "title": "\"Commentary on the Lay of Leithian\"",
+        "title": "“Commentary on the Lay of Leithian”",
         "printedIn": "<i>J.R.R. Tolkien, in The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         "issueOrVolume": null,
         "pageRange": "unknown", // Need to find this
@@ -734,7 +734,7 @@ const texts = [
         "pageRange": "116-117",
         "year": 1987,
         "monthAndDay": null,
-        "textProvided": "[Lewis' words <b>in bold:</b>]<br/><br/>Carrit's sponsorship remained the only certainty, and in February that friendship at last produced a tangible result: Carritt had been invited to Michigan for the year 1924-1925, and asked Lewis to take his lectures at University and part of his pupils. The months June through August 1924 were spent in preparation. Lewis read Sidgwick, Bosanquet, Mill, Alexander, and McTaggart, and daily he repaired to the attic, where the fourteen lectures entitled \"The Moral Good-Its Place Among the Values\" were produced. Lewis's method was historical, Locke, Hume, Leibniz, Kant, and Berkeley coming before his audience in succession. Lewis criticized Locke for having at the outset begged the question, for having assumed that <b>\"the mind can apprehend directly nothing but its own states.\"</b> Lewis suggested that Kant's implicit idealism was naive and unwarranted. Nor would a physical theory rescue Locke's epistemology of impressions and ideas: <b>\"If we cannot see beyond our ideas, we cannot use some of those ideas as evidence for the method by which the others were produced.\"</b> Again: <b>\"I am aware of the green. This proves that my awareness is a state of mind, not that the green is a state of mind.\"</b> Furthermore, Locke had attempted-illegitimately, Lewis thought-to move from percept to concept, but this either implied the existence of the very innate universals Locke wished to deny or else left the knower with <b>\"an indeterminate number of unrelated percepts, none of which is knowledge.\"</b> Lewis was sufficiently rooted in classical metaphysics to insist that Locke's empiricism had failed, but enough of a realist to want no more of subjective idealism. Of Berkeley Lewis wrote in 1924: <b>\"What Berkeley <i>really</i> seems to mean is that there is a common world of <i>sensibilia</i> which is directly accessible to us all; ideal only in the sense that there is no substratum below the <i>sensibilitas</i>. ...What we actually get in Berkeley is a series of private worlds only held together by the goodness of God.\"</b> Against Hume, Lewis brought the typical criticism of the school of Green: <b>\"The self has disappeared under his dialectic, and we are left with nothing but ideas and impressions.\"</b> Yet Hume is praised for his distinction between the <i>is</i> and the <i>ought</i>, an idea Prichard had made the fulcrum of his own moral philosophy.<br/><br/>In 1924 Lewis was indeed willing to use idealistic arguments to refute empiricism, but was clearly not an idealist in any systematic sense. His lectures at University as Carritt's proxy filled only part of a year spent as a professional philosopher. He attended the postgraduate society of philosophers and on one occasion read his \"Hegemony of Moral Value.\" W.D. Ross, then Deputy White's Professor of Moral Philosophy, was present and praised the paper, urging Lewis to publish it in <i>Mind</i> or in <i>Hibbert Journal</i>. For months Lewis worked at revising the essay for <i>Mind</i>, but it was never published, and it finally made its way, at least in part, into the fabric of <i>The Abolition of Man.</i>",
+        "textProvided": "[Lewis' words <b>in bold:</b>]<br/><br/>Carrit's sponsorship remained the only certainty, and in February that friendship at last produced a tangible result: Carritt had been invited to Michigan for the year 1924-1925, and asked Lewis to take his lectures at University and part of his pupils. The months June through August 1924 were spent in preparation. Lewis read Sidgwick, Bosanquet, Mill, Alexander, and McTaggart, and daily he repaired to the attic, where the fourteen lectures entitled “The Moral Good-Its Place Among the Values” were produced. Lewis's method was historical, Locke, Hume, Leibniz, Kant, and Berkeley coming before his audience in succession. Lewis criticized Locke for having at the outset begged the question, for having assumed that <b>“the mind can apprehend directly nothing but its own states.”</b> Lewis suggested that Kant's implicit idealism was naive and unwarranted. Nor would a physical theory rescue Locke's epistemology of impressions and ideas: <b>“If we cannot see beyond our ideas, we cannot use some of those ideas as evidence for the method by which the others were produced.”</b> Again: <b>“I am aware of the green. This proves that my awareness is a state of mind, not that the green is a state of mind.”</b> Furthermore, Locke had attempted-illegitimately, Lewis thought-to move from percept to concept, but this either implied the existence of the very innate universals Locke wished to deny or else left the knower with <b>“an indeterminate number of unrelated percepts, none of which is knowledge.”</b> Lewis was sufficiently rooted in classical metaphysics to insist that Locke's empiricism had failed, but enough of a realist to want no more of subjective idealism. Of Berkeley Lewis wrote in 1924: <b>“What Berkeley <i>really</i> seems to mean is that there is a common world of <i>sensibilia</i> which is directly accessible to us all; ideal only in the sense that there is no substratum below the <i>sensibilitas</i>. ...What we actually get in Berkeley is a series of private worlds only held together by the goodness of God.”</b> Against Hume, Lewis brought the typical criticism of the school of Green: <b>“The self has disappeared under his dialectic, and we are left with nothing but ideas and impressions.”</b> Yet Hume is praised for his distinction between the <i>is</i> and the <i>ought</i>, an idea Prichard had made the fulcrum of his own moral philosophy.<br/><br/>In 1924 Lewis was indeed willing to use idealistic arguments to refute empiricism, but was clearly not an idealist in any systematic sense. His lectures at University as Carritt's proxy filled only part of a year spent as a professional philosopher. He attended the postgraduate society of philosophers and on one occasion read his “Hegemony of Moral Value” W.D. Ross, then Deputy White's Professor of Moral Philosophy, was present and praised the paper, urging Lewis to publish it in <i>Mind</i> or in <i>Hibbert Journal</i>. For months Lewis worked at revising the essay for <i>Mind</i>, but it was never published, and it finally made its way, at least in part, into the fabric of <i>The Abolition of Man.</i>",
         "type": "Prose",
         "notes": ["The excerpt is an explanation of Berkeley’s idealism.", "It is not, as Patrick claims, from the “Moral Good” lectures themselves, but were extra material that may have supplemented them.", "It does not overlap with other pieces that have since been published from the “Moral Good” notebook, i.e. Charlie W. Starr’s “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review,</i> 31 (2014), 30-62."]
     },
@@ -830,7 +830,7 @@ const texts = [
         "title": "His will",
         "printedIn": "<i>Discovery Institute</i>",
         "issueOrVolume": "",
-        "pageRange": "",
+        "pageRange": null
         "year": 1998,
         "monthAndDay": null,
         "textProvided": "https://www.discovery.org/a/509/",
@@ -1234,7 +1234,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Language and Human Nature\" (Manuscript Fragment)",
+        "title": "“Language and Human Nature” (Manuscript Fragment)",
         "printedIn": "“Language and Human Nature (Manuscript Fragment),” ed. Steven A. Beebe, <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 27",
         "pageRange": "25-28",
@@ -1289,7 +1289,7 @@ const texts = [
         "notes": ["Contents: A thorough treatment of an incomplete translation of the Aeneid by Lewis with commentary."]
     },
     {
-        "title": "\"Light\" Manuscripts",
+        "title": "“Light” Manuscripts",
         "printedIn": "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         "issueOrVolume": null,
         "pageRange": "116 (holograph), 117-138 (transcripts)",
@@ -1355,7 +1355,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Early Prose Joy\" Manuscript",
+        "title": "“Early Prose Joy” Manuscript",
         "printedIn": "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 30",
         "pageRange": "13-49",
@@ -1385,7 +1385,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "RAF PILOT: Would one of you please give us a simple explanation of the Holy Trinity? <br/><br/> LEWIS: Go on, Haddon, this is your question.<br></br> GOODWIN-HUDSON: Lewis, I've just answered the last. You have a go. <br></br> LEWIS: The question that you have asked us is like asking a slug to explain Einstein.",
         "type": "Prose",
-        "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
+        "notes": ["Source: Bishop A.W. Goodwin-Hudson, “How I Met C.S. Lewis and Why” sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
     {
         "title": "Transcript of 13 September 1942 talk to RAF and WAAF (partial)",
@@ -1396,7 +1396,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "Haddon, I wish I could do the heart stuff. I can't. I wish I could. I wish I could press home to these boys just how much they need Christ... Haddon, you do the heart stuff and I'll do the head stuff.",
         "type": "Prose",
-        "notes": ["Source: Bishop A.W. Goodwin-Hudson, \"How I Met C.S. Lewis and Why,\" sound recording, Wade Center, CSL-Y/SR-166, 1975."]
+        "notes": ["Source: Bishop A.W. Goodwin-Hudson, “How I Met C.S. Lewis and Why” sound recording, Wade Center, CSL-Y/SR-166, 1975."]
     },
     {
         "title": "Transcript of 15 July 1945 talk to Royal School for Daughters of Officers of the Army (partial)",
@@ -1407,7 +1407,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "It did not go well. Lewis kept receiving questions about raising girls. Being childless, and a bachelor, he protested that this was not really in his field. However, questions on the same question kept being asked. Finally, a sixth-form girl asked the last question of the session. <br></br> GIRL: Oh Mr. Lewis, could you perhaps tell us what hell is like? <br></br> LEWIS: Yes, very much like what I've just been through.",
         "type": "Prose",
-        "notes": ["Source: Harold Arthur Blair, \"Interview with Canon H.A. Blair\" (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
+        "notes": ["Source: Harold Arthur Blair, “Interview with Canon H.A. Blair” (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
     },
     {
         "title": "Alternate Preface to <i>The Screwtape Letters</i>",
@@ -1454,7 +1454,7 @@ const texts = [
         "notes": ["According to Downing’s Note on xiii, “On 18 June 1937, C.S. Lewis inscribed his name and the date in a copy of The Pilgrim’s Regress that he had carefully annotated for one of his students, Richard Thornton Hewitt, who was reading English at Magdalen College at the time.” That copy is now in the possession of the Wade Center.", "Lewis’s comments are printed in bold in the margins."]
     },
     {
-        "title": "\"Pudaita Pie: An Anthology\"",
+        "title": "“Pudaita Pie: An Anthology”",
         "printedIn": "C.S. and Warnie Lewis, “Pudaita Pie: An Anthology” in <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 32",
         "pageRange": "59-68",
@@ -1487,7 +1487,7 @@ const texts = [
         "notes": ["Some of this essay has been quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
     },
     {
-        "title": "\"Letters to Malcolm: Letter XIIa\"",
+        "title": "“Letters to Malcolm: Letter XIIa”",
         "printedIn": "“Letters to Malcolm: Letter XIIa,” <i>SEVEN: An Anglo-American Literary Review</i>",
         "issueOrVolume": "vol. 34",
         "pageRange": "71-74",
@@ -1532,7 +1532,7 @@ const texts = [
     },
     {
         "title": "Archangel Fragment (from Notebook V)",
-        "printedIn": "Brenton D.G. Dickieson and Charlie W. Starr, \"The Archangel Fragment and C.S. Lewis's World-Building Project,\" <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        "printedIn": "Brenton D.G. Dickieson and Charlie W. Starr, “The Archangel Fragment and C.S. Lewis's World-Building Project” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         "issueOrVolume": "vol. 13",
         "pageRange": "19",
         "year": 2019,
@@ -1544,7 +1544,7 @@ const texts = [
     // DIARIES
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
-        "printedIn": "Walter Hooper, \"C.S. Lewis\", <i>The Franciscan</i>",
+        "printedIn": "Walter Hooper, “C.S. Lewis” <i>The Franciscan</i>",
         "issueOrVolume": " vol. IX, no. 4",
         "pageRange": "163",
         "year": 1967,
@@ -1582,7 +1582,7 @@ const texts = [
         "pageRange": "24",
         "year": 1974,
         "monthAndDay": null,
-        "textProvided": "Warren departed to boarding-school in England, while Clive was taught at Little Lea by a governess called Miss Harper: <b>'She is fairly nice <i>for</i> a governess, but all of them are the same,'</b> he confided to his first diary at the end of 1907, in which he describes himself as <b>'like most boys of nine, and I am like Papy, bad tempter, thick lips, thing and generally wearing a jersey'.</b><br/><br/>Other diary scraps describe the rest of the household: his grandfather, Richard Lewis (1832-1908), <b>'who lives in a little room of his own upstairs'</b>; Maude the housemaid and Martha the cook; several pets, <b>'a dog called Tim, a black and white mouse called Tommy, and lastly a canary called Peter.'</b> The entry for Thursday, 5 March 1908 is typical-except for the unexpected item with which it concludes: <b>'I rise. The lawn is white with frost. I have breakfast. Get my coat and cap and see Papy off [to the office]. Miss Harper comes. Lessons. [The next entry translates the opening sentence of <i>De Bello Gallico.</i>] Dinner. I am carpentring at a sword. I read \"Paradise Lost\", reflections there-on.'</b>",
+        "textProvided": "Warren departed to boarding-school in England, while Clive was taught at Little Lea by a governess called Miss Harper: <b>'She is fairly nice <i>for</i> a governess, but all of them are the same,'</b> he confided to his first diary at the end of 1907, in which he describes himself as <b>'like most boys of nine, and I am like Papy, bad tempter, thick lips, thing and generally wearing a jersey'.</b><br/><br/>Other diary scraps describe the rest of the household: his grandfather, Richard Lewis (1832-1908), <b>'who lives in a little room of his own upstairs'</b>; Maude the housemaid and Martha the cook; several pets, <b>'a dog called Tim, a black and white mouse called Tommy, and lastly a canary called Peter.'</b> The entry for Thursday, 5 March 1908 is typical-except for the unexpected item with which it concludes: <b>'I rise. The lawn is white with frost. I have breakfast. Get my coat and cap and see Papy off [to the office]. Miss Harper comes. Lessons. [The next entry translates the opening sentence of <i>De Bello Gallico.</i>] Dinner. I am carpentring at a sword. I read “Paradise Lost” reflections there-on.'</b>",
         "type": "Diary",
         "notes": null
     },
@@ -1639,7 +1639,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "We were obliged to go to St John's; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord's Table (which they have the vanity to call an altar), and pray to the Virgin.",
         "type": "Diary",
-        "notes": ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no \"(Watford)\" after St John's, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
+        "notes": ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no “(Watford)” after St John's, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
     {
         "title": "Excerpt from Wynyard School Diary (Nov 1909)",
@@ -1747,7 +1747,7 @@ const texts = [
         "pageRange": "17",
         "year": 1990,
         "monthAndDay": null,
-        "textProvided": "<b>'Hoora!'</b> he wrote in 1907. <b>'Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk.'</b> He wrote that when he was nine, but he could easily have written it when he was twenty-nine or fifty-nine.<br/><br/>Little Jacks himself we can glimpse in his fragment of autobiography - <b>'My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of \"Building of the Promanad\", \"Toyland\", \"Living races of Mouse-Land\" etc. Dedicated to Miss Maude Scott. <br/><br/>I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...'</b>",
+        "textProvided": "<b>'Hoora!'</b> he wrote in 1907. <b>'Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk.'</b> He wrote that when he was nine, but he could easily have written it when he was twenty-nine or fifty-nine.<br/><br/>Little Jacks himself we can glimpse in his fragment of autobiography - <b>'My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of “Building of the Promanad” “Toyland” “Living races of Mouse-Land” etc. Dedicated to Miss Maude Scott. <br/><br/>I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...'</b>",
         "type": "Diary",
         "notes": ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home—the first time this anecdote has been printed."]
     },
@@ -1828,7 +1828,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "31 July 1962 <br/><br/>I shall be glad to help if I can. It is however rather a big IF, for my knowledge of children’s literature is really very limited. The real expert is Roger L. Green, Poulton-Lancelyn, Bebington, Wirral, Cheshire. My own range is about exhausted by MacDonald, Tolkien, E. Nesbit, and Kenneth Grahame. The <i>Alice</i> books are, aren’t they, in a totally different category, the effect being exclusively comic-nonsensical: not, in my experience, fully appreciated by children. Oh by the way, don’t miss the utterly unexpected influence of Rabelais on Kingsley’s <i>Water Babies</i>.",
         "type": "Letter",
-        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient's name is first identified. In the 1966 version, the letter is prefaced \"To an Enquirer\".", "A fragment of this letter (\"...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.\") was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
+        "notes": ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, edited by Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient's name is first identified. In the 1966 version, the letter is prefaced “To an Enquire”.", "A fragment of this letter (“...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.” was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
     },
     {
         "title": "Letter to James E. Higgins (2 December 1962)",
@@ -1991,7 +1991,7 @@ const texts = [
         "pageRange": "45-46",
         "year": 2016,
         "monthAndDay": null,
-        "textProvided": "Nov 11th 1946<br/><br/>Dear Collins – I am really sorry to be a brake or drag on you in this matter: sorry that the mere fact of my not helping makes me a hindrance. There is no disguising from you the truth – that, for good or ill, the whole world of collective action is quite foreign to me: I am, in the Greek sense, the most <i>idiotic</i> man in England. That, much more than proper defects in your draft, may be the reason why I still pullulate with negative criticisms. I really think  you will get on much better without me. But here goes;–<br/><br/>1. Yes. In some sense. I should be happier if the sentence ended with <i>providence.</i> The other words might imply a sort of Carlylean historicism wh. I doubt – the belief that God’s act can be recognised in that limited part of human experience wh. gets into “history”<br/>2. “operate“, Yes – in contention with the real “King of <i>this</i> world” “surely” might imply that the justice and love inevitably win even here.<br/>3. If “determinant” = efficient cause, I doubt this. I shd. feel happier in saying that “in all collective behaviour self interest is the chief determinant”<br/>4. Danger of not <i>perfectly</i> sincere humility. There are surely a great many elements in the “total situation” for which some people present bear <i>no</i> individual responsibility?<br/>5.	I didn’t even know what organisations you refer to. And I suspect that many people (of whom I am one) wd. simply reduce this utility by attempting to be working members of any of them.<br/>6.	Shouldn’t you add “and to meet with implacable resistance, regardless of self interest, any attempt to curtail human freedom, to prevent private charity, or to lend a pseudo-Xtian colouring to secular undertakings”.<br/>7.	Any serious attempt to do this wd. be out of the question for me. I hope I am not inventing difficulties as an excuse for keeping out of something I ought to be in. (Quite literally) God knows! I <i>seem</i> to myself<br/> a. Really to see these difficulties<br/>b. To want (and, for me, <i>rightly</i> to want) not to commit myself to something in wh. I am sure it is not <i>my</i> vocation to participate.<br/><br/>I am very sorry, <br/>Yours<br/>C. S. Lewis",
+        "textProvided": "Nov 11th 1946<br/><br/>Dear Collins – I am really sorry to be a brake or drag on you in this matter: sorry that the mere fact of my not helping makes me a hindrance. There is no disguising from you the truth – that, for good or ill, the whole world of collective action is quite foreign to me: I am, in the Greek sense, the most <i>idiotic</i> man in England. That, much more than proper defects in your draft, may be the reason why I still pullulate with negative criticisms. I really think  you will get on much better without me. But here goes;–<br/><br/>1. Yes. In some sense. I should be happier if the sentence ended with <i>providence.</i> The other words might imply a sort of Carlylean historicism wh. I doubt – the belief that God’s act can be recognised in that limited part of human experience wh. gets into “history”<br/>2. “operate”, Yes – in contention with the real “King of <i>this</i> world” “surely” might imply that the justice and love inevitably win even here.<br/>3. If “determinant” = efficient cause, I doubt this. I shd. feel happier in saying that “in all collective behaviour self interest is the chief determinant”<br/>4. Danger of not <i>perfectly</i> sincere humility. There are surely a great many elements in the “total situation” for which some people present bear <i>no</i> individual responsibility?<br/>5.	I didn’t even know what organisations you refer to. And I suspect that many people (of whom I am one) wd. simply reduce this utility by attempting to be working members of any of them.<br/>6.	Shouldn’t you add “and to meet with implacable resistance, regardless of self interest, any attempt to curtail human freedom, to prevent private charity, or to lend a pseudo-Xtian colouring to secular undertakings”.<br/>7.	Any serious attempt to do this wd. be out of the question for me. I hope I am not inventing difficulties as an excuse for keeping out of something I ought to be in. (Quite literally) God knows! I <i>seem</i> to myself<br/> a. Really to see these difficulties<br/>b. To want (and, for me, <i>rightly</i> to want) not to commit myself to something in wh. I am sure it is not <i>my</i> vocation to participate.<br/><br/>I am very sorry, <br/>Yours<br/>C. S. Lewis",
         "type": "Letter",
         "notes": ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47."]
     },
@@ -2002,7 +2002,7 @@ const texts = [
         "pageRange": "20",
         "year": 2017,
         "monthAndDay": null,
-        "textProvided": "[\"We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows:\"]<br/><br/>H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.",
+        "textProvided": "“We have received from Mr. C. S. Lewis brief comments on the candidate for the Honours English Examination of the University of Oxford. The comments on the work of H. M. Belgion P.O.W. 182 read as follows:”<br/><br/>H. M. Belgion began well and was often interesting, but knowledge tended to fade in the later papers and there was much irrelevance.",
         "type": "Letter",
         "notes": null
     },
@@ -2097,7 +2097,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (~February 1929-July 1930)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "4-5",
         "year": 2020,
@@ -2129,10 +2129,10 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to the editor \"Spenser's Irish Experiences and <i>The Faerie Queene</i>\"",
+        "title": "Letter to the editor “Spenser's Irish Experiences and <i>The Faerie Queene</i>”",
         "printedIn": "<i>The Review of English Studies</i>",
         "issueOrVolume": "vol. 7, no. 25",
-        "pageRange": "",
+        "pageRange": null,
         "year": 1931,
         "monthAndDay": "January",
         "textProvided": "SPENSER’S IRISH EXPERIENCES AND THE FAERIE QUEENE<br/><br/>SIR,<br/><br/>In an interesting article printed in your October number Mr. M. M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article − an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial − that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br/><br/>If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br/><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br/><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br/><br/>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br/><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br/><br/>Il manto si rivolse al braccio manco <br/>E con la spada i malandrini affronta. Mai non fu campion cotanto franco. Questo tocca di taglio e quel di ponta,<br/>A l’un il petto, a l’altro passa il fianco:<br/>Or che bisogna che più vi racconta? <br/>Tutti i ladroni uccise in poco d’ora, Si ben col brando intorno li lavora.<br/><br/>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br/><br/>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br/><br/>Thus as he spoke, loe! with outragious cry<br/>A thousand villeins round about them swarm’d <br/>Out of the rockes and caves adjoyning nye<br/>(<i>F.Q.</i> II, ix, 13)<br/><br/>is the passage in which the same Brandimarte − who has particularly bad luck in the matter of robbers − is attacked in <i>O.I.</i> II, ××vi, 53.<br/><br/>Ragionava in tal modo Doristella <br/>Ed altre cose assai volea seguire <br/>Che non era compita sua novella,<br/>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br/><br/>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the Lestrigoni whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br/><br/>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung</i>: “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br/><br/>Yours faithfully,<br/>C. S. LEWIS.",
@@ -2157,7 +2157,7 @@ const texts = [
         "pageRange": "65",
         "year": 2007,
         "monthAndDay": null,
-        "textProvided": "The Kilns, Headington Quarry, Oxford Sept. 10th(?) 1931<br/><br/>Dear Mrs. Harwood,<br/><br/>It is recorded in the Laxdale Saga that Kjartan Olaffson stood up in the All-Thing and invited the whole of Iceland to his wedding – of which men said that it was “manfully offered.” Your summoning of the whole clan to Streatham was a delightful revival of these old heroical hospitalities. I shall long remember the game of definitions and our later excursion into angelology: and for this, and ×× the swings, to you, and to John, accept my best thanks.<br/><br/>I met your father in the train and learned from him that I should launch some minnows in my pond as an ally against the mosquitoes. I doubt if this will be as effective as the chemical measures which you suggest, but it is certainly less Ahrimanic. A league, even an armed league, with one kind of beast against another will be better fun than an invasion of all with the inorganic. My head is full of beasts at the moment because I am reading Jeremy Taylor from whom I learn:<br/><br/>(1)  Not “to seek counsel of the prodigal and trifling grasshopper.”<br/>(2)  That “it is better to sit up all night than to go to bed with a dragon.” I feel sure he is quite right. These old divines had a lot of sense.<br/><br/>Yours very sincerely,<br/><br/>C. S. Lewis",
+        "textProvided": "The Kilns, Headington Quarry, Oxford Sept. 10th(?) 1931<br/><br/>Dear Mrs. Harwood,<br/><br/>It is recorded in the Laxdale Saga that Kjartan Olaffson stood up in the All-Thing and invited the whole of Iceland to his wedding – of which men said that it was “manfully offered.” Your summoning of the whole clan to Streatham was a delightful revival of these old heroical hospitalities. I shall long remember the game of definitions and our later excursion into angelology: and for this, and [illegible] the swings, to you, and to John, accept my best thanks.<br/><br/>I met your father in the train and learned from him that I should launch some minnows in my pond as an ally against the mosquitoes. I doubt if this will be as effective as the chemical measures which you suggest, but it is certainly less Ahrimanic. A league, even an armed league, with one kind of beast against another will be better fun than an invasion of all with the inorganic. My head is full of beasts at the moment because I am reading Jeremy Taylor from whom I learn:<br/><br/>(1)  Not “to seek counsel of the prodigal and trifling grasshopper.”<br/>(2)  That “it is better to sit up all night than to go to bed with a dragon.” I feel sure he is quite right. These old divines had a lot of sense.<br/><br/>Yours very sincerely,<br/><br/>C. S. Lewis",
         "type": "Letter",
         "notes": null
     },
@@ -2174,7 +2174,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (14 March 1932)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "6",
         "year": 2020,
@@ -2196,7 +2196,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (5 September 1934)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "8",
         "year": 2020,
@@ -2240,7 +2240,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (1940s-mid 1950s)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "16",
         "year": 2020,
@@ -2262,7 +2262,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (~1934-1939)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "8-9",
         "year": 2020,
@@ -2273,7 +2273,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (~1934-1939)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "11",
         "year": 2020,
@@ -2509,7 +2509,7 @@ const texts = [
         "pageRange": "106",
         "year": 1999,
         "monthAndDay": null,
-        "textProvided": "[A former student of Lewis, Sniders, now a prisoner of war in German custody, received a parcel from his wife including books “books on the advice of C. S. Lewis, and she enclosed a copious list he had given her in longhand of further books to be ordered or read from the camp library of the Red Cross. He said that if I read them all,\"]<br/><br/>the rest would just be top dressing<br/><br/>[\"when I worked for my degree after the war.\"]",
+        "textProvided": "[A former student of Lewis, Sniders, now a prisoner of war in German custody, received a parcel from his wife including books “books on the advice of C. S. Lewis, and she enclosed a copious list he had given her in longhand of further books to be ordered or read from the camp library of the Red Cross. He said that if I read them all, “<br/><br/>the rest would just be top dressing<br/><br/>“when I worked for my degree after the war.”",
         "type": "Letter",
         "notes": null
     },
@@ -2582,7 +2582,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (~1945-1947)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "12",
         "year": 2020,
@@ -2593,7 +2593,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (early 1940s)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "11-12",
         "year": 2020,
@@ -2747,7 +2747,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (30 November 1949)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "15",
         "year": 2020,
@@ -2758,7 +2758,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (mid-1950s)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "17",
         "year": 2020,
@@ -2933,7 +2933,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "Letter to Mary Van Deusen [\"Mrs. Arnold\"] (26 December 1951)",
+        "title": "Letter to Mary Van Deusen “Mrs. Arnold” (26 December 1951)",
         "printedIn": "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         "issueOrVolume": null,
         "pageRange": "235-236",
@@ -3110,7 +3110,7 @@ const texts = [
     },
     {
         "title": "Letter to C.T. Onions (14 September 1953)",
-        "printedIn": "Jim Stockton with Charlie W. Starr, \"The Unpublished Letters of C.S. Lewis to C.T. Onions,\" <i>The Journal of Inklings Studies</i>",
+        "printedIn": "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         "issueOrVolume": "vol. 10, no. 1",
         "pageRange": "16",
         "year": 2020,
@@ -3134,7 +3134,7 @@ const texts = [
         "title": "Letter to Mary Willis Shelburne (3 December 1953)",
         "printedIn": "Ruth Cording, <i>C.S. Lewis: A Celebration of His Early Life</i> (Nashville, TN: Broadman and Holman)",
         "issueOrVolume": null,
-        "pageRange": "",
+        "pageRange": null,
         "year": 2000,
         "monthAndDay": null,
         "textProvided": "[A letter apparently only containing Lewis’s poem “The Nativity” (found in all the general collections of Lewis’s poems published since 1964) followed by the concluding words,]<br/><br/>Yours is the better poem, but one must send the ball back over the net somehow.",
@@ -3698,9 +3698,9 @@ const texts = [
         "pageRange": "467",
         "year": 2015,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "[After initially submitting the poem “Ichabod” under his pseudonym N.W., Lewis withdrew it. Beloff pressed Lewis to reconsider it, but Lewis wrote:]<br/><br/>Impossible! You see my party won: which leaves me (as a satirist) undone. I even may let the embittered numbers flow, but only cads insult a beaten foe.”",
         "type": "Letter",
-        "notes": ["[After initially submitting the poem “Ichabod” under his pseudonym N.W., Lewis withdrew it. Beloff pressed Lewis to reconsider it, but Lewis wrote:]<br/><br/>Impossible! You see my party won: which leaves me (as a satirist) undone. I even may let the embittered numbers flow, but only cads insult a beaten foe.”"]
+        "notes": null
     },
     {
         "title": "Letter to Clyde S. Kilby (mid-1953)",
@@ -3715,7 +3715,7 @@ const texts = [
     },
     {
         "title": "Letter to Martin Lings (c. 1930)",
-        "printedIn": "Lings, \"Preface\", <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        "printedIn": "Lings, “Preface” <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         "issueOrVolume": null,
         "pageRange": "7",
         "year": 1967,
@@ -3726,7 +3726,7 @@ const texts = [
     },
     {
         "title": "Letter to Martin Lings (c. 1931)",
-        "printedIn": "Lings, \"Preface\", <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        "printedIn": "Lings, “Preface” <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         "issueOrVolume": null,
         "pageRange": "7",
         "year": 1967,
@@ -3808,7 +3808,7 @@ const texts = [
         "pageRange": "255",
         "year": 1998,
         "monthAndDay": null,
-        "textProvided": "[According to Adey, \"In 1951 he proclaimed the nineteenth century\"]<br/><br/>almost<br/><br/>[\"his favorite period...\"]",
+        "textProvided": "[According to Adey, “In 1951 he proclaimed the nineteenth century”<br/><br/>almost<br/><br/>“his favorite period...”",
         "type": "Letter",
         "notes": ["Believe me, I realize how insane it is that this single word merits its own entry."]
     },
@@ -4111,7 +4111,7 @@ const texts = [
         "notes": ["Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
     },
     {
-        "title": "\"The Old Grey Mare\"",
+        "title": "“The Old Grey Mare”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "9",
@@ -4122,7 +4122,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Descend to Earth, Descend, Celestial Nine\"",
+        "title": "“Descend to Earth, Descend, Celestial Nine”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "10",
@@ -4133,7 +4133,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Quam Bene Saturno\"",
+        "title": "“Quam Bene Saturno”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "30",
@@ -4144,7 +4144,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Carpe Diem\"",
+        "title": "“Carpe Diem”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "31",
@@ -4155,7 +4155,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"In Winter When the Frosty Nights are Long\"",
+        "title": "“In Winter When the Frosty Nights are Long”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "32",
@@ -4177,7 +4177,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Ovid's 'Pars estis pauci'\"",
+        "title": "“Ovid's 'Pars estis pauci'”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "37",
@@ -4188,7 +4188,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"My Western Garden\"",
+        "title": "“My Western Garden”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "43",
@@ -4199,7 +4199,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 167-68."]
     },
     {
-        "title": "\"A Death Song\"",
+        "title": "“A Death Song”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "44",
@@ -4210,7 +4210,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 168-169."]
     },
     {
-        "title": "\"To the Gods of Old Time\"",
+        "title": "“To the Gods of Old Time”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "47",
@@ -4221,7 +4221,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169."]
     },
     {
-        "title": "\"The Town of Gold\"",
+        "title": "“The Town of Gold”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "48",
@@ -4232,7 +4232,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-170."]
     },
     {
-        "title": "\"The Wood Desolate (near Bookham)\"",
+        "title": "“The Wood Desolate (near Bookham)”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "49",
@@ -4243,7 +4243,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-171."]
     },
     {
-        "title": "\"Anamnesis\"",
+        "title": "“Anamnesis”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "50",
@@ -4254,7 +4254,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 171-172."]
     },
     {
-        "title": "\"Sonnet to John Keats\"",
+        "title": "“Sonnet to John Keats”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "54",
@@ -4265,7 +4265,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 172-173."]
     },
     {
-        "title": "\"Yet More of the Wood Desolate\"",
+        "title": "“Yet More of the Wood Desolate”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "54",
@@ -4276,7 +4276,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 173-175."]
     },
     {
-        "title": "\"The Wind\"",
+        "title": "“The Wind”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "57",
@@ -4287,7 +4287,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-176."]
     },
     {
-        "title": "\"New Year's Eve\"",
+        "title": "“New Year's Eve”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "58",
@@ -4298,7 +4298,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176."]
     },
     {
-        "title": "\"Laus Mortis\"",
+        "title": "“Laus Mortis”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "59",
@@ -4309,7 +4309,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"In His Own Image\"",
+        "title": "“In His Own Image”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "60",
@@ -4320,7 +4320,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176-177."]
     },
     {
-        "title": "\"Sonnet [The clouds are red behind us and before].\"",
+        "title": "“Sonnet [The clouds are red behind us and before].”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "60",
@@ -4331,10 +4331,10 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 177."]
     },
     {
-        "title": "\"Loneliness\"",
+        "title": "“Loneliness”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
-        "pageRange": "",
+        "pageRange": "61",
         "year": 2015,
         "monthAndDay": null,
         "textProvided": false,
@@ -4342,10 +4342,10 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 178."]
     },
     {
-        "title": "\"The Little Golden Statuette\"",
+        "title": "“The Little Golden Statuette”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
-        "pageRange": "",
+        "pageRange": "62",
         "year": 2015,
         "monthAndDay": null,
         "textProvided": false,
@@ -4353,10 +4353,10 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179."]
     },
     {
-        "title": "\"Sonnet [I have not bowed in any other shrine]\"",
+        "title": "“Sonnet [I have not bowed in any other shrine]”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
-        "pageRange": "",
+        "pageRange": "63",
         "year": 2015,
         "monthAndDay": null,
         "textProvided": false,
@@ -4364,7 +4364,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179-180."]
     },
     {
-        "title": "\"Exercise on an Old Theme\"",
+        "title": "“Exercise on an Old Theme”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "64",
@@ -4375,7 +4375,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180."]
     },
     {
-        "title": "\"Hylas\"",
+        "title": "“Hylas”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "67",
@@ -4386,7 +4386,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180-181."]
     },
     {
-        "title": "\"Decadence\"",
+        "title": "“Decadence”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "68",
@@ -4397,7 +4397,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 181-182."]
     },
     {
-        "title": "\"Ballade on a Certain Pious Gentleman\"",
+        "title": "“Ballade on a Certain Pious Gentleman”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
@@ -4408,7 +4408,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182-183."]
     },
     {
-        "title": "\"MHΔEN ἈΓAN\"",
+        "title": "“MHΔEN ἈΓAN”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "69",
@@ -4419,7 +4419,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182.", "King misprints ἈTΑΝ (ATAN) instead of ἈΓΑΝ (AGAN)."]
     },
     {
-        "title": "\"Despoina, Bear with Me\"",
+        "title": "“Despoina, Bear with Me”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "72",
@@ -4430,7 +4430,7 @@ const texts = [
         "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 183."]
     },
     {
-        "title": "\"Nimue\"",
+        "title": "“Nimue”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "117",
@@ -4441,7 +4441,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Heart-breaking School\"",
+        "title": "“Heart-breaking School”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "127",
@@ -4452,7 +4452,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Oh That a Black Ship\"",
+        "title": "“Oh That a Black Ship”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "127",
@@ -4463,7 +4463,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"And After This They Sent Me to Another Place\"",
+        "title": "“And After This They Sent Me to Another Place”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "128",
@@ -4474,7 +4474,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Old Kirk, Like Father Time Himself\"",
+        "title": "“Old Kirk, Like Father Time Himself”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "129",
@@ -4485,7 +4485,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Carpet Rises in the Draught\"",
+        "title": "“The Carpet Rises in the Draught”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "130",
@@ -4496,7 +4496,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Tale of Psyche is Unjustly Told\"",
+        "title": "“The Tale of Psyche is Unjustly Told”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "131",
@@ -4507,7 +4507,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Silence of the Night\"",
+        "title": "“The Silence of the Night”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "133",
@@ -4518,7 +4518,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"West Germanic to Primitive Old English\"",
+        "title": "“West Germanic to Primitive Old English”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "139",
@@ -4529,7 +4529,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Hedgehog Moralised\"",
+        "title": "“The Hedgehog Moralised”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
@@ -4540,7 +4540,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Lord Is a Jealous God—A Careful Shepherd\"",
+        "title": "“The Lord Is a Jealous God—A Careful Shepherd”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
@@ -4551,7 +4551,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Thus A to Ĕ\"",
+        "title": "“Thus A to Ĕ”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "221",
@@ -4562,7 +4562,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Artless and Ignorant Is Andvāri\"",
+        "title": "“Artless and Ignorant Is Andvāri”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "222",
@@ -4573,7 +4573,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Long at Lectures\"",
+        "title": "“Long at Lectures”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "222",
@@ -4584,7 +4584,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"You, Beneath Scraping Branches\"",
+        "title": "“You, Beneath Scraping Branches”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "240",
@@ -4595,7 +4595,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"I Will Write Down the Portion that I Understand\"",
+        "title": "“I Will Write Down the Portion that I Understand”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "259",
@@ -4606,7 +4606,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Examiner Sits into Quarrie\"",
+        "title": "“The Examiner Sits into Quarrie”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "315",
@@ -4617,7 +4617,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Where Reservoys Ripple\"",
+        "title": "“Where Reservoys Ripple”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "315",
@@ -4628,7 +4628,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"There Was a Young Person of Streatham\"",
+        "title": "“There Was a Young Person of Streatham”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "319",
@@ -4639,7 +4639,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"After Kirby’s <i>Kalevala</i>\"",
+        "title": "“After Kirby’s <i>Kalevala</i>”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "320",
@@ -4650,7 +4650,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Where Are the Walks?\"",
+        "title": "“Where Are the Walks?”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "321",
@@ -4661,7 +4661,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"How Can I Ask Thee, Father?\"",
+        "title": "“How Can I Ask Thee, Father?”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "325",
@@ -4672,7 +4672,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Floating Islands\"",
+        "title": "“The Floating Islands”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "327",
@@ -4683,7 +4683,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Admiral Stamped on the Quarter Deck\"",
+        "title": "“The Admiral Stamped on the Quarter Deck”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "329",
@@ -4694,7 +4694,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"A Funny Old Man Had a Habit\"",
+        "title": "“A Funny Old Man Had a Habit”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "332",
@@ -4705,7 +4705,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Best Quality Sackcloth & Ashes\"",
+        "title": "“Best Quality Sackcloth & Ashes”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "333",
@@ -4716,7 +4716,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>\"",
+        "title": "“From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "333",
@@ -4727,7 +4727,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"This Literary Lion\"",
+        "title": "“This Literary Lion”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "332",
@@ -4738,7 +4738,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Call <i>Him</i> a Fascist? Thus the Rabbit\"",
+        "title": "“Call <i>Him</i> a Fascist? Thus the Rabbit”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "345",
@@ -4749,7 +4749,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Not for Your Reading, Not Because I Dream.\"",
+        "title": "“Not for Your Reading, Not Because I Dream.”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "376",
@@ -4760,7 +4760,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"I Know Far Less of Spiders\"",
+        "title": "“I Know Far Less of Spiders”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "378",
@@ -4771,7 +4771,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Travellers! In Months without an R\"",
+        "title": "“Travellers! In Months without an R”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "379",
@@ -4782,7 +4782,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Interim Report\"",
+        "title": "“Interim Report”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "380",
@@ -4793,7 +4793,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"D. H. Lawrence, Dr. Stopes\"",
+        "title": "“D. H. Lawrence, Dr. Stopes”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "383",
@@ -4804,7 +4804,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Ichabod\"",
+        "title": "“Ichabod”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "385",
@@ -4815,7 +4815,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"To Mr. Kingsley Amis on His Late Verses\"",
+        "title": "“To Mr. Kingsley Amis on His Late Verses”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "385",
@@ -4826,7 +4826,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Dear Dorothy, I’m Puzzling Hard\"",
+        "title": "“Dear Dorothy, I’m Puzzling Hard”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "389",
@@ -4837,7 +4837,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Experempment\"",
+        "title": "“Experempment”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "392",
@@ -4848,7 +4848,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Nan est Doctior Omnibus Puellis\"",
+        "title": "“Nan est Doctior Omnibus Puellis”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "392",
@@ -4859,7 +4859,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Aubade [Somehow it’s strange discovering, dear]\"",
+        "title": "“Aubade [Somehow it’s strange discovering, dear]”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "393",
@@ -4870,7 +4870,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Lords Coeval with Creation\"",
+        "title": "“Lords Coeval with Creation”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "393",
@@ -4881,7 +4881,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Dear Mr. Marshall, Thank You\"",
+        "title": "“Dear Mr. Marshall, Thank You”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "397",
@@ -4892,7 +4892,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"An Age Will Come\"",
+        "title": "“An Age Will Come”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "420",
@@ -4903,7 +4903,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"As Long as Rolling Wheels Rotate\"",
+        "title": "“As Long as Rolling Wheels Rotate”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "429",
@@ -4914,7 +4914,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"But in All Dialects\"",
+        "title": "“But in All Dialects”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "429",
@@ -4925,7 +4925,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Fidelia Vulnera Amantis\"",
+        "title": "“Fidelia Vulnera Amantis”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "430",
@@ -4936,7 +4936,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Go Litel Tugge upon Thes Watres Shene\"",
+        "title": "“Go Litel Tugge upon Thes Watres Shene”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "432",
@@ -4947,7 +4947,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"If with Posterity Good Fame\"",
+        "title": "“If with Posterity Good Fame”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "432",
@@ -4958,7 +4958,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Laertes to Napoleon\"",
+        "title": "“Laertes to Napoleon”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "433",
@@ -4969,7 +4969,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Lines to Mr. Compton Mackenzie\"",
+        "title": "“Lines to Mr. Compton Mackenzie”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "433",
@@ -4980,7 +4980,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Of This Great Suit Who Dares Foresee the End?\"",
+        "title": "“Of This Great Suit Who Dares Foresee the End?”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "434",
@@ -4991,7 +4991,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"That Was an Ugly Age\"",
+        "title": "“That Was an Ugly Age”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "434",
@@ -5002,7 +5002,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"The Goodly Fair\"",
+        "title": "“The Goodly Fair”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "435",
@@ -5013,7 +5013,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"To Mrs. Dyson, Angrie\"",
+        "title": "“To Mrs. Dyson, Angrie”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "435",
@@ -5024,7 +5024,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"Tu Silentia Perosus\"",
+        "title": "“Tu Silentia Perosus”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "436",
@@ -5035,7 +5035,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"YAH!\"",
+        "title": "“YAH!”",
         "printedIn": "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         "issueOrVolume": null,
         "pageRange": "437",
@@ -5046,7 +5046,7 @@ const texts = [
         "notes": null
     },
     {
-        "title": "\"O Caecili care\" (April 1936)",
+        "title": "“O Caecili care” (April 1936)",
         "printedIn": "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer's Grove, IL: IVP Books)",
         "issueOrVolume": null,
         "pageRange": "33",
@@ -5079,18 +5079,6 @@ const texts = [
         "notes": null
     },
 ]
-// const template =
-// {
-//     "title": "",
-//     "printedIn": "",
-//     "issueOrVolume": "",
-//     "pageRange": "",
-//     "year": null,
-//     "monthAndDay": null,
-//     "textProvided": false,
-//     "type": "Poem",
-//     "notes": null
-// }
 
 module.exports = {
     texts: texts
