@@ -539,7 +539,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of this text, let me know."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "Narnian Manuscripts (Various)",
@@ -550,7 +550,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413.", "If you would like to make an electronic transcription of this text, let me know."]
+        "notes": ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413.", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     { // VERIFY AUTHENTICITY
         "title": "“Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology”",
@@ -605,7 +605,7 @@ const texts = [
         "monthAndDay": "May",
         "textProvided": false,
         "type": "Prose",
-        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
+        "notes": ["If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "Pen portraits of Arthur Greeves and his parents",
@@ -682,7 +682,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["“Plots,” an outline of <i>The Voyage of the Dawn Treader,</i> was previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485."]
+        "notes": ["“Plots,” an outline of <i>The Voyage of the Dawn Treader,</i> was previously printed in <i>Imagination and the Spirit</i> (1971) and, in transcription only, in <i>Past Watchful Dragons</i> (1971).", "Also included in this volume: Holograph of a 15 May 1941 letter to Sister Penelope, including his illustration at the end, 94-5. Reprinted without the illustration in <i>Collected Letters</i> 2:484-485.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Preface to “Screwtape Proposes a Toast”",
@@ -781,7 +781,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11."]
+        "notes": ["Sayer summarizes poem in three paragraphs, giving the occasional quote.", "This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-11.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Holograph of note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees",
@@ -858,7 +858,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This essay summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book."]
+        "notes": ["This essay summarizes this unfinished tale by the teenaged Lewis, quotes several key passages, and places the story in the context of Lewis’s spiritual journey at that point in his life. It contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "His will",
@@ -957,7 +957,7 @@ const texts = [
         "monthAndDay": "Spring",
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Description of a school friend (<i>LP</i> 3:175)",
@@ -1043,9 +1043,9 @@ const texts = [
         "pageRange": "119",
         "year": 2000,
         "monthAndDay": null,
-        "textProvided": false,
+        "textProvided": "Yours is the better poem, but one must send the ball back over the net somehow.",
         "type": "Prose",
-        "notes": ["If you have the main text, send it to me!"]
+        "notes": null
     },
     {
         "title": "Fragments of <i>Othello</i> Manuscript",
@@ -1056,7 +1056,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Fragments of <i>Othello</i> Manuscript",
@@ -1067,7 +1067,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Essay on Richard Wagner (1911, <i>LP</i> 3:233-234)",
@@ -1177,7 +1177,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "References to manuscript on prayer (Wade MS-155)",
@@ -1210,7 +1210,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "“The Quest of Bleheris” excerpts (prose romance written in 1916)",
@@ -1287,7 +1287,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Whole” (Wade MS-170)",
@@ -1298,7 +1298,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Annotations in his copies of Chaucer’s works",
@@ -1309,7 +1309,7 @@ const texts = [
         "monthAndDay": "April",
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "\"Language and Human Nature\" (Manuscript Fragment)",
@@ -1320,7 +1320,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Scraps” of ideas in notebook with Lefay fragment and “Language and Human Nature” fragment",
@@ -1353,7 +1353,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["This is the first prose piece we have from Lewis in the 1920s."]
+        "notes": ["This is the first prose piece we have from Lewis in the 1920s.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Translations of Virgil's Aeneid",
@@ -1375,7 +1375,8 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-138 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116."]
+        "notes": ["Prints the short story “Light” and compares it with the “Man Born Blind” manuscript and revisions, drawing conclusions about the dating of the pieces.", "Chapter 9, 117-138 contains “The Complete Parallel Light Stories” and includes a holograph of the first page of the “Light” story on 116.", "If you would like to make an electronic transcription of this text, let me know."
+    ]
     },
     {
         "title": "Note on John Foxe (from Notebook V)",
@@ -1540,7 +1541,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Prose",
-        "notes": ["Prefaced with an essay by Crystal Hurd."]
+        "notes": ["Prefaced with an essay by Crystal Hurd.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "Great War Papers",
@@ -3183,7 +3184,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false, // Arend has ...??
         "type": "Letter",
-        "notes": null
+        "notes": ["If you have this text, please send it to me!"]
     },
     {
         "title": "Letter to Mary Neylan (1940)",
@@ -3909,7 +3910,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to Peter Philip (3 March 1955)",
@@ -3931,7 +3932,7 @@ const texts = [
         "monthAndDay": "February",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to John Christopher (1945?)",
@@ -3942,7 +3943,7 @@ const texts = [
         "monthAndDay": "April",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to John Christopher (date unknown)",
@@ -3953,7 +3954,7 @@ const texts = [
         "monthAndDay": "April",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to Ruth Pitter (29 December 1951)",
@@ -3975,7 +3976,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to Owen Barfield (26 June 1929)",
@@ -3997,7 +3998,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Letter",
-        "notes": ["If you have this text, send it to me!"]
+        "notes": ["If you have this text, please sent it to me!"]
     },
     {
         "title": "Letter to Owen Barfield (c. 1930)",
@@ -4074,7 +4075,7 @@ const texts = [
         "monthAndDay": "December",
         "textProvided": false,
         "type": "Letter",
-        "notes": ["This letter is referenced by Adam Barkman, “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> ed. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle: Cambridge Scholars Publishing, 2009), 162. Barkman says, referencing this letter: “<i>The Abolition of Man,</i> which Lewis claimed was a work of ethics and not theology…”", "If you have this text, send it to me!"]
+        "notes": ["This letter is referenced by Adam Barkman, “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> ed. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle: Cambridge Scholars Publishing, 2009), 162. Barkman says, referencing this letter: “<i>The Abolition of Man,</i> which Lewis claimed was a work of ethics and not theology…”", "If you have this text, please sent it to me!"]
     },
     // POEMS
     {
@@ -4284,7 +4285,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Descend to Earth, Descend, Celestial Nine”",
@@ -4295,7 +4296,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Quam Bene Saturno”",
@@ -4306,7 +4307,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Carpe Diem”",
@@ -4317,7 +4318,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“In Winter When the Frosty Nights are Long”",
@@ -4328,7 +4329,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "<i>Loki Bound</i>",
@@ -4339,7 +4340,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Ovid's 'Pars estis pauci'”",
@@ -4350,7 +4351,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“My Western Garden”",
@@ -4383,7 +4384,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169.","If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“The Town of Gold”",
@@ -4394,7 +4395,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-170."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-170.", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“The Wood Desolate (near Bookham)”",
@@ -4405,7 +4406,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-171."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-171.", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“Anamnesis”",
@@ -4449,7 +4450,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-176."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-176.", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“New Year's Eve”",
@@ -4460,7 +4461,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Laus Mortis”",
@@ -4471,7 +4472,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“In His Own Image”",
@@ -4515,7 +4516,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179."]
+        "notes": ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179.", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“Sonnet [I have not bowed in any other shrine]”",
@@ -4603,7 +4604,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Heart-breaking School”",
@@ -4614,7 +4615,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Oh That a Black Ship”",
@@ -4625,7 +4626,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“And After This They Sent Me to Another Place”",
@@ -4636,7 +4637,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Old Kirk, Like Father Time Himself”",
@@ -4647,7 +4648,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Carpet Rises in the Draught”",
@@ -4658,7 +4659,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Tale of Psyche is Unjustly Told”",
@@ -4669,7 +4670,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Silence of the Night”",
@@ -4680,7 +4681,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“West Germanic to Primitive Old English”",
@@ -4691,7 +4692,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Hedgehog Moralised”",
@@ -4702,7 +4703,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Lord Is a Jealous God—A Careful Shepherd”",
@@ -4713,7 +4714,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Thus A to Ĕ”",
@@ -4724,7 +4725,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Artless and Ignorant Is Andvāri”",
@@ -4735,7 +4736,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Long at Lectures”",
@@ -4746,7 +4747,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“You, Beneath Scraping Branches”",
@@ -4757,7 +4758,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“I Will Write Down the Portion that I Understand”",
@@ -4768,7 +4769,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Examiner Sits into Quarrie”",
@@ -4779,7 +4780,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Where Reservoys Ripple”",
@@ -4790,7 +4791,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“There Was a Young Person of Streatham”",
@@ -4801,7 +4802,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“After Kirby’s <i>Kalevala</i>”",
@@ -4812,7 +4813,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Where Are the Walks?”",
@@ -4823,7 +4824,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“How Can I Ask Thee, Father?”",
@@ -4834,7 +4835,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Floating Islands”",
@@ -4845,7 +4846,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Admiral Stamped on the Quarter Deck”",
@@ -4856,7 +4857,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“A Funny Old Man Had a Habit”",
@@ -4867,7 +4868,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Best Quality Sackcloth & Ashes”",
@@ -4878,7 +4879,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
@@ -4889,7 +4890,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“This Literary Lion”",
@@ -4900,7 +4901,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Call <i>Him</i> a Fascist? Thus the Rabbit”",
@@ -4911,7 +4912,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Not for Your Reading, Not Because I Dream.”",
@@ -4922,7 +4923,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“I Know Far Less of Spiders”",
@@ -4933,7 +4934,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Travellers! In Months without an R”",
@@ -4944,7 +4945,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Interim Report”",
@@ -4955,7 +4956,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“D. H. Lawrence, Dr. Stopes”",
@@ -4966,7 +4967,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Ichabod”",
@@ -4977,7 +4978,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“To Mr. Kingsley Amis on His Late Verses”",
@@ -4988,7 +4989,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Dear Dorothy, I’m Puzzling Hard”",
@@ -4999,7 +5000,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Experempment”",
@@ -5010,7 +5011,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Nan est Doctior Omnibus Puellis”",
@@ -5021,7 +5022,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Aubade [Somehow it’s strange discovering, dear]”",
@@ -5032,7 +5033,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Lords Coeval with Creation”",
@@ -5043,7 +5044,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Dear Mr. Marshall, Thank You”",
@@ -5054,7 +5055,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“An Age Will Come”",
@@ -5065,7 +5066,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“As Long as Rolling Wheels Rotate”",
@@ -5076,7 +5077,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“But in All Dialects”",
@@ -5087,7 +5088,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Fidelia Vulnera Amantis”",
@@ -5098,7 +5099,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Go Litel Tugge upon Thes Watres Shene”",
@@ -5109,7 +5110,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“If with Posterity Good Fame”",
@@ -5120,7 +5121,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Laertes to Napoleon”",
@@ -5131,7 +5132,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Lines to Mr. Compton Mackenzie”",
@@ -5142,7 +5143,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Of This Great Suit Who Dares Foresee the End?”",
@@ -5153,7 +5154,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“That Was an Ugly Age”",
@@ -5164,7 +5165,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“The Goodly Fair”",
@@ -5175,7 +5176,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“To Mrs. Dyson, Angrie”",
@@ -5186,7 +5187,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“Tu Silentia Perosus”",
@@ -5197,7 +5198,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“YAH!”",
@@ -5208,7 +5209,7 @@ const texts = [
         "monthAndDay": null,
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         "title": "“O Caecili care” (April 1936)",
@@ -5230,7 +5231,7 @@ const texts = [
         "monthAndDay": "October",
         "textProvided": false,
         "type": "Poem",
-        "notes": null
+        "notes": ["If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         "title": "“Each book by Empson read,” a poem written into Lewis’s copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
