@@ -56,6 +56,17 @@ const texts = [
         "notes": ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>, vol. 11 (2017), 17."]
     },
     {
+        "title": "Preface to <i>Rehabilitations and Other Essays</i>",
+        "printedIn": "C.S. Lewis, <i>Rehabilitations and Other Essays</i> (London: Oxford University Press)",
+        "issueOrVolume": null,
+        "pageRange": "vii-viii",
+        "year": 1939,
+        "monthAndDay": null,
+        "textProvided": "A man is seldom moved to praise what he loves until it has been attacked. The first six essays in this book, which give it its title, were all in varying degrees provoked in this way. The first two defend great romantic poets against popular hatred or neglect of Romanticism. The third and fourth defend the present course of English studies at Oxford against certain criticisms; but so differently (the one having been addressed to a joint meeting of the Classical and English Associations and the other to undergraduates) that I hope they do not much overlap. The fifth is partly a defence of the many popular books which have, I believe, so greatly increased my power of enjoying more serious literature as well as real life’; but it is much more a defence of disinterested literary enjoyment in general against certain dangerous tendencies in modern education. I was afraid lest all the pleasant landscapes would soon be shut out by a wall of blackboards and certificates’. The sixth is perhaps a work of attack rather than of defence; but probably I should not have written it if I had not been stimulated by the contempt sometimes expressed for Anglo-Saxon poetry. It is here reprinted from <i>Lysistrata.</i><sup>1</sup> In spite of the apparent diversity of subject-matter, I like to think that the collection has a certain unity, in virtue of certain beliefs about life and books which are implicit throughout.<br/><br/><sup>1</sup> As far as I know this periodical did not survive my contribution, and I have been unable to discover the name and address of the lady who edited it. I hope that if these lines meet her eyes she will forgive me for assuming her permission to reprint.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
         "title": "“Miracles”",
         "printedIn": "<i>The Guardian</i>",
         "issueOrVolume": null,
@@ -76,6 +87,17 @@ const texts = [
         "textProvided": "[Preceded by Lewis’s words: “For the rest of these Talks I am going to assume the Christian Point of view<sup>1</sup> and look at the whole picture as it will be if Christianity is true.”]<br/><br/>These talks will therefore contain no arguments to show that Christianity <i>is</i> true. Those who want to know why I think it is true will find what I have to say on that subject in my previous <i>Broadcast Talks</i>.",
         "type": "Prose",
         "notes": ["The footnote also appears in the US edition, also titled <i>Christian Behaviour</i> (New York: Macmillan, 1944), 6 note 1."]
+    },
+    {
+        "title": "Preface to <i>The Pilgrim's Regress</i>",
+        "printedIn": "<i>The Pilgrim's Regress,</i> new and revised edition (London: Geoffrey Bles)",
+        "issueOrVolume": null,
+        "pageRange": "5-14",
+        "year": 1943,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["If you would like to make an electronic transcription of this text, let me know.bg-darken-1"]
     },
     {
         "title": "Appreciation of Eric Bentley",
@@ -221,6 +243,17 @@ const texts = [
         "notes": ["This “Note” is reprinted on the cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983)."]
     },
     {
+        "title": "Acknowledgements and Introductory to <i>Arthurian Torso</i>",
+        "printedIn": "Charles Williams and C.S. Lewis, <i>Arthurian Torso</i> (London: Oxford University Press)",
+        "issueOrVolume": null,
+        "pageRange": "last page of front matter and 1-2",
+        "year": 1948,
+        "monthAndDay": null,
+        "textProvided": "false",
+        "type": "Prose",
+        "notes": ["I include this because copies of <i>Arthurian Torso</i> are so rare and expensive.", "If you would like to make an electronic copy of this text, please let me know."]
+    },
+    {
         "title": "Additions to the French edition of <i>The Problem of Pain</i>",
         "printedIn": "<i>Le probleme de la souffrance</i>",
         "issueOrVolume": null,
@@ -360,7 +393,7 @@ const texts = [
         "pageRange": "dust jacket",
         "year": 1959,
         "monthAndDay": null,
-        "textProvided": "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemanniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
+        "textProvided": "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemaniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
         "type": "Prose",
         "notes": ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
     },
@@ -397,6 +430,17 @@ const texts = [
         "textProvided": "I suspect that the decision about the Common Market is very like that which confronts the losing chess-player: “Which of your rooks will you lose?” As for the larger issues, I want what we certainly shan’t get − a super-national state built out of units far smaller than the existing nations: units like Wessex and Picardy, not like “Britain” (a horrid word) and France. Units so small, and real, would then safely develop the greatest local diversity of language, culture, and custom. England did not achieve unity by a League of Barons. The Barons were (for all practical purposes) eliminated; the towns, shires, and even parishes, survived. That is our model.",
         "type": "Prose",
         "notes": ["To my knowledge this text has never been reprinted."]
+    },
+    {
+        "title": "Acknowledgements for <i>They Asked for a Paper</i>",
+        "printedIn": "C.S. Lewis, <i>They Asked for a Paper</i> (London: Geoffrey Bles)",
+        "issueOrVolume": null,
+        "pageRange": "v-vi",
+        "year": 1962,
+        "monthAndDay": null,
+        "textProvided": false,
+        "type": "Prose",
+        "notes": ["I include this because copies of <i>They Asked for a Paper</i> are not in print.", "If you would like to make an electronic transcript of this text, let me know."]
     },
     {
         "title": "Comments on Obstacles to the Christian Initiative",
@@ -1145,6 +1189,28 @@ const texts = [
         "textProvided": "[112, below four-line poem beginning “This first edition,” and corresponding to an asterisk next to his signature above the poem]<br/><br/>* I never could develop a nice grown-up “signature” so I just have to write my name like any other word.<br/><br/>[113, at the end of the book, on the blank page opposite page 160]<br/><br/>I tried v. hard to get hold of the letters on the other side - from the archangel to the guardian angel. But the only bit that ever came through didn’t make much sense. It was “The children continued instructing their Bears in the bend of the great river.”",
         "type": "Prose",
         "notes": ["The second comment, on p. 113, was later reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15."]
+    },
+    {
+        "title": "Inscription (holograph) on a 1st US edition of <i>Till We Have Faces</i>",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        "issueOrVolume": null,
+        "pageRange": "114",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": "Best wishes to Bel Goldstine, from C. S. Lewis",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Inscription (holograph) on a 1st US edition of <i>Surprised by Joy</i>",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        "issueOrVolume": null,
+        "pageRange": "114",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": "To Bel with love from<br/>Jack<br/>C.S. Lewis<br/>Nov. 11th 1957",
+        "type": "Prose",
+        "notes": null
     },
     {
         "title": "Comment on the manuscript of Lewis’ “Panegyric for Dorothy L. Sayers,”",
