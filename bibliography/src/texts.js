@@ -627,7 +627,18 @@ const texts = [
         "monthAndDay": null,
         "textProvided": "When I first met Brown F.R.A.S., I had no idea that his love for Jules Verne’s side of astronomy would lead me into this. I came to know him through his ½-brother Jeames: as I took a mild intrest in astronomy, Brown and I were good chums. It was after I had known him for about a month that he suddenly droped in to see me one night. “Bensin I’m going to Mars” he said in his short way. I laughed. “How?” said I. “In a vessel” said he “all I want is money.” “Don’t be a fool Brown” said I “you’ll never do it!” “Oh yes I will” quoth he “at any rate I’ll try.”  <br/><br/>“It is wrong to commit suicide specially when one has wife and children” I observed.  <br/><br/> “It is, very wrong,” said Brown “but I am not going to.” However I thought I’d give you the chance of coming with me: − will you?”  <br/><br/>Come with him! − I Hadn’t thought of that. I reflected and then said,  <br/><br/>“If you don’t mind Brown I’ll wait till you have settled your arrangements” <br/><br/>“Sorry Bensin” returned my friend “but I am going to start from central Africa, I sail from Southampton to-morrow night!” <br/><br/>“Well I’ll come, and tell you what I’m going to, in the morning. said I <br/><br/>“Right. good by said he <br/><br/>good by said I<br/><br/>and he went.",
         "type": "Prose",
-        "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i>.", "This book also includes holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008).", "Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
+        "notes": ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i> and holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008). Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
+    },
+    {
+        "title": "Inscription (holograph) to his father on a 1st UK edition of <i>Spirits in Bondage</i>",
+        "printedIn": "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
+        "issueOrVolume": null,
+        "pageRange": "118",
+        "year": 1973,
+        "monthAndDay": null,
+        "textProvided": "To my Father<br/><br/>With the author’s best love and compliments, in memory of the happy days when we “Built the Promenade” together.<br/><br/><u>29th March 1919</u>",
+        "type": "Prose",
+        "notes": ["This is the only known printing of this inscription. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i> and holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008). Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
     },
     {
         "title": "Pen portraits of Arthur Greeves",
@@ -1165,6 +1176,28 @@ const texts = [
         "year": 2005,
         "monthAndDay": null,
         "textProvided": "[47]<br/><br/>On 10 March 1959, just a few weeks after this initial meeting, Lewis sent the COmmission’s secretary eleven pages of his “suggested revisions of Psalms I-XLI,” written in his own hand. In his small cursive script, complete with cross-outs and circled footnotes, Lewis considers such things as accuracy, clarity, rhythm, alliteration, and figurative language. In Psalm 11:3 he notes an illogical image. Where Coverdale has “For the foundations will be cast down,” Lewis notes: “We can’t have what is already the lowest (foundations) cast <i>down;</i> it’s like talking about falling off the floor” (2, n. 2). He suggests “If the foundations be removed” (2). Though concerned with accuracy, he is not interested in strict literalism. In Psalm 4:8 (subsequently published as 4:7) he prefers “as joyful as” to the accurate “<i>more joyful than,</i> which will produce an inferior rhythm” (1, n. 1). And of Psalm 19:3 he says, “Leave it alone: it is only <i>verbally</i> false to the original” (5, n. 1). <br/><br/>[52]<br/><br/>We glanced earlier at Lewis’s suggestions for Psalms 1-41, submitted in March 1959; later he sent handwritten suggestions for Psalms 67-81 (2 pages) and 84-89 (2 pages). In all three lists his emendations, like Eliot’s, contain plenty of instances in which he says the equivalent of “Keep Coverdale’s wording.” <i>The Revised Psalter</i> (1964) contains at least six retentions of Coverdale recommended by Lewis; three others did not make the final version. One loss is in Psalm 25:4, where Coverdale has “Lead me forth in thy truth, and learn me: for thou art the God of my salvation.” Of course <i>teach</i> is the obvious modern replacement for <i>learn,</i> but Lewis objects. “To change <i>learn</i> into <i>teach</i> wd. be pedantic pseudo scholarship,” he writes. “<i>Learn</i> (wh. was good enough for Mr. Badger) will mislead no-one” (6, n. 3).",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Inscription to Geoffrey Barfield in 1st UK edition of <i>Prince Caspian</i>",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        "issueOrVolume": null,
+        "pageRange": "41",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": "Geoffrey Barfield, with love from Jack Lewis.",
+        "type": "Prose",
+        "notes": null
+    },
+    {
+        "title": "Inscription to Geoffrey Barfield in 1st UK edition of <i>The Silver Chair</i>",
+        "printedIn": "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        "issueOrVolume": null,
+        "pageRange": "41",
+        "year": 2006,
+        "monthAndDay": null,
+        "textProvided": "Geoffrey Corbett, with love from C. S. Lewis.",
         "type": "Prose",
         "notes": null
     },
