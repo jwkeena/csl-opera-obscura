@@ -52,7 +52,7 @@ function TableRow(props) {
                     : <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber} notes={props.notes} reference={props.reference}></Modal>
 
                 : <div>
-                    <a href="#!" className="btn disabled">
+                    <a href="#!" className="btn disabled hide-on-med-and-down">
                         <span className="material-icons" style={styles.disabledIcon}>block</span>
                     </a>
                     <div className="hide-on-large-only"><Modal title={props.title} textProvided={"<div class='left-align'>[Not provided.]</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal></div>
