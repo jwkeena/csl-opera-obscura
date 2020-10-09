@@ -172,9 +172,9 @@ const texts = [
         pageRange: "7-8",
         year: 1945,
         monthAndDay: null,
-        textProvided: "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1st edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Magdalen College, Oxford.</i><br/>[1st UK ed. ends here, but US 1st ed. adds: <i>Christmas Eve, 1943</i>]",
+        textProvided: "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1<sup>st</sup> edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Magdalen College, Oxford.</i><br/>[1<sup>st</sup> UK ed. ends here, but US 1<sup>st</sup> ed. adds: <i>Christmas Eve, 1943</i>]",
         type: "Prose",
-        notes: ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1st US edition (Macmillan, 1946)."]
+        notes: ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1<sup>st</sup> US edition (Macmillan, 1946)."]
     },
     {
         title: "“A Christian Reply to Professor Price”",
@@ -265,6 +265,17 @@ const texts = [
         notes: ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
     },
     {
+        title: "Dedication to Marjorie Milne",
+        printedIn: "<i>Dymer</i>, 2<sup>nd</sup> edition, London: J.M. Dent & Sons Ltd., New York: The Macmillan Company",
+        issueOrVolume: null,
+        pageRange: "v",
+        year: 1950,
+        monthAndDay: null,
+        textProvided: "To Marjorie Milne",
+        type: "Prose",
+        notes: ["The 1<sup>st</sup> edition has no dedicatee, as pointed out by Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 68."]
+    },
+    {
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
         printedIn: "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -277,7 +288,7 @@ const texts = [
     },
     {
         title: "Preface to <i>Dymer</i>",
-        printedIn: "<i>Dymer</i>",
+        printedIn: "<i>Dymer</i>, 2<sup>nd</sup> edition, London: J.M. Dent & Sons Ltd., New York: The Macmillan Company",
         issueOrVolume: null,
         pageRange: "ix-xv",
         year: 1950,
@@ -616,7 +627,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "This book is about four children whose names were Ann, Martin, Rose and Peter. But it is most about Peter who was the youngest. They all had to go away from London suddenly because of the Air Raids, and because Father, who was in the army, had gone off to the War and Mother was doing some kind of war work. They were sent to stay with a relation of Mother’s who was a very old Professor who lived by himself in the country.",
         type: "Prose",
-        notes: ["This manuscript is written on the back of the first page of the manuscript of “The Dark Tower” found in the Bodleian Library."]
+        notes: ["This manuscript is written on the back of the first page of the manuscript of “The Dark Tower” found in the Bodleian Library.", "Holograph of this text, along with the first pages of <i>The Dark Tower,</i> was later printed in the <i>Canadian C.S. Lewis Journal,</i> no. 66 (Spring 1989), 4-5, 7. ", "Text also reprinted in Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 102."]
     },
     {
         title: "Juvenilia: holograph of a story “To Mars and Back”",
@@ -630,7 +641,7 @@ const texts = [
         notes: ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i> and holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008). Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
     },
     {
-        title: "Inscription (holograph) to his father on a 1st UK edition of <i>Spirits in Bondage</i>",
+        title: "Inscription (holograph) to his father on a 1<sup>st</sup> UK edition of <i>Spirits in Bondage</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
         issueOrVolume: null,
         pageRange: "118",
@@ -1180,7 +1191,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Geoffrey Barfield in 1st UK edition of <i>Prince Caspian</i>",
+        title: "Inscription to Geoffrey Barfield in 1<sup>st</sup> UK edition of <i>Prince Caspian</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "41",
@@ -1191,13 +1202,24 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Geoffrey Barfield in 1st UK edition of <i>The Silver Chair</i>",
+        title: "Inscription to Geoffrey Barfield in 1<sup>st</sup> UK edition of <i>The Silver Chair</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "41",
         year: 2006,
         monthAndDay: null,
         textProvided: "Geoffrey Corbett, with love from C. S. Lewis.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Inscription to Mary Neylan on a 1<sup>st</sup> edition of <i>George Macdonald Anthology</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "68",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "with affectionate compliments and congratulations from <br/>C.S. Lewis 1946",
         type: "Prose",
         notes: null
     },
@@ -1213,6 +1235,39 @@ const texts = [
         notes: null
     },
     {
+        title: "Inscription to Owen Barfield on a 1<sup>st</sup> UK edition of <i>The Problem of Pain</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "110",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "Yours, C.S. Lewis.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Inscription to Owen Barfield on a 2<sup>nd</sup> UK edition of <i>Dymer</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "110",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "Owen Barfield from Jack Lewis, October 1950.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Parenthetical remark below poem “Metrical Experiment” (holograph) on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        printedIn: "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "111",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "(Copyright belongs to the Spectator)",
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Comments (holograph) accompanying two poems on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -1221,10 +1276,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[112, below four-line poem beginning “This first edition,” and corresponding to an asterisk next to his signature above the poem]<br/><br/>* I never could develop a nice grown-up “signature” so I just have to write my name like any other word.<br/><br/>[113, at the end of the book, on the blank page opposite page 160]<br/><br/>I tried v. hard to get hold of the letters on the other side - from the archangel to the guardian angel. But the only bit that ever came through didn’t make much sense. It was “The children continued instructing their Bears in the bend of the great river.”",
         type: "Prose",
-        notes: ["The second comment, on p. 113, was later reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15."]
+        notes: ["The second comment (on 113) was later reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15."]
     },
     {
-        title: "Inscription (holograph) on a 1st US edition of <i>Till We Have Faces</i>",
+        title: "Inscription to Bel Goldstine (holograph) on a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "114",
@@ -1235,13 +1290,46 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription (holograph) on a 1st US edition of <i>Surprised by Joy</i>",
+        title: "Inscription to Bel Goldstine (holograph) on a 1<sup>st</sup> US edition of <i>Surprised by Joy</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "114",
         year: 2006,
         monthAndDay: null,
         textProvided: "To Bel with love from<br/>Jack<br/>C.S. Lewis<br/>Nov. 11th 1957",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Excerpt from uncorrected proof copy of <i>The Horse and His Boy</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "121-122",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "The light was too bad for Shasta to see much of the cat except that it was very big and very friendly. It stood up on its hind legs and rubbed its head against his knees. It was purring like a dynamo and its tail stood straight up.<br/><br/>“Puss, puss,” said Shasta. “I suppose you’re not a <i>talking</i> cat.”<br/><br/>But the cat only stared at him and purred. Then it started walking away, and of course Shasta followed it. It led him right through the tombs and out of the desert side of them. There it lay down and started having a thorough wash, and when it had washed every bit of itself it curled up and buried its nose in its tail like a cat that means to have a good sleep.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Alternate title for <i>The Horse and His Boy</i> in uncorrected proof copy of <i>The Silver Chair</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "122",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "According to Brown and Hamilton, “The most interesting change from the proof of <i>The Silver Chair</i> was that on page 48, where he tells the reader that the title of the next Narnia book was to be <i>Narnia of the North.</i> You won’t find that in any published copy of <i>The Silver Chair</i>!”",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Inscription to Penelope Berners-Price on a 1<sup>st</sup> edition of <i>Prince Caspian</i>",
+        printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
+        issueOrVolume: null,
+        pageRange: "146",
+        year: 2006,
+        monthAndDay: null,
+        textProvided: "To Penelope with love, from C.S. Lewis.",
         type: "Prose",
         notes: null
     },
