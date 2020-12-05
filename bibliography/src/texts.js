@@ -279,7 +279,7 @@ const texts = [
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
         printedIn: "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: "147-158",
         year: 1952,
         monthAndDay: null,
         textProvided: false,
