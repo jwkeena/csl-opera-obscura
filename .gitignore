@@ -1,3 +1,7 @@
+# Non-minified texts
+# To minify run minify bibliography/src/texts.js > bibliography/src/texts.min.js
+bibliography/src/texts.js
+
 # Logs
 logs
 *.log
