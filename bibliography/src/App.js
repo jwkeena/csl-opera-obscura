@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { texts } from './texts.min';
+import { texts } from './texts';
 import TableRow from './components/TableRow/';
 import FormSelect from './components/FormSelect';
 import AboutModal from './components/AboutModal';
