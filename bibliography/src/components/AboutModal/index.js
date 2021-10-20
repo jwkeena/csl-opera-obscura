@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 10.15.21</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 10.20.21</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -33,7 +33,7 @@ class AboutModal extends Component {
 
                         <p><b>PURPOSE: </b>This bibliography is an exhaustive collection of all <b>published</b> works by C.S. Lewis, however minor or fragmentary, that are <i>either</i> obscure <i>or</i> new. By “new” I mean published after the 50th anniversary of Lewis’s death, November 22, 2013. In this sense the last of the “old” books is <i>Image and Imagination,</i> the final collection of texts edited by Walter Hooper. By an “obscure” work I mean a text that meets all of the following three criteria:</p>
                         
-                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs: blurbs are always included; prefaces and footnotes are included if (1) there is a difference between the 1st edition and later editions, (2) there is a difference between the US and UK versions, or (3) the book is out of print) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of</p> 
+                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs: blurbs are always included; prefaces and footnotes are included if (1) there is a difference between the 1<sup>st</sup> edition and later editions, (2) there is a difference between the US and UK versions, or (3) the book is out of print) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of</p> 
                         
                         <ol>
                             <li>1919 - <i>Spirits in Bondage</i></li>
@@ -48,9 +48,9 @@ class AboutModal extends Component {
                             <li>1942 - <i>Broadcast Talks</i> (UK)/<i>The Case for Christianity</i> (US)</li>
                             <li>1943 - <i>Perelandra</i></li>
                             <li>1943 - <i>Christian Behaviour</i></li>
+                            <li>1943 - <i>The Abolition of Man</i></li>
                             <li>1944 - <i>Beyond Personality</i></li>
                             <li>1945 - <i>That Hideous Strength</i></li>
-                            <li>1946 - <i>The Abolition of Man</i></li>
                             <li>1946 - <i>The Great Divorce</i></li>
                             <li>1947 - <i>Miracles</i></li>
                             <li>1948 - <i>Arthurian Torso</i></li>
@@ -75,12 +75,13 @@ class AboutModal extends Component {
                             <li>1964 - <i>The Discarded Image</i></li>
                         </ol>
 
-                        <p>ii. Was not prepared for publication as an essay collection written by Lewis himself: i.e., is not the main text of</p>
+                        <p>ii. Is not one of the essays in a collection prepared for publication by Lewis himself: i.e., does not appear as any piece in </p>
                         
                         <ol>
                             <li>1939 - <i>Rehabilitations and Other Essays</i></li>
-                            <li>1949 - <i>Transposition, and Other Addresses</i></li>
-                            <li>1960 - <i>The World’s Last Night and Other Essays</i></li>
+                            <li>1946 - <i>Transposition and Other Addresses</i> (UK) / <i>The Weight of Glory and Other Addresses</i> (US 1949)</li>
+                            <li>1947 - <i>Essays Presented to Charles Williams</i> (UK; US 1966)</li>
+                            <li>1960 - <i>The World’s Last Night and Other Essays (US only)</i></li>
                             <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
                         </ol>
 
@@ -101,9 +102,8 @@ class AboutModal extends Component {
                             <li>1980 - <i>Letters of C.S. Lewis,</i> revised and enlarged</li>
                             <li>1980 - <i>The Weight of Glory and Other Addresses,</i> revised and expanded</li>
                             <li>1982 - <i>On Stories, and Other Essays on Literature</i></li>
-                            <li>1982 - <i>Of This & Other Worlds</i></li>
+                            <li>1982 - <i>Of This & Other Worlds</i> (UK only)</li>
                             <li>1984 - <i>The Business of Heaven: Daily Readings From C.S. Lewis</i></li>
-                            <li>1984 - <i>Spirits in Bondage: A Cycle of Lyrics</i></li>
                             <li>1985 - <i>Boxen: The Imaginary World of the Young C.S. Lewis</i></li>
                             <li>1985 - <i>First and Second Things: Essays on Theology and Ethics</i></li>
                             <li>1986 - <i>Present Concerns</i></li>
@@ -124,7 +124,7 @@ class AboutModal extends Component {
 
                         <p>If you are interested in reading everything by Lewis (at least, all that’s been published) come back here when you’ve finished the (often overlapping) contents of those works. For an account of just how labyrinthine and confusing the bibliography of Lewis's shorter pieces is, see <a href="http://lewisiana.nl/shorterwritings/index.htm" rel="noopener noreferrer" target="_blank">Arend Smilde's “A History of C.S. Lewis’s Collected Shorter Writings, 1939-2000),” <i>Journal of Inklings Studies</i> vol. 2, no. 2 (October 2012), 91-100</a>. If you are looking for the minimal combination of essay collections required to read them all, see Brenton Dickieson’s post <a className="blue-link" href="https://apilgriminnarnia.com/2017/02/08/essays/" rel="noopener noreferrer" target="_blank">“How to Read All of C.S. Lewis’ Essays”</a> and its accompanying <a className="blue-link" href="https://apilgriminnarnia.files.wordpress.com/2017/02/how-to-read-csl-essays-public.xlsx" rel="noopener noreferrer" target="_blank">Excel spreadsheet</a>.</p>
                         
-                        <p><b>SOURCES: </b>For sections 1 (Prose) and 3 (Diaries), many of the following entries in this list, and some of the notes on them, are drawn verbatim from Hooper’s indispensable bibliographies in <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins, 1996), 799-883, <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James T. Como (1992, new edition), 250-301, and <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 387-492. I have supplemented, expanded, or corrected Hooper’s entries as necessary, in addition to adding dozens of my own. I have not used Hooper’s long-outdated first bibliography, which can be found in <i>Light on C.S. Lewis,</i> ed. Jocelyn Gibb (London: Geoffrey Bles, 1965), 117-60.</p>
+                        <p><b>SOURCES: </b>For sections 1 (Prose) and 3 (Diaries), many of the following entries in this list, and some of the notes on them, are drawn from Hooper’s indispensable bibliographies in <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins, 1996), 799-883, <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James T. Como (1992, new edition), 250-301, and <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 387-492. I have supplemented, expanded, or corrected Hooper’s entries as necessary, in addition to adding dozens of my own. I have not used Hooper’s long-outdated first bibliography, which can be found in <i>Light on C.S. Lewis,</i> ed. Jocelyn Gibb (London: Geoffrey Bles, 1965), 117-60.</p>
 
                         <p>Paul Tankard’s meticulously researched article, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 432-438, also proved invaluable in unearthing and cataloguing several obscure letters and blurbs.</p> 
                         

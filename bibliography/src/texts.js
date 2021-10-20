@@ -1,4 +1,3 @@
-// To minify run minify bibliography/src/texts.js > bibliography/src/texts.min.js
 const texts = [
     // PROSE PIECES
     {
@@ -145,13 +144,35 @@ const texts = [
         notes: ["These were printed as an actual transcript, not as summary notes by a secretary.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "Epigraph, dedication, and footnote exclusive to British edition of <i>The Great Divorce</i>",
+        title: "Epigraph exclusive to British edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
-        pageRange: "3, 5, 112",
+        pageRange: "3",
         year: 1945,
         monthAndDay: null,
-        textProvided: "[epigraph]<br/><br/>“No, there is no escape. There is no heaven with a little of hell in it—no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD <br/><br/>[dedication]<br/><br/>“TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>[footnote 1 on the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>This method of travel also I learned from the ‘scientifictionists.’",
+        textProvided: "“No, there is no escape. There is no heaven with a little of hell in it—no plan to retain this or that of the devil in our hearts or our pockets. Out Satan must go, every hair and feather.” <br/>GEORGE MACDONALD",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Dedication exclusive to British edition of <i>The Great Divorce</i>",
+        printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "5",
+        year: 1945,
+        monthAndDay: null,
+        textProvided: "TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Footnote exclusive to British edition of <i>The Great Divorce</i>",
+        printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "112",
+        year: 1945,
+        monthAndDay: null,
+        textProvided: "[On the text “Aye. But the voyage was not mere locomotion. That bus, and all you inside it, were increasing <i>in size</i>.”:] <br/><br/>This method of travel also I learned from the ‘scientifictionists.’",
         type: "Prose",
         notes: null
     },
@@ -203,7 +224,7 @@ const texts = [
         title: "Preface to <i>The Tortured Planet</i>",
         printedIn: "<i>The Tortured Planet (=That Hideous Strength)</i> (New York: Avon Books)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: "5",
         year: 1946,
         monthAndDay: null,
         textProvided: "This is a ‘tall story’ about devilry, though it has behind it a serious ‘point’ which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think Fellows of Colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham – a university with which the only connection I have ever had was entirely pleasant.<br/><br/>In reducing the original story to a length suitable for this edition, I believe I have altered nothing but the tempo and the manner. I myself prefer the more leisurely pace-I would not wish even <i>War and Peace</i> or <i>The Faerie Queene</i> any shorter-but some critics may well think this abridgment is also an improvement.",
@@ -266,7 +287,7 @@ const texts = [
         notes: ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
     },
     {
-        title: "Dedication to Marjorie Milne",
+        title: "Dedication",
         printedIn: "<i>Dymer</i>, 2<sup>nd</sup> edition, London: J.M. Dent & Sons Ltd., New York: The Macmillan Company",
         issueOrVolume: null,
         pageRange: "v",
@@ -378,14 +399,14 @@ const texts = [
     },
     {
         title: "<i>Molliter Ossa Cubent</i>",
-        printedIn: "<i>The Campbellian</i> (the School Magazine of Campbell College, Belfast)",
+        printedIn: "<i>The Campbellian</i>",
         issueOrVolume: "XIV, no. 9",
         pageRange: "692-93",
         year: 1959,
         monthAndDay: "July",
         textProvided: "Of Miss McNeill the charitable lady, the teacher, the member of committees, I saw nothing. My knowledge is of Janie McNeill; even of Chanie, as we sometimes called her, for she had the habit, common in some Scottish dialects, of ‘unvoicing’ the consonant ‘J’. Obviously there is a great deal I newer knew. Someone writes to me describing her as a mystic. I would never have guessed it. What I remember is something as boisterous, often as discomposing but always as fresh and tonic, as a high wind. Janie was the delight and terror of a little Strandtown and Belmont circle, now almost extinct. I remember wild walks on the (still unspoilt) Holywood hills, preposterous jokes shouted through the gale across half a field, extravagantly merry (yet also Lucullan) lunches and suppers at Lisnadene, devastating raillery, the salty tang of an immensely vivid personality. She was a religious woman, a true, sometimes a grim, daughter of the Kirk; no less certainly, the broadest-spoken maiden lady in the Six Counties. She was a born satirist. Every kind of sham and self-righteousness was her butt. She deflated the unco-gude with a single ironic phrase, then a moment’s silence, then the great gust of her laughter. She laughed with her whole body. When I consider how all this was maintained through years of increasing loneliness, pain, disability, and inevitable frustration I am inclined to say she had a soul as brave and uncomplaining as any I ever knew. Few have come nearer to obeying Dunbar’s magnificent recipe (she knew her Dunbar):<br/><br/>Man, please thy Maker and be merry <br/> And give not for this world a cherry.",
         type: "Prose",
-        notes: ["An obituary of Jane Agnes McNeill.", "Appears in Walter Hooper's <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 706-707."]
+        notes: ["<i>The Campbellian</i> is the school magazine of Campbell College, Belfast.", "The piece is an obituary of Jane Agnes McNeill.", "Appears in Walter Hooper's <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 706-707."]
     },
     {
         title: "A Series of Ten Radio Talks on Love",
@@ -450,9 +471,9 @@ const texts = [
         pageRange: "v-vi",
         year: 1962,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: "While much of the material acknowledged below is my own copyright, I would like to thank all those who have allowed me to reprint the papers in this book. <i>De Descriptione Temporum</i> was my inaugural lecture from the Chair of Mediaeval and Renaissance Literature at Cambridge and published by the Syndics of the Cambridge University Press in 1954; “The Literary Impact of the Authorised Version” was the Ethel M. Wood lecture delivered before the University of London and published by the Athlone Press of the University of London in 1950; “Hamlet: The Prince or The Poem?” was the 1942 Annual Shakespeare Lecture of the British Academy and was published for the British Academy by Humphrey Milford of the Oxford University Press; “Kipling’s World” was a paper addressed to the English Association; “Sir Walter Scott” was a toast proposed to the Edinburgh Sir Walter Scott Club in 1956; “Lilies that Fester” was written for <i>Twentieth Century</i> in 1955; “Psycho-analysis and Literary Criticism” was first read to a literary society at Westfield College and then published by the English Association in <i>Essays and Studies</i>, Vol. XXVII, 1941; “The Inner Ring” was a Memorial Oration delivered at King’s College, University of London, in 1944 and published by Geoffrey Bles; “Is Theology Poetry?” and “On Obstinacy in Belief” were both papers read to the Oxford Socratic Club and published by them in 1944 and 1955 in the <i>Socratic Digest</i>; “Transposition” (now slightly augmented) was a sermon preached in Mansfield College, and published by Geoffrey Bles; and “The Weight of Glory”, which was a sermon given in the Church of St. Mary the Virgin. Oxford, was published first by the S.P.C.K. and then by Geoffrey Bles. I must thank Mrs. George Bambridge, Messrs. Methuen and Macmillan for the use of quotations from Kipling’s works.<br/><br/>Since these papers were composed at various times during the last twenty years, passages in them which some readers may find reminiscent of my later work are in fact anticipatory or embryonic. I have allowed myself to be persuaded that such overlaps were not a fatal objection to their republication.<br/><br/>C. S. L.<br/><br/>Cambridge, 1962",
         type: "Prose",
-        notes: ["I include this because copies of <i>They Asked for a Paper</i> are not in print.", "If you would like to make an electronic transcript of this text, let me know."]
+        notes: ["I include this because copies of <i>They Asked for a Paper</i> are not in print."]
     },
     {
         title: "Comments on Obstacles to the Christian Initiative",
@@ -573,7 +594,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "A Myth is the description of a state, an event, or a series of events, involving superhuman personages, possessing unity, not truly implying a particular time or place, and dependent for its contents not on motives developed in the course of action but on the immutable relations of the personages.",
         type: "Prose",
-        notes: ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplement</i> 1 (2015)."]
+        notes: ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015)."]
     },
     {
         title: "Narnian Manuscripts (Various)",
@@ -584,7 +605,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-7 (holograph, 305 and transcription, 304, 306-7). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-307 (holograph, 305 and transcription, 304, 306-307). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
         title: "Narnian Manuscripts (Various)",
@@ -818,7 +839,7 @@ const texts = [
         notes: ["If you have this text, please send it to me!"]
     },
     {
-        title: "Excerpts from an Essay on Richard Wagner (1911, <i>LP</i> 3:233-234)",
+        title: "Excerpts from an Essay on Richard Wagner (1911)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
         pageRange: "30, 32",
@@ -826,7 +847,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on]<br/><br/>the great Bayreuth Master <br/><br/>[, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that]<br/><br/>He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.<br/><br/>[What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the great Wagnerian Ring cycle and Parsifal,]<br/><br/>his last and greatest work.<br/><br/>[He disdained Tannhäuser, in which Wagner was] <br/><br/>led away into the tinselled realms of tunefulness <br/><br/>[, but considered Tristan unsurpassed as drama by anything the world had ever seen.]<br/><br/>Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts. One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed, <br/><br/>[the young essayist of Cherbourg had written.]",
         type: "Prose",
-        notes: null
+        notes: ["Source: <i>LP</i> 3:233-234."]
     },
     {
         title: "Blurb (complete) for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
@@ -1335,7 +1356,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Henry More” (1924 notes, MS-170)",
+        title: "“Henry More” (1924 notes, Wade MS-170)",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
         pageRange: "134, 139, 139 note 156, 362 note 192",
@@ -1358,7 +1379,7 @@ const texts = [
     },
     {
         title: "Annotations in his copies of Chaucer’s works",
-        printedIn: "Somon Horobin, “What C.S. Lewis Really Did to Chaucer’s <i>Troilus and Criseyde,</i>” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
+        printedIn: "Simon Horobin, “What C.S. Lewis Really Did to Chaucer’s <i>Troilus and Criseyde,</i>” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 2",
         pageRange: "23-29",
         year: 2009,
@@ -1374,9 +1395,9 @@ const texts = [
         pageRange: "25-28",
         year: 2010,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: ["In a book like this it might be expected that we should begin with the origins of language and proceed thence through prehistoric language till we come to ancient language and so finally arrive at modern language. This method undoubtedly makes a book easy to follow but it has one serious drawback. It tends to give you the impression that the things said in the later chapters are based or founded on the things said in the earlier, just as the later propositions in geometry are based on the earlier. If this impression is left to operate unchecked the reader may even come to feel that our statements about primitive or original languages are more certain than those we make about modern language, or if the former were the <i>data</i> or the latter a kind of development in reality, however, it is the opposite. We know a great deal about modern language, and less about ancient; and anything we can say about prehistoric language, can only be guesswork. The whole basis of knowledge on which that guesswork is built is our knowledge of modern language. We must therefore begin with it. Any speculations we can make about an unknown past or the unknowable beginnings must come at the end. That will help to emphasize their merely speculative character. We begin, then, with an attempt to say what language is.<br/><br/>A language, in the widest sense, is a system of signs. Thus there is a language of flags (used in the navy), a “language of flowers”, and /2/ so forth. But there is one such system of signs so widely used and so much richer than all the others that it generally is called simply “language.” This is the system in which the signs are the various noises made by a human mouth. It is Language in this sense, which is the subject of the present book.<br/><br/>But our definition is still too broad. For example, a groan or cry is a noise made by a human mouth and it may be a sign that the noise of a mouth which makes it is in pain. But it is not what we usually call language. We only see language in its full sense when the noises made not only are signs but are intended to be signs by the person who makes them.This is sometimes expressed by saying that language is vocal noise with a meaning. This will do well enough provided that we remember, or distinguish, the different senses of the word meaning. It has at least three.<br/><br/>1. “That sky means rain”. By saying this we intend to convey that the state of the sky is a sign of rain, in the sense that it is evidence (whether certain or probable) that rain will presently begin to fall. <i>We</i> are not necessarily saying that crying or anything is intentionally making signs to us. We are stating grounds on which we are prepared to make a prediction.<br/><br/>2. “I mean to go to London to-morrow.” This might be translated – “I intend, propose, am resolved to go London to-morrow”. /3/<br/><br/>3. “The sign = means that the two qualities are equal” or “is a sign of equality.” This must be carefully distinguished from the First [sic] sense. The two strokes are not “a sign of” equality or the same as being evidence of equality. If we take the expression a = b as evidence that a does in fact equal b that will be because we believe the writer to be a sound mathematician and an honest man. Even if the expression were quite unbelievable (e.g. 5 = 12) we should still say that the sign “meant” equality: indeed we should only know a statement to be untrue because we knew that the sign meant “equals” (if the writer was using it to mean “is less than,” his statements would no longer be untrue). Now this third kind of meaning is the one that language principally has and it is hardest to define. To mean, in this sense, is “to draw attention to,” “is present in the mind”. But that is not quite enough. A groan may draw our attention to the pain of the man who groans, and the colour of the sky may make us think of rain. But the sign = does not only in fact draw our attention to, or offer to the mind, the relation of equality, but <i>is intended</i> to do so. To mean, in this third sense is “to draw attention to not accidentally but on purpose”.<br/><br/>These three senses can now be distinguished as the Evidential /4/ (that the sky means rain)[,] the psychological (I mean to go to London) and the symbolical (= means equality) senses of the new meaning. We can now define language as the system of vocal noises <i>meant</i> (psychological sense) to mean (symbolic sense).<br/><br/>Two points had better be cleared up before we proceed.<br/><br/>1. Some have attempted to give what may be called an Associated account of psychological meaning. According to the sentence, “The word Radish means an edible reddish root with a hot taste” can be translated “The word Radish is so associated in my mind with the root that when I hear or read it the imagination of the word inevitably occurs to my mind”. Now it is certainly the case that words do in fact thus call into inference by association memory-mages of what they mean. But it does not follow and not prove to mean much [sic] in their doing this. The writers believe that it does not. For (a) Things which are (in the symbolical sense of the word) meaningless do this quite as much as words, if not more: e.g. smells, or natural sounds. (b) in one man’s mind the word “cross channel boat” may be primarily associated with a honeymoon: in another’s with being torpedoed. Yet they can understand one another when they use the word. To this those who hold the Associational theory reply that one instance does not prove that meaning is something quite distinct from Association, but only that the meaning is a special selection from the images /5/ associated with the word. Thus both men have dozens of associations with <i>cross-channel boat,</i> but each person has to select from the word that limited number of associations which is required for ordinary talk. But this seems to amount to giving up the Associational theory altogether. For if we ask <i>what</i> selection is required, surely we must answer “That selection which the word is intended to call up when used by speakers who know English.” What makes this the thing meant by the word is not the mere fact that they are called up but knowledge that the other speaker intends to call them up. In talking with children or imbeciles we do sometimes find that our words are merely evoking associations: we ask “Has your mother gone out” and are told “Mother made a cake to-day.” The impossibility of any real conversation on such terms helps to show how far meaning is from mere association.<br/><br/>2. Although language is the system of vocal noises meant (psychological sense) to mean (symbolical sense) yet of course most language, quite apart from the speaker’s intention also “means” in the first sense, the evidential. Thus the tone of the speaker’s voice may be evidence for all sorts of things which are distinct from what he means (in the symbolical sense). Or the mere fact of his saying a certain thing may be a sign of, be evidence for, something else. “He says he’s got a headache[,] that means he /6/ is afraid to-come up the mountain.[”] This may be perfectly true if we know our man; the excuse may be good evidence for his fear. But obviously the words “I am ill” do not mean “I am afraid” in the symbolical sense, nor does the speaker mean (in a psychological sense) to tell us that he is afraid. Conversely, noises which are not ordinarily symbolical may be used with the intention of conveying information to us. A man may groan for the expressed purpose of letting us know that he is in pain. In this case the kind of noise which normally has a meaning only in case I (the Evidential) is being temporarily pressed into service as Language and given a symbolical meaning.<br/><br/>Let us now return to our definition of language as a system of vocal noises meant (sense I) to mean (sense III). Before this will quite do, a further distinction has to be made. If we went out for a walk with a man and he suddenly utters the single word “Table” we should probably ask him what he meant. We might go on to say that the word “Table” all by itself is meaningless. And in one sense, so it is. In another sense we know perfectly well that the word Table has a meaning and after a little patience, we could all say what it meant. It begins to look as if single words (or at any rate some single words) have meaning in one sense, and sentences have meaning in some different sense. /7/<br/><br/>This suspicion is later borne out by the following fact. If a man utters a sentence which contains a word we don’t know, we tend to ask him what <i>that word means</i>. But if he utters a sentence which we don’t understand (though we know all the words in it) we are much more likely to ask him what <i>he means</i>.<br/><br/>Before going any further it will be well to issue an emphatic warning against what the authors consider to be one wrong conception of the problem. It is a very tempting one. The temptation is to say that the single word, or at any rate the words mean things, as the sentences mean thoughts. Thus table can mean a piece of furniture but “There is a bigger table in the next room” would mean that the speaker has a mental picture of the next room with the bigger table in it, and that he was mentally connecting the idea of the room with the idea of the bigger table, or that he was (as the logicians say) “judging” that the next room contains a bigger table. Now what is true is that unless he is lying, he probably has the mental picture, and certainly connects the ideas and certainly makes the judgment. His uttering the sentence is therefore evidence for the dates or events in his own mind: that is it means (evidential sense) that they are occurring. But does it also mean this in the symbolical sense? It would appear not. For if that were so we should never be talking about anything but our own /8/ states of mind. And though it is clear that we are sometimes talking about our own states of mind, it is also quite clear that we often talk about other things. Indeed we often contrast our own states of mind with the thing. The man says “There is a bigger table in the next room.” His friend may rudely reply “So <i>you</i> think.” “Of course I do,” he may retort, “otherwise I wouldn’t have said so. But I’ll show you in a moment that the room is as I thought.” (It might of course be maintained by certain philosophers that what we call Things are only a special kind of thought, but we need not bother with that question here. It would still remain true and we often talk about that special kind of thought which one calls Things, and not talk about the kind purposely called “states of our own minds[”.])"],
         type: "Prose",
-        notes: ["If you would like to make an electronic transcription of this text, let me know."]
+        notes: null
     },
     {
         title: "“Scraps” of ideas in notebook with Lefay fragment and “Language and Human Nature” fragment",
@@ -1601,7 +1622,7 @@ const texts = [
     },
     {
         title: "Great War Papers",
-        printedIn: "Norbert Feinendegen and Arend Smilde, <i>The “Great War” of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),</i> Inklings Studies Supplement",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),”</i> eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
         pageRange: "[see notes for page ranges]",
         year: 2015,
@@ -1672,7 +1693,7 @@ const texts = [
         pageRange: "19",
         year: 2019,
         monthAndDay: null,
-        textProvided: "https://books.google.ca/books?id=4NbaDwAAQBAJ&pg=PA21&dq=%22archangel+fragment%22&hl=en&sa=X&ved=0ahUKEwi22YWvyeDpAhXngnIEHe_YD1IQ6AEIKDAA#v=onepage&q&f=false",
+        textProvided: "For this, my dear, is the true delight. To take a creature whom, if the King permitted and our own will were so strangely perverted, we could with one touch of the little finger turn into nothingness, even as that creature could spoil the down on a butterflies wing − a creature so short-lived that its whole mortal life rushes past us in a moment − a creature so feeble in understanding that only by gazing long and reverently into its mind can we discern its difference from the brutes − to take such a puppet, such an all but nothing, to hold back our strength and nurse its tiny freedom as one who nurses a little spark into flame, to bear with its follies, to love its deformities, to remake every day and hour what it destroys, to watch, to prune, to bear it as a woman bears a man in her womb, and all in hope of the day when it shall be exalted, beyond its nature, against its nature, into something not only our equal, but our superior − to train the infant god ever waiting for the day when we can reverence it, who is now too blind too reverence us, that, my child, is the real joy, the endless fascination, the lovely irony, the imperishable reward",
         type: "Prose",
         notes: null
     },
@@ -1700,7 +1721,7 @@ const texts = [
     },
     {
         title: "C.S. Lewis’ 1924 Tutorial Notes",
-        printedIn: "Norbert Feinendegen and Arend Smilde, “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” <i>Inklings Studies Supplement</i>",
+        printedIn: "Norbert Feinendegen and Arend Smilde, “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” <i>Inklings Studies Supplemenst</i>",
         issueOrVolume: "no. 2",
         pageRange: "87-158",
         year: 2021,
@@ -1711,7 +1732,7 @@ const texts = [
     },
     {
         title: "C.S. Lewis’ 1924 Lecture Notes",
-        printedIn: "Norbert Feinendegen and Arend Smilde, “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” <i>Inklings Studies Supplement</i>",
+        printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "159-160",
         year: 2021,
@@ -1722,7 +1743,7 @@ const texts = [
     },
     {
         title: "“The Whole”",
-        printedIn: "Norbert Feinendegen and Arend Smilde, “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” <i>Inklings Studies Supplement</i>",
+        printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "161-166",
         year: 2021,
@@ -1963,6 +1984,17 @@ const texts = [
         type: "Diary",
         notes: ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites <i>LP</i> 3:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
+    {
+        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
+        issueOrVolume: null,
+        pageRange: "",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "",
+        type: "Diary",
+        notes: []
+    },
     // LETTERS
     // letters discovered by me
     {
@@ -2095,7 +2127,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "As from Magdalen College, <br/>Oxford Aug. 20th ’45<br/><br/>Dear Miss Fetherston,<br/><br/>I can’t <i>really</i> come in: there are so many other “souls to be saved” which means so many other things to be read and written. If the enclosed notes help at all, use them as you see fit. I like your Contact Club and wish it all the best.<br/><br/>Yours sincerely<br/>C. S. Lewis<br/><br/>I am out of touch with the whole direction given to the debate from the outset. Unless we are wishful thinkers, what we want to know about “Rationalism” and “Religion” is not which (if either) will make us happy but which (if either) is true.<br/><br/>The word <i>Rationalism</i> has two meanings. (A) The etymological sense: the determined practice of reason. (B) Historically, the name given in the nineteenth century to that school of thought which denied the supernatural. We all alike claim to be rationalistic in sense A. The debate is between those who think that reason leads to “Rationalism” in sense A and those who do not. It would be safer to describe it as a debate between Naturalism and Supernaturalism.<br/><br/>The case against Naturalism is briefly this:<br/>1.	When any particular thought is known to be the result of irrational causes it is discounted: e.g. when we know that I think this dog is dangerous <i>because</i> I have a complex about black dogs, no one attaches any value to my opinion.<br/>2.	If each individual thought is discounted for having irrational causes, then, should <i>thought in general</i> be shown to have irrational causes, thought in general must be equally discredited.<br/>3.	Now Naturalism asserts that human thought is due to the movement of atoms in the brain, etc., i.e. to irrational causes.<br/>4.	Therefore if Naturalism is true, all thought is discredited. <br/>But Naturalism is itself a thought.<br/>Therefore Naturalism is discredited.<br/>i.e. Naturalism cuts off the branch it is sitting on.<br/>The belief that the human mind is simply a part of that irrational total we call Nature is quite inconsistent with those claims for our reason which Naturalists (like all other thinkers) make.<br/>5.	Put this another way. My reason is either a product of Nature or it is not. If it is, then it is a by-product of natural selection, “selected,” not because its logic yields truth but because its mental habits have “survival value” for mating and food hunting. What reason have we then to suppose that when applied beyond immediate practical matters they will yield truth? But the whole Naturalistic philosophy (atoms, nebulae, paleontology, evolution, matter itself) is precisely such an application “beyond immediate practical matters.” <i>On its own premises,</i> therefore, there is no reason to believe it true. If, on the other hand, my reason is not a product of Nature, then something other than Nature, the extra- or supernatural, exists.<br/>6.	The great argument <i>for</i> Naturalism is, I admit, the limitless cruelty and injustice of Nature. But oddly enough the moment we say this, we are really denying that Nature is all. For “This is unjust” is a moral judgment (M.J.). Now my M.J. is itself either a product of Nature or not. If it is how can I at the same moment trust my M.J. and condemn that Nature which, on this assumption, has doled my M.J. out to me? Seeing the <i>source</i> to be senseless and detestable I ought of course equally to despise the M.J. which comes from it. In which case my condemnation must be abandoned. In reality, of course, at the moment of judging Nature to be bad I am (without noticing it) claiming to be something <i>outside</i> Nature. In fact I am really adopting the alternative hypothesis – that my M.J. does <i>not</i> come from Nature but from some higher reality. The more seriously and confidently you condemn Nature the most you are implying both that there is a Supernature and that you are in some way in touch with it.<br/>7.	If these positions are accepted it follows that Supernaturalism is really involved in the claim we daily make to be able to think at all. After seeing that, one might go on to investigate the usual accounts given of the supernatural. (It will save time to recognize that only <i>two</i> really matter: Hinduism and Christianity. Buddhism is a Hindu heresy and Islam is a Christian heresy. All the vital elements of Paganism, Platonism, Stoicism and Confucianism will be found either in Hinduism or Christianity or in both.)<br/>8.	On “mystical experience”: I wish I had a quite clear definition of the words. If one means “supernatural experience” (i.e. experience one couldn’t have if one were a merely natural being) then we all have it whenever we think rationally. If it means supernatural stages of consciousness then the idea that an enquiry into religion should begin by trying to “get a mystical experience” before you have practiced the religious life seems to me like the idea that the study of geography should begin by trying to sail a ship to America before you’ve learned navigation.<br/>9.	On Reason and Revelation: If the claim “there has been a revelation” is in fact false, then no doubt the acceptance of the supposed revelation will usually involve errors in reasoning. But there is no opposition in principle between Reason and Revelation: for of course those who accept Revelation believe that Reason leads them to regard it <i>as</i> a Revelation. In fact, the relation between Reason and Revelation is like that between Reason and sense-experience: i.e. both supply Reason with materials which she cannot spin out of herself.<br/><br/>C. S. Lewis",
         type: "Letter",
-        notes: ["In two pages Lewis lays out, in Brenton Dickieson’s words: “1) a summary of his argument that Rationalism/Naturalism is self-defeating (from Miracles); 2) the appeal to Naturalism that nature is cruel (developed from Mere Christianity); 3) a reduction of world religions to Hinduism and Christianity; 4) a caution on mysticism; and 5) a note suggestion the relationship of Revelation to Reason is like that of Sense Experience to Reason.”", "Neither this letter nor the attached note are in the <i>Collected Letters</i>."]
+        notes: null
     },
     {
         title: "Letter to Malcolm M. Ferguson (20 February 1953)",
@@ -4465,7 +4497,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien” ",
+        title: "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien”",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "31",
