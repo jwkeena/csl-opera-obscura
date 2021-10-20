@@ -161,7 +161,7 @@ const texts = [
         pageRange: "5",
         year: 1945,
         monthAndDay: null,
-        textProvided: "TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes<br/><br/>",
+        textProvided: "TO <br/>BARBARA WALL <br/>Best and most long-suffering of scribes",
         type: "Prose",
         notes: null
     },
@@ -271,7 +271,7 @@ const texts = [
         pageRange: "last page of front matter and 1-2",
         year: 1948,
         monthAndDay: null,
-        textProvided: "false",
+        textProvided: false,
         type: "Prose",
         notes: ["I include this because copies of <i>Arthurian Torso</i> are so rare and expensive.", "If you would like to make an electronic copy of this text, please let me know."]
     },
@@ -1395,7 +1395,7 @@ const texts = [
         pageRange: "25-28",
         year: 2010,
         monthAndDay: null,
-        textProvided: ["In a book like this it might be expected that we should begin with the origins of language and proceed thence through prehistoric language till we come to ancient language and so finally arrive at modern language. This method undoubtedly makes a book easy to follow but it has one serious drawback. It tends to give you the impression that the things said in the later chapters are based or founded on the things said in the earlier, just as the later propositions in geometry are based on the earlier. If this impression is left to operate unchecked the reader may even come to feel that our statements about primitive or original languages are more certain than those we make about modern language, or if the former were the <i>data</i> or the latter a kind of development in reality, however, it is the opposite. We know a great deal about modern language, and less about ancient; and anything we can say about prehistoric language, can only be guesswork. The whole basis of knowledge on which that guesswork is built is our knowledge of modern language. We must therefore begin with it. Any speculations we can make about an unknown past or the unknowable beginnings must come at the end. That will help to emphasize their merely speculative character. We begin, then, with an attempt to say what language is.<br/><br/>A language, in the widest sense, is a system of signs. Thus there is a language of flags (used in the navy), a “language of flowers”, and /2/ so forth. But there is one such system of signs so widely used and so much richer than all the others that it generally is called simply “language.” This is the system in which the signs are the various noises made by a human mouth. It is Language in this sense, which is the subject of the present book.<br/><br/>But our definition is still too broad. For example, a groan or cry is a noise made by a human mouth and it may be a sign that the noise of a mouth which makes it is in pain. But it is not what we usually call language. We only see language in its full sense when the noises made not only are signs but are intended to be signs by the person who makes them.This is sometimes expressed by saying that language is vocal noise with a meaning. This will do well enough provided that we remember, or distinguish, the different senses of the word meaning. It has at least three.<br/><br/>1. “That sky means rain”. By saying this we intend to convey that the state of the sky is a sign of rain, in the sense that it is evidence (whether certain or probable) that rain will presently begin to fall. <i>We</i> are not necessarily saying that crying or anything is intentionally making signs to us. We are stating grounds on which we are prepared to make a prediction.<br/><br/>2. “I mean to go to London to-morrow.” This might be translated – “I intend, propose, am resolved to go London to-morrow”. /3/<br/><br/>3. “The sign = means that the two qualities are equal” or “is a sign of equality.” This must be carefully distinguished from the First [sic] sense. The two strokes are not “a sign of” equality or the same as being evidence of equality. If we take the expression a = b as evidence that a does in fact equal b that will be because we believe the writer to be a sound mathematician and an honest man. Even if the expression were quite unbelievable (e.g. 5 = 12) we should still say that the sign “meant” equality: indeed we should only know a statement to be untrue because we knew that the sign meant “equals” (if the writer was using it to mean “is less than,” his statements would no longer be untrue). Now this third kind of meaning is the one that language principally has and it is hardest to define. To mean, in this sense, is “to draw attention to,” “is present in the mind”. But that is not quite enough. A groan may draw our attention to the pain of the man who groans, and the colour of the sky may make us think of rain. But the sign = does not only in fact draw our attention to, or offer to the mind, the relation of equality, but <i>is intended</i> to do so. To mean, in this third sense is “to draw attention to not accidentally but on purpose”.<br/><br/>These three senses can now be distinguished as the Evidential /4/ (that the sky means rain)[,] the psychological (I mean to go to London) and the symbolical (= means equality) senses of the new meaning. We can now define language as the system of vocal noises <i>meant</i> (psychological sense) to mean (symbolic sense).<br/><br/>Two points had better be cleared up before we proceed.<br/><br/>1. Some have attempted to give what may be called an Associated account of psychological meaning. According to the sentence, “The word Radish means an edible reddish root with a hot taste” can be translated “The word Radish is so associated in my mind with the root that when I hear or read it the imagination of the word inevitably occurs to my mind”. Now it is certainly the case that words do in fact thus call into inference by association memory-mages of what they mean. But it does not follow and not prove to mean much [sic] in their doing this. The writers believe that it does not. For (a) Things which are (in the symbolical sense of the word) meaningless do this quite as much as words, if not more: e.g. smells, or natural sounds. (b) in one man’s mind the word “cross channel boat” may be primarily associated with a honeymoon: in another’s with being torpedoed. Yet they can understand one another when they use the word. To this those who hold the Associational theory reply that one instance does not prove that meaning is something quite distinct from Association, but only that the meaning is a special selection from the images /5/ associated with the word. Thus both men have dozens of associations with <i>cross-channel boat,</i> but each person has to select from the word that limited number of associations which is required for ordinary talk. But this seems to amount to giving up the Associational theory altogether. For if we ask <i>what</i> selection is required, surely we must answer “That selection which the word is intended to call up when used by speakers who know English.” What makes this the thing meant by the word is not the mere fact that they are called up but knowledge that the other speaker intends to call them up. In talking with children or imbeciles we do sometimes find that our words are merely evoking associations: we ask “Has your mother gone out” and are told “Mother made a cake to-day.” The impossibility of any real conversation on such terms helps to show how far meaning is from mere association.<br/><br/>2. Although language is the system of vocal noises meant (psychological sense) to mean (symbolical sense) yet of course most language, quite apart from the speaker’s intention also “means” in the first sense, the evidential. Thus the tone of the speaker’s voice may be evidence for all sorts of things which are distinct from what he means (in the symbolical sense). Or the mere fact of his saying a certain thing may be a sign of, be evidence for, something else. “He says he’s got a headache[,] that means he /6/ is afraid to-come up the mountain.[”] This may be perfectly true if we know our man; the excuse may be good evidence for his fear. But obviously the words “I am ill” do not mean “I am afraid” in the symbolical sense, nor does the speaker mean (in a psychological sense) to tell us that he is afraid. Conversely, noises which are not ordinarily symbolical may be used with the intention of conveying information to us. A man may groan for the expressed purpose of letting us know that he is in pain. In this case the kind of noise which normally has a meaning only in case I (the Evidential) is being temporarily pressed into service as Language and given a symbolical meaning.<br/><br/>Let us now return to our definition of language as a system of vocal noises meant (sense I) to mean (sense III). Before this will quite do, a further distinction has to be made. If we went out for a walk with a man and he suddenly utters the single word “Table” we should probably ask him what he meant. We might go on to say that the word “Table” all by itself is meaningless. And in one sense, so it is. In another sense we know perfectly well that the word Table has a meaning and after a little patience, we could all say what it meant. It begins to look as if single words (or at any rate some single words) have meaning in one sense, and sentences have meaning in some different sense. /7/<br/><br/>This suspicion is later borne out by the following fact. If a man utters a sentence which contains a word we don’t know, we tend to ask him what <i>that word means</i>. But if he utters a sentence which we don’t understand (though we know all the words in it) we are much more likely to ask him what <i>he means</i>.<br/><br/>Before going any further it will be well to issue an emphatic warning against what the authors consider to be one wrong conception of the problem. It is a very tempting one. The temptation is to say that the single word, or at any rate the words mean things, as the sentences mean thoughts. Thus table can mean a piece of furniture but “There is a bigger table in the next room” would mean that the speaker has a mental picture of the next room with the bigger table in it, and that he was mentally connecting the idea of the room with the idea of the bigger table, or that he was (as the logicians say) “judging” that the next room contains a bigger table. Now what is true is that unless he is lying, he probably has the mental picture, and certainly connects the ideas and certainly makes the judgment. His uttering the sentence is therefore evidence for the dates or events in his own mind: that is it means (evidential sense) that they are occurring. But does it also mean this in the symbolical sense? It would appear not. For if that were so we should never be talking about anything but our own /8/ states of mind. And though it is clear that we are sometimes talking about our own states of mind, it is also quite clear that we often talk about other things. Indeed we often contrast our own states of mind with the thing. The man says “There is a bigger table in the next room.” His friend may rudely reply “So <i>you</i> think.” “Of course I do,” he may retort, “otherwise I wouldn’t have said so. But I’ll show you in a moment that the room is as I thought.” (It might of course be maintained by certain philosophers that what we call Things are only a special kind of thought, but we need not bother with that question here. It would still remain true and we often talk about that special kind of thought which one calls Things, and not talk about the kind purposely called “states of our own minds[”.])"],
+        textProvided: "In a book like this it might be expected that we should begin with the origins of language and proceed thence through prehistoric language till we come to ancient language and so finally arrive at modern language. This method undoubtedly makes a book easy to follow but it has one serious drawback. It tends to give you the impression that the things said in the later chapters are based or founded on the things said in the earlier, just as the later propositions in geometry are based on the earlier. If this impression is left to operate unchecked the reader may even come to feel that our statements about primitive or original languages are more certain than those we make about modern language, or if the former were the <i>data</i> or the latter a kind of development in reality, however, it is the opposite. We know a great deal about modern language, and less about ancient; and anything we can say about prehistoric language, can only be guesswork. The whole basis of knowledge on which that guesswork is built is our knowledge of modern language. We must therefore begin with it. Any speculations we can make about an unknown past or the unknowable beginnings must come at the end. That will help to emphasize their merely speculative character. We begin, then, with an attempt to say what language is.<br/><br/>A language, in the widest sense, is a system of signs. Thus there is a language of flags (used in the navy), a “language of flowers”, and /2/ so forth. But there is one such system of signs so widely used and so much richer than all the others that it generally is called simply “language.” This is the system in which the signs are the various noises made by a human mouth. It is Language in this sense, which is the subject of the present book.<br/><br/>But our definition is still too broad. For example, a groan or cry is a noise made by a human mouth and it may be a sign that the noise of a mouth which makes it is in pain. But it is not what we usually call language. We only see language in its full sense when the noises made not only are signs but are intended to be signs by the person who makes them.This is sometimes expressed by saying that language is vocal noise with a meaning. This will do well enough provided that we remember, or distinguish, the different senses of the word meaning. It has at least three.<br/><br/>1. “That sky means rain”. By saying this we intend to convey that the state of the sky is a sign of rain, in the sense that it is evidence (whether certain or probable) that rain will presently begin to fall. <i>We</i> are not necessarily saying that crying or anything is intentionally making signs to us. We are stating grounds on which we are prepared to make a prediction.<br/><br/>2. “I mean to go to London to-morrow.” This might be translated – “I intend, propose, am resolved to go London to-morrow”. /3/<br/><br/>3. “The sign = means that the two qualities are equal” or “is a sign of equality.” This must be carefully distinguished from the First [sic] sense. The two strokes are not “a sign of” equality or the same as being evidence of equality. If we take the expression a = b as evidence that a does in fact equal b that will be because we believe the writer to be a sound mathematician and an honest man. Even if the expression were quite unbelievable (e.g. 5 = 12) we should still say that the sign “meant” equality: indeed we should only know a statement to be untrue because we knew that the sign meant “equals” (if the writer was using it to mean “is less than,” his statements would no longer be untrue). Now this third kind of meaning is the one that language principally has and it is hardest to define. To mean, in this sense, is “to draw attention to,” “is present in the mind”. But that is not quite enough. A groan may draw our attention to the pain of the man who groans, and the colour of the sky may make us think of rain. But the sign = does not only in fact draw our attention to, or offer to the mind, the relation of equality, but <i>is intended</i> to do so. To mean, in this third sense is “to draw attention to not accidentally but on purpose”.<br/><br/>These three senses can now be distinguished as the Evidential /4/ (that the sky means rain)[,] the psychological (I mean to go to London) and the symbolical (= means equality) senses of the new meaning. We can now define language as the system of vocal noises <i>meant</i> (psychological sense) to mean (symbolic sense).<br/><br/>Two points had better be cleared up before we proceed.<br/><br/>1. Some have attempted to give what may be called an Associated account of psychological meaning. According to the sentence, “The word Radish means an edible reddish root with a hot taste” can be translated “The word Radish is so associated in my mind with the root that when I hear or read it the imagination of the word inevitably occurs to my mind”. Now it is certainly the case that words do in fact thus call into inference by association memory-mages of what they mean. But it does not follow and not prove to mean much [sic] in their doing this. The writers believe that it does not. For (a) Things which are (in the symbolical sense of the word) meaningless do this quite as much as words, if not more: e.g. smells, or natural sounds. (b) in one man’s mind the word “cross channel boat” may be primarily associated with a honeymoon: in another’s with being torpedoed. Yet they can understand one another when they use the word. To this those who hold the Associational theory reply that one instance does not prove that meaning is something quite distinct from Association, but only that the meaning is a special selection from the images /5/ associated with the word. Thus both men have dozens of associations with <i>cross-channel boat,</i> but each person has to select from the word that limited number of associations which is required for ordinary talk. But this seems to amount to giving up the Associational theory altogether. For if we ask <i>what</i> selection is required, surely we must answer “That selection which the word is intended to call up when used by speakers who know English.” What makes this the thing meant by the word is not the mere fact that they are called up but knowledge that the other speaker intends to call them up. In talking with children or imbeciles we do sometimes find that our words are merely evoking associations: we ask “Has your mother gone out” and are told “Mother made a cake to-day.” The impossibility of any real conversation on such terms helps to show how far meaning is from mere association.<br/><br/>2. Although language is the system of vocal noises meant (psychological sense) to mean (symbolical sense) yet of course most language, quite apart from the speaker’s intention also “means” in the first sense, the evidential. Thus the tone of the speaker’s voice may be evidence for all sorts of things which are distinct from what he means (in the symbolical sense). Or the mere fact of his saying a certain thing may be a sign of, be evidence for, something else. “He says he’s got a headache[,] that means he /6/ is afraid to-come up the mountain.[”] This may be perfectly true if we know our man; the excuse may be good evidence for his fear. But obviously the words “I am ill” do not mean “I am afraid” in the symbolical sense, nor does the speaker mean (in a psychological sense) to tell us that he is afraid. Conversely, noises which are not ordinarily symbolical may be used with the intention of conveying information to us. A man may groan for the expressed purpose of letting us know that he is in pain. In this case the kind of noise which normally has a meaning only in case I (the Evidential) is being temporarily pressed into service as Language and given a symbolical meaning.<br/><br/>Let us now return to our definition of language as a system of vocal noises meant (sense I) to mean (sense III). Before this will quite do, a further distinction has to be made. If we went out for a walk with a man and he suddenly utters the single word “Table” we should probably ask him what he meant. We might go on to say that the word “Table” all by itself is meaningless. And in one sense, so it is. In another sense we know perfectly well that the word Table has a meaning and after a little patience, we could all say what it meant. It begins to look as if single words (or at any rate some single words) have meaning in one sense, and sentences have meaning in some different sense. /7/<br/><br/>This suspicion is later borne out by the following fact. If a man utters a sentence which contains a word we don’t know, we tend to ask him what <i>that word means</i>. But if he utters a sentence which we don’t understand (though we know all the words in it) we are much more likely to ask him what <i>he means</i>.<br/><br/>Before going any further it will be well to issue an emphatic warning against what the authors consider to be one wrong conception of the problem. It is a very tempting one. The temptation is to say that the single word, or at any rate the words mean things, as the sentences mean thoughts. Thus table can mean a piece of furniture but “There is a bigger table in the next room” would mean that the speaker has a mental picture of the next room with the bigger table in it, and that he was mentally connecting the idea of the room with the idea of the bigger table, or that he was (as the logicians say) “judging” that the next room contains a bigger table. Now what is true is that unless he is lying, he probably has the mental picture, and certainly connects the ideas and certainly makes the judgment. His uttering the sentence is therefore evidence for the dates or events in his own mind: that is it means (evidential sense) that they are occurring. But does it also mean this in the symbolical sense? It would appear not. For if that were so we should never be talking about anything but our own /8/ states of mind. And though it is clear that we are sometimes talking about our own states of mind, it is also quite clear that we often talk about other things. Indeed we often contrast our own states of mind with the thing. The man says “There is a bigger table in the next room.” His friend may rudely reply “So <i>you</i> think.” “Of course I do,” he may retort, “otherwise I wouldn’t have said so. But I’ll show you in a moment that the room is as I thought.” (It might of course be maintained by certain philosophers that what we call Things are only a special kind of thought, but we need not bother with that question here. It would still remain true and we often talk about that special kind of thought which one calls Things, and not talk about the kind purposely called “states of our own minds[”.])",
         type: "Prose",
         notes: null
     },
@@ -1754,7 +1754,7 @@ const texts = [
     },
     // DIARIES
     {
-        title: "Excerpt from Wynyard School Diary (November 1909)",
+        title: "Wynyard School Diary (November 1909)",
         printedIn: "Walter Hooper, “C.S. Lewis” <i>The Franciscan</i>",
         issueOrVolume: " vol. IX, no. 4",
         pageRange: "163",
@@ -1765,7 +1765,7 @@ const texts = [
         notes: ["The first two sentences of the diary are quoted, chronicling Lewis’s morning routine."]
     },
     {
-        title: "Excerpt from Oxford Diary (15 February 1923)",
+        title: "Oxford Diary (15 February 1923)",
         printedIn: "Walter Hooper, Preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
         pageRange: "xiv",
@@ -1776,7 +1776,7 @@ const texts = [
         notes: ["Several other quotations from the <i>Lewis Papers</i> in the Preface have since been published in <i>All My Road Before Me.</i>"]
     },
     {
-        title: "Excerpt from Oxford Diary (9 February 1923)",
+        title: "Oxford Diary (9 February 1923)",
         printedIn: "Walter Hooper, “To the Martlets” in <i>C.S. Lewis: Speaker & Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         issueOrVolume: null,
         pageRange: "47-50",
@@ -1787,7 +1787,7 @@ const texts = [
         notes: ["This passage is entirely reproduced in <i>All My Road Before Me</i> (and on those grounds should not be included here), but with an interesting discrepancy. The last three words in this entry, as printed in <i>C.S. Lewis: Speaker & Teacher,</i> are: “Narcissus to Eros.” However, in AMR and the diary manuscript, there is a blank line, as follows: “I said this was certainly not what I meant by art: in fact it stood to art as ———.” The words “Narcissus to Eros” are probably an editorial insertion."]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "24",
@@ -1798,7 +1798,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Excerpts from Wynyard School Diary (November 1909)",
+        title: "Wynyard School Diary (November 1909)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "27",
@@ -1809,7 +1809,7 @@ const texts = [
         notes: ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "3, 4",
@@ -1820,7 +1820,7 @@ const texts = [
         notes: ["Quotes the first sentences on 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on 4 in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
     },
     {
-        title: "Excerpt from Wynyard School Diary (November 1909)",
+        title: "Wynyard School Diary (November 1909)",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends,</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "50",
@@ -1831,7 +1831,7 @@ const texts = [
         notes: ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
     },
     {
-        title: "Excerpt from Oxford Diary (26 April 1922)",
+        title: "Oxford Diary (26 April 1922)",
         printedIn: "Roger Lancelyn Green, “In the Evening” in <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James Como (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "213",
@@ -1842,7 +1842,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Excerpt from Wynyard School Diary (November 1909)",
+        title: "Wynyard School Diary (November 1909)",
         printedIn: "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "19",
@@ -1853,7 +1853,7 @@ const texts = [
         notes: ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no “(Watford)” after St John's, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
     {
-        title: "Excerpt from Wynyard School Diary (November 1909)",
+        title: "Wynyard School Diary (November 1909)",
         printedIn: "Walter Hooper, “C.S. Lewis in Hertfordshire (2): Wynyard School’s Tormenter”, <i>Hertfordshire Countryside</i>",
         issueOrVolume: "vol. 37",
         pageRange: "35",
@@ -1864,7 +1864,7 @@ const texts = [
         notes: ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
     },
     {
-        title: "Excerpt from Oxford Diary (3 June 1926)",
+        title: "Oxford Diary (3 June 1926)",
         printedIn: "Peter J. Schakel, <i>Reason and Imagination in C.S. Lewis: A Study of</i> Till We Have Faces (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
         pageRange: "44",
@@ -1875,7 +1875,7 @@ const texts = [
         notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in <i>All My Road Before Me.</i> The final one, however, from 3 June 1926, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
         pageRange: "12",
@@ -1886,7 +1886,7 @@ const texts = [
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this entry can be found on 233."]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "C.S. Lewis, <i>Letters to Children,</i> ed. Lyle W. Dorsett and Marjorie L. Mead (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "8",
@@ -1908,7 +1908,7 @@ const texts = [
         notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
     },
     {
-        title: "Little Lea Diary (23 February 1908) excerpt",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpt (23 February 1908)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
         pageRange: "30",
@@ -1952,7 +1952,7 @@ const texts = [
         notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 171."]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
         pageRange: "17",
@@ -1963,7 +1963,7 @@ const texts = [
         notes: ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home—the first time this anecdote has been printed."]
     },
     {
-        title: "Excerpt from Oxford Diary (25 May 1923) and two quotations (source unknown)",
+        title: "Oxford Diary (25 May 1923) and two quotations (source unknown)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
         pageRange: "68-69",
@@ -1974,7 +1974,7 @@ const texts = [
         notes: ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-69: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child’ (Maureen, of course) ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to <i>LP</i> 6:193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
+        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
         issueOrVolume: null,
         pageRange: "5-6, 696",
@@ -1985,15 +1985,191 @@ const texts = [
         notes: ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites <i>LP</i> 3:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
     {
-        title: "Excerpts from Little Lea Diary (“My Life During the Exmas Holadys of 1907”)",
-        printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
-        issueOrVolume: null,
+        title: "Oxford Diary (12 May 1924)",
+        printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "5 note 11",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[w]orked partly on Locke and partly on a scheme for my lectures",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 7:228."]
+    },
+    {
+        title: "Oxford Diary (3 June 1924)",
+        printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "13 note 52",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[On 3 June 1924 Lewis noted in an unpublished part of his diary that Locke’s <i>Essay</i> is]<br/><br/>a book as “thin sown of aught of profit or delight” as any I have ever read<br/><br/>[The quotation is from Milton, <i>Paradise Regained,</i> Book IV, line 345; the transcription of the diary actually reads ‘strewn’ instead of ‘sown’, which may have been Lewis’ or the transcriber’s error.]",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:236."]
+    },
+    {
+        title: "Oxford Diary (14 June 1922)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "48",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Blunt told me I need not be afraid of Ewing’s competition for the Magdalen Fellowship on the ground of his being a Demy, as it would be decided entirely on your papers.<br/><br/>[48n26: H.P. Blunt was another Greats man; a ‘Demy’ is a scholarship for Magdalen College, Oxford.]",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 7:157."]
+    },
+    {
+        title: "Oxford Diary (21 August 1922)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "53",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "After lunch I sat in my own room and worked on my dissertation with immense enjoyment",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 7:206."]
+    },
+    {
+        title: "Oxford Diary (15 March 1923)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "56",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[On 15 March 1923 Lewis noted that he had recently asked his old philosophy tutor Carritt]<br/><br/>whether there would be any use applying for the Newcastle job wh. D had found in <i>The Times.</i> He confirmed my own opinion that they wanted an experienced man and it wd. be quite out of the question for me: mentioning at the same time a philosophical vacancy at Nottingham wh. I must see to.",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:91."]
+    },
+    {
+        title: "Oxford Diary (19 October 1923)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "63",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[But a new tiny opening for philosophical ambitions appeared the next day, on the porch of University College as he met]<br/><br/>...Curtis, Rink and Ziman. The latter asked me to read a paper to the Philosophical Society next week, which I promised to do, meaning to use my old Magdalen dissertation. After walking home I looked over it till lunch time to see what could be cut out, but I think it is not much too long.",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:160."]
+    },
+    {
+        title: "Oxford Diary (21 May 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "63 note 79",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Worked in the morning preparing the subject of Bolshevism for Sandeman",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:230."]
+    },
+    {
+        title: "Oxford Diary (30 May 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "63 note 79",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[Lewis purchased] Mill’s Liberty etc. in the Everyman edition wh. I want for Sandeman",
+        type: "Diary",
+        notes: ["Source: LP 8:235."]
+    },
+    {
+        title: "Oxford Diary (9 April 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "65",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[In support of his intended application, Lewis received on 9 April]<br/><br/>a friendly note from Carritt enclosing a testimonial and saying “shall we at this stage drop the Mr.?”",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:210."]
+    },
+    {
+        title: "Oxford Diary (8 March 1924) correction to <i>All My Road Before Me</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
         pageRange: "",
         year: 2021,
         monthAndDay: null,
-        textProvided: "",
+        textProvided: "[Lewis describes Samuel Alexander’s]<br/><br/>fruitful antithesis between enjoyment and contemplation<br/><br/>[But <i>AMR,</i> 301, erroneously renders “fruitful” as “truthful”.]",
         type: "Diary",
-        notes: []
+        notes: ["Source: <i>LP</i> 8:197."]
+    },
+    {
+        title: "Oxford Diary (30 May 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "69",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[One of the last references to the “new version” of Lewis’s “Hegemony of Moral Value” paper:]<br/><br/>…started to work on a new ending for my paper on mind—the part on Obligation.",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:235."]
+    },
+    {
+        title: "Oxford Diary (31 May 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "69",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[One of the last references to the “new version” of Lewis’s “Hegemony of Moral Value” paper:]<br/><br/>…Worked on my paper in the morning very hard and fairly successfully.",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:235."]
+    },
+    {
+        title: "Oxford Diary (7 June 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "69",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "worked on my paper in the morning",
+        type: "Diary",
+        notes: ["Identical to 9 June 1924 entry.", "Possibly a reference to his “Hegemony of Moral Value” paper."]
+    },
+    {
+        title: "Oxford Diary (9 June 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "69",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "worked on my paper in the morning",
+        type: "Diary",
+        notes: ["Identical to 7 June 1924 entry.", "Possibly a reference to his “Hegemony of Moral Value” paper."]
+    },
+    {
+        title: "Oxford Diary (10 May 1922)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "71",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[Lewis had been working on a prose version of his long poem “Foster” (which does not survive). That prose essay was  intended as an answer to Bertrand Russel’s “A Free Man’s Worship,” and is mentioned as a finished work in a somewhat enigmatic and partly unpublished diary passage of 10 May 1922:]<br/><br/>I was thinking seriously of how I could face the prospect of having to give up poetry, if it came to that. I was surprised to discover how many hidden assuptions [sic] about contemporary recognition etc underlay the view I had taken in Foster wh. is really that of ‘Sache’(?) – so there is more to be said for Hegel than I once thought. <br/><br/>[71 note 108: The first sentence is also in AMR, 32. The question mark in parentheses is original to the ‘Lewis Papers’, perhaps added by Warnie Lewis while typing the text from the manuscript diary.]",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:135."]
+    },
+    {
+        title: "Oxford Diary (19 June 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "73-74",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[On 19 June Lewis noted that one student, Ziman,]<br/><br/>is taking P.P.E. next term and will be coming to me for ordinary tuition: he wants however to take Kant as his special subject. He knew from what I had often said to him before that I was not a Kantian, but asked if I would be “compos Kantis” next term. I said that I should follow Carritt’s example in handing Kantians over to Ewing. Ziman however showed a strong disinclination to that solution and wanted to go to Paton: but this could not be arranged while Carritt was ill and so we had to let the matter stand.<br/><br/>[Moreover, that same morning Lewis had been invited to]<br/><br/>take Carlyle’s English pupils next term when Carlyle is away<br/><br/>[and he visited Carlyle immediately after meeting Ziman. Yet, for whatever reason, including perhaps the expected workload, Lewis confined himself to the philosophy job accepted from Carritt.]",
+        type: "Diary",
+        notes: ["Source: <i>LP</i> 8:245"]
+    },
+    {
+        title: "Oxford Diary (12 May 1924)",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "75",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Worked partly on Locke and partly on a scheme for my lectures in the morning.",
+        type: "Diary",
+        notes: ["Perhaps Lewis is referring to his notes for his lectures on “The Good” or “Moral Good,” or to some larger or similar or related document.", "Source: <i>LP</i> 8:228."]
     },
     // LETTERS
     // letters discovered by me
