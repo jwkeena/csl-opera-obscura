@@ -361,7 +361,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["If you have this text, please send it to me!"]
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
@@ -487,7 +487,7 @@ const texts = [
         notes: ["Reprinted in Samuel Joeckel, <i>The C.S. Lewis Phenomenon: Christianity and the Public Sphere</i> (Macon, Georgia: Mercer University Press, 2013), 50."]
     },
     {
-        title: "A Note on the Meaning of Civilization in the Chronicles of Narnia",
+        title: "Note on the Meaning of Civilization in the Chronicles of Narnia",
         printedIn: "Roger Lancelyn Green, <i>C.S. Lewis, A Bodley Head Monograph,</i> (London: The Bodley Head)",
         issueOrVolume: null,
         pageRange: "51",
@@ -845,7 +845,7 @@ const texts = [
         pageRange: "30, 32",
         year: 1990,
         monthAndDay: null,
-        textProvided: "[It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on]<br/><br/>the great Bayreuth Master <br/><br/>[, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that]<br/><br/>He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.<br/><br/>[What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the great Wagnerian Ring cycle and Parsifal,]<br/><br/>his last and greatest work.<br/><br/>[He disdained Tannhäuser, in which Wagner was] <br/><br/>led away into the tinselled realms of tunefulness <br/><br/>[, but considered Tristan unsurpassed as drama by anything the world had ever seen.]<br/><br/>Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts. One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed, <br/><br/>[the young essayist of Cherbourg had written.]",
+        textProvided: "[It was through gramophone-record catalogues that C. S. Lewis first discovered Wagner, and his essay on]<br/><br/>the great Bayreuth Master <br/><br/>[, written when he was barely thirteen, is by far the most remarkable production of his early years − a thousand times more impressive than his plays or his Animal-land fantasies. One sees what the middle-aged Lewis meant about the twelve-year-old being a prig and a snob. All the same, the expressions of that priggishness and snobbery are well turned, as when he says of Wagner that]<br/><br/>He has not been, nor ever will be, appreciated by the mass: there are some brains incapable of appreciation of the beautiful except when it is embodied in a sort of lyric prettiness.<br/><br/>[What impresses about the essay is the thoroughness with which Lewis, merely by listening to gramophone records and following the stories, had learnt to appreciate the gr eat Wagnerian Ring cycle and Parsifal,]<br/><br/>his last and greatest work.<br/><br/>[He disdained Tannhäuser, in which Wagner was] <br/><br/>led away into the tinselled realms of tunefulness <br/><br/>[, but considered Tristan unsurpassed as drama by anything the world had ever seen.]<br/><br/>Once having grown to love Wagner’s peculiar richness of tone and the deep meaning of his music and the philosophy of his dramatic poems, all other composers seem but caricatures and ghosts. One of the most noticeable results of the advent of Wagner’s works in England is the rather paradoxical fact that he has made much more popular than they formerly were the lyrical operas to which he was so much opposed, <br/><br/>[the young essayist of Cherbourg had written.]",
         type: "Prose",
         notes: ["Source: <i>LP</i> 3:233-234."]
     },
@@ -859,6 +859,17 @@ const texts = [
         textProvided: "It would be almost safe to say that no book like this has ever been written. If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once so multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters—comic, homely, epic, monstrous, or diabolic!",
         type: "Prose",
         notes: null
+    },
+    {
+        title: "Notes on iconoclasm and satire in Joy Gresham’s copy of <i>The Great Divorce</i> (1952) 58",
+        printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        issueOrVolume: null,
+        pageRange: "61",
+        year: 1996,
+        monthAndDay: null,
+        textProvided: "[From an unwritten chapter on Iconoclasm:]<br/><br/>There are three images in my mind which I must continually forsake and replace by better ones: the false image of God, the false image of my neighbours, and the false image of myself. C. S. Lewis 30 December 1952<br/><br/>[And directly below this quote:]<br/><br/>‘Satire is a glass in which the reader commonly sees every face except his own.’ [Swift, quoted from memory]",
+        type: "Prose",
+        notes: ["Joy’s copy of <i>The Great Divorce</i> is now in the possession of Steve Beebe. See Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers), 58"]
     },
     {
         title: "Note on ancient Greek word “Echeneis”",
@@ -1054,7 +1065,7 @@ const texts = [
         pageRange: "119",
         year: 2000,
         monthAndDay: null,
-        textProvided: "Yours is the better poem, but one must send the ball back over the net somehow.",
+        textProvided: "Yours is the better poem, but one must se[nd] the ball back over the net somehow.",
         type: "Prose",
         notes: null
     },
@@ -1313,7 +1324,7 @@ const texts = [
     },
     {
         title: "References to manuscript on prayer (Wade MS-155)",
-        printedIn: "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
+        printedIn: "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CT: Praeger Perspectives)",
         issueOrVolume: null,
         pageRange: "213-214",
         year: 2007,
@@ -1698,17 +1709,6 @@ const texts = [
         notes: null
     },
     {
-        title: "Notes on iconoclasm and satire in Joy Gresham’s copy of <i>The Great Divorce</i> (1952) 58",
-        printedIn: "Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers)",
-        issueOrVolume: null,
-        pageRange: "58",
-        year: 2020,
-        monthAndDay: null,
-        textProvided: "[From an unwritten chapter on Iconoclasm:]<br/><br/>There are three images in my mind which I must continually forsake and replace by better ones: the false image of God, the false image of my neighbours, and the false image of myself. C. S. Lewis 30 December 1952<br/><br/>[And directly below this quote:]<br/><br/>‘Satire is a glass in which the reader commonly sees every face except his own.’ [Swift, quoted from memory]",
-        type: "Prose",
-        notes: ["Joy’s copy of <i>The Great Divorce</i> is now in the possession of Steve Beebe."]
-    },
-    {
         title: "“The Quest of Bleheris” (prose romance written in 1916)",
         printedIn: "<i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 14",
@@ -1756,7 +1756,7 @@ const texts = [
     {
         title: "Wynyard School Diary (November 1909)",
         printedIn: "Walter Hooper, “C.S. Lewis” <i>The Franciscan</i>",
-        issueOrVolume: " vol. IX, no. 4",
+        issueOrVolume: "vol. IX, no. 4",
         pageRange: "163",
         year: 1967,
         monthAndDay: "September",
@@ -1773,7 +1773,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I attempted to get some useful information out of Wyld’s Short History (The Cad) which is full of facts most painfully collected but presented in a very muddled way and extraordinarily difficult to work on.",
         type: "Diary",
-        notes: ["Several other quotations from the <i>Lewis Papers</i> in the Preface have since been published in <i>All My Road Before Me.</i>"]
+        notes: ["Several other quotations from the <i>LP</i> in the Preface have since been published in <i>AMR.</i>"]
     },
     {
         title: "Oxford Diary (9 February 1923)",
@@ -1782,12 +1782,12 @@ const texts = [
         pageRange: "47-50",
         year: 1971,
         monthAndDay: null,
-        textProvided: "[In <i>C.S. Lewis: Speaker & Teacher, </i>50]I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.<br/><br/>[In AMR:]<br/><br/>I said this was certainly not what I meant by art: in fact it stood to art as ———.",
+        textProvided: "[In <i>C.S. Lewis: Speaker & Teacher, </i>50]I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.<br/><br/>[In <i>AMR:</i>]<br/><br/>I said this was certainly not what I meant by art: in fact it stood to art as ———.",
         type: "Diary",
-        notes: ["This passage is entirely reproduced in <i>All My Road Before Me</i> (and on those grounds should not be included here), but with an interesting discrepancy. The last three words in this entry, as printed in <i>C.S. Lewis: Speaker & Teacher,</i> are: “Narcissus to Eros.” However, in AMR and the diary manuscript, there is a blank line, as follows: “I said this was certainly not what I meant by art: in fact it stood to art as ———.” The words “Narcissus to Eros” are probably an editorial insertion."]
+        notes: ["This passage is entirely reproduced in <i>AMR,</i> but with an interesting discrepancy. The last three words in this entry, as printed in <i>C.S. Lewis: Speaker & Teacher,</i> are: “Narcissus to Eros.” However, in <i>AMR</i> and the diary manuscript, there is a blank line, as follows: “I said this was certainly not what I meant by art: in fact it stood to art as ———.” The words “Narcissus to Eros” are probably an editorial insertion."]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "24",
@@ -1804,20 +1804,31 @@ const texts = [
         pageRange: "27",
         year: 1974,
         monthAndDay: null,
-        textProvided: "...five boarders at this ridiculous ‘select academy for young gentlemen’ − Squiffy [Field], Bowser, Mears, Jeyes and me …Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
+        textProvided: "[He was also attempting another diary, or ‘Autobiography’ as he calls it, of his experiences among the]<br/><br/>five boarders at this ridiculous ‘select academy for young gentlemen’ − Squiffy [Field], Bowser, Mears, Jeyes and me …Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
         type: "Diary",
         notes: ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "3, 4",
         year: 1978,
         monthAndDay: null,
-        textProvided: "My Life during the Exmas Holydays of 1907, by Jacks or Clive Lewis. Author of “Building of the promenad”, “Toyland”, “Living races of mouse-land” etc. I begin my life after my 9th birthday. On which I got a book from Papy and a post card album from Mamy. Warnie (my brother) was coming home and I was looking forward to him and the Xmas holydays.</br><br/>Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice when not in a temper. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersey.",
+        textProvided: "[3]<br/><br/>My Life during the Exmas Holydays of 1907, by Jacks or Clive Lewis. Author of “Building of the promenad”, “Toyland”, “Living races of mouse-land” etc. I begin my life after my 9th birthday. On which I got a book from Papy and a post card album from Mamy. Warnie (my brother) was coming home and I was looking forward to him and the Xmas holydays.</br><br/>[4]<br/><br/>Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice when not in a temper. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersey.",
         type: "Diary",
-        notes: ["Quotes the first sentences on 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on 4 in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
+        notes: ["Quotes the first sentences on page 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on page 4 in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
+    },
+    {
+        title: "Oxford Diary (21 February 1923)",
+        printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends,</i> (London: Allen & Unwin)",
+        issueOrVolume: null,
+        pageRange: "15",
+        year: 1978,
+        monthAndDay: null,
+        textProvided: "We were neither of us in really good dialectical form.",
+        type: "Diary",
+        notes: null
     },
     {
         title: "Wynyard School Diary (November 1909)",
@@ -1826,12 +1837,12 @@ const texts = [
         pageRange: "50",
         year: 1978,
         monthAndDay: null,
-        textProvided: "We were obliged to go to St John's (Watford), a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish Protestants. In this abominable place of Romish hypocrites and English liars, the people cross themselves, bow to the Lord's Table (which they have the vanity to call an altar), and pray to the Virgin.",
+        textProvided: "We were obliged to go to St John’s (Watford), a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish Protestants. In this abominable place of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.",
         type: "Diary",
         notes: ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
     },
     {
-        title: "Oxford Diary (26 April 1922)",
+        title: "Oxford Diary (26 August 1922)",
         printedIn: "Roger Lancelyn Green, “In the Evening” in <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James Como (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "213",
@@ -1848,7 +1859,7 @@ const texts = [
         pageRange: "19",
         year: 1982,
         monthAndDay: null,
-        textProvided: "We were obliged to go to St John's; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord's Table (which they have the vanity to call an altar), and pray to the Virgin.",
+        textProvided: "We were obliged to go to St John’s; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.",
         type: "Diary",
         notes: ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no “(Watford)” after St John's, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
@@ -1859,7 +1870,7 @@ const texts = [
         pageRange: "35",
         year: 1982,
         monthAndDay: null,
-        textProvided: "It was on a black November morning, in the year of grace 1909, that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 a.m. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch …We were obliged to go to St. Johns; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our head master, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s table (which they have the vanity to call an “altar”), and pray to the Virgin …The boarders at this ridiculous little “select academy for young gentlemen” are five in number, Squiffy, Mears, Bowser, Jeyes and me …Boivie is a Swede, and a good old Northerner, who like me loaths anything that savours of the South of England. Nice as Boivie is, my great chum is Bowser. He comes from Northumberland and is staunchly Northern, he (and this makes me like him more) is very badly treated by our Southern master Mr. Capron, better known to us as “Oldy” …It is funny, as you go North the people get nicer, as you go South they get nastier, thus Bowser from Cumberland, is the nicest boy here, Jeyes from Northampton is the next nicest, Mears from Chiswick is a middling boy, and Squiffy from Worthing in Sussex is the nastiest boy here …<br/><br/>…No one got caned today. …",
+        textProvided: "It was on a black November morning, in the year of grace 1909, that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 a.m. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch …We were obliged to go to St. Johns; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our head master, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s table (which they have the vanity to call an “altar”), and pray to the Virgin …The boarders at this ridiculous little “select academy for young gentlemen” are five in number, Squiffy, Mears, Bowser, Jeyes and me …Boivie is a Swede, and a good old Northerner, who like me loaths anything that savours of the South of England. Nice as Boivie is, my great chum is Bowser. He comes from Northumberland and is staunchly Northern, he (and this makes me like him more) is very badly treated by our Southern master Mr. Capron, better known to us as “Oldy” …It is funny, as you go North the people get nicer, as you go South they get nastier, thus Bowser from Cumberland, is the nicest boy here, Jeyes from Northampton is the next nicest, Mears from Chiswick is a middling boy, and Squiffy from Worthing in Sussex is the nastiest boy here …<br/><br/>…No one got caned today.",
         type: "Diary",
         notes: ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
     },
@@ -1872,21 +1883,21 @@ const texts = [
         monthAndDay: null,
         textProvided: "...a curious dream in the night.",
         type: "Diary",
-        notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in <i>All My Road Before Me.</i> The final one, however, from 3 June 1926, is not.", "This is the entirety of the fourth passage quoted: “a curious dream in the night.”"]
+        notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in <i>All My Road Before Me.</i> The final one, however, from 3 June 1926, is not."]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
         pageRange: "12",
         year: 1985,
         monthAndDay: null,
-        textProvided: "[Dedicated] To Miss Maude Scott …I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat, Maude is far worse than Mat, but she thinks she is a saint …I HATE Maude. …Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin and generally weraing a jersey. …I have left out an important member of the family namly my grand-father, who lives in a little room of his own up-stairs he is a nice old man in some ways but he pitys him-self rather much, however all old people do that.",
+        textProvided: "[During the Christmas holidays of 1907 nine-year-old Jack began the first of his diaries. Or, more accurately, his first autobiography as it bears the title <i>My Life</i>. Jack intended that the Life should be read by all in the house and it is dedicated]<br/><br/>To Miss Maude Scott <br/><br/>[That was to prove very embarrassing because in the first paragraph he writes]<br/><br/>I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat, Maude is far worse than Mat, but she thinks she is a saint … I HATE Maude. <br/><br/>[He goes on to say:]<br/><br/>Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin and generally weraing a jersey. <br/><br/>[After describing the pets (a mouse, a canary and a dog) he mentions his paternal grandfather:]<br/><br/>I have left out an important member of the family namly my grand-father, who lives in a little room of his own up-stairs he is a nice old man in some ways but he pitys him-self rather much, however all old people do that.<br/><br/>[So great was his affection for Warnie that there is a section of the Life entitled]<br/><br/>Part IV.  How Warnie came home.<br/><br/>[As, however, Warnie had not yet arrived from Wynyard, Jack went on to write:]<br/><br/>I am still looking forward to Wanrie’s homecoming which is always a great event in our house.  You see I had to wait for something to happen before I could write about it, and I put down “Part IV” “How Warnie came home” with out thinking… therefore I shall have to fill up “Part IV” with other things. I have yet left out another important person who plays a large part in “my life”, namely “Miss Harper” who is my governess. She is fairly nice FOR a governess, but all of them are the same. Miss Harper has fair hair, blue eyes, and rather sharp features, she generally wears a green blouse and a dress of the same hue.<br/><br/>[Included in the Life was a drawing of Miss Harper with a ‘balloon’ coming down from her lips which contained the words]<br/><br/>Don’t say can’t to me, Jacksie.<br/><br/>[Notebook II overlaps with number I and Jack scribbled in it,]<br/><br/>I often wish that I was leading a more use-ful life.",
         type: "Diary",
-        notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this entry can be found on 233."]
+        notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this entry can be found on 233-234."]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "C.S. Lewis, <i>Letters to Children,</i> ed. Lyle W. Dorsett and Marjorie L. Mead (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "8",
@@ -1897,43 +1908,54 @@ const texts = [
         notes: null
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary (Christmas 1907 [<i>LP</i> 3:89])",
+        printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        issueOrVolume: null,
+        pageRange: "20",
+        year: 1988,
+        monthAndDay: null,
+        textProvided: "Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. <br/><br/>[Mamy is] <br/><br/>like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. <br/><br/>[Then himself:] <br/><br/>I am like most boys of nine and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersy. <br/><br/>[Grandfather has his own little room upstairs, but, although he is] <br/><br/>a nice old man in some ways <br/><br/>[he pities himself too much,] <br/><br/>however all old people do that. <br/><br/>[The worst thing about him was that he was dirty—] <br/><br/>allways spitting and smoking ugh!",
+        type: "Diary",
+        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
+    },
+    {
+        title: "Little Lea Diary (5 March 1908 [<i>LP</i> 3:102])",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
         pageRange: "20-21",
         year: 1988,
         monthAndDay: null,
-        textProvided: "Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. <br/><br/>[Mamy is] <br/><br/>like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. <br/><br/>[Then himself:] <br/><br/>I am like most boys of nine and I am like Papy, bad temper, thick lips, thin, and generaly weraing ajersy [sic]. <br/><br/>[Grandfather has his own little room upstairs, but, although he is] <br/><br/>a nice old man in some ways <br/><br/>[he pities himself too much,] <br/><br/>however all old people do that. <br/><br/>[The worst thing about him was that he was dirty—] <br/><br/>allways spitting and smoking ugh!",
+        textProvided: "I read <i>Paradise Lost,</i> reflections thereon.",
         type: "Diary",
-        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
+        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51."]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpt (23 February 1908)",
-        printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
-        issueOrVolume: null,
-        pageRange: "30",
-        year: 1988,
-        monthAndDay: null,
-        textProvided: "[He produced a bibliography, a] list of my books, [seven items, including a novel,] Man Against Man, [a history called] The Relief of Murry, [and] My Life [(a journal)].",
-        type: "Diary",
-        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51.", "Sayer gives no date, and <i>LP:</i> 3:230 as a source; but Stephen Thorson gives the date and <i>LP</i> 3:301 as the corrected source."]
-    },
-    {
-        title: "Malvern Diary (15 March 1911) excerpt",
+        title: "Little Lea Diary (23 Feb 1908 [<i>LP</i> 3:301]), a bibliography of his works at 10 years old",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
         pageRange: "21",
         year: 1988,
         monthAndDay: null,
-        textProvided: "I read <i>Paradise Lost,</i> reflections thereon.",
+        textProvided: "list of my books<br/><br/>Building of the Promenade (a tale)<br/>Man Against Man (a novel)<br/>Town (an essay)<br/>Relief of Murry (a history)<br/>Bunny (a paper)<br/>Home Rule (an essay)<br/>My Life (a journal)",
         type: "Diary",
-        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51.", "Sayer gives 5 March 1908 as a date, and <i>LP</i> 3:102 as the source; but Stephen Thorson gives the date as 15 March 1911 and <i>LP</i> 3:229 as the source."]
+        notes: ["Only partially reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51."]
     },
     {
-        title: "Notebook entry of 28 April 1917 (<i>LP</i> 5:204)",
+        title: "Cherbourg Diary (15 March 1911 [<i>LP</i> 3:229])",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
-        pageRange: "118",
+        pageRange: "30",
+        year: 1988,
+        monthAndDay: null,
+        textProvided: "[At Cherbourg he was soon in trouble, having to do (according to his diary)]<br/><br/>hundreds of impots<br/><br/>[that is, impositions, tasks assigned to him for breaking school rules, misbehaving in the classroom, and not preparing his work. This diary, like all the other diaries he began, was kept for only a short time. It contains the thoughts of a typical schoolboy: Masters are]<br/><br/>rotten<br/><br/>[when the punish one for misbehaving…[Miss Cowie] was the school’s exceptionally kind and efficient matron. She recognized at once that {67} Jack was almost an orphan and mothered him with a special degree of love and care to which he responded gratefully.]<br/><br/>They all love her<br/><br/>[he wrote]<br/><br/>I, an orphan, especially.",
+        type: "Diary",
+        notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 66-67."]
+    },
+    {
+        title: "Notebook entry (28 April 1917 [<i>LP</i> 5:204])",
+        printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
+        issueOrVolume: null,
+        pageRange: "64",
         year: 1988,
         monthAndDay: null,
         textProvided: "Matriculated. College Library. Entered name in Coll. books.",
@@ -1947,45 +1969,45 @@ const texts = [
         pageRange: "99",
         year: 1988,
         monthAndDay: null,
-        textProvided: "[In the diary of the period he described Dryden as] an intolerable worm.",
+        textProvided: "[In the diary of the period he described Dryden as]<br/><br/>an intolerable worm.",
         type: "Diary",
         notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 171."]
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
-        pageRange: "17",
+        pageRange: "17-18",
         year: 1990,
         monthAndDay: null,
-        textProvided: "Hoora! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk. <br/><br/>[He wrote that when he was nine, but he could easily have written it when he was twenty-nine or fifty-nine. Little Jacks himself we can glimpse in his fragment of autobiography:] <br/><br/>My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of \"Building of the Promanad\", \"Toyland\", \"Living races of Mouse-Land\" etc. Dedicated to Miss Maude Scott. I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...",
+        textProvided: "Hoora!<br/><br/>[he wrote in 1907.]<br/><br/>Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk.<br/><br/>[...Little Jacks himself we can glimpse in his fragment of autobiography:] <br/><br/>My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of “Building of the Promanad”, “Toyland”, “Living races of Mouse-Land” etc. Dedicated to Miss Maude Scott. I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...",
         type: "Diary",
-        notes: ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home—the first time this anecdote has been printed."]
+        notes: ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home. However, this is the first time we get the very first sentence of <i>My Life</i>"]
     },
     {
-        title: "Oxford Diary (25 May 1923) and two quotations (source unknown)",
+        title: "Oxford Diary (25 May 1923)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
-        pageRange: "68-69",
+        pageRange: "69",
         year: 1990,
         monthAndDay: null,
-        textProvided: "[Oxford Diary (25 May 1923), on 69] <br/><br/>We each had a man wrapped in sacking and helmeted with a biscuit tin, and we are throwing them up in the air to kill them with the fall. When that failed it became one man whom we succeeded in murdering (I am not sure how. I think by drumming his head on the pavement) and the rest of the dream consists of fearful anxiety lest we should be discovered.<br/><br/>[Unknown source (Bodley MS. facs. d.264 f.140), text 1, on 68. In Wilson's words, Lewis “always regarded this spell of angry estrangement from Albert as\"]<br/><br/>the blackest chapter of my life.<br/><br/>[Unknown source (no reference given), text 2, on 68-69. In Wilson's words, “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read,\"]<br/><br/>I am afraid this is rather an unfortunate day for you to come up as I am taking a child to a matinee and shall not therefore be able to see you until rather late.</b>",
+        textProvided: "We each had a man wrapped in sacking and helmeted with a biscuit tin, and we are throwing them up in the air to kill them with the fall. When that failed it became one man whom we succeeded in murdering (I am not sure how. I think by drumming his head on the pavement) and the rest of the dream consists of fearful anxiety lest we should be discovered.",
         type: "Diary",
-        notes: ["The diary entry for 25 May 1923 is about a dream in which he and Mrs. Moore each committed murder and feared that their crimes would be discovered.", "I find two other passages on 68-69 which I have been unable to match with any other sources. The first, on 68: “He always regarded this spell of angry estrangement from Albert as ‘the blackest chapter of my life’.” Wilson attributes it to Bodley MS. facs. d.264 f.140. This quote, drawing from Wilson’s biography, is also reprinted by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 91.", "The second, on 68-69: “Snatching leave from the Army, Warnie arrived in Oxford and was surprised to read, ‘I am afraid this is rather an unfortunate day for you to come up as I am taking a child’ (Maureen, of course) ‘to a matinee and shall not therefore be able to see you until rather late.’ This from his closest companion and friend. No feeling of apology accompanied this note, left at Warnie’s hotel, because by now Jack took it for granted that Mrs Moore and her family took precedence over everything. He added insult to injury by saying ‘another time if possible you should warn me for duty earlier.’” Wilson himself attributes this quote to <i>LP</i> 6:193.", "It’s possible that Wilson used other scraps of the <i>Lewis Papers</i> not published elsewhere. Have any been collected?"]
+        notes: null
     },
     {
-        title: "Little Lea Diary (“My Life During the Exmas Holadys of 1907”) excerpts",
+        title: "Little Lea Diary excerpts",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins)",
         issueOrVolume: null,
         pageRange: "5-6, 696",
         year: 1996,
         monthAndDay: null,
-        textProvided: "[5-6]<br/><br/>Papy of course is the master of th house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice old man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards...<br/><br/>[696: He said his father was] <br/><br/>very sensible <br/><br/>[and] <br/><br/>nice when not in a temper<br/><br/>[while his mother is]<br/><br/>like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry. <br/><br/>[As Christmas draws near we learn how Warnie comes home from school, of the various Lewis and Hamilton relations who drop in, how]<br/><br/>Mamy stoned raisins for the Xmas pudding <br/><br/>[, of how Jack and Warnie take to] <br/><br/>rushing about the house<br/><br/>[and of the play which Jack is writing to perform for the family on Christmas Day. The document ends with the words]<br/><br/>The old year out and the new year in.",
+        textProvided: "[5] Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice wen [6] not in a temper. Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her chief industry, etc., etc. I am generaly wearing a jersy...I have left out an important member of the family namly my grand-father, who lives in a little room of his own upstairs. He is a nice old man in some ways but he pitys himself rather much, how-ever all old people do that...Hoora!! Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into the room, we shake hands and begin to talk...Well I was glad to have him but of course we had our rows afterwards…<br/><br/>[{696} his father was]<br/><br/>very sensible<br/><br/>[and]<br/><br/>nice when not in a temper<br/><br/>[while his mother is]<br/><br/> like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry.<br/><br/>[As Christmas draws near we learn how Warnie comes home from school, of the various Lewis and Hamilton relations who drop in, how]<br/><br/>Mamy stoned raisins for the Xmas pudding<br/><br/>[of how Jack and Warnie take to]<br/><br/>rushing about the house<br/><br/>[and of the play which Jack is writing to perform for the family on Christmas Day. The document ends with the words] <br/><br/>The old year out and the new year in",
         type: "Diary",
         notes: ["This quotation is noteworthy for two reasons: first, it is the longest one on record, at least up till 1996; and it includes new content not published before, chiefly more details on (a) Lewis’s grandfather, (b) an additional sentence about his excitement hearing Warnie come home, and (c) actual details about Christmas that year.", "Hooper cites <i>LP</i> 3:88-92.","This passage in Hooper's <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
     {
-        title: "Oxford Diary (12 May 1924)",
+        title: "Oxford Diary (12 May 1924 [<i>LP</i> 7:228])",
         printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "5 note 11",
@@ -1993,10 +2015,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[w]orked partly on Locke and partly on a scheme for my lectures",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 7:228."]
+        notes: null
     },
     {
-        title: "Oxford Diary (3 June 1924)",
+        title: "Oxford Diary (3 June 1924 [<i>LP</i> 8:236])",
         printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "13 note 52",
@@ -2004,10 +2026,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On 3 June 1924 Lewis noted in an unpublished part of his diary that Locke’s <i>Essay</i> is]<br/><br/>a book as “thin sown of aught of profit or delight” as any I have ever read<br/><br/>[The quotation is from Milton, <i>Paradise Regained,</i> Book IV, line 345; the transcription of the diary actually reads ‘strewn’ instead of ‘sown’, which may have been Lewis’ or the transcriber’s error.]",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:236."]
+        notes: null
     },
     {
-        title: "Oxford Diary (14 June 1922)",
+        title: "Oxford Diary (14 June 1922 [<i>LP</i> 7:157])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "48",
@@ -2015,10 +2037,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "Blunt told me I need not be afraid of Ewing’s competition for the Magdalen Fellowship on the ground of his being a Demy, as it would be decided entirely on your papers.<br/><br/>[48n26: H.P. Blunt was another Greats man; a ‘Demy’ is a scholarship for Magdalen College, Oxford.]",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 7:157."]
+        notes: null
     },
     {
-        title: "Oxford Diary (21 August 1922)",
+        title: "Oxford Diary (21 August 1922 [<i>LP</i> 7:206])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "53",
@@ -2026,10 +2048,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "After lunch I sat in my own room and worked on my dissertation with immense enjoyment",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 7:206."]
+        notes: null
     },
     {
-        title: "Oxford Diary (15 March 1923)",
+        title: "Oxford Diary (15 March 1923 [<i>LP</i> 8:91])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "56",
@@ -2037,10 +2059,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On 15 March 1923 Lewis noted that he had recently asked his old philosophy tutor Carritt]<br/><br/>whether there would be any use applying for the Newcastle job wh. D had found in <i>The Times.</i> He confirmed my own opinion that they wanted an experienced man and it wd. be quite out of the question for me: mentioning at the same time a philosophical vacancy at Nottingham wh. I must see to.",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:91."]
+        notes: null
     },
     {
-        title: "Oxford Diary (19 October 1923)",
+        title: "Oxford Diary (19 October 1923 [<i>LP</i> 8:160])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "63",
@@ -2048,10 +2070,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[But a new tiny opening for philosophical ambitions appeared the next day, on the porch of University College as he met]<br/><br/>...Curtis, Rink and Ziman. The latter asked me to read a paper to the Philosophical Society next week, which I promised to do, meaning to use my old Magdalen dissertation. After walking home I looked over it till lunch time to see what could be cut out, but I think it is not much too long.",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:160."]
+        notes: null
     },
     {
-        title: "Oxford Diary (21 May 1924)",
+        title: "Oxford Diary (21 May 1924 [<i>LP</i> 8:230])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "63 note 79",
@@ -2059,10 +2081,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "Worked in the morning preparing the subject of Bolshevism for Sandeman",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:230."]
+        notes: null
     },
     {
-        title: "Oxford Diary (30 May 1924)",
+        title: "Oxford Diary (30 May 1924 [<i>LP</i> 8:235])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "63 note 79",
@@ -2070,10 +2092,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[Lewis purchased] Mill’s Liberty etc. in the Everyman edition wh. I want for Sandeman",
         type: "Diary",
-        notes: ["Source: LP 8:235."]
+        notes: null
     },
     {
-        title: "Oxford Diary (9 April 1924)",
+        title: "Oxford Diary (9 April 1924 [<i>LP</i> 8:210])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "65",
@@ -2081,21 +2103,21 @@ const texts = [
         monthAndDay: null,
         textProvided: "[In support of his intended application, Lewis received on 9 April]<br/><br/>a friendly note from Carritt enclosing a testimonial and saying “shall we at this stage drop the Mr.?”",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:210."]
+        notes: null
     },
     {
-        title: "Oxford Diary (8 March 1924) correction to <i>All My Road Before Me</i>",
+        title: "Oxford Diary (8 March 1924 [<i>LP</i> 8:197]) correction to <i>All My Road Before Me</i>",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
-        pageRange: "",
+        pageRange: "67",
         year: 2021,
         monthAndDay: null,
         textProvided: "[Lewis describes Samuel Alexander’s]<br/><br/>fruitful antithesis between enjoyment and contemplation<br/><br/>[But <i>AMR,</i> 301, erroneously renders “fruitful” as “truthful”.]",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:197."]
+        notes: null
     },
     {
-        title: "Oxford Diary (30 May 1924)",
+        title: "Oxford Diary (30 May 1924 [<i>LP</i> 8:235])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "69",
@@ -2103,10 +2125,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[One of the last references to the “new version” of Lewis’s “Hegemony of Moral Value” paper:]<br/><br/>…started to work on a new ending for my paper on mind—the part on Obligation.",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:235."]
+        notes: null
     },
     {
-        title: "Oxford Diary (31 May 1924)",
+        title: "Oxford Diary (31 May 1924 [<i>LP</i> 8:235])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "69",
@@ -2114,7 +2136,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[One of the last references to the “new version” of Lewis’s “Hegemony of Moral Value” paper:]<br/><br/>…Worked on my paper in the morning very hard and fairly successfully.",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:235."]
+        notes: null
     },
     {
         title: "Oxford Diary (7 June 1924)",
@@ -2139,7 +2161,7 @@ const texts = [
         notes: ["Identical to 7 June 1924 entry.", "Possibly a reference to his “Hegemony of Moral Value” paper."]
     },
     {
-        title: "Oxford Diary (10 May 1922)",
+        title: "Oxford Diary (10 May 1922 [<i>LP</i> 8:135])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "71",
@@ -2147,10 +2169,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[Lewis had been working on a prose version of his long poem “Foster” (which does not survive). That prose essay was  intended as an answer to Bertrand Russel’s “A Free Man’s Worship,” and is mentioned as a finished work in a somewhat enigmatic and partly unpublished diary passage of 10 May 1922:]<br/><br/>I was thinking seriously of how I could face the prospect of having to give up poetry, if it came to that. I was surprised to discover how many hidden assuptions [sic] about contemporary recognition etc underlay the view I had taken in Foster wh. is really that of ‘Sache’(?) – so there is more to be said for Hegel than I once thought. <br/><br/>[71 note 108: The first sentence is also in AMR, 32. The question mark in parentheses is original to the ‘Lewis Papers’, perhaps added by Warnie Lewis while typing the text from the manuscript diary.]",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:135."]
+        notes: null
     },
     {
-        title: "Oxford Diary (19 June 1924)",
+        title: "Oxford Diary (19 June 1924 [<i>LP</i> 8:245])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
         pageRange: "73-74",
@@ -2158,7 +2180,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On 19 June Lewis noted that one student, Ziman,]<br/><br/>is taking P.P.E. next term and will be coming to me for ordinary tuition: he wants however to take Kant as his special subject. He knew from what I had often said to him before that I was not a Kantian, but asked if I would be “compos Kantis” next term. I said that I should follow Carritt’s example in handing Kantians over to Ewing. Ziman however showed a strong disinclination to that solution and wanted to go to Paton: but this could not be arranged while Carritt was ill and so we had to let the matter stand.<br/><br/>[Moreover, that same morning Lewis had been invited to]<br/><br/>take Carlyle’s English pupils next term when Carlyle is away<br/><br/>[and he visited Carlyle immediately after meeting Ziman. Yet, for whatever reason, including perhaps the expected workload, Lewis confined himself to the philosophy job accepted from Carritt.]",
         type: "Diary",
-        notes: ["Source: <i>LP</i> 8:245"]
+        notes: null
     },
     {
         title: "Oxford Diary (12 May 1924)",
@@ -3022,18 +3044,17 @@ const texts = [
     },
     {
         title: "Letter to Father Guy Brinkworth (1945)",
-        // TODO: may be earlier. See Thorson's comment: Letter to Father Guy Brinkworth (undated), quoted in Brinkworth's letter to the Tablet (7 Dec 1963) p.1317. Reprinted in Christopher Derrick, C.S. Lewis and the Church of Rome. San Francisco, CA: Ignatius, 1981, pp.214-15.
-        printedIn: "Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius)",
+        printedIn: "<i>The Tablet</i>",
         issueOrVolume: null,
         pageRange: "214-215",
-        year: 1981,
-        monthAndDay: null,
-        textProvided: "[Derrick quoting Brinkworth, who refers to lost letters roughly dated to the 1940s:]<br/><br/><i>In the letters I received from [Lewis] he time and time again asked specifically for prayers that God might give him</i><br/><br/>“the light and grace to make the final gesture”.<br/><br/><i>He even went so far as to ask in a postscript to one of his letters for</i><br/><br/>“prayers that the prejudices instilled in me by an Ulster nurse might be overcome”.",
+        year: 1963,
+        monthAndDay: "7 December",
+        textProvided: "[In the letters I received from [Lewis] he time and time again asked specifically for prayers that God might give him]<br/><br/>“the light and grace to make the final gesture”.<br/><br/>[He even went so far as to ask in a postscript to one of his letters for]<br/><br/>“prayers that the prejudices instilled in me by an Ulster nurse might be overcome”.",
         type: "Letter",
-        notes: null
+        notes: ["Later reprinted in Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius), 214-215."]
     },
     {
-        title: "Letter to C.T. Onions (~1945-1947)",
+        title: "Letter to C.T. Onions (c.1945-1947)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
         pageRange: "12",
@@ -3600,7 +3621,7 @@ const texts = [
         pageRange: null,
         year: 2000,
         monthAndDay: null,
-        textProvided: "[A letter apparently only containing Lewis’s poem “The Nativity” (found in all the general collections of Lewis’s poems published since 1964) followed by the concluding words,]<br/><br/>Yours is the better poem, but one must send the ball back over the net somehow.",
+        textProvided: "[A letter apparently only containing Lewis’s poem “The Nativity” (found in all the general collections of Lewis’s poems published since 1964) followed by the concluding words,]<br/><br/>Yours is the better poem, but one must se[nd] the ball back over the net somehow. [...] greetings, C.S.L.",
         type: "Letter",
         notes: null
     },
@@ -4332,7 +4353,7 @@ const texts = [
     },
     {
         title: "Letter to Owen Barfield (21 Oct 1963)",
-        printedIn: "Jane Hipolito, “C.S. Lewis and Owen Barfield: Adversaries and Confidantes,” in <i>An Examined Life,</i> vol. 1 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
+        printedIn: "Jane Hipolito, “C.S. Lewis and Owen Barfield: Adversaries and Confidantes,” in <i>An Examined Life,</i> vol. 1 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CT: Praeger Perspectives)",
         issueOrVolume: null,
         pageRange: "239",
         year: 2007,
@@ -4486,17 +4507,6 @@ const texts = [
     },
     // POEMS
     {
-        title: "Translation of Ovid’s <i>Ars Amatoria,</i> ii. 223",
-        printedIn: "Dorothy L. Sayers, “The Writing and Reading of Allegory,” <i>The Poetry of Search and Poetry of Statement</i> (London: Victor Gollancz)",
-        issueOrVolume: null,
-        pageRange: "207",
-        year: 1963,
-        monthAndDay: null,
-        textProvided: "Go early ere the appointed hour to meet<br/>The fair, and long await her in the street.<br/>Through shouldering crowds on all her errands run:<br/>Through graver business wait the while undone.<br/>If she commands your presence on her way<br/>Home from the ball to lacky her, obey!<br/>Or if from rural scenes she bids you, “Come”,<br/>Drive if you can, if not, walk, to Rome.<br/><br/><i>Ars Amatoria</i> ii. 223 (trans. C. S. Lewis)",
-        type: "Poem",
-        notes: null
-    },
-    {
         title: "“The Sunrise”",
         printedIn: "<i>The Various Light: An Anthology of Modern Poetry in English,</i> ed. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
         issueOrVolume: null,
@@ -4640,7 +4650,7 @@ const texts = [
         notes: null
     },
     {
-        title: "A version of “To a Friend”",
+        title: "An early version of “To a Friend”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "70-71",

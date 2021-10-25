@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 10.20.21</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 10.25.21</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -80,7 +80,7 @@ class AboutModal extends Component {
                         <ol>
                             <li>1939 - <i>Rehabilitations and Other Essays</i></li>
                             <li>1946 - <i>Transposition and Other Addresses</i> (UK) / <i>The Weight of Glory and Other Addresses</i> (US 1949)</li>
-                            <li>1947 - <i>Essays Presented to Charles Williams</i> (UK; US 1966)</li>
+                            <li>1947 - <i>Essays Presented to Charles Williams</i></li>
                             <li>1960 - <i>The World’s Last Night and Other Essays (US only)</i></li>
                             <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
                         </ol>
@@ -126,11 +126,11 @@ class AboutModal extends Component {
                         
                         <p><b>SOURCES: </b>For sections 1 (Prose) and 3 (Diaries), many of the following entries in this list, and some of the notes on them, are drawn from Hooper’s indispensable bibliographies in <i>C.S. Lewis: A Companion and Guide</i> (New York: HarperCollins, 1996), 799-883, <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James T. Como (1992, new edition), 250-301, and <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3rd edition), 387-492. I have supplemented, expanded, or corrected Hooper’s entries as necessary, in addition to adding dozens of my own. I have not used Hooper’s long-outdated first bibliography, which can be found in <i>Light on C.S. Lewis,</i> ed. Jocelyn Gibb (London: Geoffrey Bles, 1965), 117-60.</p>
 
-                        <p>Paul Tankard’s meticulously researched article, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 432-438, also proved invaluable in unearthing and cataloguing several obscure letters and blurbs.</p> 
+                        <p>Paul Tankard’s “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 432-438, also proved invaluable in unearthing and cataloguing several obscure letters and blurbs.</p> 
                         
                         <p>I am also indebted to Arend Smilde, Stephen Thorson, Don King, Norbert Feinendegen, and Henk van Wingerden for many additional contributions.</p>
                         
-                        <p><b>OMISSIONS: </b>Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s Preface to Kathryn Ann Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Grand Rapids: Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> Seven: An Anglo-American Literary Review,</i> vol. 28 (2011), 5-15. Accordingly, only the latter reference is included in this bibliography. Likewise, many of the blurbs and letters catalogued by Tankard in “Notes on the Bibliography of C.S. Lewis” also appear in Hooper's <i>Collected Letters,</i> and have been omitted from this list.</p>   
+                        <p><b>OMISSIONS: </b> (1) Secondhand reports or summaries of Lewis’s words are excluded (e.g., most “Discussion” sections in the <i>Socratic Digest</i>). (2) Mere corrections to erroneous printings (e.g., for <i>The Allegory of Love </i>in 1938) are not included, but early drafts and later abridgements (e.g., for <i>That Hideous Strength</i> in 1946) and revisions (e.g., for <i>Miracles</i> in 1960) are. (3) Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s Preface to Kathryn Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> Seven,</i> vol. 28 (2011), 5-15. Only the latter reference is included in this bibliography.</p>   
                     </div>
                     <div className="modal-footer">
                         <a href="#!" className="modal-close btn-flat">close</a>
