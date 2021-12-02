@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 10.25.21</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 12.1.21</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -70,7 +70,7 @@ class AboutModal extends Component {
                             <li>1961 - <i>A Grief Observed</i></li>
                             <li>1961 - <i>An Experiment in Criticism</i></li>
                             <li>1961 - <i>The Screwtape Letters and Screwtape Proposes a Toast</i></li>
-                            <li>1963 - <i>Beyond the Bright Blur (US only)</i></li>
+                            <li>1963 - <i>Beyond the Bright Blur</i> (US only)</li>
                             <li>1964 - <i>Letters to Malcolm</i></li>
                             <li>1964 - <i>The Discarded Image</i></li>
                         </ol>
@@ -81,7 +81,7 @@ class AboutModal extends Component {
                             <li>1939 - <i>Rehabilitations and Other Essays</i></li>
                             <li>1946 - <i>Transposition and Other Addresses</i> (UK) / <i>The Weight of Glory and Other Addresses</i> (US 1949)</li>
                             <li>1947 - <i>Essays Presented to Charles Williams</i></li>
-                            <li>1960 - <i>The World’s Last Night and Other Essays (US only)</i></li>
+                            <li>1960 - <i>The World’s Last Night and Other Essays</i> (US only)</li>
                             <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
                         </ol>
 
