@@ -78,6 +78,28 @@ const texts = [
         notes: ["An earlier, shorter version of the essay “Miracles.”"]
     },
     {
+        title: "Preface",
+        printedIn: "<i>Broadcast Talks</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "5",
+        year: 1942,
+        monthAndDay: null,
+        textProvided: "I gave these talks, not because I am anyone in particular, but because I was asked to do so. I think they asked me chiefly for two reasons: firstly, because I am a layman, not a clergyman; and secondly, because I had been a non-Christian for many years. It was thought that both these facts might enable me to understand the difficulties that ordinary people feel about the subject. I am Church of England now myself, but I have tried to put nothing into the second series of talks which all Christians of all Churches do not agree with. With this in view, I sent the script to four clergymen (one Church of England, one Roman Catholic, one Presbyterian, and one Methodist) before they were given on the air. The Church of England man and the Presbyterian agreed with me throughout. The Roman Catholic thought I went too far about the comparative unimportance of <i>theories</i> of the “Atonement” in the fourth talk of the second series, and the Methodist would have liked more about Faith in the fifth talk of that series. Both these differences you will find noted when you come to the place. Apart from those, I believe you can take what is said in the second series as plain Christianity which no Christian disagrees with. The first series, of course, does not get as far as Christian doctrines; it is more what might be called philosophy.<br/><br/>C.S. Lewis<br/>Magdalen College",
+        type: "Prose",
+        notes: ["The same Preface is in the US equivalent volume, <i>The Case for Christianity.</i>", "Elements of this piece were later reworked into the Preface of <i>Mere Christianity.</i>"]
+    },
+    {
+        title: "Prefatory note exclusive to first UK edition",
+        printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "5",
+        year: 1943,
+        monthAndDay: null,
+        textProvided: "NOTE.—Eight B.B.C. Talks are here printed, roughly (not exactly) as they were given on the air. Four fresh sections have been added to bring in points which I had not time to deal with in the actual Talks: they are marked with a letter after the numeral to distinguish them (IA. IVA. VIA, VIB.)",
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Footnote on “The Three Parts of Morality”",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -133,15 +155,37 @@ const texts = [
         notes: ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Revised and Expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
-        title: "Comments and Questions after a lecture by H.A. Hodges",
-        printedIn: "“Philosophy Today,” <i>The Socratic Digest</i>",
-        issueOrVolume: "vol. 2",
+        title: "Comments and questions after a lecture by H.A. Hodges",
+        printedIn: "“Philosophy Today,” The <i>Socratic Digest</i>",
+        issueOrVolume: "no. 2",
         pageRange: "28-30",
         year: 1944,
         monthAndDay: "June",
-        textProvided: false,
+        textProvided: "Mr. Lewis opened the DISCUSSION and commented as follows:<br/><br/>(1) All human activity seems to be here reduced to a mode of self-expression or self-indulgence (<i>cf.</i> alleged “stabilizing” effects of metaphysics), except perhaps history (but <i>cf.</i> Powicke’s Riddel Lectures: he despairs about really knowing the past). A different pattern of history will emerge from each man's history of philosophy. The trouble about skepticism is that you cannot be skeptical about everything at the same time, or you are reduced to silence.<br/><br/>(2) If truth is not objective but only personal, what is the “right” method of thinking in logic?<br/><br/>(3) What sort of health is possible, from this point of view, to philosophy and theology when they are separated? Such a separation would leave a concealed “waffling” in metaphysics, and just naked “waffling” in religion!<br/><br/>(4) How choose responsibly when you don't know to what or to whom you are responsible? On this view, why is theology not regarded as pure “waffle”?Professor Hodges: These questions amount to a challenge to me to state my theory of knowledge. I can do so only in outline. It is dialectical (not precisely in the Hegelian sense). All experience is a conscious relation between a subject and an object, based upon a complex of adjustments and mutual conditionings. The relation insofar as conscious can subsist only insofar as the subject <i>recognizes</i> or <i>acknowledges</i> the presence of an object, and this recognition or acknowledgement is a complex intellectual-emotional-volitional attitude which the subject can refrain from taking; in which case the object which he does not acknowledge cannot be an object for him, and his experience is to that extent the poorer. “The recognition or acceptance of a particular object or type of objects is justified in face of questioning insofar as this recognition or acceptance opens up a realm of experience, not accessible otherwise, in exploring which I continually make new discoveries, produce effects, and find things happening to me. Thus e.g.<br/><br/>(1) Acceptance of a world other than my own consciousness and conforming to the scientific principle of uniformity opens up wide realms of discovery and action. (2) Acceptance of an order of persons having claims upon me (the basic attitude underlying morality) opens up another realm in which, again, I make discoveries and find things happening to me. (3) Acceptance of the object commonly called God has analogous results. In each instance the initial acceptance opens up possibilities of continuing exploration, whose results react upon myself and build up my mind, character and life-pattern. This fruitfulness in exploration is the essence and also the test of truth.<br/><br/>In ordinary life we make our basic acceptances unconsciously and get on with our exploring. The resulting growth of knowledge is a fact of life. Socratic criticism (here epistemology) cannot destroy or alter it, but can show us how it depends on the basic acceptance, how there are alternative sets of first principles which can be used to cancel one another out, how consequently there are no bedrock certitudes. This bottomlessness is also a fact of life and we have to learn to live with it. We can even conceive the possibility of a total paralysis of thought by withdrawal of all acceptances, a depth in which, as Mr. Lewis says, only silence is possible. A serious thinker will go down again and again into that silence, but he will not stay there. He will go on living, i.e. accepting, exploring, and knowing, but with a new awareness of what he is doing, and why. He will make his acceptance responsibly - by which I simply mean seriously.<br/><br/>The choice (insofar as there is a choice) between accepting and not accepting a particular type of object or set of first principles depends on the principle of fullness of life i.e. the opening up of as many realms of experience as possible. This principle operates in determining our choice whether we are aware of it or not.<br/><br/>The above contains or implies the answers to Mr. Lewis’ questions. It is he who talks of skepticism, not I. The systematic exploration of the various realms of experience is not waffling. Theology is an instance of such exploration, and so is Socratic criticism, but metaphysics is not, since it endlessly frustrates itself, and therefore it does theology no good to tie it up with metaphysics. The “right” way to think, which logic is to detect, is that which is fruitful in discovery. I have tried to show that the possibility of discovery depends on factors in the subject as well as in the object. It is not I who have inferred from this that no discovery is possible at all.<br/><br/>Fallacies lead to frustration in action, but right thinking does not. Evaluation is by action.<br/><br/>QUESTION: How “choose,” when you don't know what are the two principles between which you choose?<br/><br/>PROFESSOR HODGES, “Fullness of life” is the principle, but principles need not all be conscious. It is part of Socratic criticism to make them conscious. Something is at work in me which I have not chosen, i.e. myself. I ask myself, “Why do I believe so and so?” and this is the fundamental passion behind philosophy as I practice it. It doesn't worry me to say that philosophy is a branch of applied psychology. I cannot calculate what experience will yield.<br/><br/>QUESTION: Is the kind of knowledge before your choice different from the knowledge after it?<br/><br/>PROFESSOR HODGES. No, Before you made a choice you were not conscious why you did it, but afterwards you know and are therefore more stable. The aim is the emergence of self­consciousness. An “existential” decision is one which makes you a different person, and such decisions need not be religious ones<br/><br/>MR. LEWIS. Must I, for the sake of “fullness of life,” give up the only “fullness of life” I care about - the belief in objective truth (my unextinguishable, or rather unextinguished, passion)? Only love of objective truth could make me accept what you say.<br/><br/>PROFESSOR HODGES. I speak to you as to a Christian: certain things cannot be known “in via” - this we must accept<br/><br/>QUESTION: I thought Professor Hodges was denying objective truth to metaphysics only, not, e.g., to the principles revealed by epistemology.<br/><br/>PROFESSOR HODGES: There are three levels of thought. (1) Positive or empirical enquiry, scientific and historical, where on the basis of agreed presuppositions agreed results are reached. These are objective in the sense that they hold for all thinkers who accept the principles and weigh the evidence. (2) Socratic criticism, which discloses the principles on which (1) is based, showing the extent to which they rest on foundations in the nature of the thinking subject. Such principles can be shown to have a history, but are not individual fantasies. (3) Metaphysical construction, which is individual fantasy.<br/><br/>QUESTION. Can we <i>argue</i> about fundamental choices?<br/><br/>PROFESSOR HODGES: We can sometimes show that a principle holds for all possible subjects in like circumstances, and is in that sense objective.<br/><br/>MR. LEWIS: For all possible subjects or for all human subjects’! Is truth about something or only for persons?<br/><br/>The discussion had reluctantly to be closed at 10.50 p.m.",
         type: "Prose",
-        notes: ["These were printed as an actual transcript, not as summary notes by a secretary.", "If you would like to make an electronic transcription of this text, let me know."]
+        notes: null
+    },
+    {
+        title: "Secretarial notes of the end of “Bulverism” and partial transcript of the consequent discussion",
+        printedIn: "The <i>Socratic Digest</i>",
+        issueOrVolume: "no. 2",
+        pageRange: "[page range unknown]",
+        year: 1944,
+        monthAndDay: "June",
+        textProvided: "One might argue, Mr Lewis continued, that reason had developed by natural selection, only those methods of thought which had proved useful surviving. But the theory depends on an inference from usefulness to truth, of which the validity would have to be assumed. All attempts to treat thought as a natural event involve the fallacy of excluding the thought of the man making the attempt.<br/><br/>It is admitted that the mind is affected by physical events; a wireless set is influenced by atmospherics, but it does not originate its deliverances — we’d take no notice of it if we thought it did. Natural events we can relate one to another until we can trace them finally to the space-time continuum. But thought has no father but thought. It is conditioned, yes, not caused. My knowledge that I have nerves is inferential.<br/><br/>The same argument applies to our values, which are affected by social factors, but if they are caused by them we cannot know that they are right. One can reject morality as an illusion, but the man who does so often tacitly excepts his own ethical motive: for instance the duty of freeing morality from superstition and of spreading enlightenment.<br/><br/>Neither Will nor Reason is the product of Nature. Therefore either I am self-existent (a belief which no one can accept) or I am a colony of some Thought and Will that are self-existent. Such reason and goodness as we can attain must be derived from a self-existent Reason and Goodness outside ourselves, in fact, a Supernatural.<br/><br/>Mr Lewis went on to say that it was often objected that the existence of the Supernatural is too important to be discernible only by abstract argument, and thus only by the leisured few. But in all other ages the plain man has accepted the findings of the mystics and the philosophers for his initial belief in the existence of the Supernatural. Today the ordinary man is forced to carry that burden himself. Either mankind has made a ghastly mistake in rejecting authority, or the power or powers ruling his destiny are making a daring experiment, and all are to become sages. A society consisting solely of plain men must end in disaster. If we are to survive we must either believe the seers or scale those heights ourselves.<br/><br/>Evidently, then, something beyond Nature exists. Man is on the border line between the Natural and the Supernatural. Material events cannot produce spiritual activity, but the latter can be responsible for many of our actions on Nature. Will and Reason cannot depend on anything but themselves, but Nature can depend on Will and Reason, or, in other words, God created Nature.<br/><br/>The relation between Nature and Supernature, which is not a relation in space and time, becomes intelligible if the Supernatural made the Natural. We even have an idea of this making, since we know the power of imagination, though we can create nothing new, but can only rearrange our material provided through sense-data. It is not inconceivable that the universe was created by an Imagination strong enough to impose phenomena on other minds.<br/><br/>It had been suggested, Mr Lewis concluded, that our ideas of making and causing are wholly derived from our experience of will. The conclusion usually drawn is that there is no making or causing, only “projection”. But “projection” is itself a form of causing, and it is more reasonable to suppose that Will is the only cause we know, and that therefore Will is the cause of Nature.<br/><br/>A Discussion followed. Points arising:<br/><br/>All reasoning assumes the hypothesis that inference is valid. Correct inference is self-evident.<br/><br/>“Relevant” (re evidence) is a rational term.<br/><br/>The universe doesn’t claim to be true: it’s just there.<br/><br/>Knowledge by revelation is more like empirical than rational knowledge.<br/><br/>Question: What is the criterion of truth, if you distinguish between cause and reason?<br/><br/>Mr Lewis: A mountainous country might have several maps made of it, only one of which was a true one, i.e., corresponding with the actual contours. The map drawn by Reason claims to be that true one. I couldn’t get at the universe unless I could trust my reason. If we couldn’t trust inference we could know nothing but our own existence. Physical reality is an inference from sensations.<br/><br/>Question: How can an axiom claim self-evidence any more than an empirical judgment on evidence?’",
+        type: "Prose",
+        notes: ["This section of the essay, which was originally read to the Socratic Society before publication in the <i>Socratic Digest,</i> is in the form of notes taken down by the Secretary of the Society. But some of it is in the first person, and seems to be Lewis’s exact words.", "This passage is only found in the US collection <i>God in the Dock</i> (1970). It is not found in the equivalent UK volume <i>Undeceptions</i> (1971), nor in <i>First and Second Things</i> (1985), nor in Lesley Walmsley’s <i>Essay Collection</i> (2000)."]
+    },
+    {
+        title: "Preface",
+        printedIn: "<i>Beyond Personality</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "5-6",
+        year: 1944,
+        monthAndDay: null,
+        textProvided: "[5] These Talks attempt to put into simple modern language the account of God which, to the best of my knowledge, the vast majority of Christian churches have agreed in giving for a great many centuries. I have tried to explain in previous talks why I think Christianity true. Here I am not trying to prove anything; only to describe what the Christian belief is. It is hoped that this may be of some use both to those who accept Christianity and to those who don’t: indeed it is not much good discussing whether certain beliefs are true before we know what they are. Some listeners were offended because I used the words ‘Christian belief’ to describe the doctrines officially held by organised Christianity at nearly all times and in nearly all countries. They themselves, though claiming to be Christians, differed from this official belief on certain points, and they were annoyed because I seemed to be saying that they were therefore no Christians: and ‘Who’s he’, they asked, ‘to lay down who is a Christian and who is not?’ In reality I was not attempting (in the sense they mean) to lay down anything of the sort. If anyone was asked to give an account, say, of Mohammedanism in seven very short talks he would be forced to concentrate on the general central Mohammedan tradition. He simply wouldn’t have time to go into minor variations, still less to deal with the beliefs of individual Mohammedans. In his talks the word ‘Mohammedanism’ would simply <i>have</i> to be used to mean that permanent central tradition. I dealt with Christianity in the same way. I should have had to do so even if I personally did not regard the central tradition as being Chrsitianity at its truest. In point of fact I do regard it as true, and consequently I must think that those who depart from it are mistaken. Some people say this attitude is ‘intolerant’. ‘He’s the sort of man’, they complain, ‘who thinks his own [6] beliefs are true and everyone else’s are wrong.’ But after all how can any man help doing that? A man must think his own belief true because if he didn’t it would not be his belief. ‘Your belief’ <i>means</i> ‘what you think true’. And if you think one thing true, of course you must think the opposite false. But this is a very different thing from saying that those who hold the opposite belief are necessarily bad or stupid. There is a deeper sense of the word ‘Christian’ in which some who hold wrong beliefs may be more Christian than some who hold the right ones. Christ, who can see into their hearts, may recognise them as His own, and more His own than many of the orthodox. Needless to say, I never dreamed of laying down who was a ‘Christian’ in that sense. It would have been the grossest impudence for me even to raise the question, for neither I nor any mortal can possibly know the answer.<br/><br/>>April 15th, 1944<br/>C.S. Lewis",
+        type: "Prose",
+        notes: ["Elements of this piece were later reworked into the Preface of <i>Mere Christianity.</i>"]
     },
     {
         title: "Epigraph exclusive to British edition of <i>The Great Divorce</i>",
@@ -207,7 +251,7 @@ const texts = [
         monthAndDay: "Autumn",
         textProvided: false,
         type: "Prose",
-        notes: ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in <i>The Socratic Digest,</i> no. 4 (1948), 82-94.", "If you would like to make an electronic transcription of this text, let me know."]
+        notes: ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in the <i>Socratic Digest,</i> no. 4 (1948), 82-94.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“A Christmas Sermon for Pagans”",
@@ -354,7 +398,7 @@ const texts = [
     },
     {
         title: "“Taste,” a revision of the original “Notes on the Way [=Different Tastes in Literature]”",
-        printedIn: "<i>Time and Tide Anthology,</i> ed. Anthony Lejeung (London: Andre Deutsch",
+        printedIn: "<i>Time and Tide Anthology,</i> ed. Anthony Lejeung (London: Andre Deutsch)",
         issueOrVolume: null,
         pageRange: "101-107",
         year: 1956,
@@ -362,6 +406,17 @@ const texts = [
         textProvided: false,
         type: "Prose",
         notes: ["If you would like to make an electronic transcription of this text, let me know."]
+    },
+    {
+        title: "Prefatory note exclusive to first UK edition",
+        printedIn: "<i>Till We Have Faces</i> (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "1",
+        year: 1956,
+        monthAndDay: null,
+        textProvided: "This re-interpretation of an old story has lived in the author’s mind, thickening and hardening with the years, ever since he was an undergraduate. That way, he could be said to have worked at it most of his life. Recently, what seemed to be the right form presented itself and themes suddenly interlocked: the straight tale of barbarism, the mind of an ugly woman, dark idolatry and pale enlightenment at war with each other and with vision, and the havoc which a vocation, or even a faith, works on human life.",
+        type: "Prose",
+        notes: null
     },
     {
         title: "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
@@ -431,7 +486,6 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
     },
     {
-
         title: "Blurb for <i>Adam: A Tone Poem</i>",
         printedIn: "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
         issueOrVolume: null,
@@ -441,6 +495,17 @@ const texts = [
         textProvided: "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         type: "Prose",
         notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
+    },
+    {
+        title: "Revisions to “The Cardinal Difficulty of Naturalism”",
+        printedIn: "<i>Miracles,</i> 2nd edition (London: Geoffrey Bles)",
+        issueOrVolume: null,
+        pageRange: "chapter 3",
+        year: 1960,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["Have all the changes been identified?"]
     },
     {
         title: "“Preface to the 1961 Edition”",
@@ -682,7 +747,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "When I first met Brown F.R.A.S., I had no idea that his love for Jules Verne’s side of astronomy would lead me into this. I came to know him through his ½-brother Jeames: as I took a mild intrest in astronomy, Brown and I were good chums. It was after I had known him for about a month that he suddenly droped in to see me one night. “Bensin I’m going to Mars” he said in his short way. I laughed. “How?” said I. “In a vessel” said he “all I want is money.” “Don’t be a fool Brown” said I “you’ll never do it!” “Oh yes I will” quoth he “at any rate I’ll try.”  <br/><br/>“It is wrong to commit suicide specially when one has wife and children” I observed.  <br/><br/> “It is, very wrong,” said Brown “but I am not going to.” However I thought I’d give you the chance of coming with me: − will you?”  <br/><br/>Come with him! − I Hadn’t thought of that. I reflected and then said,  <br/><br/>“If you don’t mind Brown I’ll wait till you have settled your arrangements” <br/><br/>“Sorry Bensin” returned my friend “but I am going to start from central Africa, I sail from Southampton to-morrow night!” <br/><br/>“Well I’ll come, and tell you what I’m going to, in the morning. said I <br/><br/>“Right. good by said he <br/><br/>good by said I<br/><br/>and he went.",
         type: "Prose",
-        notes: ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i> and holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008). Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
+        notes: ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
     },
     {
         title: "Non-Boxen story illustrations (holographs)",
@@ -726,7 +791,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "To my Father<br/><br/>With the author’s best love and compliments, in memory of the happy days when we “Built the Promenade” together.<br/><br/><u>29th March 1919</u>",
         type: "Prose",
-        notes: ["This is the only known printing of this inscription. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version.", "This book also includes excerpts from many letters later published in <i>Collected Letters</i> and holographs of selected Boxen stories, later published in <i>Boxen</i> (1985, 2008). Finally, there is also a holograph of “Carpe Diem,” Lewis's schoolboy poem, later published in <i>Collected Poems,</i> ed. Don King (2015)."]
+        notes: ["This is the only known printing of this inscription. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
     },
     {
         title: "Pen portraits of Arthur Greeves",
@@ -1076,7 +1141,7 @@ const texts = [
         pageRange: "18",
         year: 1998,
         monthAndDay: null,
-        textProvided: "Text as follows, with Lewis’s words in quotes: They had time, however, in those few weeks to discover “the secret dark hole upstairs” and to claim it for their own ...An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high “miniature mountain” of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before, “only because he did not know how to write. This pile of rubbish,” the story goes on, “was my treasure, my religion, for it was my past, and the past was all I had yet made my own.” But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the “inwards” of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.",
+        textProvided: "[Jack and Warnie had time, however, in those few weeks to discover]<br/><br/>the secret dark hole upstairs<br/><br/>[and to claim it for their own ...An unfinished story written later by Jack suggests what the “hole” looked like after a year or two. It was a narrow room where trunks and suitcases were stored, where spiders hibernated or spread their webs and dead flies littered the windowsills. Another little room contained a wobbly three-legged table, and still another room, a pile of torn canvas and stacks of old newspapers. But the real treasure of the place, according to Jack’s story, was a knee-high]<br/><br/>miniature mountain<br/><br/>[of poems, plays, stories, and songs that the hero of Jack’s story had written, and, with them, dusty pictures that he had drawn long before]<br/><br/>only because he did not know how to write. This pile of rubbish was my treasure, my religion, for it was my past, and the past was all I had yet made my own.<br/><br/>[But there was another treasure, a dark corner where, if one knelt down, particularly on a lonely day, he would hear, not only the gurgling, hissing, and splashing of the cisterns, but also the wind going through the]<br/><br/>inwards<br/><br/>[of the house, between walls and through ceiling and rafters; and he would feel an emptiness occupied by the terrible Lar, Roman god of houses. Kneeling there, one could easily believe that the soul of the house was in the imprisoned wind.]",
         type: "Prose",
         notes: ["Reprinted in second edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
     },
@@ -1164,7 +1229,7 @@ const texts = [
         pageRange: "16",
         year: 1999,
         monthAndDay: null,
-        textProvided: "Text as follows, with Lewis’s words in quotes: It is an essay written by Jack in 1908, entitled “Home Rule”, however, which reveals the extent of his grasp of the Irish political situation. In it he states that he will defend home rule when he grows up while also acknowledging that it is a “matter of mighty weight not to be answered in a moment.” The short essay concludes with the young author echoing grandmother Hamilton’s sentiments,  posing the question, “What would you do with Home Rule if you got it?” The reply, “what we will do with [it] is our business but we would do a great deal more than you would like”, strikes Jack as being “a pretty smart answer I think.”",
+        textProvided: "[It is an essay written by Jack in 1908, entitled “Home Rule”, however, which reveals the extent of his grasp of the Irish political situation. In it he states that he will defend home rule when he grows up while also acknowledging that it is a]<br/><br/>matter of mighty weight not to be answered in a moment.<br/><br/>[The short essay concludes with the young author echoing grandmother Hamilton’s sentiments,  posing the question:]<br/><br/>What would you do with Home Rule if you got it?<br/><br/>[The reply:]<br/><br/>what we will do with [it] is our business but we would do a great deal more than you would like<br/><br/>[strikes Jack as being]<br/><br/>a pretty smart answer I think.",
         type: "Prose",
         notes: null
     },
@@ -1186,7 +1251,7 @@ const texts = [
         pageRange: "32",
         year: 1999,
         monthAndDay: null,
-        textProvided: "Text as follows, with Lewis’s words in quotes: The version of the story which follows this [Text A] was written when Jack was in his mid-twenties: the story is more focused, the author considerably older, and the discontent with the fictional father, who bears more than a passing resemblance to Albert Lewis, is now more keenly felt than the young man in the story announcing that while he does not hate his father, he “hated and feared to be with him”.",
+        textProvided: "[The version of the story which follows Text A was written when Jack was in his mid-twenties: the story is more focused, the author considerably older, and the discontent with the fictional father, who bears more than a passing resemblance to Albert Lewis, is now more keenly felt than the young man in the story announcing that while he does not hate his father, he]<br/><br/>hated and feared to be with him",
         type: "Prose",
         notes: null
     },
@@ -1242,6 +1307,61 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "Yours is the better poem, but one must se[nd] the ball back over the net somehow.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of E.K. Chambers and F. Sidgwick, <i>Early English Lyrics</i>",
+        printedIn: "David Lyle Jeffrey, “Medieval Literature” in <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
+        issueOrVolume: null,
+        pageRange: "76",
+        year: 2000,
+        monthAndDay: null,
+        textProvided: "[But it is clear that he sees the medieval lyrics as, on the whole, inferior; on No. 26, to the lines “She is right true, I do it see; / My heart to have she doth me bind…” he writes]<br/><br/>true drab age.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of W.W. Skeat, <i>Chaucer: The Minor Poems</i>",
+        printedIn: "David Lyle Jeffrey, “Medieval Literature” in <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
+        issueOrVolume: null,
+        pageRange: "84 note 6",
+        year: 2000,
+        monthAndDay: null,
+        textProvided: "[Lewis, in his copy of W.W. Skeat, ed., <i>Chaucer: The Minor Poems</i> (1896), annotated the <i>Book of the Duchess</i> mostly with philological and textual corrections, but noted his then belief (probably early) that Octavien (lines 368ff.)]<i>represents Edward III</i>",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of John Jay Parry, <i>The Art of Courtly Love</i>",
+        printedIn: "David Lyle Jeffrey, “Medieval Literature” in <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
+        issueOrVolume: null,
+        pageRange: "85 note 10",
+        year: 2000,
+        monthAndDay: null,
+        textProvided: "[See Lewis’s review of Parry’s translation of <i>The Art of Courtly Love</i>. His review copy is annotated, and makes it clear that he accepted Parry’s]<br/><br/>vivid picture of life in a medieval court<br/><br/>[and his historically unfounded opinion that <i>amour courtois</i> was]<br/><br/>probably also practiced<br/><br/>[as a fusion of]<br/><br/>sensual<br/><br/>[and]<br/><br/>spiritual<br/><br/>[tradition. One tangential comment of Lewis in the margin reaches forward, however, to his more substantial lectures on the classical foundations of medieval thought. On p. 9 of Parry, Lewis writes:]<br/><br/>The fact that when Platonism came in later [Renaissance] it harmonized so well with CL [courtly love] suggests that the silence of med. writers about all this proves they never knew it. If they had they would have used it.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotation on the front flap of his copy of Bruno S. James, <i>St. Bernard of Clairvaux</i>",
+        printedIn: "David Lyle Jeffrey, “Medieval Literature” in <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
+        issueOrVolume: null,
+        pageRange: "85 note 12",
+        year: 2000,
+        monthAndDay: null,
+        textProvided: "[In his copy of Bruno S. James’s <i>St. Bernard of Clairvaux</i> (London: Hodder and Stoughton, 1957) he has written on the front flap:]<br/><br/>As sawdusty a book as ever I tried to read, and sometimes a touch of fatuity.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotations in his copies of various unspecified books ",
+        printedIn: "David Lyle Jeffrey, “Medieval Literature” in <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
+        issueOrVolume: null,
+        pageRange: "85 note 12",
+        year: 2000,
+        monthAndDay: null,
+        textProvided: "[Lewis’s words in quotes] On many a book margin he wrote “Bosh”, “No!” or simply “?!” But it seems evident that he refrained from publishing negative criticism wherever possible.",
         type: "Prose",
         notes: null
     },
@@ -1780,7 +1900,7 @@ const texts = [
         pageRange: "7 note 21",
         year: 2007,
         monthAndDay: null,
-        textProvided: "Text as follows: [Lewis had the habit of marking in his books the date on which he read a book. In the case of hid edition of Ethica Nicomachea, it was dated]<br/><br/> 1917",
+        textProvided: "[Lewis had the habit of marking in his books the date on which he read a book. In the case of hid edition of <i>Ethica Nicomachea,</i> it was dated]<br/><br/>1917",
         type: "Prose",
         notes: null
     },
@@ -2486,7 +2606,7 @@ const texts = [
         pageRange: "17-18",
         year: 1990,
         monthAndDay: null,
-        textProvided: "Hoora!<br/><br/>[he wrote in 1907.]<br/><br/>Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk.<br/><br/>[...Little Jacks himself we can glimpse in his fragment of autobiography:] <br/><br/>My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of “Building of the Promanad”, “Toyland”, “Living races of Mouse-Land” etc. Dedicated to Miss Maude Scott. I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...",
+        textProvided: "[17]<br/><br/>Hoora!Warnie comes home this morning. I am lying in bed waiting for him and thinking of him, before I know where I am I hear his boots pounding on the stairs, he comes into my room, we shake hands and begin to talk.<br/><br/>[...Little Jacks himself we can glimpse in his fragment of autobiography:] <br/><br/>My life during the Xmas holidsas [sic] of 1907 by Jacks or Clive Lewis author of “Building of the Promanad”, “Toyland”, “Living races of Mouse-Land” etc. Dedicated to Miss Maude Scott. I begin my life after my 9th birthday, on which I got a book from Papy and a post-card album from Mamy. I have a lot of enymays, however there are only 2 in this house they are called Maude and Mat. Maude is far worse than Mat but she thinks she is a saint. I rather like Mat, but I HATE Maude, she is very nasty and bad tempered, also very ugly, as you can see in the picture...[18]<br/><br/>Mamy is like most middle-aged ladys, stout, brown hair, spectacles, knitting her chief industry etc. etc. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thing and generally wearing a jersey.",
         type: "Diary",
         notes: ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the full title (and dedication) of the diary, as well as an anecdote about his excitement hearing Warnie come home. However, this is the first time we get the very first sentence of <i>My Life</i>"]
     },
@@ -2869,10 +2989,10 @@ const texts = [
     {
         title: "Letter to Malcolm M. Ferguson (20 February 1953)",
         printedIn: "Douglas A. Anderson, “A Footnote to Tales before Narnia,” <i>Mythlore</i>",
-        issueOrVolume: "vol. 29/1-2 (#111-112), Fall/Winter",
+        issueOrVolume: "vol. 29, no. 1",
         pageRange: "162 <a href='http://tolkienandfantasy.blogspot.com/2013/11/five-notes-on-cs-lewis.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         year: 2010,
-        monthAndDay: null,
+        monthAndDay: "Fall/Winter",
         textProvided: "What a good idea! It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see. But very many thanks.",
         type: "Letter",
         notes: null
@@ -3199,10 +3319,10 @@ const texts = [
     {
         title: "Letter to George Sayer (1933)",
         printedIn: "George Sayer, “Recollections of J.R.R. Tolkien,” <i>Proceedings of the J.R.R. Tolkien Centenary Conference 1992,</i> ed. Patricia Reynolds and Glen GoodKnight, <i>Mythlore</i>",
-        issueOrVolume: "vol. 21/2, #80",
+        issueOrVolume: "vol. 21, no. 2",
         pageRange: "21",
         year: 1996,
-        monthAndDay: null,
+        monthAndDay: "Winter",
         textProvided: "He [Tolkien] is scholarly, and he can be brilliant though perhaps rather recondite for most undergraduates. But unfortunately you may not be able to hear what he says. He is a bad lecturer. All the same I advise you to go. If you do, arrive early, sit near the front and pay particular attention to the extempore remarks and comments he often makes. These are usually the best things in the lecture. …In fact one could call him an inspired speaker of footnotes.",
         type: "Letter",
         notes: ["This may be only a paraphrase."]
@@ -3808,7 +3928,7 @@ const texts = [
         pageRange: "57",
         year: 2018,
         monthAndDay: null,
-        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentleman of Verona</i>]<br/><br/>I was on the point of sending off the enclosed squib to the T. L. S. when it occurred to me you might think it malevolent of even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the case in wh. decasyllabics occur in all English prose. If you are quite sure you do not find it in the least offensive wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket − whither I’d rather rend every existing list of TGV than cause a moments uneasiness to you who have us all in your debt so many times.",
+        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentlemen of Verona</i>]<br/><br/>I was on the point of sending off the enclosed squib to the T. L. S. when it occurred to me you might think it malevolent of even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the case in wh. decasyllabics occur in all English prose. If you are quite sure you do not find it in the least offensive wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket − whither I’d rather rend every existing list of TGV than cause a moments uneasiness to you who have us all in your debt so many times.",
         type: "Letter",
         notes: null
     },
@@ -3991,7 +4111,7 @@ const texts = [
     {
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "Don W. King, “The Anatomy of a Friendship: the Correspondence of Ruth Pitter and C.S. Lewis, 1946-1962,” <i>Mythlore</i>",
-        issueOrVolume: "vol. 24/1, #91",
+        issueOrVolume: "vol. 24, no. 1",
         pageRange: "8",
         year: 2003,
         monthAndDay: "Summer",
@@ -5028,7 +5148,7 @@ const texts = [
         issueOrVolume: "vol. 39, no. 1",
         pageRange: "11",
         year: 2020,
-        monthAndDay: null,
+        monthAndDay: "Fall/Winter",
         textProvided: "[Sending her <i>The Screwtape Letters</i> in manuscript]<br/><br/>Oct 20th, 1941<br/><br/>Dear Mrs. Neylan,<br/><br/>I’m just sending the proofs of the enclosed back to the publisher and wondered if you wd. care to amuse yourself with the MS. You might keep it till the book appears, in case of accidents: after that it can be made into spills. I’ve just read two books in the Signpost series by Mascall – <i>Man. His Origins and Destiny</i> and <i>The God-Man</i> (Dacre Press 1/6) both of which I thought excellent. I hope Dan and Sarah and yourself are all well. I got your address from Fr. Adams this morning.<br/><br/>Yours sincerely<br/><br/>C.S. Lewis",
         type: "Letter",
         notes: null
@@ -5053,7 +5173,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "Congratulations on [<i>Urania</i>] being a Book of the Year for ’51. Whenever I re-read your poems, I blame myself for not re-reading them oftener. … All blessings. I will drink to your health (not ‘only with my eyes’) at lunch time…",
         type: "Letter",
-        notes: ["The same excerpt is also reprinted in Don W. King, “The Anatomy of a Friendship: the Correspondence of Ruth Pitter and C.S. Lewis, 1946-1962,” <i>Mythlore</i> vol. 24, no. 1, #91, (Summer 2003), 8."]
+        notes: ["The same excerpt is also reprinted in Don W. King, “The Anatomy of a Friendship: the Correspondence of Ruth Pitter and C.S. Lewis, 1946-1962,” <i>Mythlore</i> vol. 24, no. 1 (Summer 2003), 8."]
     },
     {
         title: "Letter to Ruth Pitter (28 January 1957)",
@@ -5099,6 +5219,116 @@ const texts = [
         type: "Letter",
         notes: null
     },
+    {
+        title: "Letter to Kenneth Sisam (23 September 1935)",
+        printedIn: "<i>The History of Oxford University Press Vol III: 1867-1970</i>, ed. William Roger Louis (Oxford: Oxford University Press)",
+        issueOrVolume: null,
+        pageRange: "406",
+        year: 2013,
+        monthAndDay: null,
+        textProvided: "The MS. is perfectly ready, with the exception of the index, and can be sent by return of post if you will let me know the precise address you want it sent to.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to R.W. Chapman (18 September 1935)",
+        printedIn: "<i>The History of Oxford University Press Vol III: 1867-1970</i>, ed. William Roger Louis (Oxford: Oxford University Press)",
+        issueOrVolume: null,
+        pageRange: "406",
+        year: 2013,
+        monthAndDay: null,
+        textProvided: "I have now finished my book <i>The Allegorical Love-Poem</i> and am in search of a publisher.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (23 July 1942)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "211",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "Magdalen<br/><br/>July 23rd 1942<br/><br/>Dear Mr Derrick – Christopher was well enough to call on me the other day but I was unluckily out. I have been trying to find an afternoon to get to the hospital but have so far failed. I should like to meet him again.<br/><br/>I <i>do</i> agree with you about beauty: at least in literature. It might be difficult to apply to, say, music.<br/><br/>Yes, the Tablet is v. kind. When are you coming to see me again?<br/><br/>yours sincerely<br/>C. S. Lewis<br/><br/>The Jesuits in my pocket! I declare<br/>That must be why so little else is there!!",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (31 July 1942)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "211",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "Magdalen<br/>July 31st 42<br/><br/>Dear (shall we drop the Mr. on both sides?) Derrick,<br/><br/>(1) Thanks v. much for boss picture. The whirligigg movement [there is a drawn indica-tion of lines at this point] is v. attractive.<br/><br/>(2) I’ve always thought Screwtape needs illustrating and there’s no one I’d like better than you. I don’t expect much cd. be done in war-time but Bles was thinking lately of some sort of <i>de luxe</i> edition. So if you’re serious, write to him and tell him such a plan wd. have my blessing.<br/><br/>(3) Sat next (Aug 8th) wd. be alright for me if you’re coming to Oxford. Shall be away for week end so letter reaching here before Tues. won’t be read till Tues.<br/><br/>yours<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (7 August 1942)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "212",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "[postcard] Oxford 12.15 pm,<br/>7 August 1942<br/><br/>You will find me, never fear,<br/>’Neath the holy Golden Cross,<br/>Sitting down and drinking beer,<br/>And by no means at a loss,<br/>Singing songs as sweet as Herrick,<br/>(Singing soft but drinking hard),<br/>Singing some delightful lyric,<br/>None so sweet from here to Berwick,<br/>While I wait for honest Derrick<br/>In the yard.<br/>C.S.L.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (22 September 1942)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "212-213",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "As from Magdalen,<br/>Sept. 22d. 42<br/><br/>Dear Derrick – I’ll tell you one text that does need exposition: your own letters. Not that it isn’t a very good letter, full of charm, appeal, line, atmosphere, humour, mellow wisdom, and the human touch: but what exactly is it <i>about</i>? Does it mean any, or all, of the following:<br/><br/>(a) T. D. is not going to decorate Screwtape.<br/>(b) T. D. is going to do a pictorial <i>P. Plowman</i> on his own.<br/>(c) C. S. L. is to write a P. Plowman for T. D. to illustrate.<br/>(d) C. S. L. is to illustrate the works of Langland re-written by T. D. in the style of Tinto-retto as an epithalamium for Christopher in memory of R. W. Chambers.<br/><br/>Tintoretto, by the bye, <i>was</i> an illustrator, chiefly of Ovid. The moment you paint a “nymph” you’re being literary. Apart from portraits, mention any great school of painters who were <i>not</i> mainly occupied in illustrating sacred or mythological texts. You artists are beginning to get out of hand. What wd. have happened if Tenniel had not hung on to Lewis Carroll’s coat tails, or, for the matter of that, if Mozart had not hung onto Da Ponte’s? You see (<i>salva reverentia</i>) in the beginning is the word. Out of Ovid, Tintoretto & Titian: out of the Bible, Raphael. Lor’ bless you, left to yourselves you can only mess about with land-scapes or end up in Picasso.<br/><br/>I enclose my own private idea of Uncle Screwtape.<br/><br/>yours<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (26 March 1943)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "214",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "As from Magdalen<br/>March 26th. 1943<br/><br/>Dear Derrick – What a glorious present! I don’t know when I’ve been better pleased. The best of all is the Good Samaritan who, in his obvious vulgarity and latent goodness, comes in simply with a <i>crash</i> after the Priest and Levite. Yet I don’t know that the man refusing the Prodigal Son on the curb isn’t even better. But they’re all absolutely first class. A real new thing (to me) on which I congratulate you most heartily. My teeth water to collaborate with you in any further work if you think I’d be of any use. You go ahead and draw what you like – no nonsense about mutual arrangement. I know my place. I’ll write to the pictures. I’ll do it rather like the descriptions of pictures in <i>Just So Stories</i> (I say, <i>do</i> the Pharisee & the Publican in the temple again, but the other, the modern, way round: the good-time girl with camera and shorts swaggering up to the altar rail & thanking God that she’s not a prig like the seedy old parson kneeling in the aisle – at one of our great cathedrals on a bank holiday, you understand. But there I go, suggesting already.<br/><br/>I’m sorry you missed me. I thought that when you rang up they’d put you onto my home address wh. (for future use) is 6963. I’m flying here, there and everywhere at present but hope to be immobile and in my right mind when term begins. (May 1st.) Let me hear from you soon after that. How’s your young Bende Benedick? He’s in my prayers,<br/><br/>yours<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (6 November 1943)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "214-215",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "Magdalen College, Oxford<br/>Nov. 6th. 43<br/><br/>Dear Derrick<br/><br/>Bles won’t play. He’s not very keen on illustrations at all (says they’re dangerous in a book where readers have already formed their own pictures) and any way not till after the war. So it looks like an impasse. But we’ve still got the Virtues & Vices. Wd. you care to come over and talk about them and if so when? A Thursday or Tuesday wd. be the best night for me. Or wd. you rather wait till you’ve done some? It was delightful to see you ’t other day,<br/><br/>yours<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Thomas Derrick (13 April 1944)",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "215",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "As from Magdalen.<br/>April 13th. 1944<br/><br/>My dear Derek – I hardly like to imagine what you are thinking of me by now! If you were a woman you would have devised a world of sinister reasons for my silence: being a man you have probably simply dismissed me as a problem neither soluble nor worth solving. In actual fact, I have not forgotten you. I pray for your son twice a week and the name Derek has given my conscience a kick every time: but with domestic upsets, B.B.C. talks, a mysterious sore arm, a threatened operation (the surgeon ran away in the end, I didn’t) I have just put it off from day to day. The truth is that the increasing daily correspondence with all manner of total strangers, many of them lunatic, makes me sicken at the sight of a pen. It will cost me all my own friends eventually I fear. I live like a schoolboy doing an infinite imposition. It’s always lines for me – drat ’em. Fame is not dust and ashes as the moralists say. If it were a shovel and a vacuum cleaner wd. put it right. It’s lines. Even so, I admit, I confess, mea maxima culpa, I might at least have acknowledged the really exuberant and festive Christmas picture you sent. That’s the great thing about your drawings, you know you can make paper shout – even yell. You can set the room rocking to the chorus. And now for business. Cd. you come over and spend the night on Mon. May 1st – dinner 7.15? Then I shall know you’ve forgiven me, and we can discuss the VII Deadly Sins (I can’t promise you facilities for practising them all but I’ll do my best),<br/><br/>yours<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Joan Bennett (23 November 1954)",
+        printedIn: "Christian Rendel, “Mein Weg mit C.S. Lewis,” <i>Dran</i>",
+        issueOrVolume: "no. 3",
+        pageRange: "[page range unknown]",
+        year: 1998,
+        monthAndDay: "März-April",
+        textProvided: "Magdalen College, Oxford<br/>[Tuesday] Nov. 23 / 54<br/><br/>Dear Joan,<br/><br/>I am haunted by a feeling that I have been asked to a big tea-fight next Mon. before my lecture, but can find nothing about it in my files. As you and Stanley [Bennett] wd. almost certainly be asked, can you tell me? (I’m not mixing it up with a sherry-party after the lecture given by [Basil] Willey). Oh dear, what a scrape! Not being one yourself, you can’t imagine how difficult life is if one is a fool!<br/><br/>Yours<br/>C. S. Lewis<br/><br/>P.S. Reply at Magdalene will find me from to-morrow.",
+        type: "Letter",
+        notes: null
+    },
     // POEMS
     {
         title: "“The Sunrise”",
@@ -5110,6 +5340,17 @@ const texts = [
         textProvided: "I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel<br/><br/>That in their own right earth and sky<br/>Continually do dance<br/>For their own sakes – and here crept I<br/>To watch the world by chance.",
         type: "Poem",
         notes: null
+    },
+    {
+        title: "“Carpe Diem” (holograph)",
+        printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Eerdmans)",
+        issueOrVolume: null,
+        pageRange: "133",
+        year: 1973,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Poem",
+        notes: ["Also reprinted, still as a holograph, in <i>C.S. Lewis: Images of His World</i> (2005), 37; then again, as text, in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 31.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Perelandra” (a fragment of verse that appears to be the idea for <i>Perelandra</i>)",
@@ -5321,17 +5562,6 @@ const texts = [
         notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“Carpe Diem”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "31",
-        year: 2015,
-        monthAndDay: null,
-        textProvided: false,
-        type: "Poem",
-        notes: ["If you would like to make an electronic transcription of this text, let me know."]
-    },
-    {
         title: "“In Winter When the Frosty Nights are Long”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -5366,113 +5596,113 @@ const texts = [
     },
     {
         title: "“My Western Garden”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "43",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "167-168",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 167-68."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 43."]
     },
     {
         title: "“A Death Song”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "44",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "166-169",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 168-169."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 44.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“To the Gods of Old Time”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "47",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "169",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169.","If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 47.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“The Town of Gold”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "48",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "169-170",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 169-170.", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 48.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“The Wood Desolate (near Bookham)”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "49",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "170-171",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 170-171.", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 49.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Anamnesis”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "50",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "171-172",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 171-172."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 50.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Sonnet to John Keats”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "54",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "172-173",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 172-173."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 54.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Yet More of the Wood Desolate”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "54",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "173-175",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 173-175."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 54.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“The Wind”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "57",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "175-176",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 175-176.", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 57.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“New Year's Eve”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "58",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "176",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176.", "If you would like to make an electronic transcription of this text, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 58.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Laus Mortis”",
@@ -5487,124 +5717,123 @@ const texts = [
     },
     {
         title: "“In His Own Image”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "60",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "176-177",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 176-177."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 60.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Sonnet [The clouds are red behind us and before].”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "60",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "177",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 177."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 60.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Loneliness”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "61",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "178",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 178."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 61.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“The Little Golden Statuette”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "62",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "179",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179.", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 62.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Sonnet [I have not bowed in any other shrine]”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "63",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "179-180",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 179-180."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 63.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Exercise on an Old Theme”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "64",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "180",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 64.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“Hylas”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "67",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "180-181",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 180-181."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 67.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Decadence”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "68",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "181-182",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 181-182."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 68.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Ballade on a Certain Pious Gentleman”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "69",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "182-183",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182-183."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 69.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“MHΔEN ἈΓAN”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "69",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "182",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 182.", "King misprints ἈTΑΝ (ATAN) instead of ἈΓΑΝ (AGAN)."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 69.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Despoina, Bear with Me”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "72",
-        year: 2015,
-        monthAndDay: null,
+        printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
+        issueOrVolume: "vol. 2",
+        pageRange: "183",
+        year: 2004,
+        monthAndDay: "Winter",
         textProvided: false,
         type: "Poem",
-        notes: ["First published in “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature,</i> vol. 2 (Winter 2004), 183."]
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 72.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "“Nimue”",
@@ -6269,10 +6498,10 @@ const texts = [
     {
         title: "Suggested revisions to a sonnet by Dr. Robert E. Havard",
         printedIn: "Sarah O’Dell, “An Unexpected Poet: The Creative Works of Dr. Robert E. Havard,” <i>Mythlore</i>",
-        issueOrVolume: "vol. 38, no. 1 (Fall/Winter)",
+        issueOrVolume: "vol. 38, no. 1",
         pageRange: "29",
         year: 2009,
-        monthAndDay: null,
+        monthAndDay: "Fall/Winter",
         textProvided: "[Lewis’s penciled annotations comprise suggestions regarding lines 11 and 12, the same lines that Havard’s typed variations call into question:]<br/><br/>[<i>Havard Version 1 (recto)</i>]<br/>With faltering reflection of that star (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>[<i>Havard Version 2 (verso)</i>]<br/>By faltering reflection from the all (11)<br/>Embracing radiance of sunlit space; and thus (12)<br/><br/>[<i>Havard Version 3 (verso)</i>]<br/>By faltering reflection from that ball (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>[<i>Lewis’s Notes (verso)</i>]<br/>A far – (11)<br/>–Flung radiation not their own (12a)<br/><strike>(</strike>Embracing radiance not their own<strike>)</strike>: so thus (12b)<br/><br/>[<i>Published Version</i>]<br/>With changing dim reflection of a far (11)<br/>Flung radiation not their own; so thus (12)",
         type: "Poem",
         notes: null
@@ -6287,6 +6516,17 @@ const texts = [
         textProvided: "Dear me, how different you are,<br/>Penelope, from Grandmamma!<br/>Words with the prefix Dis- or Un-<br/>Alone describe the course you run.<br/>While grandmamma from early youth<br/>Was shevelled, gainly, kempt and couth.<br/>No sudden crisis ever caught<br/>Her otherwise than turbed and traught;<br/>She suffered fools with modest dain<br/>And sent them gruntled home again,<br/>And then – however long they’d stayed –<br/>Some paraging remark she made,<br/>Nay, even for prettiest female friends<br/>Foretold, and wished, more astrous ends.<br/><br/>If you, dear Pen, prove such as she,<br/>Oh how appointed I shall be!",
         type: "Poem",
         notes: ["Beebe discovered the poem on the back of a manuscript in the Bodleian. Don King has verified its authenticity."]
+    },
+    {
+        title: "Poem to Thomas Derrick",
+        printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 11, no. 2",
+        pageRange: "211",
+        year: 2021,
+        monthAndDay: "October",
+        textProvided: "You will find me, never fear,<br/>’Neath the holy Golden Cross,<br/>Sitting down and drinking beer,<br/>And by no means at a loss,<br/>Singing songs as sweet as Herrick,<br/>(Singing soft but drinking hard),<br/>Singing some delightful lyric,<br/>None so sweet from here to Berwick,<br/>While I wait for honest Derrick<br/>In the yard.",
+        type: "Poem",
+        notes: null
     }
 ]
 
