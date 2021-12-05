@@ -1773,7 +1773,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotation on Athanasius, <i>De Incarnatione</i>",
+        title: "Annotation on his copy of Athanasius, <i>De Incarnatione</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
         pageRange: "10 note 24",
@@ -1784,7 +1784,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotation on Tacitus, <i>Annalium</i>",
+        title: "Annotation on his copy of Tacitus, <i>Annalium</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
         pageRange: "14 note 107",
@@ -2046,6 +2046,17 @@ const texts = [
         textProvided: false,
         type: "Prose",
         notes: ["Contents: A thorough treatment of an incomplete translation of the Aeneid by Lewis with commentary."]
+    },
+    {
+        title: "Annotations on his copy of Ariosto, <i>Orlando furioso</i>",
+        printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i></i>Arthuriana",
+        issueOrVolume: "vol. 21, no. 1",
+        pageRange: "46-65",
+        year: 2011,
+        monthAndDay: "Spring",
+        textProvided: false,
+        type: "Prose",
+        notes: null
     },
     {
         title: "“Light” manuscripts",
@@ -5782,6 +5793,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 64.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
+        title: "“Hylas”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
         pageRange: "180-181",
