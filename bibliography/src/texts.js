@@ -57,14 +57,14 @@ const texts = [
     },
     {
         title: "Preface to <i>Rehabilitations and Other Essays</i>",
-        printedIn: "C.S. Lewis, <i>Rehabilitations and Other Essays</i> (London: Oxford University Press)",
+        printedIn: "<i>Rehabilitations and Other Essays</i> (London: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "vii-viii",
         year: 1939,
         monthAndDay: null,
         textProvided: "A man is seldom moved to praise what he loves until it has been attacked. The first six essays in this book, which give it its title, were all in varying degrees provoked in this way. The first two defend great romantic poets against popular hatred or neglect of Romanticism. The third and fourth defend the present course of English studies at Oxford against certain criticisms; but so differently (the one having been addressed to a joint meeting of the Classical and English Associations and the other to undergraduates) that I hope they do not much overlap. The fifth is partly a defence of the many popular books which have, I believe, so greatly increased my power of enjoying more serious literature as well as real life’; but it is much more a defence of disinterested literary enjoyment in general against certain dangerous tendencies in modern education. I was afraid lest all the pleasant landscapes would soon be shut out by a wall of blackboards and certificates’. The sixth is perhaps a work of attack rather than of defence; but probably I should not have written it if I had not been stimulated by the contempt sometimes expressed for Anglo-Saxon poetry. It is here reprinted from <i>Lysistrata.</i><sup>1</sup> In spite of the apparent diversity of subject-matter, I like to think that the collection has a certain unity, in virtue of certain beliefs about life and books which are implicit throughout.<br/><br/><sup>1</sup> As far as I know this periodical did not survive my contribution, and I have been unable to discover the name and address of the lady who edited it. I hope that if these lines meet her eyes she will forgive me for assuming her permission to reprint.",
         type: "Prose",
-        notes: null
+        notes: ["Included because this book has not been in print (as of 2013)."]
     },
     {
         title: "“Miracles”",
@@ -78,7 +78,7 @@ const texts = [
         notes: ["An earlier, shorter version of the essay “Miracles.”"]
     },
     {
-        title: "Preface",
+        title: "Preface to <i>Broadcast Talks</i>",
         printedIn: "<i>Broadcast Talks</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "5",
@@ -86,10 +86,21 @@ const texts = [
         monthAndDay: null,
         textProvided: "I gave these talks, not because I am anyone in particular, but because I was asked to do so. I think they asked me chiefly for two reasons: firstly, because I am a layman, not a clergyman; and secondly, because I had been a non-Christian for many years. It was thought that both these facts might enable me to understand the difficulties that ordinary people feel about the subject. I am Church of England now myself, but I have tried to put nothing into the second series of talks which all Christians of all Churches do not agree with. With this in view, I sent the script to four clergymen (one Church of England, one Roman Catholic, one Presbyterian, and one Methodist) before they were given on the air. The Church of England man and the Presbyterian agreed with me throughout. The Roman Catholic thought I went too far about the comparative unimportance of <i>theories</i> of the “Atonement” in the fourth talk of the second series, and the Methodist would have liked more about Faith in the fifth talk of that series. Both these differences you will find noted when you come to the place. Apart from those, I believe you can take what is said in the second series as plain Christianity which no Christian disagrees with. The first series, of course, does not get as far as Christian doctrines; it is more what might be called philosophy.<br/><br/>C.S. Lewis<br/>Magdalen College",
         type: "Prose",
-        notes: ["The same Preface is in the US equivalent volume, <i>The Case for Christianity.</i>", "Elements of this piece were later reworked into the Preface of <i>Mere Christianity.</i>"]
+        notes: ["Included because this book has not been in print (as of 2013).", "The same preface is in the US equivalent volume, <i>The Case for Christianity.</i>", "Elements of this piece were later reworked into the preface of <i>Mere Christianity.</i>"]
     },
     {
-        title: "Prefatory note exclusive to first UK edition",
+        title: "Dedication in <i>A Preface to Paradise Lost</i>",
+        printedIn: "<i>A Preface to Paradise Lost</i> (Oxford: Oxford University Press)",
+        issueOrVolume: null,
+        pageRange: "v-vi",
+        year: 1942,
+        monthAndDay: null,
+        textProvided: "<i>To</i> CHARLES WILLIAMS<br/><br/>DEAR WILLIAMS,<br/><br/>When I remember what kindness I received and what pleasure I had in delivering these lectures in the strange and beautiful hillside College at Bangor, I feel almost ungrateful to my Welsh hosts in offering this book not to them, but to you. Yet I cannot do otherwise. To think of my own lecture is to think of those other lectures at Oxford in which you partly anticipated, partly confirmed, and most of all clarified and matured, what I had long been thinking about Milton. The scene was, in a way, medieval, and may prove to have been historic. You were a <i>vagus</i> thrown among us by the chance of war. The appropriate beauties of the Divinity School provided your background. There we elders heard (among other things) what we had long despaired of hearing – a lecture on Comus which placed its importance where the poet placed it – and watched “the yonge fresshe folkes, he or she,” who filled the benches listening first with incredulity, then with toleration, and finally with delight, to something so strange and new in their experience as the praise of chastity. Reviewers, who have not had time to re-read Milton, have failed for the most part to digest your criticism of him; but it is a reasonable hope that of those who heard you in Oxford many will understand henceforward that when the old poets made some virtue their theme they were not teaching but adoring, and that what we take for the didactic is often the enchanted. It gives me a sense of security to remember that, far from loving your work because you are my friend, I first sought your friendship because I loved your books. But for that, I should find it difficult to believe that your short <i>Preface</i> (<i>The Poetical Works of Milton</i>. The World’s Classics, 1940) to Milton is what it seems to me to be – the recovery of a true critical tradition after more than a hundred years of laborious misunderstanding. The ease with which the thing was done would have seemed inconsistent with the weight that had to be lifted. As things are, I feel entitled to trust my own eyes. Apparently the door of the prison was really unlocked all the time; but it was only you who thought of trying the handle. Now we can all come out.<br/><br/>Yours,<br/>C.S. Lewis",
+        type: "Prose",
+        notes: ["Included because this book has not been in print (as of 2013)."]
+    },
+    {
+        title: "Prefatory note exclusive to UK edition of <i>Christian Behaviour</i>",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "5",
@@ -100,7 +111,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Footnote on “The Three Parts of Morality”",
+        title: "Footnote on “The Three Parts of Morality” in <i>Christian Behaviour</i>",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "11 note 1",
@@ -144,7 +155,7 @@ const texts = [
         notes: ["Was published previously in the periodical <i>Think</i> (date unknown).", "Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C. S. Lewis,” <i>Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
-        title: "Blurb for <i>Perelandra</i>",
+        title: "Blurb exclusive to US edition of <i>Perelandra</i>",
         printedIn: "<i>Perelandra</i> (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "dust jacket",
@@ -152,7 +163,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         type: "Prose",
-        notes: ["This blurb is only for the American, not the British, first edition and subsequent printings.", "Reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Revised and Expanded edition (London: HarperCollins, 2002), 169-70."]
+        notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket.", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Revised and Expanded edition (London: HarperCollins, 2002), 169-70."]
     },
     {
         title: "Comments and questions after a lecture by H.A. Hodges",
@@ -177,7 +188,7 @@ const texts = [
         notes: ["This section of the essay, which was originally read to the Socratic Society before publication in the <i>Socratic Digest,</i> is in the form of notes taken down by the Secretary of the Society. But some of it is in the first person, and seems to be Lewis’s exact words.", "This passage is only found in the US collection <i>God in the Dock</i> (1970). It is not found in the equivalent UK volume <i>Undeceptions</i> (1971), nor in <i>First and Second Things</i> (1985), nor in Lesley Walmsley’s <i>Essay Collection</i> (2000)."]
     },
     {
-        title: "Preface",
+        title: "Preface to <i>Beyond Personality</i>",
         printedIn: "<i>Beyond Personality</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "5-6",
@@ -185,10 +196,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "[5] These Talks attempt to put into simple modern language the account of God which, to the best of my knowledge, the vast majority of Christian churches have agreed in giving for a great many centuries. I have tried to explain in previous talks why I think Christianity true. Here I am not trying to prove anything; only to describe what the Christian belief is. It is hoped that this may be of some use both to those who accept Christianity and to those who don’t: indeed it is not much good discussing whether certain beliefs are true before we know what they are. Some listeners were offended because I used the words ‘Christian belief’ to describe the doctrines officially held by organised Christianity at nearly all times and in nearly all countries. They themselves, though claiming to be Christians, differed from this official belief on certain points, and they were annoyed because I seemed to be saying that they were therefore no Christians: and ‘Who’s he’, they asked, ‘to lay down who is a Christian and who is not?’ In reality I was not attempting (in the sense they mean) to lay down anything of the sort. If anyone was asked to give an account, say, of Mohammedanism in seven very short talks he would be forced to concentrate on the general central Mohammedan tradition. He simply wouldn’t have time to go into minor variations, still less to deal with the beliefs of individual Mohammedans. In his talks the word ‘Mohammedanism’ would simply <i>have</i> to be used to mean that permanent central tradition. I dealt with Christianity in the same way. I should have had to do so even if I personally did not regard the central tradition as being Chrsitianity at its truest. In point of fact I do regard it as true, and consequently I must think that those who depart from it are mistaken. Some people say this attitude is ‘intolerant’. ‘He’s the sort of man’, they complain, ‘who thinks his own [6] beliefs are true and everyone else’s are wrong.’ But after all how can any man help doing that? A man must think his own belief true because if he didn’t it would not be his belief. ‘Your belief’ <i>means</i> ‘what you think true’. And if you think one thing true, of course you must think the opposite false. But this is a very different thing from saying that those who hold the opposite belief are necessarily bad or stupid. There is a deeper sense of the word ‘Christian’ in which some who hold wrong beliefs may be more Christian than some who hold the right ones. Christ, who can see into their hearts, may recognise them as His own, and more His own than many of the orthodox. Needless to say, I never dreamed of laying down who was a ‘Christian’ in that sense. It would have been the grossest impudence for me even to raise the question, for neither I nor any mortal can possibly know the answer.<br/><br/>>April 15th, 1944<br/>C.S. Lewis",
         type: "Prose",
-        notes: ["Elements of this piece were later reworked into the Preface of <i>Mere Christianity.</i>"]
+        notes: ["Included because this book has not been in print (as of 2013).", "Elements of this piece were later reworked into the preface of <i>Mere Christianity.</i>"]
     },
     {
-        title: "Epigraph exclusive to British edition of <i>The Great Divorce</i>",
+        title: "Epigraph exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "3",
@@ -199,7 +210,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Dedication exclusive to British edition of <i>The Great Divorce</i>",
+        title: "Dedication exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "5",
@@ -210,7 +221,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Footnote exclusive to British edition of <i>The Great Divorce</i>",
+        title: "Footnote exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "112",
@@ -240,7 +251,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I have called this a fairy tale in the hope that no one who dislikes fantasy may be misled first two chapters into reading further, and then complain of his disappointment. If you ask why—intending to write about magicians, devils, pantomime animals, and planetary angels—I nevertheless begin with such humdrum scenes and persons, I reply that I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters, and petty kings with which a fairy-tale opens have become to us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who made and first enjoyed the stories. They were, indeed, more realistic or common place than Bracton College is to me: for many German peasants had actually met cruel stepmothers, whereas I have never, in any university, come across a college like Bracton.<br/><br/>This is a “tall story” about devilry, though it has behind it a serious “point” which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think fellows of colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best [US 1<sup>st</sup> edition has “because my own is the only profession I know well enough to write about”]. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham—a university with which the only connection I have ever had was entirely pleasant.<br/><br/>I believe that one of the central ideas of this tale came into my head from conversations I had with a scientific colleague, some time before I met a rather similar suggestion in the works of Mr. Olaf Stapledon. If I am mistaken in this, Mr. Stapledon is so rich in invention that he can well afford to lend; and I admire his invention (though not his philosophy) so much that I should feel no shame to borrow.<br/><br/>Those who would like to learn further about Numinor and the True West must (alas!) await the publication of much that still exists only in the MSS. of my friend, Professor J. R. R. Tolkien. <br/><br/>The period of this story is vaguely “after the war.” It concludes the trilogy of which <i>Out of the Silent Planet</i> was the first part, and <i>Perelandra</i> the second, but can be read on its own.<br/><br/>C.S. Lewis<br/><i>Magdalen College, Oxford.</i><br/>[1<sup>st</sup> UK ed. ends here, but US 1<sup>st</sup> ed. adds: <i>Christmas Eve, 1943</i>]",
         type: "Prose",
-        notes: ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1<sup>st</sup> US edition (Macmillan, 1946)."]
+        notes: ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the  US edition (Macmillan, 1946)."]
     },
     {
         title: "“A Christian Reply to Professor Price”",
@@ -273,10 +284,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "This is a ‘tall story’ about devilry, though it has behind it a serious ‘point’ which I have tried to make in my <i>Abolition of Man</i>. In the story the outer rim of that devilry had to be shown touching the life of some ordinary and respectable profession. I selected my own profession, not, of course, because I think Fellows of Colleges more likely to be thus corrupted than anyone else, but because my own profession is naturally that which I know best. A very small university is imagined because that has certain conveniences for fiction. Edgestow has no resemblance, save for its smallness, to Durham – a university with which the only connection I have ever had was entirely pleasant.<br/><br/>In reducing the original story to a length suitable for this edition, I believe I have altered nothing but the tempo and the manner. I myself prefer the more leisurely pace-I would not wish even <i>War and Peace</i> or <i>The Faerie Queene</i> any shorter-but some critics may well think this abridgment is also an improvement.",
         type: "Prose",
-        notes: ["This is a substantially shortened version of the original 1945 Preface, with an additional paragraph on the literary effect of the abridgment."]
+        notes: ["This is a substantially shortened version of the original 1945 preface, with an additional paragraph on the literary effect of the abridgment."]
     },
     {
-        title: "Preface to <i>George MacDonald: An Anthology</i>",
+        title: "preface to <i>George MacDonald: An Anthology</i>",
         printedIn: "<i>George MacDonald: An Anthology,</i> ed. C.S. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "10-22",
@@ -295,7 +306,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945. ‘In this book,’ says Mr. C.S. Lewis, ‘the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
         type: "Prose",
-        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's Preface to Essays Presented to Charles Williams. That Preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-124."]
+        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", "This text overlaps somewhat, but not entirely, with the first sentence of Lewis's preface to <i>Essays Presented to Charles Williams.</i> That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-124."]
     },
     {
         title: "Note",
@@ -317,7 +328,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["I include this because copies of <i>Arthurian Torso</i> are so rare and expensive.", "If you would like to make an electronic copy of this text, please let me know."]
+        notes: ["Included because this book has not been in print (as of 2013).", "If you would like to make an electronic copy of this text, please let me know."]
     },
     {
         title: "Additions to the French edition of <i>The Problem of Pain</i>",
@@ -339,7 +350,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "To Marjorie Milne",
         type: "Prose",
-        notes: ["The 1<sup>st</sup> edition has no dedicatee, as pointed out by Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 68."]
+        notes: ["The first edition has no dedicatee, as pointed out by Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 68."]
     },
     {
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
@@ -361,7 +372,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "At its original appearance in 1926, <i>Dymer,</i> like many better books, found some good reviews and almost no readers. The idea of disturbing its repose in the grave now comes from its publishers, not from me, but I have a reason for wishing to be present at the exhumation. Nearly a quarter of a century has gone since I wrote it, and in that time things have changed both within me and round me; my old poem might be misunderstood by those who now read it for the first time.<br/><br/>I am told that the Persian poets draw a distinction between poetry which they have ‘found’ and poetry which they have ‘brought’: if you like, between the given and the invented, though they wisely refuse to identify this with the distinction between good and bad. Their terminology applies with unusual clarity to my poem. What I ‘found’, what simply ‘came to me’, was the story of a man who, on some mysterious bride, begets a monster: which monster, as soon as it has killed its father, becomes a god. This story arrived, complete, in my mind somewhere about my seventeenth year. To the best of my knowledge I did not consciously or voluntarily invent it, nor was it, in the plain sense of that word, a dream. All I know about it is that there was a time when it was not there, and then presently a time when it was. Every one may allegorise it or psychoanalyse it as he pleases: and if I did so myself my interpretations would have no more authority than anyone else’s.<br/><br/>The Platonic and totalitarian state from which Dymer escapes in Canto I was a natural invention for one who detested the state in Plato’s <i>Republic</i> as much as he liked everything else in Plato, and who was, by temperament, an extreme anarchist. I put into it my hatred of my public school and my recent hatred of the army. But I was already critical of my own anarchism. There had been a time when the sense of defiant and almost drunken liberation which fills the first two acts of <i>Siegfried</i> had completely satisfied me. Now, I thought, I knew better. My hero therefore must go through his Siegfried moment in Cantos I and II and find in Canto IV what really comes of that mood in the end. For it seemed to me that two opposite forces in man tended equally to revolt. The one criticises and at need defies civilisation because it is not good enough, the other stabs it from below and behind because it is already too good for total baseness to endure. The hero who dethrones a tyrant will therefore be first feted and afterwards murdered by the rabble who feel a disinterested hatred of order and reason as such. Hence, in Canto IV, Bran’s revolt which at once parodies and punishes Dymer’s. It will be remembered that, when I wrote, the first horrors of the Russian Revolution were still fresh in every one’s mind; and in my own country, Ulster, we had had opportunities of observing the daemonic character of popular political ‘causes’.<br/><br/>In those days the new psychology was just beginning to make itself felt in the circles I most frequented at Oxford. This joined forces with the fact that we felt ourselves (as young men always do) to be escaping from the illusions of adolescence, and as a result we were much exercised about the problem of fantasy or wishful thinking. The ‘Christiana Dream’; as we called it (after Christiana Pontifex in Butler’s novel), was the hidden enemy whom we were all determined to unmask and defeat. My hero, therefore, had to be a man who had succumbed to its allurements and finally got the better of them. But the particular form in which this was worked out depended on two peculiarities of my own history.<br/><br/>(1) From at least the age of six, romantic longing – Sehnsucht - had played an unusually central part in my experience. Such longing is in itself the very reverse of wishful thinking: it is more like thoughtful wishing. But it throws off what may be called systems of imagery. One among many such which it had thrown off for me was the Hesperian or Western Garden system, mainly derived from Euripides, Milton, Morris, and the early Yeats. By the time I wrote <i>Dymer</i> I had come, under the influence of our common obsession about Christiana Dreams, into a state of angry revolt against that spell. I regarded it as the very type of the illusions I was trying to escape from. It must therefore be savagely attacked. Dymer’s temptation to relapse into the world of fantasy therefore comes to him (Canto VII) in that form. All through that canto I am cutting down my own former ‘groves and high places’ and biting the hand that had fed me. I even tried to get the sneer into the metre; the archaic spelling and accentuation of <i>countrie</i> in vii. 23 is meant as parody. In all this, as I now believe, I was mistaken. Instead of repenting my idolatry I spat upon the images which only my own misunderstanding greed had ever made into idols. But ‘the heresies that men leave are hated most’ and lovers’ quarrels can be the bitterest of all.<br/><br/>(2) Several years before I wrote the poem, back in my teens, when my mind, except for a vigilant rejection of Christianity, had no fixed principles, and everything from strict materialism to theosophy could find by turns an entry, I had been, as boys are, temporarily attracted to what was then called ‘the Occult’. I blundered into it innocently enough. In those days every one was reading Maeterlinck, and I wanted to improve my French. Moreover, from Yeats’s early poetry it was natural to turn to his prose; and there I found to my astonishment that Yeats, unlike other romantic poets, really and literally believed in the sort of beings he put into his poems. There was no question here of ‘symbolism’: he believed in magic. And so for a time <i>Rosa Alchemica</i> took its turn (along with Voltaire, Lucretius, and Joseph McCabe) among my serious books. You will understand that this period had ended a long time (years are longer at that age) before I set about writing <i>Dymer</i>. By then, so far as I was anything, I was an idealist, and for an idealist all supernaturalisms were equally illusions, all ‘spirits’ merely symbols of ‘Spirit’ in the metaphysical sense, futile and dangerous if mistaken for facts. I put this into vii. 8. I was now quite sure that magic or spiritism of any kind was a fantasy and of all fantasies the worst. But this wholesome conviction had recently been inflamed into a violent antipathy. It had happened to me to see a man, and a man whom I loved, sink into screaming mania and finally into death under the influence, as I believed, of spiritualism. And I had also been twice admitted to the upper room in Yeats’s own house in Broad Street. His conversation turned much on magic. I was overawed by his personality, and by his doctrine half fascinated and half repelled because of the fascination.<br/><br/>The angel in the last canto does not of course mean that I had any Christian beliefs when I wrote the poem, any more (<i>si parva licet componere magnis</i>) than the conclusion of <i>Faust,</i> Part II, means that Goethe was a believer.<br/><br/>This, I think, explains all that the reader might want explained in my narrative. My hero was to be a man escaping from illusion. He begins by egregiously supposing the universe to be his friend and seems for a time to find confirmation of his belief. Then he tries, as we all try, to repeat his moment of youthful rapture. It cannot be done; the old Matriarch sees to that. On top of his rebuff comes the discovery of the consequences which his rebellion against the City has produced. He sinks into despair and gives utterance to the pessimism which had, on the whole, been my own view about six years earlier. Hunger and a shock of real danger bring him to his senses and he at last accepts reality. But just as he is setting out on the new and soberer life, the shabbiest of all brides is offered him; the false promise that by magic or invited illusion there may be a short cut back to the one happiness he remembers. He relapses and swallows the bait, but he has grown too mature to be really deceived. He finds that the wish-fulfilment dream leads to the fear-fulfilment dream, recovers himself defies the Magician who tempted him, and faces his destiny.<br/><br/>The physical appearance of the Magician in VI 6-9 owes something to Yeats as I saw him. If he were now alive I would ask his pardon with shame for having repaid his hospitality by such freedom. It was not done in malice, and the likeness is not, I think, in itself, uncomplimentary.<br/><br/>Since his great name here comes before us, let me take the opportunity of saluting his genius: a genius so potent that, having first revivified and transmuted that romantic tradition which he found almost on its deathbed (and invented a new kind of blank verse in the process), he could then go on to weather one of the bitterest literary revolutions we have known, embark on a second career, and, as it were with one hand, play most of the moderns off the field at their own game. If there is, as may be thought, a pride verging on insolence in his later work, such pride has never come so near to being excusable. It must have been difficult for him to respect either the mere Romantics who could only bewail a lost leader or the mere moderns who could see no difference between <i>On Balle’s Strand</i> and the work of Richard le Gallienne.<br/><br/>Some may be surprised at the strength of the anti-totalitarian feeling in a poem written so long ago. I had not read <i>Brave New World</i> or <i>Land Under England</i> or <i>The Aerodrome</i>: nor had we yet tasted the fruits of a planned economy in our own lives. This should be a warning for critics who attempt to date ancient texts too exactly on that kind of internal evidence.",
         type: "Prose",
-        notes: ["The Preface first appears in this edition (US only).", "It is also reprinted in <i>Narrative Poems,</i> ed. Walter Hooper (UK, 1969; US, 1972)."]
+        notes: ["The preface first appears in this edition (US only).", "It is also reprinted in <i>Narrative Poems,</i> ed. Walter Hooper (UK, 1969; US, 1972)."]
     },
     {
         title: "Reminiscence of P.V.M. Benecke",
@@ -408,7 +419,7 @@ const texts = [
         notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "Prefatory note exclusive to first UK edition",
+        title: "Prefatory note exclusive to first UK edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "1",
@@ -494,7 +505,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         type: "Prose",
-        notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the American 1961 edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
+        notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-5, a four-sentence version of this blurb appears on the UK 1960 edition, while the 1961 US edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
     },
     {
         title: "Revisions to “The Cardinal Difficulty of Naturalism”",
@@ -508,8 +519,8 @@ const texts = [
         notes: ["Have all the changes been identified?"]
     },
     {
-        title: "“Preface to the 1961 Edition”",
-        printedIn: "<i>The Screwtape Letters & Screwtape Proposes a Toast, with a New Preface</i>",
+        title: "Preface to the 1961 Edition of <i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
+        printedIn: "<i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
         issueOrVolume: null,
         pageRange: "5-13",
         year: 1961,
@@ -610,7 +621,7 @@ const texts = [
         title: "Manuscripts on Spenser (holographs)",
         printedIn: "<i>Spenser’s Images of Life,</i> ed. Alastair Fowler (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
-        pageRange: "after the Preface and before the Introduction",
+        pageRange: "after the preface and before the introduction",
         year: 1967,
         monthAndDay: null,
         textProvided: false,
@@ -718,7 +729,7 @@ const texts = [
     },
     {
         title: "Earliest known manuscript (c. 1939) of <i>The Lion, the Witch and the Wardrobe</i>",
-        printedIn: "Walter Hooper’s Preface to Kathryn Ann Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Grand Rapids: Eerdmans)",
+        printedIn: "Walter Hooper’s preface to Kathryn Ann Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
         pageRange: "12",
         year: 1973,
@@ -850,7 +861,7 @@ const texts = [
     },
     {
         title: "Parts of original BBC broadcasts (1942) not included in the published versions",
-        printedIn: "Walter Hooper, Introduction to C.S. Lewis, <i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan)",
+        printedIn: "Walter Hooper, introduction to C.S. Lewis, <i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "xiv-xv, xvii-xviii, xx-xxi",
         year: 1981,
@@ -901,7 +912,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "“Screwtape Proposes a Toast” was written years after the original <i>Screwtape Letters</i>. It takes over from them the technique of what may be called diabolical ventriloquism. Screwtape’s outlook is like a photographic negative; his whites are our blacks and whatever he welcomes we ought to dread. But in the original <i>Letters</i> this device was applied to the religious and moral life of an individual. In the “Toast” the main subject is education.<br/><br/>In my view there is a sense in which education ought to be democratic and another sense in which it ought not. It ought to be democratic in the sense of being available, without distinction, of sex, colour, class, race or religion, to all who can—and will—diligently accept it. But once the young people are inside the school there must be no attempt to establish a factitious egalitarianism between the idlers and dunces on the one hand and the clever and industrious on the other. A modern nation needs a very large class of genuinely educated people and it is the primary function of schools and universities to supply them. To lower standards or disguise inequalities is fatal. <br/><br/>If this sounds harsh, I would observe that the opposite policy is really devised to soothe the inferiority complex not of the idlers and dunces but of their parents. Do not be in the least afraid that those who live out their school-days—which should be brief—on the back bench of the lowest class will suffer any trauma when they see promotion and honours and official approval going to the diligent minority. They are stronger than it. They can punch its head and kick its stern. All the distinctions they really care about—the popularity and the success in games—go not to it but to them. They enjoy their school-days very much. Our real problem is to see that they impede as little as possible the purposes for which school really exists. <br/><br/>So far so good. But I had to face a tactical difficulty. The “Toast” was published in an American magazine. [152] The tendency in education which I was deploring has gone further in America than anywhere else. If I had been writing “straight” my article would have been an attack on the “public schools” of America. It would indeed have raised nothing that educated Americans do not fully admit. But it is one thing for them to say these things of their own country and another to hear them said by a foreigner! I therefore thought it neither good manners nor good tactics to make my point quite nakedly. Instead, I resorted to a further level of irony. Screwtape in fact describes American education; he affects to be holding the English education up as the awful example. The most intelligent of my American readers would, I hoped, see the game I was playing and enjoy the joke. And if those who were a little duller really believed that “democratic” education (in the true sense) had gone even further in England, they could not help seeing that their actual system was at least uncomfortably like the one Screwtape describes—and draw the moral. <br/><br/>C.S. Lewis<br/><br/>Magdalene College,<br/><br/>Cambridge<br/><br/>1962",
         type: "Prose",
-        notes: ["Not to be confused with the 1942 and 1961 Prefaces for <i>The Screwtape Letters</i>. Or the alternate Preface to <i>The Screwtape Letters</i> published by Brenton Dickieson in 2013."]
+        notes: ["Not to be confused with the 1942 and 1961 prefaces for <i>The Screwtape Letters</i>. Or the alternate preface to <i>The Screwtape Letters</i> published by Brenton Dickieson in 2013."]
     },
     {
         title: "<i>A Cretaceous Perambulator</i>",
@@ -2181,7 +2192,7 @@ const texts = [
         notes: ["Source: Harold Arthur Blair, “Interview with Canon H.A. Blair” (OH/SR-5 & OH/VR-4), Wade Center, Wheaton, Illinois, recorded July 28, 1984."]
     },
     {
-        title: "Alternate Preface to <i>The Screwtape Letters</i>",
+        title: "Alternate preface to <i>The Screwtape Letters</i>",
         printedIn: "Brenton Dickieson, “The Unpublished Preface to C.S. Lewis’ <i>The Screwtape Letters,</i>” <i>Notes & Queries</i>",
         issueOrVolume: "vol. 60, no. 2",
         pageRange: "297-298",
@@ -2277,7 +2288,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "You say that when I describe Vidler’s method as that of “scrapping inconvenient data” I am assuming from the outset a position he does not grant. I am assuming that Scripture supplies the data for theology – the “hard facts” with which all theories must square – just as sense experience (aided by instruments and forced by experiments to be unequivocal) supplies the data for the physical sciences. But this, you say, implies a view of Scripture which most theologians have ceased to hold. You believe that, if pressed, it will turn out to involve inerrancy, and miraculous purity of the text, and literal interpretation of the text; in a word, Fundamentalism. And so we shall be back at “proof-texts” and “text-hunting” and all the rest of it. And do I really want that?<br/><br/>Well, no, I don’t. One of my reasons for disbelieving in literal inspiration is that this theory is contradicted by Scripture itself. The opening sentence of St. Luke tells us explicitly that he got his facts by inquiry, in a purely human and natural fashion. And I disbelieve in the inerrancy of Scripture because there are contradictions in the historic parts. What is more important, the Bible contains compositions which don’t even offer themselves as records of fact. Anyone who is a critic at all – I don’t mean a “Higher Critic”, but a real critic, a man with some feeling for literature – sees at once that Jonah or Esther is not even trying to be the same kind of thing as the accounts of David’s court, or Acts. Job is the clearest example. He has no genealogy. He lives in a country we know nothing about, at a wholly undefined period. He has no existence apart from the main story, drags with him into light none of those uninteresting details which always accompany a historical person. “Once upon a time” is writ large over the whole book.<br/><br/>So far I go with the Modernists – but indeed also with St. Jerome and Calvin – and against the Fundamentalists. But I differ from the former in three ways.<br/><br/>Firstly, I have no a priori disbelief in the miraculous and have never yet heard any argument which convinced me that I should. A modernist would think a passage unhistorical because it contained a miracle: I would gauge the probable or improbable historicity of the miracle by the general character of the narrative in which it occurred. Thus Job is for me unhistorical for the reasons I’ve just given; not because it ends with a theophany.<br/><br/>The second difference is really a generalised form of the first. I do not bring to the reading of the Bible – nor, for that matter, of Homer, Aeschylus, Aristotle, or Beowulf – the assumption that our modern “outlook on life” is simply right and that the only valuable elements in any ancient book are those which win our immediate sympathy. I go to the past to broaden my mind, not to confirm my homebred opinions. I think every age has its blind spots and its special insights, and the present is merely a period like any other. In every age the Father of Lights and the Father of Lies are both at work. This perhaps explains my view of the miraculous. I know as well as you that ancient men easily thought they had seen it where it was not; I think it equally probable that we should fail to see if it were present. The “real world” for every age is in a large measure something selectively built out of the chaos of raw experience.<br/><br/>Thirdly and with all respect for the men themselves, I am profoundly sceptical about what they call Higher Criticism. I learned my scepticism from the reviews of my own books and books by my friends. You will laugh, but wait a moment. The author of a book is certainly the worst judge of any praise or censure it receives. But you would hardly believe how often only a small part of a review is taken up with either one or the other. Most of it may be engaged in trying to do to your book what the Higher Critics try to do to the books of the Bible; that is, to write a history of its composition  – when, with what intentions, how, under what influences, with what resources, you wrote it. Now of this, the author is not only the best but the final judge. What the critics guess at, he knows; can’t help knowing. And can you guess how often I have found such imaginary histories of my own books correct? I believe I could conscientiously say, Never. I am sure I can say, Seldom. Friendly, hostile, moderate reviewers can be equally wrong.<br/><br/>Yet consider how easy their work was compared with that of the Higher Critic. They were dealing with a contemporary; a man who wrote and thought in their own language; educated as they were, exposed to all the same influences; perhaps personally known to them. A man of their own trade (for reviewers are usually authors). The Higher Critic has none of these advantages. In addition, he has often become a higher Critic without troubling just to become a critic, without acquiring a good nose for the differences between myth, legend, fiction, history, and reportage. He may also be a man who has never written, and never attempted to write, anything like the books he is discussing.<br/><br/>These considerations have been of immense use to me in my own studies. Let no one trouble me again with a new story of how Piers Plowman or The Faerie Queene was written. All labour lost. I cannot help also concluding that what the Higher Critic claims to know about the composition of certain sacred texts cannot really be discovered. Most of their work, I fancy, will presently rank with the other strange dreams men have had about the Bible; with the medieval allegorisations or the Puritan attempt to find in it a pattern of church government.<br/><br/>From all this, I suppose you may conclude that I attach to the Bible a kind and degree of value which would not satisfy the Fundamentalist and would go a good deal too far for Vidler. Like him, I believe in the guidance of the Holy Spirit. But I could not, like him, trust that guidance for the future if I thought that nearly everything which had seemed to come from it in the past was now found to be erroneous, so that the whole intertwined history of Bible, Church, and individual religious experience can be set aside wherever we meet a difficulty. What would such a view imply? That we, being holier and wiser and more abundant in sufferings than the prophets, apostles, martyrs, and doctors of the past, were more receptive? Or that the Holy Spirit had now learned better how to guide us?<br/><br/>I don’t, do I, need to say that Scripture is the datum? But surely, at least one of the data? Let the tradition of the Church, and the agreement between dissentient churches, the experiences of great saints, the teachings of great doctors, be  all the data. It is someone’s job, perhaps, to sort them out into a strict order of precedence. I don’t think it is mine. I am content to say that the more of these data any theology can reconcile, the stronger it will be. In every other discipline, after all, reckless jettison is a sign of weakness. In dealing with a crux from Sophocles or Shakespeare the worst critic is he who just throws up the sponge by saying, “This is corrupt”. There are corruptions; not so many as a bad scholar thinks. There are illusions; but do not be too easily convinced that every reported appearance which makes against your own theory is one of them.<br/><br/>You remember, long ago, Punch’s definition of an optimist: “a man who thinks that all the words he doesn’t know are misprints.”",
         type: "Prose",
-        notes: ["Prefaced with an essay by Norbert Feinendegen."]
+        notes: null
     },
     {
         title: "Annotation in Lewis’s copy of Byron, <i>Don Juan</i> (10 Feb 1924)",
@@ -2392,14 +2403,14 @@ const texts = [
     },
     {
         title: "Oxford Diary (15 February 1923)",
-        printedIn: "Walter Hooper, Preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
+        printedIn: "Walter Hooper, preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
         pageRange: "xiv",
         year: 1969,
         monthAndDay: null,
         textProvided: "I attempted to get some useful information out of Wyld’s Short History (The Cad) which is full of facts most painfully collected but presented in a very muddled way and extraordinarily difficult to work on.",
         type: "Diary",
-        notes: ["Several other quotations from the <i>LP</i> in the Preface have since been published in <i>AMR.</i>"]
+        notes: ["Several other quotations from the <i>LP</i> in the preface have since been published in <i>AMR.</i>"]
     },
     {
         title: "Oxford Diary (9 February 1923)",
@@ -2513,7 +2524,7 @@ const texts = [
     },
     {
         title: "Bookham Diary (19 July 1915)",
-        printedIn: "Walter Hooper, Preface to <i>Spirits in Bondage,</i> ed. Walter Hooper (New York: Harcourt Brace Jovanovich)",
+        printedIn: "Walter Hooper, preface to <i>Spirits in Bondage,</i> ed. Walter Hooper (New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "xxi",
         year: 1984,
@@ -4869,7 +4880,7 @@ const texts = [
     },
     {
         title: "Letter to Martin Lings (c. 1930)",
-        printedIn: "Lings, “Preface” <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
@@ -4880,7 +4891,7 @@ const texts = [
     },
     {
         title: "Letter to Martin Lings (c. 1931)",
-        printedIn: "Lings, “Preface” <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
@@ -5050,7 +5061,7 @@ const texts = [
         pageRange: "258",
         year: 2015,
         monthAndDay: null,
-        textProvided: "Do you remember advising me to read Charles Williams? Well, I have—<i>The Place of the Lion</i> and <i>Many Dimensions.</i> It is ‘beyond expectation, beyond desire’. To have a rattling good thriller, and on top of that a learned machinery, and after that a theology, and real characters, and a real Katharsis—I never thought to read it. Amazing man! Is he still in Oxford? Is he so senior that an approach on my part would look like impudence, or so junior that it would look like patronage? Coghill put me on to him, and I have put [him] on Tolkien. All three hum with excited approval.", // Check this against the text
+        textProvided: "Do you remember advising me to read Charles Williams? Well, I have—<i>The Place of the Lion</i> and <i>Many Dimensions.</i> It is ‘beyond expectation, beyond desire’. To have a rattling good thriller, and on top of that a learned machinery, and after that a theology, and real characters, and a real Katharsis—I never thought to read it. Amazing man! Is he still in Oxford? Is he so senior that an approach on my part would look like impudence, or so junior that it would look like patronage? Coghill put me on to him, and I have put [him] on Tolkien. All three hum with excited approval.", // TODO: Check this against the text
         type: "Letter",
         notes: null
     },

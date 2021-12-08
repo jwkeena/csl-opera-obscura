@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 12.5.21</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 12.7.21</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -33,7 +33,7 @@ class AboutModal extends Component {
 
                         <p><b>PURPOSE: </b>This bibliography is an exhaustive collection of all <b>published</b> works by C.S. Lewis, however minor or fragmentary, that are <i>either</i> obscure <i>or</i> new. By “new” I mean published after the 50th anniversary of Lewis’s death, November 22, 2013. In this sense the last of the “old” books is <i>Image and Imagination,</i> the final collection of texts edited by Walter Hooper. By an “obscure” work I mean a text that meets all of the following three criteria:</p>
                         
-                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, footnotes, and blurbs: blurbs are always included; prefaces and footnotes are included if (1) there is a difference between the 1<sup>st</sup> edition and later editions, (2) there is a difference between the US and UK versions, or (3) the book is out of print) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of</p> 
+                        <p>i. Is not the <i>main</i> text (note that this does not apply to paratexts like prefaces, dedications, footnotes, and blurbs: blurbs are always included; prefaces, d edications, and footnotes are included if (1) there is a difference between the first edition and later editions, (2) there is a difference between the US and UK versions, or (3) the book is out of print as of 2013) of a monograph prepared for publication by Lewis himself, apart from prior drafts and later authorial abridgement or revision: i.e., is not the main text of</p> 
                         
                         <ol>
                             <li>1919 - <i>Spirits in Bondage</i></li>
@@ -130,7 +130,7 @@ class AboutModal extends Component {
                         
                         <p>I am also indebted to Arend Smilde, Stephen Thorson, Don King, Norbert Feinendegen, and Henk van Wingerden for many additional contributions.</p>
                         
-                        <p><b>OMISSIONS: </b> (1) Secondhand reports or summaries of Lewis’s words are excluded (e.g., most “Discussion” sections in the <i>Socratic Digest</i>). (2) Mere corrections to erroneous printings (e.g., for <i>The Allegory of Love </i>in 1938) are not included, but early drafts and later abridgements (e.g., for <i>That Hideous Strength</i> in 1946) and revisions (e.g., for <i>Miracles</i> in 1960) are. (3) Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s Preface to Kathryn Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> Seven,</i> vol. 28 (2011), 5-15. Only the latter reference is included in this bibliography.</p>   
+                        <p><b>OMISSIONS: </b> (1) Secondhand reports or summaries of Lewis’s words are excluded (e.g., most “Discussion” sections in the <i>Socratic Digest</i>). (2) Mere corrections to erroneous printings (e.g., for <i>The Allegory of Love </i>in 1938) are not included, but early drafts and later abridgements (e.g., for <i>That Hideous Strength</i> in 1946) and revisions (e.g., for <i>Miracles</i> in 1960) are. (3) Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s preface to Kathryn Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> Seven,</i> vol. 28 (2011), 5-15. Only the latter reference is included in this bibliography.</p>   
                     </div>
                     <div className="modal-footer">
                         <a href="#!" className="modal-close btn-flat">close</a>
