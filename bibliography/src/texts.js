@@ -386,6 +386,17 @@ const texts = [
         notes: ["I could find no copies of this book in any archival collection in the world.", "The only way to read this piece is to request a copy from the Wade Center. Walter Hooper typed the relevant excerpts from the book in a letter to the Wade Center."]
     },
     {
+        title: "Preface to <i>English Literature in the Sixteenth Century Excluding Drama</i>",
+        printedIn: "<i>English Literature in the Sixteenth Century Excluding Drama</i> (Oxford: Oxford University Press)",
+        issueOrVolume: null,
+        pageRange: "v-vi",
+        year: 1954,
+        monthAndDay: null,
+        textProvided: "When I began this book I had the idea – perhaps most literary historians have – of giving each author space in proportion to the value I set on him; but I found it would not do. Things need to be treated at length not in so far as they are great but in so far as they are complicated. Good books which are remote from modern sympathy need to be treated at greater length than good books which everyone already knows and loves. Bad books may be of importance for the history of taste and if they are passed over too briefly the student’s picture of a period may be distorted. Finally, if I had worked strictly to scale I should have been forced either to leave out many minor authors altogether (as roads and small rivers could not be made visible in maps unless their width were exaggerated) or else to say more on some great authors not because more needed to be said but for the sake of proportion.<br/><br/>Where I have quoted from neo-Latin authors I have tried to translate them into sixteenth-century English, not simply for the fun of it but to guard the reader from a false impression he might otherwise receive. When passages from Calvin, Scaliger, or Erasmus in modern English jostle passages from vernacular writers with all the flavour of their period about them, it is fatally easy to get the feeling that the Latinists are somehow more enlightened, less remote, less limited by their age, than those who wrote English. It seemed worth some pains to try to remove so serious and so latent a misconception.<br/><br/>As I write ‘French’ not <i>Français</i>, I have also written ‘Scotch’ not <i>Scottish</i>; aware that these great nations do not so call themselves, but, claiming the freedom of ‘my ain vulgaire’.<br/><br/>It is the rule of this series that the titles of books (with certain exceptions) should be modernized in the text but given exactly in the Bibliography.<br/><br/>I have to thank the Master and Fellows of Trinity College, Cambridge, for allowing me to use this book, in an embryonic state, as the Clark Lectures (1944); Professor F. P. Wilson for such painstaking and skilled help as few authors have ever had from their friends; Mr. Dowling for much help with my Bibliography, and Professor Douglas Bush for submitting to certain petty pilferings from his; Mr.R.E. Alton for guidance through the labyrinth of our Faculty library; Dr. J.A.W. Bennett and Mr. H.V.D. Dyson for advice and criticism; and Miss Joy Davidman for help with the proofs.<br/><br/>C.S.L.<br/>Magdalen College<br/>OXFORD<br/>7 <i>October</i> 1953",
+        type: "Prose",
+        notes: ["Included because this book has not been in print (as of 2013)."]
+    },
+    {
         title: "Comedian of the Highest Order",
         printedIn: "<i>The Mark Twain Journal</i>",
         issueOrVolume: "vol. 9, no. 4",
@@ -2255,7 +2266,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["Prefaced with an essay by Crystal Hurd.", "If you would like to make an electronic transcription of this text, let me know."]
+        notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
         title: "Great War Papers",
