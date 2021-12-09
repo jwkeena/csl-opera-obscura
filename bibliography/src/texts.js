@@ -2070,13 +2070,35 @@ const texts = [
         notes: ["Contents: A thorough treatment of an incomplete translation of the Aeneid by Lewis with commentary."]
     },
     {
-        title: "Annotations on his copy of Ariosto, <i>Orlando furioso</i>",
-        printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i></i>Arthuriana",
+        title: "Annotations on his copy of Ariosto, <i>Orlando Furioso</i> (holographs)",
+        printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
-        pageRange: "46-65",
+        pageRange: "47-49, 60-61, 64 note 9 (transcriptions), 50-59 (holographs)",
         year: 2011,
         monthAndDay: "Spring",
         textProvided: false,
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of Tasso, <i>La Gerusalemme Liberata</i>",
+        printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
+        issueOrVolume: "vol. 21, no. 1",
+        pageRange: "64 note 10",
+        year: 2011,
+        monthAndDay: "Spring",
+        textProvided: "[A note by Lewis on the third page says he bought it at Charing Cross in march 1917. At the end he records that he finished it]<br/><br/>for the first time, Oct. 10th 1923<br/><br/>[and the second time]<br/><br/>Jan. 12th 1942",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of <i>The Book of the Courtier</i>",
+        printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
+        issueOrVolume: "vol. 21, no. 1",
+        pageRange: "64 note 13",
+        year: 2011,
+        monthAndDay: "Spring",
+        textProvided: "[His index reads:]<br/><br/>womanish p. 261; women. Outnumbered by men at court of Urbin 22__excused from speaking in the debat 24__reckoned among ‘sillie soules’ 169__shd. have nothing mannish 189__some tilt, ride etc. 193__shd. know letters, music etc. 195__whether inferior to men 196 et seq__longer lived 201__sources of curialitas 234, 323.",
         type: "Prose",
         notes: null
     },
