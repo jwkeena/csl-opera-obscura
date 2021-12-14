@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/csl-opera-obscura/precache-manifest.e7d9c80ea4463e814d5b8f0006d5714f.js"
+  "/csl-opera-obscura/precache-manifest.b9cd99be9d2a07f8cf592453fee2141c.js"
 );
 
 self.addEventListener('message', (event) => {
