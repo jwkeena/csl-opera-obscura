@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 12.8.21</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 12.14.21</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -66,6 +66,7 @@ class AboutModal extends Component {
                             <li>1956 - <i>The Last Battle</i></li>
                             <li>1956 - <i>Till We Have Faces</i></li>
                             <li>1958 - <i>Reflections on the Psalms</i></li>
+                            <li>1960 - <i>The Four Loves</i></li>
                             <li>1960 - <i>Studies in Words</i></li>
                             <li>1961 - <i>A Grief Observed</i></li>
                             <li>1961 - <i>An Experiment in Criticism</i></li>

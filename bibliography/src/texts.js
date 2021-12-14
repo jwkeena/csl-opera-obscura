@@ -287,7 +287,7 @@ const texts = [
         notes: ["This is a substantially shortened version of the original 1945 preface, with an additional paragraph on the literary effect of the abridgment."]
     },
     {
-        title: "preface to <i>George MacDonald: An Anthology</i>",
+        title: "Preface to <i>George MacDonald: An Anthology</i>",
         printedIn: "<i>George MacDonald: An Anthology,</i> ed. C.S. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "10-22",
@@ -483,7 +483,7 @@ const texts = [
         monthAndDay: "July",
         textProvided: "Of Miss McNeill the charitable lady, the teacher, the member of committees, I saw nothing. My knowledge is of Janie McNeill; even of Chanie, as we sometimes called her, for she had the habit, common in some Scottish dialects, of ‘unvoicing’ the consonant ‘J’. Obviously there is a great deal I newer knew. Someone writes to me describing her as a mystic. I would never have guessed it. What I remember is something as boisterous, often as discomposing but always as fresh and tonic, as a high wind. Janie was the delight and terror of a little Strandtown and Belmont circle, now almost extinct. I remember wild walks on the (still unspoilt) Holywood hills, preposterous jokes shouted through the gale across half a field, extravagantly merry (yet also Lucullan) lunches and suppers at Lisnadene, devastating raillery, the salty tang of an immensely vivid personality. She was a religious woman, a true, sometimes a grim, daughter of the Kirk; no less certainly, the broadest-spoken maiden lady in the Six Counties. She was a born satirist. Every kind of sham and self-righteousness was her butt. She deflated the unco-gude with a single ironic phrase, then a moment’s silence, then the great gust of her laughter. She laughed with her whole body. When I consider how all this was maintained through years of increasing loneliness, pain, disability, and inevitable frustration I am inclined to say she had a soul as brave and uncomplaining as any I ever knew. Few have come nearer to obeying Dunbar’s magnificent recipe (she knew her Dunbar):<br/><br/>Man, please thy Maker and be merry <br/> And give not for this world a cherry.",
         type: "Prose",
-        notes: ["<i>The Campbellian</i> is the school magazine of Campbell College, Belfast.", "The piece is an obituary of Jane Agnes McNeill.", "Appears in Walter Hooper's <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 706-707."]
+        notes: ["<i>The Campbellian</i> is the school magazine of Campbell College, Belfast.", "The piece is an obituary of Jane Agnes McNeill.", "Reprinted in <i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan, 1979), 550-551 and Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 706-707."]
     },
     {
         title: "A Series of Ten Radio Talks on Love",
@@ -583,17 +583,6 @@ const texts = [
         textProvided: "‘The critic means by civilisation things like big cities and offices. I mean things like justice, mercy, free speech, honour and courtesy. It is unfortunate that English uses the word in both senses.’ C.S.L.",
         type: "Prose",
         notes: ["To my knowledge this text has never been reprinted."]
-    },
-    {
-        title: "“I Was Decided Upon”",
-        printedIn: "<i>Decision</i>",
-        issueOrVolume: "II",
-        pageRange: "3",
-        year: 1963,
-        monthAndDay: "September",
-        textProvided: "http://www.cslewisinstitute.org/webfm_send/45",
-        type: "Prose",
-        notes: ["Contents: answers to questions when interviewed by Sherwood E. Wirt of the Billy Graham Evangelistic Association on 7 May 1963."]
     },
     {
         title: "“Must Our Image of God Go?” (slightly revised)",
@@ -1058,6 +1047,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Annotations on his copy of <i>Sir Gawain and the Green Knight</i> (holograph)",
+        printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "42",
+        year: 1992,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Blurb (complete) for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
         printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -1065,6 +1065,17 @@ const texts = [
         year: 1992,
         monthAndDay: null,
         textProvided: "It would be almost safe to say that no book like this has ever been written. If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once so multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters—comic, homely, epic, monstrous, or diabolic!",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (= Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
+        printedIn: "Doris T. Myers, <i>C.S. Lewis in Context</i> (Kent, OH: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "75-77, 80",
+        year: 1994,
+        monthAndDay: null,
+        textProvided: "[{75} In their effort to simplify the concept for secondary pupils King and Ketley say “That is sublime” means “I have sublime feelings.” Lewis comments in the margin:]<br/><br/>confusion worse confounded<br/><br/>[{76} They also declare that “pure narrative, written in scientific prose, is the backbone of all kinds of narrative” (179) and that an inherently interesting fact does not need the hype of emotional language. Lewis’s marginal comment is:]<br/><br/>The fact might include an emotional value<br/><br/>[{76} They say, “There are many occasions…when it is right for us to rouse feeling,” but it should not be done when the topic has already aroused “deep feelings and emotional prejudices” in the audience. The student is advised to avoid communicating his own such feelings and to write so as to promote calm, rational thought (84). In other words, the authors encourage the student to suppress his sincere excitement and write on a more superficial, cowardly level. Lewis’s marginal notes point out that]<br/><br/>Plato,  St. Paul, Hooker, Sidney, Pascal, Browne, and Burke<br/><br/>[as well as politicians and advertisers have attempted to arouse people’s emotions.]<br/><br/>[{76} On the flyleaf Lewis lists the authors’ implied values. He notes that they call the words “gentleman” (63) and “coward” (64) vague, but say that the word “wise” {77} when applied to peaceful men is not vague (65). They praise “democratic community life” (67) and a “community of reasonable adults” (71) but state that “feeling for England is a feeling for nothing in particular” (77). Like Ogden and Richards, they refer to the “lying propaganda” used during “the Great War” (61-62) and imply that it is undemocratic for a writer “to try to persuade us…[to do or feel] what we cannot clearly understand (67). On the other hand, they say that propaganda is necessary for children, since they cannot choose rationally what is best for them, and blameworthy “only when too much of it is given” (62). …{80} In a long footnote he reproduces his list of their values from the flyleaf of his copy of The Control of Language:]<br/><br/>peacefulness, democracy, tolerance, cleanliness",
         type: "Prose",
         notes: null
     },
