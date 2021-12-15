@@ -2357,6 +2357,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Transcriptions of “des manuscrits des livrets 1 et 2 de <i>Broadcast Talks</i>”",
+        printedIn: "Stephen Johnston, <i>Le Sense et la Vérité du Mythe</i> (Paris: L’Harmattan)",
+        issueOrVolume: null,
+        pageRange: "Annexe B",
+        year: 2017,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Invitation in Old Norse to a Kolbitar meeting before 20 November 1920 (holograph)",
         printedIn: "John Garth, “Tolkien and the Inklings” in <i>Tolkien: Maker of Middle-Earth,</i> Catalogue of the Exhibition at the Bodleian, 1 June-28 October, 2018, ed. Catherine McIlwaine (Oxford: Bodleian Library)",
         issueOrVolume: null,
