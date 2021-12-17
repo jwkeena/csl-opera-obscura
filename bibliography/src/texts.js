@@ -530,7 +530,7 @@ const texts = [
         notes: ["Have all the changes been identified?"]
     },
     {
-        title: "Preface to the 1961 Edition of <i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
+        title: "Preface to the 1961 edition of <i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
         printedIn: "<i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
         issueOrVolume: null,
         pageRange: "5-13",
@@ -627,6 +627,17 @@ const texts = [
         textProvided: false,
         type: "Prose",
         notes: ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-63.", "If you would like to make an electronic transcription of this text, let me know."]
+    },
+    {
+        title: "Three additional chapters (“World,” “Life,” and “I Dare Say”) not present in 1st edition of <i>Studies in Words</i>",
+        printedIn: "<i>Studies in Words</i>, 2<sup>nd</sup> edition (Cambridge: Cambridge University Press)",
+        issueOrVolume: null,
+        pageRange: "214-312",
+        year: 1967,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
     },
     {
         title: "Chronological account of the creation of <i>Dymer</i> (<i>LP</i> 9:129-130)",
@@ -2397,6 +2408,28 @@ const texts = [
         year: 2019,
         monthAndDay: null,
         textProvided: "[Note 19: Walter Hooper, in CL3:1255 note 94, mentions that “Reply to Mr. R” was “a paper originally read to the Socratic Club,” later rewritten and published as “Myth Became Fact.” Hooper was probably referring to Bodleian MS Facs.b.90, fols.114-120, entitled]<br/><br/>In Reply to Mr. R.<br/><br/>[with the hand-written subtitle]<br/><br/>A Paper read to the Socratic Club.<br/><br/>[Note 20: In the typescript mentioned in the previous note, [A.L.] Rowse’s name appears on fol. 116 in the sentence]<br/><br/>For thoughts, as Mr <strike>Rowse</strike> R. said, move with the times<br/><br/>[with “Rowse” crossed out and replaced by “R.” in Lewis’s hand.]",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Unused blurb for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        issueOrVolume: "vol. 10, no. 2",
+        pageRange: "13 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2019,
+        monthAndDay: null,
+        textProvided: "[{12} Question 6 on the A{dvance} I{nformation} sheet asks about The Book and Its Readers: “Please give a short description of your book in simple non-technical language which will be understood by salesmen and booksellers in all countries–who need to know about it in sufficient detail to direct it towards the right buyers. Please say what it is about, its main purpose, its importance as you see it. {13} Don’t be afraid to state what would be obvious to specialists in your subject.” Lewis’s response is as follows:]<br/><br/>In how many different senses do you use the words <i>wit</i> or <i>nature</i> (or <i>sense</i> itself)? How many more senses of them have you found in old authors? How did such multiplicity of meanings come about? Do you always know which sense you are using yourself? These are the questions to which this work attempts an answer as regards seven words. They have been selected mainly for the light they throw on the history of thought and sentiment. But it is hoped that the study of them will have for the reader (as it has had for the author) a more than historical interest in increasing his awareness of what we are doing when we talk. It ‘belongs’ on the same shelf as Pearsall Smith’s <i>Four Words,</i> Owen Barfield’s <i>Poetic Diction,</i> and Professor Empson’s <i>Structure of Complex Words</i>.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Note on intended age range of readership for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        issueOrVolume: "vol. 10, no. 2",
+        pageRange: "15 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2019,
+        monthAndDay: null,
+        textProvided: "[Lewis notes in the Preface that though the book “is primarily addressed to students” he “hoped that others also might find it of interest.” The student focus is repeated by him in the Introduction, but it is his encouragement to “everyone,” and “any man” that reveals a deep awareness of those other {15} readers, without a university education, that he is also trying to reach. The A{dvance} I{nformation} form is even more precise. Lewis writes there that the book would]<br/><br/>certainly not<br/><br/>[be suitable for schoolboys]<br/><br/>below sixth form.",
         type: "Prose",
         notes: null
     },
