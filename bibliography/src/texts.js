@@ -706,28 +706,72 @@ const texts = [
         notes: ["To my knowledge this text has never been reprinted.", "Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>Collected Letters</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” 39 in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015)."]
     },
     {
-        title: "Narnian manuscripts",
+        title: "“Outline of Narnian history so far as it is known”",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "[see notes for page ranges]",
+        pageRange: "298-301",
         year: 1971,
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["“Outline of Narnian history so far as it is known,” 298-301. Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44.", "Outline of The Voyage of the “Dawn Treader” (holograph and transcribed) 302, 303. Holograph also printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112. Also printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Galley proofs of The Silver Chair, 304. <b></b>Fragment unique to this essay.</b>", "Portion of “The Lefay Fragment” (an early version of The Magician’s Nephew), 304-307 (holograph, 305 and transcription, 304, 306-307). The full fragment is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 48-65. <b>Holograph unique to this essay.</b>", "Fragments of “Eustace’s Diary,” 309. The full passage is printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 68-71.", "Original Map of Narnia (holograph), 310. <b>Holograph unique to this essay.</b>", "Drawing of Monopods (holograph), 313. <b>Holograph unique to this essay.</b>", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44."]
     },
     {
-        title: "Narnian manuscripts",
-        printedIn: "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
+        title: "“Plots” (outline of The Voyage of the Dawn Treader) (holograph and transcription)",
+        printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "[see notes for page ranges]",
+        pageRange: "302 and 303",
         year: 1971,
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["“Outline of Narnian history so far as it is known,” 41-44. Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 298-301.", "“Plots,” 46 (rough sketch of The Voyage of the Dawn Treader). Also printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar,  (1971), 303.", "Holograph of “Plots” also printed in Hooper, Through Joy and Beyond (1982), 112.", "“The Lefay Fragment,” 48-65. Only the first paragraph of 48, the next paragraph till the second line of p.49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-7. The rest of this fragment (almost 14 full pages) is unique to this book.", "“Eustace’s Diary,” 68-71. Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book.", "Illustrator Pauline Baynes-C.S. Lewis correspondence, 77-80. Lewis’ letter of 21 January 1954 is printed in its entirety in <i>Collected Letters</i> 3:412-413.", "If you would like to make an electronic transcription of these texts, let me know."]
+        notes: ["Printed, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 46.", "Holograph printed in Hooper, <i>Through Joy and Beyond</i> (1982), 112."]
     },
-    { // VERIFY AUTHENTICITY
+    {
+        title: "Galley proofs of <i>The Silver Chair</i>",
+        printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
+        issueOrVolume: null,
+        pageRange: "304",
+        year: 1971,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Map of Narnia (holograph)",
+        printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
+        issueOrVolume: null,
+        pageRange: "310",
+        year: 1971,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "“The Lefay Fragment”",
+        printedIn: "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
+        issueOrVolume: null,
+        pageRange: "48-65",
+        year: 1971,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["Only the first paragraph of 48, the next paragraph till the second line of 49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-307. The rest of this fragment (almost 14 full pages) is unique to this book. However a holograph is unique to <i>Imagination and the Spirit,</i> 305."]
+    },
+    {
+        title: "“Eustace’s Diary”",
+        printedIn: "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
+        issueOrVolume: null,
+        pageRange: "68-71",
+        year: 1971,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book."]
+    },
+    { // TODO: VERIFY AUTHENTICITY
         title: "“Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology”",
         printedIn: "<i>The Times</i>",
         issueOrVolume: null,
@@ -5590,7 +5634,7 @@ const texts = [
         pageRange: "53 (holograph), 54-55 (translations)",
         year: 2007,
         monthAndDay: null,
-        textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POIEMA DE XVI ANIMALIBUS ARCAMJ NOE INTROANTIBUS.<br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>ΙΙ. ΠΕΡΙ ΣΤΕΦΑΝΟΥ<br/><br/> Ἂχιος ἢν Στεφανὸς βασιλεὺς μέγα κῦδος Ἀχαίων<br/> Ἢδ' ισοστεφάνους βράκας ἐπιείμενος ἄει<br/> Καὶ δὴ φώνησας ἔπεα πτερόεντα πρόσηυδα<br/>Ὠ πόποι ἤ μέγα θωῦμα τὸδ ὀφθάλμοισιν ὁρῶμαι·<br/> Ὦνον μοὶ δεκτημορίῳ κῆρ λύγρον ἔθηκε<br/>Λίην, ἢδε τομεὺς, κυναλωπηξ ἤματα πᾶντα (1)<br/>------------------------------<br/>(1) Vat. μῆδε ἴδοι τομέως τις κύντερον ἄλλο.<br/><br/>[Translation and commentary on 54-55]<br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress,<br/>Rhinoceros with “rhinoceress” came:<br/>Also silly little mouse with silly Mrs. Mouse,<br/>Tomcat with she-cat, lion with lioness.<br/><br/>This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to ridiculus mus is a quote from Horace, “The mountains are in labor, and then out comes a silly little mouse”—a satirical comment on the spectacular effort of the writer for little result.<br/><br/>II. About Stephen<br/><br/>Worthy was King Stephen, great glory of the Achaeans<br/>[55] and always clad in trousers Stephen-like.<br/>And speaking he uttered winged words:<br/>Oh dear, great wonder I see with my eyes.<br/><br/>The last two lines and the note in Greek appear to refer to some in-joke.",
+        textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POIEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>ΙΙ. ΠΕΡΙ ΣΤΕΦΑΝΟΥ<br/><br/> Ἂχιος ἢν Στεφανὸς βασιλεὺς μέγα κῦδος Ἀχαίων<br/> Ἢδ' ισοστεφάνους βράκας ἐπιείμενος ἄει<br/> Καὶ δὴ φώνησας ἔπεα πτερόεντα πρόσηυδα<br/>Ὠ πόποι ἤ μέγα θωῦμα τὸδ ὀφθάλμοισιν ὁρῶμαι·<br/> Ὦνον μοὶ δεκτημορίῳ κῆρ λύγρον ἔθηκε<br/>Λίην, ἢδε τομεὺς, κυναλωπηξ ἤματα πᾶντα (1)<br/>------------------------------<br/>(1) Vat. μῆδε ἴδοι τομέως τις κύντερον ἄλλο.<br/><br/>[Translation and commentary on 54-55]<br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress,<br/>Rhinoceros with “rhinoceress” came:<br/>Also silly little mouse with silly Mrs. Mouse,<br/>Tomcat with she-cat, lion with lioness.<br/><br/>This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to ridiculus mus is a quote from Horace, “The mountains are in labor, and then out comes a silly little mouse”—a satirical comment on the spectacular effort of the writer for little result.<br/><br/>II. About Stephen<br/><br/>Worthy was King Stephen, great glory of the Achaeans<br/>[55] and always clad in trousers Stephen-like.<br/>And speaking he uttered winged words:<br/>Oh dear, great wonder I see with my eyes.<br/><br/>The last two lines and the note in Greek appear to refer to some in-joke.",
         type: "Poem",
         notes: null
     },
