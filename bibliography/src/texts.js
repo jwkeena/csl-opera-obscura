@@ -1074,7 +1074,7 @@ const texts = [
         pageRange: "1-3",
         year: 1988,
         monthAndDay: "Winter",
-        textProvided: null,
+        textProvided: false,
         type: "Prose",
         notes: null
     },
