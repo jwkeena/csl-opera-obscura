@@ -141,7 +141,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "“When a Scot or an Irishman wishes to criticize England, he settles in London and is paid by an English publisher to do the job” ... “the philosopher of progress often finds that progress has been suspended for his own lifetime” ... “Marx and Hegel are agreed upon the metaphysics of the escalator” ... “The nineteenth century gave us the word Nihilism. It is rebellion chemically pure.” Such quotations give an idea of the freshness and pungency of Mr. Bentley’s writing. But this work is something much more than a collection of wisecracks. It is the detailed and documented study of what the Author calls Heroic Vitalism – in fact, of the source from which most of the great anti-democratic movements of our own day proceed. Carlyle, Nietzsche, Shaw, Stefan George and D. H. Lawrence are among the specimens; on Wagner, Mr. Bentley seems to me especially helpful. The Author, though sternly critical, has a sympathy which I cannot emulate with those elements in Heroic Vitalism which really deserve a serious answer, and this enables him to make a constructive book out of what might easily have been a mere chamber of horrors. <br/><br/>C.S. LEWIS.",
         type: "Prose",
-        notes: ["A one-page positive review of the book in the front matter.", "This piece is not in Image and Imagination or, to my knowledge, any other collection."]
+        notes: ["A one-page positive review of the book in the front matter.", "This piece is not in <i>Image and Imagination</i> or, to my knowledge, any other collection."]
     },
     {
         title: "Notes on a Sermon “All or Nothing”",
@@ -306,7 +306,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[These essays were to have been presented to Charles Williams on his leaving Oxford for London. They are now published after his death, which occurred in May 1945.]<br/><br/>In this book<br/><br/>[says Mr. C.S. Lewis]<br/><br/>the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
         type: "Prose",
-        notes: ["This text overlaps somewhat, but not entirely, with the first sentence of Lewis’s preface to <i>Essays Presented to Charles Williams.</i> That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-124.", "The blurb is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", ]
+        notes: ["This text overlaps somewhat, but not entirely, with the first sentence of Lewis’s preface to <i>Essays Presented to Charles Williams.</i> That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), item 18, 110-124.", "The blurb is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), item G21.", ]
     },
     {
         title: "Note on <i>Orpheus</i>",
@@ -504,7 +504,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemaniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
         type: "Prose",
-        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
+        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), item G49."]
     },
     {
         title: "Blurb for <i>Adam: A Tone Poem</i>",
@@ -617,10 +617,10 @@ const texts = [
         notes: ["Previously only a portion of this “Note” was printed on the back cover of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of <i>Till We Have Faces</i> (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
-        title: "Manuscripts on Spenser (holographs)",
+        title: "Manuscripts on Spenser",
         printedIn: "<i>Spenser’s Images of Life,</i> ed. Alastair Fowler (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
-        pageRange: "after the preface and before the introduction",
+        pageRange: "after the preface and before the introduction (holographs)",
         year: 1967,
         monthAndDay: null,
         textProvided: false,
@@ -702,7 +702,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "A Myth is the description of a state, an event, or a series of events, involving superhuman personages, possessing unity, not truly implying a particular time or place, and dependent for its contents not on motives developed in the course of action but on the immutable relations of the personages.",
         type: "Prose",
-        notes: ["Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>CL</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’ handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015), 39."]
+        notes: ["Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>CL</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’s handwriting to February 1929 – June 1930. See Arend Smilde, “A Note on Context and Chronology” in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015), 39."]
     },
     {
         title: "“Outline of Narnian history so far as it is known”",
@@ -716,10 +716,10 @@ const texts = [
         notes: ["Also printed in <i>Past Watchful Dragons,</i> ed. Hooper (1971), 41-44."]
     },
     {
-        title: "“Plots” (outline of The Voyage of the Dawn Treader) (holograph and transcription)",
+        title: "“Plots” (outline of <i>The Voyage of the Dawn Treader</i>)",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "302 and 303",
+        pageRange: "302 (holograph) and 303 (transcription)",
         year: 1971,
         monthAndDay: null,
         textProvided: false,
@@ -738,10 +738,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Map of Narnia (holograph)",
+        title: "Map of Narnia",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "310",
+        pageRange: "310 (holograph)",
         year: 1971,
         monthAndDay: null,
         textProvided: false,
@@ -793,10 +793,10 @@ const texts = [
         notes: ["This manuscript is written on the back of the first page of the manuscript of <i>The Dark Tower</i> found in the Bodleian Library.", "Holograph of this text, along with the first pages of <i>The Dark Tower,</i> was later printed in <i>The Canadian C.S. Lewis Journal,</i> no. 66 (Spring 1989), 4-5, 7. ", "Text also reprinted in Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 102."]
     },
     {
-        title: "Juvenilia: Boxen illustrations and manuscripts (holographs)",
+        title: "Juvenilia: Boxen illustrations and manuscripts",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "98-103",
+        pageRange: "98-103 (holographs)",
         year: 1973,
         monthAndDay: null,
         textProvided: "[98, holo 1, only <i>recto</i> shown, not in <i>C.S. Lewis: Images of His World</i> (2005). It is a title page for a notebook:]<br/><br/>LEBOROUGH STUDIES<br/>Ranging<br/>from<br/>1905 - 19<strike>13</strike>16<br/>COLLECTED<br/>BY<br/>C.S. Lewis<br/><br/>[98, holo 2 <i>verso</i>, also in <i>C.S. Lewis: Images of His World</i> (2005), 30. The top half contains the end of the play “The King’s Ring,” published in full in <i>Boxen</i> (2008) and hence omitted here. But at the bottom of the page are drawings of three figures unique to this book, successively labeled]<br/><br/>PETER-MOUSE HIT KING BUNNY<br/><br/>[98, holo 2 <i>recto</i>, also in <i>C.S. Lewis: Images of His World</i> (2005), 30, contains a six-panel cartoon, the first five of which have text.]<br/>[panel 1: A dressed mouse carrying a rapier has a speech bubble saying] DEAR ME [while stands on top of a box labeled] GOLD [with his hand in a jar his size. The caption reads:] BURGLER) O someone coming I’ll hide<br/>[panel 2: The mouse is now inside the jar next to the box and the caption reads] BUR) ah now I’m safe, hop they no one will see me.<br/>[panel 3: Another mouse, standing next to the box, is lifting the jar. The caption reads:] SERVANT) I have to take this off.—<br/>[panel 4: The servant, now standing on top of a bridge, has thrown the jar into the river. A speech bubble comes from the opaque water saying] OH [and the caption reads] and as there is no-thing in it throw it away!!<br/>[panel 5: The servant is gone and the bridge is empty, but we can now see underwater and into the jar where the burglar is trapped. Two fish nonchalantly gather around him. The caption reads:] BUR) Oh and I’m sinking<br/>[panel 6: A third mouse, dressed as a guard, lifts the burglar from the water with a long pole that has a hook at the end. There is no caption.]<br/><br/>[98, holo 3 <i>verso</i>, also in <i>C.S. Lewis: Images of His World</i> (2005), 30 but with several words in the left margin cut off, contains an Essay on the meaning of “Town.” Original lively spelling retained. Appears to be the third(?) and final page of this distinguished treatise.]<br/><br/>E.[?] 3[?] assay on twon. <br/>[cap]ital of Mouse-land (namlay Murry) and Canon-twon the capital of Rabit-land. A twon is a large pe[ice] of land covered with b[ui]ldings, most of wich tuch each other. The pa[rt] of a town bwetwen the houses are called streets or roads and are used for trafic to travel up and dwon. If a twon is so verry small it is called a vilage. Vilgges are more pretty than twons.<br/>[a bipedal house and bipedal castle carry between them a string or rope from which a sign hangs:]<br/>FINES<br/><br/>[98, holo 3 <i>recto</i>, also in <i>C.S. Lewis: Images of His World</i> (2005), 30, contains various, tenuously related cartoons. The top third of the page contains the entrance to a city (or is it a twon??) on the left and a single shoe on the right. These seem totally unrelated. In the middle third is the bust of a frightened woman on the left, and on the right a human queen with an attendant holding the tail of her gown behind her and a bearded nobleman or knight kneeling in front of her. The caption for this scene reads:] Her Magesty [??] and, WR [Finally, the bottom third of the page contains a series of figures that may or may not be related and compose a scene. They seem to fall into three groups. On the left is one pikesman running away in the distance and two pikesmen recoiling in the foreground (from what is not clear). In the middle, three figures are falling down on top of each other like dominoes behind a woman dancing (or is she expressing fright?) on a stool while a mouse jumps at her. On the right, an armed figure labeled] WR [tramples on, or walks by, two fallen figures; a speech bubble emanates from him saying] A SHIELD [Below the mouse and dancer scene a caption reads] E AND M<br/><br/>[99 holo, only <i>recto</i> shown, also in <i>C.S. Lewis: Images of His World</i> (2005), 31, except for the top line. The top has a line that reads] Take any ruby [which has no obvious connection with the scene below it of a frog with a rapier intimidating a sitting man while some other figure runs away. Smashed into this scene is (I think) a 3-panel cartoon titled] THE ONE-THIEF [in which a mouse takes some oil from a large jar labeled] OILE [and apparently puts it in a goblet which is itself labeled] MOUSE GOBLET / TIME OF BUNNY I [After which something incomprehensible happens in the third panel.]<br/><br/>[100 holo <i>verso</i>, not found in <i>C.S. Lewis: Images of His World</i> (2005) but published in <i>Boxen</i> (2008), 38 in its entirety. <i>Recto</i> text (but not as a holograph) is printed in <i>Boxen</i> (2008), 38 except for the title:] Geography of Animal-land (continued.)<br/><br/>[101 holo <i>verso</i>: the picture is published in <i>C.S. Lewis: Images of His World</i> (2005), 31 and <i>Boxen</i> (2008), 72, but not the words:]<br/>Plate VIII<br/>[In the picture two walls are labeled] CLIQUE-ROOM [and] JO BACK BENCHES + Gallery [Beneath the picture the figures are identified as follows:]<br/>Theodore. Sir Goose. General Quicksteppe.<br/>Sir. Chas. Arabudda. Mr. Reginald Vant. H.M. The Rajah. Viscount Puddiphat<br/>Water-colour drawing of the Lobby of the House, by C.S. Lewis. <strike>1905</strike> 1910<br/><br/>[101 holo <i>recto</i>: the picture is published in <i>Boxen</i> (2008), 146, but not the words:]<br/>Plate XVII<br/>General Quicksteppe. An huzzar. [i.e., hussar]<br/>Colonel Fortescue<br/>Ink drawing of the interior of a Piscian State Railway Saloon, and a head enlarged from it; by C.S. Lewis. 1910.<br/><br/>[102 holo, only <i>recto</i> shown, also in <i>C.S. Lewis: Images of His World</i> (2005), 32, though much smaller. The picture is published in <i>Boxen</i> (2008), 1 and 75, but not the words:]<br/>Plate XL<br/>Water-colour and ink drawing of ruins of the first united Boxonian Parliament House in Piscia, by C.S. Lewis. Early, but not primitive. Rediscovered 1926 and dated conjecturally. 1907(?)<br/><br/>[103 holo 1, only <i>recto</i> shown, also in <i>C.S. Lewis: Images of His World</i> (2005), 32 as the page background, somewhat magnified and some words cut off. The picture of Lord Big is published in <i>Boxen</i> (2008) on the cover (and elsewhere), but none of the words. However, the words do appear in the holograph in <i>Through Joy and Beyond</i> (1981), 23.]<br/>Plate XXXV<br/>Water colour drawing of the Little Master, by C.S. Lewis, rediscovered 1920, with the preceding. 1907-8(?)<br/><br/>[103 holo 2, only <i>recto</i> shown, also in <i>C.S. Lewis: Images of His World</i> (2005), 33. The picture is published in <i>Boxen</i> (2008), 41, but not the words:]<br/>Plate XXIV<br/>Water-colour drawing of Viscount Puddiphat, by C.S. Lewis. Rediscovered 1920. For style and subject cf. Plate VIII. 1907-8(?)",
@@ -804,10 +804,10 @@ const texts = [
         notes: ["Only <i>some</i> of these holographs, or at least the texts in them, are reproduced in <i>Boxen</i> (2008). What is given here are all the texts not later collected in <i>Boxen</i> (2008)."]
     },
     {
-        title: "Juvenilia: fragment of “To Mars and Back”, a story written by Lewis as a six-year-old (holograph)",
+        title: "Juvenilia: fragment of “To Mars and Back”, a story written by Lewis as a six-year-old",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "104",
+        pageRange: "104 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: "When I first met Brown F.R.A.S., I had no idea that his love for Jules Verne’s side of astronomy would lead me into this. I came to know him through his ½-brother Jeames: as I took a mild intrest in astronomy, Brown and I were good chums. It was after I had known him for about a month that he suddenly droped in to see me one night. “Bensin I’m going to Mars” he said in his short way. I laughed. “How?” said I. “In a vessel” said he “all I want is money.” “Don’t be a fool Brown” said I “you’ll never do it!” “Oh yes I will” quoth he “at any rate I’ll try.”  <br/><br/>“It is wrong to commit suicide specially when one has wife and children” I observed.  <br/><br/> “It is, very wrong,” said Brown “but I am not going to.” However I thought I’d give you the chance of coming with me: − will you?”  <br/><br/>Come with him! − I Hadn’t thought of that. I reflected and then said,  <br/><br/>“If you don’t mind Brown I’ll wait till you have settled your arrangements” <br/><br/>“Sorry Bensin” returned my friend “but I am going to start from central Africa, I sail from Southampton to-morrow night!” <br/><br/>“Well I’ll come, and tell you what I’m going to, in the morning. said I <br/><br/>“Right. good by said he <br/><br/>good by said I<br/><br/>and he went.",
@@ -815,10 +815,10 @@ const texts = [
         notes: ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
     },
     {
-        title: "Non-Boxen story illustrations (holographs)",
+        title: "Non-Boxen story illustrations",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "105",
+        pageRange: "105 (holographs)",
         year: 1973,
         monthAndDay: null,
         textProvided: "[105 holo 1, <i>recto</i> only shown, also in <i>C.S. Lewis: Images of His World</i> (2005), 32, though much smaller with the bottom line cut off. There are four portraits.]<br/><br/>Plate XX<br/>Head of Sigdon<br/>A head of Lord Peabody<br/>Sigdon Epritz[?]<br/>Peabody Jordan<br/>Ink drawings of four characters from the “Game of War”, by C.S. Lewis. 1912<br/><br/>[105 holo 2, <i>recto</i> only shown. A much smaller version of the picture, but with the words cropped out, is in <i>C.S. Lewis: Images of His World</i> (2005), 32.]<br/><br/>Plate XIX<br/>Ink drawing of a sunset with dying warrior, by C.S. Lewis. 1913.",
@@ -826,10 +826,10 @@ const texts = [
         notes: ["These holographs do not appear in the 2005 edition of this book."]
     },
     {
-        title: "Signature and note in Malvern headmaster’s book (holograph)",
+        title: "Signature and note in Malvern headmaster’s book",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "113",
+        pageRange: "113 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: "C.S. Lewis<br/>English Poem “Carpe Diem”.<br/>Oct. 13. 1913.",
@@ -840,7 +840,7 @@ const texts = [
         title: "Annotations in his copy of <i>Annals of English Literature 1475-1950</i> (Oxford: 1935)",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "188",
+        pageRange: "188 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: "[1530]<br/>J{oh}n. Rastell <i>Bk. of Purgatory</i><br/>Rob{er}t Copland, <i>High Way to Spital Ho</i>{<i>use</i>} X (36?)<br/>The Clergy, threatened with <i>Praemunire</i> pay £100,000 + call Hen{ry}. supreme Ld. {=Lord} and “as far as the law of χ {=Christ} allows, supreme Head.<br/>Diet of Augsburg<br/>{Sir David} Lyndsay, <i>Papyngo</i> (W)<br/><br/>[1531]<br/>Here[?] f[???]s b[???]ing of Edward Crome because his opinion includes[?] denial of Papal Supremacy.<br/>Act against Vagabonds.<br/>Agrippa <i>De Occulta Phil</i>{<i>osophia</i>} + <i>De Incertitudine</i> + <i>Vanitate Scientiarum</i><br/><br/>[1532]<br/>Convocation makes drastic concessions to Hen{ry}.<br/>More resigns.<br/>Annates Act",
@@ -851,7 +851,7 @@ const texts = [
         title: "Family tree of Crowfoot family in his copy of George MacDonald, <i>Annals of a Quiet Neighborhood</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "188",
+        pageRange: "188 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: false,
@@ -859,10 +859,10 @@ const texts = [
         notes: ["This holograph does not appear in the 2005 edition of this book."]
     },
     {
-        title: "Drawing of W.T. Kirkpatrick (holograph)",
+        title: "Drawing of W.T. Kirkpatrick",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "117",
+        pageRange: "117 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: "Plate XXXVII<br/>Ink-drawings of W.T. Kirkpatrick, by C.S. Lewis. <br/>1915-16",
@@ -870,10 +870,10 @@ const texts = [
         notes: ["Appears somewhat smaller in <i>C.S. Lewis: Images of His World</i> (2005), 38."]
     },
     {
-        title: "Inscription to his father (holograph) on a 1<sup>st</sup> UK edition of <i>Spirits in Bondage</i>",
+        title: "Inscription to his father on a 1<sup>st</sup> UK edition of <i>Spirits in Bondage</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "118",
+        pageRange: "118 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: "To my Father<br/><br/>With the author’s best love and compliments, in memory of the happy days when we “Built the Promenade” together.<br/><br/><u>29th March 1919</u>",
@@ -947,10 +947,10 @@ const texts = [
         notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“Answers to Listeners’ Questions” typescript (holograph) Lewis read over the BBC on 3 September 1941",
+        title: "“Answers to Listeners’ Questions” typescript Lewis read over the BBC on 3 September 1941",
         printedIn: "<i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan, 1981)",
         issueOrVolume: null,
-        pageRange: "Appendix A", // TODO: Are there numerical pages?
+        pageRange: "Appendix A (holograph)",
         year: 1981,
         monthAndDay: null,
         textProvided: false,
@@ -1068,10 +1068,10 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 42 and John Lahr, “The Whirlwind” <i>The New Yorker</i> (August 7, 2000)."]
     },
     {
-        title: "Annotations on his copy of Milton, <i>Paradise Lost</i> (holograph)",
+        title: "Annotations on his copy of Milton, <i>Paradise Lost</i>",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 61",
-        pageRange: "1-3",
+        pageRange: "1-3 (holographs)",
         year: 1988,
         monthAndDay: "Winter",
         textProvided: false,
@@ -1079,10 +1079,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Note to E.L. Edmonds (holograph) on a printed notice of rules about Magdalen College degrees",
+        title: "Note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 63",
-        pageRange: "11",
+        pageRange: "11 (holograph)",
         year: 1988,
         monthAndDay: "Summer",
         textProvided: "[Lewis drew an arrow from his note to a paragraph he had underlined on the notice: “For the degree of M.A. candidates are required to have taken the degree of B.A. and have entered upon the 21st Term from the date of their matriculation having their names on the College Books.”]<br/><br/>My dear Edmonds - This is the relevant part. The other details are Magdalen arrangements wh. may or may not be exactly the same in Univ. I have written to the Dean there asking him to let you have their literature on the subject. Yes, I can place you alright and the memory is a pleasant one. Let’s hope we may some day meet again. Meanwhile, good luck!",
@@ -1123,10 +1123,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations on his copy of <i>Sir Gawain and the Green Knight</i> (holograph)",
+        title: "Annotations on his copy of <i>Sir Gawain and the Green Knight</i>",
         printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
-        pageRange: "42",
+        pageRange: "42 (holograph)",
         year: 1992,
         monthAndDay: null,
         textProvided: false,
@@ -1255,7 +1255,7 @@ const texts = [
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
     },
     {
-        title: "Note for Dorothy L. Sayers added to a letter sent by Sir Humphrey Milford to Lewis and forwarded (5 or 6 July 1945) to Sayers",
+        title: "Note for Dorothy Sayers added to a letter sent by Sir Humphrey Milford to Lewis and forwarded (5 or 6 July 1945) to Sayers",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
         pageRange: "155",
@@ -1266,7 +1266,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Comment on Dorothy L. Sayers’s Dante article",
+        title: "Comment on Dorothy Sayers’s Dante article",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
         pageRange: "183",
@@ -1398,7 +1398,7 @@ const texts = [
         notes: ["Text is written on the back of the 2<sup>nd</sup> page of the <i>Dark Tower</i> MS."]
     },
     {
-        title: "Note on a 21 December 1953 letter from Dorothy L. Sayers",
+        title: "Note on a 21 December 1953 letter from Dorothy Sayers",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Four, 1951-1957: In the Midst of Life,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
         pageRange: "116",
@@ -1739,10 +1739,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Notes for <i>Beyond Personality</i> (<i>verso</i> of burned holograph manuscript of <i>Christian Behaviour</i>)",
+        title: "Notes for <i>Beyond Personality</i> (<i>verso</i> of burned manuscript of <i>Christian Behaviour</i>)",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
-        pageRange: "89-90",
+        pageRange: "89 (holographs) and 90 (transcription)",
         year: 2006,
         monthAndDay: null,
         textProvided: "Have passed from Atheism to Xnity - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master - dog: father - son: man - woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
@@ -1772,10 +1772,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Parenthetical remark below poem “Metrical Experiment” (holograph) on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        title: "Note below poem “Metrical Experiment” on the endpapers of John Arlott’s copy of <i>The Screwtape Letters</i>",
         printedIn: "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
-        pageRange: "111",
+        pageRange: "111 (holograph)",
         year: 2006,
         monthAndDay: null,
         textProvided: "(Copyright belongs to the Spectator)",
@@ -1783,10 +1783,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Notes (holograph) accompanying two poems on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        title: "Notes accompanying two poems on the endpapers of John Arlott’s copy of <i>The Screwtape Letters</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
-        pageRange: "112-113",
+        pageRange: "112-113 (holographs)",
         year: 2006,
         monthAndDay: null,
         textProvided: "[{112} below four-line poem beginning “This first edition,” and corresponding to an asterisk next to his signature above the poem:]<br/><br/>* I never could develop a nice grown-up “signature” so I just have to write my name like any other word.<br/><br/>[{113} at the end of the book, on the blank page opposite page 160:]<br/><br/>I tried v. hard to get hold of the letters on the other side - from the archangel to the guardian angel. But the only bit that ever came through didn’t make much sense. It was “The children continued instructing their Bears in the bend of the great river.”",
@@ -1794,10 +1794,10 @@ const texts = [
         notes: ["The second comment (on 113) was reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15."]
     },
     {
-        title: "Inscription to Bel Goldstine (holograph) on a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
+        title: "Inscription to Bel Goldstine on a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
-        pageRange: "114",
+        pageRange: "114 (holograph)",
         year: 2006,
         monthAndDay: null,
         textProvided: "Best wishes to Bel Goldstine, from C.S. Lewis",
@@ -1849,7 +1849,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Note on the manuscript of Lewis’ “Panegyric for Dorothy L. Sayers”",
+        title: "Note on the manuscript of Lewis’s “Panegyric for Dorothy L. Sayers”",
         printedIn: "Barbara Reynold’s “C.S. Lewis and Dorothy L. Sayers,” in <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues,</i> eds. Harry Lee Poe and Rebecca Whitten Poe (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
         pageRange: "208",
@@ -2047,7 +2047,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“The difficulty about bodies…” extensive comments in Lewis’ edition of Aristotle’s <i>Ethica Nicomachea</i>",
+        title: "“The difficulty about bodies…” extensive comments in Lewis’s edition of Aristotle’s <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
         pageRange: "226 note 26",
@@ -2157,10 +2157,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations on his copy of Ariosto, <i>Orlando Furioso</i> (holographs)",
+        title: "Annotations on his copy of Ariosto, <i>Orlando Furioso</i>",
         printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
-        pageRange: "47-49, 60-61, 64 note 9 (transcriptions), 50-59 (holographs)",
+        pageRange: "50-59 (holographs); 47-49, 60-61, and 64 note 9 (transcriptions)",
         year: 2011,
         monthAndDay: "Spring",
         textProvided: false,
@@ -2381,12 +2381,12 @@ const texts = [
         title: "“Great War” papers",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
-        pageRange: "58-102, 121-124, 124-130, 131-144, and 145-169",
+        pageRange: "127-129 (holographs of Lewis’s drawings); 58-102, 121-124, 124-130, 131-144, and 145-169 (transcriptions)",
         year: 2015,
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’ drawings on 127-9).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnotes, 145-169."]
+        notes: ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’s drawings on 127-129).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnotes, 145-169."]
     },
     {
         title: "Summary of broadcast lecture “The Norse Spirit in English Literature”",
@@ -2444,10 +2444,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Invitation in Old Norse to a Kolbitar meeting before 20 November 1929 (holograph)",
+        title: "Invitation in Old Norse to a Kolbítar meeting before 20 November 1929",
         printedIn: "John Garth, “Tolkien and the Inklings” in <i>Tolkien: Maker of Middle-Earth,</i> Catalogue of the Exhibition at the Bodleian, 1 June-28 October, 2018, ed. Catherine McIlwaine (Oxford: Bodleian Library)",
         issueOrVolume: null,
-        pageRange: "23",
+        pageRange: "23 (holograph)",
         year: 2018,
         monthAndDay: null,
         textProvided: "Skulu allir Kolbítar soekja heim C.S. Lewis Mariae Magdalenae helgu í búi í Odins degi Nov XX (d. 30) Er þín bit. Helgakviþa Hundingsbana I 50-100<br/><br/>[Translation: “All the Coalbiters should visit Lewis at Magdalen College on Wednesday, November 20 [1929]. Your bit is Helgakvitha Hundingsbana I 50-100.”]",
@@ -3050,9 +3050,8 @@ const texts = [
         notes: ["Perhaps Lewis is referring to his notes for his lectures on “The Good” or “Moral Good,” or to some larger or similar or related document."]
     },
     // LETTERS
-    // letters discovered by me
     {
-        title: "Letter to Dorothy L. Sayers (date unknown)",
+        title: "Letter to Dorothy Sayers (date unknown)",
         printedIn: "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         issueOrVolume: "vol. 28, no. 3",
         pageRange: "[page range unknown]",
@@ -3093,7 +3092,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or <i>persona</i>.",
         type: "Letter",
-        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
+        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
     },
     {
         title: "Letter to James E. Higgins (31 July 1962)",
@@ -3120,13 +3119,13 @@ const texts = [
     {
         title: "Letter of recommendation for Norman Bradshaw (4 December 1938)",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
-        issueOrVolume: "no. 11",
-        pageRange: "2",
+        issueOrVolume: "no. 7",
+        pageRange: "16 (holograph)",
         year: 1979,
-        monthAndDay: "November",
-        textProvided: "Magdalen College, Oxford <br/>Dec 4th 1938<br/><br/>Mr. N Bradshaw was my pupil while reading for the Final Honour School English Language and Literature. He is a man of untiring industry and I think he came a little stale and tired to the examination, in which, nevertheless, he was at the <i>top</i> of the Second Class. His scholarship is accurate and sensitive and he is sufficient of a musician and musical historian to illuminate his literary studies from that neglected angle. He is a <i>very</i> agreeable man to work with and I can recommend him unreservedly.<br/><br/>C S Lewis<br/>Fellow & Tutor of Magdalen",
+        monthAndDay: "July",
+        textProvided: "Magdalen College, Oxford <br/>Dec 4th 1938<br/><br/>Mr. N Bradshaw was my pupil while reading for the Final Honour School of English Language and Literature. He is a man of untiring industry and I think he came a little stale and tired to the examination, in which, nevertheless, he was at the <i>top</i> of the Second Class. His scholarship is accurate and sensitive and he is sufficient of a musician and musical historian to illuminate his literary studies from that neglected angle. He is a <i>very</i> agreeable man to work with and I can recommend him unreservedly.<br/><br/>C.S. Lewis<br/>Fellow & Tutor of Magdalen",
         type: "Letter",
-        notes: ["Includes a transcript and holograph.", "A holograph of this testimonial also appeared in <i>The Canadian C.S. Lewis Journal,</i> no. 7 (July 1979), 16, before this printing.", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
+        notes: ["Holograph reprinted along with a transcript in the same journal, no. 11 (November 1979), 2.", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
     },
     {
         title: "Letter to J.R.R. Tolkien (7 December 1929)",
@@ -3137,7 +3136,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "My dear Tolkien, <br/><br/>Just a line to say that I sat up late last night and have read the <i>Geste</i> as far as to where Beren and his gnomish allies defeat the patrol of orcs above the sources of the Narog and disguise themselves in the <i>rēaf.</i> I can quite honestly say that it is ages since I have had an evening of such delight: and the personal interest of reading a friend’s work had very little to do with it. I should have enjoyed it just as well as if I’d picked it up in a bookshop, by an unknown author. The two things that come out clearly are the sense of reality in the background and the mythical value: the essence of a myth being that it should have no taint of allegory to the maker and yet should <i>suggest</i> incipient allegories to the reader. So much at the first flush. Detailed criticisms (including grumbles at individual lines) will follow.<br/><br/>Yours,<br/><br/>C.S. Lewis",
         type: "Letter",
-        notes: ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437-438, this letter is not in the <i>Collected Letters</i>.", "This letter also appears, with the salutation and closing sentences cut, in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin), 150-51."]
+        notes: ["As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437-438, this letter is not in the <i>Collected Letters</i>.", "This letter also appears, with the salutation and closing sentences cut, in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin), 150-151."]
     },
     {
         title: "Letter to Robert Burchfield (1953)",
@@ -3151,10 +3150,10 @@ const texts = [
         notes: ["Burchfield’s translation is as follows: “Yes. Onions told me. God knows I did not write these words. It seems to me too shameful that the poem about Beowulf should have been placed in the ‘agony column’.”", "As Paul Tankard points out in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437, this letter is not in the <i>Collected Letters</i>."]
     },
     {
-        title: "Testimonial for Eric Russell Bentley (12 March 1938) (holograph)",
+        title: "Testimonial for Eric Bentley (12 March 1938)",
         printedIn: "<i>The Play and Its Critic: Essays for Eric Bentley,</i> ed. Michael Bertin (Lanham: University Press of America)",
         issueOrVolume: null,
-        pageRange: "4-5",
+        pageRange: "4-5 (holographs)",
         year: 1986,
         monthAndDay: null,
         textProvided: "Mr. E. Russell Bentley of University College has been my pupil while reading for the Final Honour School of English Language and Literature. I regard him as one of the two best pupils I have had in a tutorial experience of thirteen years. His knowledge is very great, for a young man, and is at present very evenly distributed over the whole field from <i>Beowulf</i> to Auden, and he has a real interest, not very common among our students, in the general theory and presuppositions of criticism. As my pupil he has needed very little teaching in the ordinary sense, for he has always been able to find out for himself anything he wanted to know. This has enabled us to devote our tutorial hours mainly to discussion; in which I found him, though a good tempered, a formidable dialectician. I have no doubt at all that if he is given the opportunity he will one day make contributions of the highest distinction to our subject.<br/><br/>C.S. Lewis, March 12th 1938 <br/>P.T.O.<br/><br/>[<i>verso</i> side:]<br/><br/>I had forgotten to add that I know nothing of his character but what is good and that, socially, he is very agreeable. I have been present both when he was the chief talker and when he was the most silent member of the party: in both <i>rôles</i> he seemed to fit in equally well.<br/><br/>C.S.L.",
@@ -3162,10 +3161,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Testimonial for Eric Russell Bentley (April 1940) (holograph)",
+        title: "Testimonial for Eric Bentley (April 1940)",
         printedIn: "<i>The Play and Its Critic: Essays for Eric Bentley,</i> ed. Michael Bertin (Lanham: University Press of America)",
         issueOrVolume: null,
-        pageRange: "6-7",
+        pageRange: "6-7 (holographs)",
         year: 1986,
         monthAndDay: null,
         textProvided: "Mr. E. R. Bentley, of University College, Oxford, was my pupil while reading for the Final Honour School of English Language and Literature, in which he achieved First Class Honours. Since then I have, on the occasion of several absences from work occasioned by illness, entrusted my own pupils to him for tuition. The results were most satisfactory and I found that discussion of tutorial problems with him was often illuminating. I have no hesitation in saying that Mr. Bentley is one of the two best pupils who have passed through my hands in a teaching experience of sixteen years. He is a real scholar and a man of highly original and penetrating mind, for whom I would venture to predict (if anything were now predictable) a truly distinguished future; and if I were given <i>carte blanche</i> to form a Faculty of English in any university I should certainly include him in my staff. He combines in a high degree the power of being thorough and profound in his own work with that of descending easily and genially to the level of minds greatly inferior to his own. He is also a man of principle and is usually liked in general society.<br/><br/>C.S. Lewis<br/>Fellow & Tutor of Magdalen College, Oxford <br/>April 1940",
@@ -3195,10 +3194,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to the Nobel Prize Committee (16 January 1961) (holograph)",
+        title: "Letter to the Nobel Prize Committee (16 January 1961)",
         printedIn: "Alister McGrath, <i>C.S. Lewis: A Life – Eccentric Genius, Reluctant Prophet</i> (Tyndale)",
         issueOrVolume: null,
-        pageRange: "351",
+        pageRange: "351 (holograph)",
         year: 2013,
         monthAndDay: null,
         textProvided: "Magdalene College, Cambridge, England <br/>16 Jan. 1961<br/><br/>Gentlemen<br/><br/>In reply to your invitation I have the honor of nominating as a candidate for the Nobel Prize in Literature for 1961<br/><br/>Professor J. R. R. Tolkien of Oxford<br/><br/>in recognition of his now celebrated romantic trilogy <i>The Lord of the Rings.</i><br/><br/>I remain<br/>your obedient servant<br/>C.S. Lewis",
@@ -3220,23 +3219,23 @@ const texts = [
         title: "Letter to Nevill Coghill in Old English (c.1926)",
         printedIn: "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 32",
-        pageRange: "18-28",
+        pageRange: "18 (holograph and translation)",
         year: 2015,
         monthAndDay: null,
         textProvided: "[TRANSLATION (original in Old English)] <br/><br/> Lewis the churl bids greeting to Coghill the earl gladly and in a friendly manner. Mullanings have returned to me the poem Dymer that I sent them recently, for they would not acquire it. Behold, they love worldly success more than the glory of the sweet story that God gave me. Therefore, a torture-seat all full of dragons and venom is prepared for their bare arses forever. Truly I am now in most need of your counsel. I do not know clearly the time of your sea voyage.Therefore I bid you that you write me. God keep you.",
         type: "Letter",
-        notes: ["A holograph of the letter itself and a translation is on 18."]
+        notes: null
     },
     {
         title: "Letter to Dabney Park (28 June 1961)",
         printedIn: "Dabney Park, “A Letter from C.S. Lewis,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 33",
-        pageRange: "18 (holographs), 21 (transcript)",
+        pageRange: "18 (holographs), 21 (transcription)",
         year: 2016,
         monthAndDay: null,
         textProvided: "The Kilns, Headington Quarry, <br/>Oxford 28 June 1961<br/><br/>Dear Mr. Park<br/><br/>The MS of C.W.’s <i>FofA</i> [<i>Figure of Arthur</i>] is not in my possession. I <i>think</i> he would have said that the old authors represent the grail as a vessel connected with the Last Supper and therefore with the N.T., and that in a <i>story</i> (as distinct from history) an object “is” what it is said to be. Its <i>resemblance</i> to anything in the Celtic stories, he probably thought, had been grossly exaggerated. I am no Celticist myself and have no qualifications for contributing to the debate. But C.W. and I were both opposed to any approach which doesn’t give far more weight to the inventions of individual men of genius than to “motifs” represented as passing by some mysterious power of their own from one author to another − as if they were <i>things,</i> whereas they are really products of analysis.<br/><br/>Yours sincerely,<br/><br/>C.S. Lewis",
         type: "Letter",
-        notes: ["Holographs of the letter on 18, transcription on 21."]
+        notes: null
     },
     {
         title: "Letter to Archbishop William Temple (28 February 1942)",
@@ -3300,7 +3299,7 @@ const texts = [
         pageRange: "22-23",
         year: 2017,
         monthAndDay: null,
-        textProvided: "Ans’d 26/4/39	<br/>Magdalen.<br/>April 25th 1939<br/><br/>Dear Belgion<br/><br/>I see no particular reason why you should have told me you were writing that review. I took it to be primarily a Papist attack on – ‘see what a mess an Anglican has got himself into celebrating what now turns out to be a Pagan doctrine’ – and I still think that is the impression it is likely to produce on most readers. That was what I replied to. When I discovered it was by you I felt (a.) That I had made sport for the editors of the <i>Tablet</i> by showing two Anglicans fighting at cross purposes in <i>their</i> columns. (b.) That, since I had apparently misunderstood you, my letter might sound ungracious. That is why I wrote to you. Nothing was further from my mind than the idea that people who are friends ought not to criticise one another in public without private warnings and apologies. All that kind of collusion and secret society business in the world of modern literature is my pet abomination. I neither ask nor offer anything but ‘the rigour of the game’.<br/><br/>As to my failure to follow up the question raised in your original letter to me about de Rougemont, the truth is that I am not very interested in the <i>origins</i> of courtly love.  I raise all the usual theories in the first chapter of my book, dismiss them in a purely agnostic way, and hurry on to my real subject – what the thing was like once it <i>had</i> originated and what sort of poetry it produced. I might go further and say that I am less interested in Courtly Love itself than most people suppose. My real concern was allegory and C. L. originally came in for the sake of studying allegory, not <i>vice-versa</i> as most people think. Temperamentally I find the phase of sexuality exhibited in C. L. <i>most uncongenial.</i> Any strength my book has results from the fact that it is the work of an outsider.*<br/><br/>I hope it is now clear that I have nothing to ‘forgive’. I never thought you had injured me. I did think we had between us given the Papists an occasion for some chuckles, but it’s no great matter. I enclose the page from the <i>Tablet,</i><br/><br/>Yours<br/><br/>C.S. Lewis<br/><br/>* i.e. if you regard perfectly normal sexuality as the centre, and C. L. as the extreme left, then I am to the right of centre rather than to the left – I mean as a chap not as a moralist or critic. In <i>those capacities</i> I of course support the centre i.e. the Dominical and Pauline utterances on marriage. What I dislike to the point of nausea is all that ‘love and death’ stuff in de Rougemont…better be a eunuch than a Tristan",
+        textProvided: "Ans’d 26/4/39 <br/>Magdalen.<br/>April 25th 1939<br/><br/>Dear Belgion<br/><br/>I see no particular reason why you should have told me you were writing that review. I took it to be primarily a Papist attack on – ‘see what a mess an Anglican has got himself into celebrating what now turns out to be a Pagan doctrine’ – and I still think that is the impression it is likely to produce on most readers. That was what I replied to. When I discovered it was by you I felt (a.) That I had made sport for the editors of the <i>Tablet</i> by showing two Anglicans fighting at cross purposes in <i>their</i> columns. (b.) That, since I had apparently misunderstood you, my letter might sound ungracious. That is why I wrote to you. Nothing was further from my mind than the idea that people who are friends ought not to criticise one another in public without private warnings and apologies. All that kind of collusion and secret society business in the world of modern literature is my pet abomination. I neither ask nor offer anything but ‘the rigour of the game’.<br/><br/>As to my failure to follow up the question raised in your original letter to me about de Rougemont, the truth is that I am not very interested in the <i>origins</i> of courtly love.  I raise all the usual theories in the first chapter of my book, dismiss them in a purely agnostic way, and hurry on to my real subject – what the thing was like once it <i>had</i> originated and what sort of poetry it produced. I might go further and say that I am less interested in Courtly Love itself than most people suppose. My real concern was allegory and C. L. originally came in for the sake of studying allegory, not <i>vice-versa</i> as most people think. Temperamentally I find the phase of sexuality exhibited in C. L. <i>most uncongenial.</i> Any strength my book has results from the fact that it is the work of an outsider.*<br/><br/>I hope it is now clear that I have nothing to ‘forgive’. I never thought you had injured me. I did think we had between us given the Papists an occasion for some chuckles, but it’s no great matter. I enclose the page from the <i>Tablet,</i><br/><br/>Yours<br/><br/>C.S. Lewis<br/><br/>* i.e. if you regard perfectly normal sexuality as the centre, and C. L. as the extreme left, then I am to the right of centre rather than to the left – I mean as a chap not as a moralist or critic. In <i>those capacities</i> I of course support the centre i.e. the Dominical and Pauline utterances on marriage. What I dislike to the point of nausea is all that ‘love and death’ stuff in de Rougemont…better be a eunuch than a Tristan",
         type: "Letter",
         notes: ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C.S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46."]
     },
@@ -3413,7 +3412,7 @@ const texts = [
         monthAndDay: "18 April",
         textProvided: "<div style='text-align: center'>THE KINGIS QUAIR<br/><br/>TO THE EDITOR OF THE TIMES</div>Sir,—Readers of the “Kingis Quair” will remember the problem of its opening stanzas (1-19). Their content may be briefly analysed thus:— The poet, being unable to sleep, takes up his Boethius in the hope of finding it a soporific, but, growing interested, continues to read far into the night, and finally lays it aside only to reflect on the theme of fortune in general and his own fortune in particular. He is interrupted by the matins bell, which seems to say to him, “Tell on, man, quhat the befell.” This determines him—since he has already spent much paper in vain—to make a new beginning. He therefore makes a cross in his manuscript and begins “his book.” There follow two stanzas on the dangers of youth, one in which he applies the previous two to his own youth, two more in which he compares the difficulties of his literary undertaking to those of a mariner becalmed by night, and a final stanza in which he invokes the Muses.<br/><br/>The problem is to find the connexion between this apparently rambling induction and the poem which actually follows. Skeat, in the introduction to his text (published for the E.E.T.S. in 1884), regards it as a slab of aimless poetizing composed <i>before</i> the King had seen Joan Beaufort and when he had “no very clear idea as to what he was going to write about.” The new work—<i>i.e.,</i> the work written after he had fallen in love—does not (for Skeat) begin until Stanza twenty-nine. We are to suppose that when James at last <i>had</i> found a theme he collected the several scraps of aimless verse previously composed and tacked them thus clumsily on to the beginning of his new poem. The obvious objection to this theory is contained in Stanza ten (“In tender youth how sche—<i>i.e.,</i> Fortune—was first my fo And eft my frende, and how I gat recur off my distresse”)—lines which must clearly have been written after the success of his suit to Joan Beaufort; and this objection Skeat disposes of by the supposition that these lines were added later, as also the passage in Stanza nineteen (“My turment and my ioye”). It will be noticed that both passages involve rime-words, and that it is therefore a question not of the lines themselves but of the whole stanzas in which they occur. Gregory Smith (in Chapter X. of the Cambridge ‘History of English Literature,” Vol. II.), while rightly protesting against Skeat’s rather drastic surgery, and stating that the poem is a unity, does not explain how that unity manifests itself in the passage we are considering.<br/><br/>I venture to suggest that the difficulty all arises from the fact that the reader, blinded by the history of James as a <i>man,</i> approaches his induction determined to see in it some reference to that history; but when once we have grasped that James is here speaking not of his history as a man but of his history as a <i>poet,</i> the whole thing becomes clear. Stanzas one to thirteen are an introduction which describes the genesis of the poem. The author tells us he took up Boethius one sleepless night. (It will be noted that it was neither his love nor his imprisonment that kept him awake. Cf. Stanza two: “Can I nought say quharfore.” If we must assume that cares hinder sleep, they were the cares of a poet.) Boethius suggested the idea of Fortune, which inevitably suggested the curious fortunes of his own life—some months ago a lonely prisoner, now an accepted lover soon to return, a free man, with his bride, to Scotland. At this point the matins bell rang and a new idea occurred to him. He had already wanted much paper in the effort to write a Chaucerian poem, but had made little progress. Suddenly—so suddenly that it needed only the slightest conceit to identify the suggestion with the actual sound of the bell—it flashed upon him that his own life provided a capital theme for the sort of poem he had been trying to write. A moment later he would have been seeing how well the circumstances of his falling in love could be worked up on lines of the “Knight’s Tale.” Having thus seen where his real task lay—namely, in using the framework of the allegorical poem for the expression of a personal and actual emotion—he realized that his literary development had entered on a new phase. In fine, the first thirteen stanzas of the “Kingis Quair” correspond almost exactly to Sidney’s first sonnet, and the words “Tell on, man, quhat the befell” are James’s version of “Look in thy heart and write.” (In a modern author the matter of these thirteen stanzas would probably go into a prose preface.) At Stanza fourteen the poem proper begins. The author, after referring to the weakness of youth in general and of his own youth in particular, goes on with a modesty not unusual in medieval poets to express vividly (17 and 18) the sense of his unfitness for the arduous work he has in hand, but finally plucks up courage to invoke the Muses. I would, therefore, divide as follows: (1) Stanzas one to thirteen, autobiographical preface describing the <i>literary</i> genesis of the poem; (2) Stanzas fourteen to nineteen, formal induction to the poem proper, with moral reflections, modest hesitations, and invocation <i>en regle;</i> (3) Stanzas twenty to twenty-eight, first step in the narrative, describing his life previous to the love affair with Joan Beaufort. After this the poem needs no explanation.<br/><br/>Only those who forget the tendency of young poets to write about poetry itself and the intense feelings which they suffer in connexion with their own poetical progress will think that such a purely literary adventure as I describe is too slight a theme for these stanzas. James himself supplies the answer to such objections. If Stanza seventeen had survived alone out of this poem, would not criticism have supposed that these pathetic lines referred to the author’s misery as a prisoner, or, at least, as a lover? Yet we see from Stanza eighteen that the “rokkis” are only those of “prolixitee” and the “lak of wynd” is only “the deficultee in enditing.”<br/><br/>Magdalen College, Oxford.<br/>C.S. LEWIS.",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 464, item G1."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G1."]
     },
     {    title: "Letter to the editor (“On Cross-Channel Ships”)",
         printedIn: "<i>The Times</i>",
@@ -3423,7 +3422,7 @@ const texts = [
         monthAndDay: "18 November",
         textProvided: "CROSS-CHANNEL SHIPS<br/>As one who has crossed the Irish Sea twice or three times a year ever since 1910 I venture to protest against the proposals made by Mr. A.C. Hardy before the Institute of Transport. Mr. Hardy blames railway companies for entrusting the design of cross-channel ships “too much to shipbuilders,” and urges the elimination of open deck spaces “as far as possible.” If it is too much to hope that there are many travellers left who prefer shipbuilders’ ships, which have beauty, to hotel-keepers’ ships, internally disguised as “old baronial” roadhouses, I suggest that there may yet be some who value the sight, the smell, and the airs of the sea. There are certainly those who find the “open deck spaces” their best safeguard against seasickness. It should not be forgotten that ships of this type are necessarily over-engined, and therefore hot and noisy below decks. The retreat at present left us from such heat and noise, from the blare of the wireless, and the vulgarity of the decorations below, is already very small; need we reduce it to nothing? −Mr. C.S. LEWIS, Magdalen College, Oxford.",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 464, item G5."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G5."]
     },
     {
         title: "Letter to the editor (“Poetic License”)",
@@ -3434,7 +3433,7 @@ const texts = [
         monthAndDay: "11 August",
         textProvided: "Poetic License<br/><br/>Sir, – I do not understand on what grounds we can forbid English poets to treat Aphrodite as a trisyllable rhyming with “light.” This is not, of course, the Greek pronunciation; but neither is “Affrodighty.”<br/><br/>If we want to preserve the Greek we must say <i>Ap-hrod-eet-è</i> and (if we can) put on a tonic accent. But why should we? It is a sign of health in the vernacular to be able to assimilate foreign names. We all make the first syllable of Romulus short and the first of Remus long, not because we are all ignorant that the Latin quantities were exactly the opposite but because we are obeying an English sound-law. In the same way nearly all English poets scan Hyperion so that it would rhyme either with “ferry on” or “Chaucerian,” not with “[l]ion” (still less with “peon”). What is funny about Thucydides rhyming with “brides” or Miltiades rhyming with “brigades” is not the departure from ancient pronunciation but the departure from established English usage. Our “correct” pronunciation of Thucydides (Thisiddideez) would have been unintelligible to a Greek. <br/><br/>The real justification for “Affrodight” as well as “Affrodighty” is that they differ aesthetically. When you say “Affrodight” you are making a slightly different poem. Keats’s Proserpine (rhyming with “wine” is not exactly the same person poetically either as Prosérpina or Persephone. Thus “Suliman” carries us to the Arabian Nights, “Solomon” to the Authorised Version and “Salamon” to the Middle Ages.<br/><br/>C.S. LEWIS.	<br/> Magdalen College, Oxford.",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 466, item G20."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G20."]
     },
     {
         title: "Letter to the editor (“A Difference of Outlook”)",
@@ -3445,7 +3444,7 @@ const texts = [
         monthAndDay: "27 June",
         textProvided: "A DIFFERENCE OF OUTLOOK<br/><br/>Sir–The article on adult colleges contributed by “A Correspondent” to <i><The Guardian/i> of May 30, contains a sentence in which (no doubt unintentionally) I am misrepresented. From that sentence a reader would gather that in my <i>Preface to Paradise Lost</i> I included the maxims “Honesty is the best policy” and “War is horrible” among the maxims with which I wished men to be habitually indoctrinated. This is not so. I wrote not “Honesty is the best policy” but “Virtue is lovely”; not “War is horrible” but “Death is bitter.” I have no wish to defend my maxims at this point against those which have been substituted for them: my point is that they are different and indeed involve a difference of outlook which is fundamental.<br/><br/>C.S. Lewis",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 466, item G22."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G22."]
     },
     {
         title: "Letter to the editor",
@@ -3456,7 +3455,7 @@ const texts = [
         monthAndDay: "Summer",
         textProvided: "To the Editor of <i>English</i><br/>Dear Madam,<br/><br/>I think it is time I corrected the widespread belief that my <i>Experiment in Criticism</i> is a veiled attack on Dr. Leavis. It is not. I am attacking a climate of critical opinion which I meet all over the place. What share Dr. Leavis’s work may or may not have had in producing it is a historical question that I did not raise. A critique of Dr. Leavis would require a much fuller study of his works than I have made. If I undertook that, I should expect to find as much difference between him and those who invoke his authority as we find between Plato and the Platonists. To analyse a puddle is not to analyse any one of the springs that may have contributed to it. <br/><br/> Yours faithfully,<br/><i>Magdalene College, Cambridge</i><br/>C.S. Lewis",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 472, item G59."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472, item G59."]
     },
     {
         title: "Letter to the editor (“Spenser’s Irish Experiences and <i>The Faerie Queene</i>”)",
@@ -3467,7 +3466,7 @@ const texts = [
         monthAndDay: "January",
         textProvided: "CORRESPONDENCE<br/><br/>SPENSER’S IRISH EXPERIENCES AND <i>THE FAERIE QUEENE</i><br/><br/>THE EDITOR, <i>Review of English Studies.</i><br/><br/>SIR,<br/><br/>In an interesting article printed in your October number Mr. M. M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article − an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial − that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br/><br/>[84]If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br/><br/><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br/><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br/><br/>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br/><br/><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br/><br/>Il manto si rivolse al braccio manco <br/>E con la spada i malandrini affronta.<br/>Mai non fu campion cotanto franco. <br/>Questo tocca di taglio e quel di ponta,<br/>A l’un il petto, a l’altro passa il fianco:<br/>Or che bisogna che più vi racconta? <br/>Tutti i ladroni uccise in poco d’ora,<br/>Si ben col brando intorno li lavora.<br/><br/>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br/><br/>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br/><br/>Thus as he spoke, loe! with outragious cry<br/>A thousand villeins round about them swarm’d <br/>Out of the rockes and caves adjoyning nye<br/>(<i>F.Q.</i> II, ix, 13)<br/><br/>is the passage in which the same Brandimarte − who has particularly bad luck in the matter of robbers − is attacked in <i>O.I.</i> II, xxvi, 53.<br/><br/>Ragionava in tal modo Doristella <br/>Ed altre cose assai volea seguire <br/>Che non era compita sua novella,<br/>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br/><br/>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the <i>Lestrigoni</i> whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to [85] fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br/><br/>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung:</i> “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br/><br/>Yours faithfully,<br/>C.S. LEWIS.",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 464, item G2."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G2."]
     },
     {
         title: "Letter to Cecil Harwood (March 1931)",
@@ -3731,7 +3730,7 @@ const texts = [
         monthAndDay: "4 February",
         textProvided: "It would perhaps be going too far to say that British prisoners of war can now read the Oxford Honours School of English in their camps. But they can do something like it. The exact steps by which what was originally envisaged as advice for private study and even recreational reading became the syllabus for something like an honours course on the university model need not be recapitulated. The initiative came from the prisoners. Miss Herdman and I met their wishes by arranging an examination. A number of scholars offered their services as unpaid examiners, and the German authorities consented to allow the forwarding of the prisoners’ answers. Finally academic recognition was obtained and a decree has handed over to the Board of the Faculty of English at Oxford the duty of nominating examiners. It has not been possible to offer a degree as the result of this examination. The candidates will be admitted to it without any preliminary examinations, and, of course, they will lack matriculation and residence. The papers will, however, be set and marked according the honours standards (though of course with an eye to certain inevitable limitations of reading) and it is hoped that a good class in this examination, backed by a good report from the examiners, will have a definite practical value after the war. On the cultural side I anticipate, along with much bad work, answers of real interest, for I believe that the necessary restriction on bulky works of criticism, literary history, and apparatus, by forcing the students to concentrate on the texts and to digest them more thoroughly and, above all, to find in one great author their chief commentary on another, may have certain positive advantages over the normal procedure.",
         type: "Letter",
-        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> ed. James T. Como (San Francisco: Ignatius, 2005, 3<sup>rd</sup> edition), 464, item G9."]
+        notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G9."]
     },
     {
         title: "Letter to James Welch (May 1942)",
@@ -3852,7 +3851,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I take money for lecturing on subjects on which I’m a professional (e.g., English Literature), but not for lecturing on subjects on which I’m an amateur (e.g., Theology).",
         type: "Letter",
-        notes: ["Which article or chapter is this letter in?", "In the UK, first printed in C.S. Lewis: Speaker and Teacher (Hodder and Stoughton, 1974), 23."]
+        notes: ["In the UK, first printed in <i>C.S. Lewis: Speaker and Teacher</i> (Hodder and Stoughton, 1974), 23."]
     },
     {
         title: "Letter to the Contracts staff of the BBC (25 April 1944)",
@@ -3998,19 +3997,19 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "The earlier letter referred to is in <i>CL</i> 2."]
     },
     {
-        title: "Letter to Michal Williams (22 November 1947) (holograph)",
+        title: "Letter to Michal Williams (22 November 1947)",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "189",
+        pageRange: "189 (holograph)",
         year: 1973,
         monthAndDay: null,
-        textProvided: "Magdalen College, Oxford <br/>Nov. 22d 1947<br/><br/>Dear Mrs Williams<br/><br/>I was most delighted to get your kind letter and to find that you approved of the Memoir, and that you feel as we all do about the “liquorice halo”; not only, or even chiefly, because one doesn’t like liquorice (tho’ that comes in too) but because it obscures the real halo.Thank you very much. It will be a great pleasure to see you at Oxford when you are free! I am glad you are comforting old Mrs. Williams and can also sympathise as most of my private life is framed in a similar task. With very many thanks and good wishes,<br/><br/>yours sincerely<br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford <br/>Nov. 22d 1947<br/><br/>Dear Mrs Williams<br/><br/>I was most delighted to get your kind letter and to find that you approved of the Memoir, and that you feel as we all do about the “liquorice halo”; not only, or even chiefly, because one doesn’t like liquorice (tho’ that comes in too) but because it obscures the real halo.<br/><br/>Thank you very much. It will be a great pleasure to see you at Oxford when you are free! I am glad you are comforting old Mrs. Williams and can also sympathise as most of my private life is framed in a similar task. With very many thanks and good wishes,<br/><br/>yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
     {
         title: "Letter to Chad Walsh (c.1948)",
-        printedIn: "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979),",
+        printedIn: "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "17",
         year: 1979,
@@ -4042,10 +4041,10 @@ const texts = [
         notes: null
     },
     {
-        title: "Testimonial for E.L. Edmonds (18 October 1937) (holograph)",
+        title: "Testimonial for E.L. Edmonds (18 October 1937)",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 59",
-        pageRange: "1",
+        pageRange: "1 (holograph)",
         year: 1987,
         monthAndDay: "Summer",
         textProvided: "Mr. E. L. Edmonds was my pupil while reading for the Final Honours School of English Language and Literature. He was one of the most enthusiastic and voracious workers I have ever had; a man who never seemed to lose old interests though he was constantly finding new ones; in fact “a robust genius born to grapple with whole libraries” and backed by a very tough physical constitution. He carried too much rather than too little knowledge into the examination, but this will be all to the good in a year or two, though, there, it may not have been an advantage. I have very great respect for him as a man; he has an unusually straightforward, unselfish turn of mind and a great driving power which will be invaluable to any institution that harnesses it. He will always give of his best. Finally, he is still growing and learning and one may look forward to his future development with every confidence. I shall be happy to answer any further enquiries about him.<br/><br/>C.S. Lewis<br/>Fellow, Tutor<br/>Oct. 18th, 1937",
@@ -4218,7 +4217,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 305."]
     },
     {
-        title: "Letter to Dorothy L. Sayers (3 or 4 July 1945)",
+        title: "Letter to Dorothy Sayers (3 or 4 July 1945)",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
         pageRange: "155",
@@ -4545,7 +4544,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "Dear Dick,<br/><br/>May I call you that? <br/><br/>Jack",
         type: "Letter",
-        notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 99 and in Remembering C.S. Lewis (San Francisco: Ignatius Press, 2005).", "Text may only be a paraphrase."]
+        notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 99 and in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005).", "Text may only be a paraphrase."]
     },
     {
         title: "Letter to Mr. Canfield (28 February 1955)",
@@ -4560,14 +4559,14 @@ const texts = [
     },
     {
         title: "Letter to Mrs Allen (26 November 1955)",
-        printedIn: "Roger Lancelyn Green and Walter Hooper, C.S. Lewis: A Biography (London: Collins; New York: Harcourt Brace Jovanovich)",
+        printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "27",
         year: 1974,
         monthAndDay: null,
         textProvided: "Cambridge is charming. No Lord Nuffield (drat the man!) has come to turn it into a huge industrial city, and one can still feel the county-town under the academic surface. In that way it is more like what Oxford was in my young days.",
         type: "Letter",
-        notes: ["This letter was deleted from the Revised and Expanded version of this <i>Biography</i>."]
+        notes: ["This letter was deleted from the Revised and Expanded edition (2002) of this <i>Biography</i>."]
     },
     {
         title: "Letter to Sister Penelope (18 June 1956)",
@@ -4600,7 +4599,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I am in great mental agony. Please pray for us.",
         type: "Letter",
-        notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 104 and in Remembering C.S. Lewis (San Francisco: Ignatius Press, 2005).", "Text may only be a paraphrase."]
+        notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 104 and in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005).", "Text may only be a paraphrase."]
     },
     {
         title: "Letter to “one friend”",
@@ -4747,12 +4746,12 @@ const texts = [
     },
     {
         title: "Letter to Geoffrey R. Lennox (22 May 1959)",
-        printedIn: "Janice Witherspoon Neuleib, “The Creative Act: Lewis on God and Art” in <i>The Longing for a Form: Essays on the Fiction of C.S.Lewis,</i> ed. Peter Schakel (Kent, OH: Kent State University Press)",
+        printedIn: "Janice Witherspoon Neuleib, “The Creative Act: Lewis on God and Art” in <i>The Longing for a Form: Essays on the Fiction of C.S. Lewis,</i> ed. Peter Schakel (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "40-41",
         year: 1977,
         monthAndDay: null,
-        textProvided: "…the Timeless God chooses the timeless soul timelessly …I believe the saved soul always (timelessly) chooses Him. And the reprobate soul in like manner always rejects him. The response of rejection in fact <i>is</i> the soul. The good and bad deeds done on earth are the appearance (in Time) of its willed nature.",
+        textProvided: "…the Timeless God chooses the timeless soul timelessly[.] …I believe the saved soul always (timelessly) chooses Him. And the reprobate soul in like manner always rejects him. The response of rejection in fact <i>is</i> the soul. The good and bad deeds done on earth are the appearance (in Time) of its willed nature.",
         type: "Letter",
         notes: null
     },
@@ -4769,7 +4768,7 @@ const texts = [
     },
     {
         title: "Letter to Thomas Howard (1950s)",
-        printedIn: "Clyde S. Kilby, <i>The Christian World of C.S. Lewis</i> (Grand Rapids, MI: Eerdmans)",
+        printedIn: "Clyde Kilby, <i>The Christian World of C.S. Lewis</i> (Grand Rapids, MI: Eerdmans)",
         issueOrVolume: null,
         pageRange: "136",
         year: 1964,
@@ -4912,7 +4911,7 @@ const texts = [
     },
     {
         title: "Letter to David Marsh (9 May 1962)",
-        printedIn: "William Phemister, “Fantasy Set to Music: Donald Swann, C.S. Lewis and J.R.R. Tolkien,” <i>SEVEN: An Anglo-American LIterary Review</i>",
+        printedIn: "William Phemister, “Fantasy Set to Music: Donald Swann, C.S. Lewis and J.R.R. Tolkien,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 13",
         pageRange: "69",
         year: 1996,
@@ -5043,8 +5042,8 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to Clyde S. Kilby (mid-1953)",
-        printedIn: "Kilby, “A Visit with C.S. Lewis,” <i>Kodon</i>",
+        title: "Letter to Clyde Kilby (mid-1953)",
+        printedIn: "Clyde Kilby, “A Visit with C.S. Lewis,” <i>Kodon</i>",
         issueOrVolume: "vol. 8",
         pageRange: "[page range unknown]",
         year: 1953,
@@ -5055,7 +5054,7 @@ const texts = [
     },
     {
         title: "Letter to Martin Lings (c. 1930)",
-        printedIn: "Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
@@ -5066,7 +5065,7 @@ const texts = [
     },
     {
         title: "Letter to Martin Lings (c. 1931)",
-        printedIn: "Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
@@ -5112,7 +5111,7 @@ const texts = [
         title: "Letter to R.W. Chambers (5 Dec 1940)",
         printedIn: "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
         issueOrVolume: "vol. 24, no. 93",
-        pageRange: "94 (holograph conclusion)",
+        pageRange: "94 (holograph)",
         year: 1987,
         monthAndDay: "February",
         textProvided: false,
@@ -5539,10 +5538,10 @@ const texts = [
         notes: null
     },
     {
-        title: "“Carpe Diem” (holograph)",
+        title: "“Carpe Diem”",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> ed. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
-        pageRange: "133",
+        pageRange: "133 (holograph)",
         year: 1973,
         monthAndDay: null,
         textProvided: false,
@@ -5663,7 +5662,7 @@ const texts = [
         title: "“In Nuptias Daphnes et Caecilii, Epithalamion” for Cecil and Daphne Harwood’s wedding",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
-        pageRange: "43-44 (holograph 45, translation 47-48).",
+        pageRange: "43-44 (transcription), 45 (holographs), 47-48 (translation)",
         year: 2007,
         monthAndDay: null,
         textProvided: "IN NUPTIAS DAPHNES ET CAECILII, EPITHALAMION.<br/><br/>Qualis in immensum iam iam mare vela daturos<br/>Ille vale dicens dulces adfatur amicos<br/>Pauper et ignavae nimium telluris amator;<br/>Haeret: longe oculis sequitur de litore cymbam,<br/>Dum licet, albenti zephyro super aequora vectam:<br/>Tum solus villam repetit, solosque penates<br/>Vespertinus adit. Ego Daphnen Caeciliumque<br/>Haud aliter precibus foveo votisque remitto.<br/>Vos manet—et maneat divom delubra fatigo—<br/>Oceanus late ridens lunaque serena<br/>Strata maris. Vento tumeant iam vela secundo.<br/>Apparent μακαρες νησοι noctemque per albam<br/>Dulce sonant unda crepitania litora lenta<br/>Refluit et viridi fulgore anfractibus aequor.<br/>Iam per opaca potes ingens vidisse cacumen <br/>Arborum nemorumque, comarum audire susurrum<br/>Silvasque Hesperidum: ramos ubi pondere poma<br/>Aurea declinant philomela ubi voce canona<br/>Quae canit et cantabit in omne volubilis aevum,<br/>Florem ubi non hiemes ubi gramina non terit aestus.<br/>Hic licet, ut referunt, paucis quos musa perennis<br/>Quos Venus et ridens ducit Saturnia luno,<br/>Queis intacta fides, quibus et sapientia rerum,<br/>Hic licet ad terram proras devertere fessas<br/>Per vada Sirenis resonantia: nec vetat ullus:<br/>Virginibus quid non licitum doctisque poetis?<br/>Hic fas egredier. Semel hic pede pressere fas est<br/>Mortali immortale solum lucosque beatos<br/>Visere, ephemeridae, dicomque accedere fontes.<br/>Forsitan et vobis gravis admratio[sic] mentis<br/>Crescat dum reputatis: “Adhuc stat Pontus et aer <br/>Stelliferique poli: solis lunaeque meatus<br/>Haud cessant: mutatque vices iam frugifer annus.<br/>Cur non Luna suum repetens pulchrum Endymiona <br/>Ebria desiluit de caelo? Quove modo nunc<br/>Non flammata ruit pereuntis Tellus amores<br/>Caeli proripere et gravidas miscere ruinas?<br/>Omnia more suo? Naturae foedera rerum<br/>Immutata manent? Nec spectant gaudia nostra?”<br/>O vires Sanctos! Veneris sunt omnia motu. <br/>Rorem perditum amat terra arida et amnis amator<br/>Oceanum: Caelum oceanus: sic Forma colentem <br/>Materiam; noctemque dies: sic corpus amicum<br/>Incola mens, hominemque deus, lacrimasque voluptas:<br/>Attamen in tanta fornace et turbine amoris.<br/>Viribus ipsa suis pollens placidissima semper<br/>Inviolata manet spirantis machina mundi.<br/>Ast non immemores veteris vos este sodalis,<br/>Ast, dum vos teneat procul hinc gratiosimus error<br/>Inter odoratus silvas ubi murmur aquai<br/>Insula sancta sonat, multis ex fontibus unam<br/>Ne temptate labris. Dulci ne credite Lethe.<br/><br/>[Prose translation on 47-48]<br/><br/>Epithalamium for the Nuptuals [sic] of Daphne and Cecil<br/><br/>As when a ship is about to set sail upon the vasty deep, a poor timid landlubber, saying farewell to dear friends, stands still and follows the vessel as far into the distance as the eye can reach, where it is being borne over the ocean by a whitening breeze: then in the evening returns home to his villa and its familiar household gods. Thus I cherish Daphne and Cecil with my prayers and speed them with my vows. For you there awaits—I weary the shrines of the Gods (with my prayer that it be so)—the sea’s expansive smile and the paths of ocean tranquil in the light of the moon. May your sails be billowing even now with a lucky wind. The Isles of the Blest are in sight and through the pale night their beaches rustle sweetly beneath the impact of the slow withdrawing, greenly shining wave. Already you may see through the mist a lofty summit of grass and trees, may hear the whispering of the foliage of the forests of the Hesperides: where golden apples weigh down their branches, where the nightingale with her melodious voice sings and will be singing. Ceaseless, for all time; where winters do not destroy flowers, or heat scorch the grass.<br/><br/>Here, as they tell, it is permitted to a few, who are guided by smiling Venus and Saturnian Juno, whose faith is inviolate, and who are wise in their dealings with the world. Here it is allowed them to divert their wearied barque through shallows loud with the songs of Sirens, and no-one forbids it. What is not lawful to virgins and learned poets? Here it is right to disembark, here it is right for once to pace with mortal feet immortal ground and to visit the groves of the blest and approach the fountains of the everlasting gods, though creatures of a day. Perchance in you too a solemn amazement may [48] arise, as you bethink you: The sea, the air, the star-studded vault of heaven are still in place: the wayfarings of sun and moon go on, and the fruitful year passes through season to season. Why does not the Moon leap drunken from the sky, seeking her fair Endymion? How comes it that the fiery Earth does not ravish the loves of the dying Heavens and scatter them in pregnant ruins? What! The laws of nature abide unchanged? Everything going on as usual? Do they behold our joy?<br/><br/>O sacred powers! All motion is born of love (or Venus). Desperately the parched earth loves the dew, the river, the ocean, the sky. So Form loves willing Matter, and day loves night; so the indwelling spirit loves the friendly body, God loves man, and pleasure loves tears. And within such a furnace, such a maelstrom of love, the mechanism of the breathing world, calmly relying on its proper forces, remains inviolate.<br/><br/>Only be ye not unmindful of an old friend. As long as your delightful wanderings keep you far from here, among fragrant woodlands where your island echoes with the gentle sound of water, out of many fountains leave one untested by your lips: eschew the sweet waters of Lethe.",
