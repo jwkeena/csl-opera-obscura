@@ -910,7 +910,7 @@ const texts = [
         year: 1978,
         monthAndDay: null,
         textProvided: "In token payment of a great debt",
-        type: "Diary",
+        type: "Prose",
         notes: null
     },
     {
@@ -1877,7 +1877,7 @@ const texts = [
         pageRange: "7",
         year: 2006,
         monthAndDay: null,
-        textProvided: "political Rousseavian[ism]<br/><br/>[<i>sic,</i> but probably transcriber’s error for Roussea<i>u</i>ian]",
+        textProvided: "political Rousseavian[ism]<br/><br/>[sic, but probably transcriber’s error for Roussea<i>u</i>ian]",
         type: "Prose",
         notes: null
     },
@@ -2575,18 +2575,18 @@ const texts = [
         type: "Prose",
         notes: ["Excerpts partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 163 note 32, 237-238, and 301."]
     },
-    // DIARIES
     {
-        title: "Wynyard Diary (November 1909)",
-        printedIn: "Walter Hooper, “C.S. Lewis” <i>The Franciscan</i>",
-        issueOrVolume: "vol. IX, no. 4",
-        pageRange: "163",
-        year: 1967,
-        monthAndDay: "September",
-        textProvided: "It was on a bleak November morning, in the year of grace 1901, that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 A.M. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch.",
-        type: "Diary",
-        notes: ["The first two sentences of the diary are quoted, chronicling Lewis’s morning routine."]
+        title: "Unused blurb for <i>The Abolition of Man</i> in letter to Roy Niblett (June 14 1943)",
+        printedIn: "Michael Ward, <i>After Humanity: A Guide to C.S. Lewis’s The Abolition of Man</i> (Park Ridge: Word on Fire Academic)",
+        issueOrVolume: null,
+        pageRange: "[page range unknown]",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
+        type: "Prose",
+        notes: null
     },
+    // DIARIES
     {
         title: "Oxford Diary (15 February 1923)",
         printedIn: "Walter Hooper, preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
@@ -2605,7 +2605,7 @@ const texts = [
         pageRange: "47-50",
         year: 1971,
         monthAndDay: null,
-        textProvided: "[In <i>C.S. Lewis: Speaker & Teacher, </i>50]I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.<br/><br/>[In <i>AMR:</i>]<br/><br/>I said this was certainly not what I meant by art: in fact it stood to art as ———.",
+        textProvided: "[In <i>C.S. Lewis: Speaker & Teacher, </i>50:]<br/><br/>I said this was certainly not what I meant by art: in fact it stood to art as Narcissus to Eros.<br/><br/>[In <i>AMR:</i>]<br/><br/>I said this was certainly not what I meant by art: in fact it stood to art as ———.",
         type: "Diary",
         notes: ["This passage is entirely reproduced in <i>AMR,</i> but with an interesting discrepancy. The last three words in this entry, as printed in <i>C.S. Lewis: Speaker & Teacher,</i> are: “Narcissus to Eros.” However, in <i>AMR</i> and the diary manuscript, there is a blank line, as follows: “I said this was certainly not what I meant by art: in fact it stood to art as ———.” The words “Narcissus to Eros” are probably an editorial insertion."]
     },
@@ -2616,7 +2616,7 @@ const texts = [
         pageRange: "24",
         year: 1974,
         monthAndDay: null,
-        textProvided: "[Warren departed to boarding-school in England, while Clive was taught at Little Lea by a governess called Miss Harper:]<br/><br/>She is fairly nice <i>for</i> a governess, but all of them are the same <br/><br/>[, he confided to his first diary at the end of 1907, in which he describes himself as]<br/><br/>like most boys of nine, and I am like Papy, bad temper, thick lips, thin and generally wearing a jersey.<br/><br/>[Other diary scraps describe the rest of the household: his grandfather, Richard Lewis (1832-1908),]<br/><br/>who lives in a little room of his own upstairs<br/><br/>[; Maude the housemaid and Martha the cook; several pets,]<br/><br/>a dog called Tim, a black and white mouse called Tommy, and lastly a canary called Peter.<br/><br/>[The entry for Thursday, 5 March 1908 is typical-except for the unexpected item with which it concludes:]<br/><br/>I rise. The lawn is white with frost. I have breakfast. Get my coat and cap and see Papy off [to the office]. Miss Harper comes. Lessons. <br/><br/>[The next entry translates the opening sentence of <i>De Bello Gallico.</i>] <br/><br/>Dinner. I am carpentring at a sword. I read “Paradise Lost”, reflections there-on.",
+        textProvided: "[Warren departed to boarding-school in England, while Clive was taught at Little Lea by a governess called Miss Harper:]<br/><br/>She is fairly nice <i>for</i> a governess, but all of them are the same <br/><br/>[he confided to his first diary at the end of 1907, in which he describes himself as]<br/><br/>like most boys of nine, and I am like Papy, bad temper, thick lips, thin and generally wearing a jersey.<br/><br/>[Other diary scraps describe the rest of the household: his grandfather, Richard Lewis:]<br/><br/>who lives in a little room of his own upstairs<br/><br/>[Maude the housemaid and Martha the cook; several pets {including}]<br/><br/>a dog called Tim, a black and white mouse called Tommy, and lastly a canary called Peter.<br/><br/>[The entry for Thursday, 5 March 1908 is typical-except for the unexpected item with which it concludes:]<br/><br/>I rise. The lawn is white with frost. I have breakfast. Get my coat and cap and see Papy off. Miss Harper comes. Lessons. <br/><br/>[The next entry translates the opening sentence of <i>De Bello Gallico.</i>] <br/><br/>Dinner. I am carpentring at a sword. I read “Paradise Lost”, reflections there-on.",
         type: "Diary",
         notes: null
     },
@@ -2627,7 +2627,7 @@ const texts = [
         pageRange: "27",
         year: 1974,
         monthAndDay: null,
-        textProvided: "[He was also attempting another diary, or ‘Autobiography’ as he calls it, of his experiences among the]<br/><br/>five boarders at this ridiculous ‘select academy for young gentlemen’ − Squiffy [Field], Bowser, Mears, Jeyes and me …Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
+        textProvided: "[He was also attempting another diary, or]<br/><br/>Autobiography<br/><br/>[as he calls it, of his experiences among the]<br/><br/>five boarders at this ridiculous ‘select academy for young gentlemen’ − Squiffy [Field], Bowser, Mears, Jeyes and me …Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.",
         type: "Diary",
         notes: ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
     },
@@ -2640,7 +2640,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[3]<br/><br/>My Life during the Exmas Holydays of 1907, by Jacks or Clive Lewis. Author of “Building of the promenad”, “Toyland”, “Living races of mouse-land” etc. I begin my life after my 9th birthday. On which I got a book from Papy and a post card album from Mamy. Warnie (my brother) was coming home and I was looking forward to him and the Xmas holydays.</br><br/>[4]<br/><br/>Mamy is like most middle-aged ladys, stout, brown hair, spectaciles, kniting her cheif industry etc. etc. Papy of course is the master of the house, and a man in whom you can see strong Lewis features, bad temper, very sensible, nice when not in a temper. I am like most boys of 9 and I am like Papy, bad temper, thick lips, thin, and generaly weraing a jersey.",
         type: "Diary",
-        notes: ["Quotes the first sentences on page 3 (not quoted in Hooper’s 1974 biography).", "Describes his mother, father, and himself on page 4 in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
+        notes: ["Quotes the first sentences on page 3 (not quoted in Hooper’s 1974 biography). On page 4 describes his mother, father, and himself in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
     },
     {
         title: "Oxford Diary (21 February 1923)",
@@ -2654,37 +2654,15 @@ const texts = [
         notes: null
     },
     {
-        title: "Wynyard Diary (November 1909)",
-        printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends,</i> (London: Allen & Unwin)",
-        issueOrVolume: null,
-        pageRange: "50",
-        year: 1978,
-        monthAndDay: null,
-        textProvided: "We were obliged to go to St John’s (Watford), a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish Protestants. In this abominable place of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.",
-        type: "Diary",
-        notes: ["The ten-year-old Lewis expresses his distaste for the Roman Catholic trappings of St. John’s church in Watford."]
-    },
-    {
         title: "Oxford Diary (26 August 1922)",
         printedIn: "Roger Lancelyn Green, “In the Evening” in <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James Como (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "213",
-        year: 1978,
+        year: 1979,
         monthAndDay: null,
         textProvided: "The next thing I remember was coming back from Malvern. On the way I met a big cart driven by a girl who had no clothes on. She had very light brown hair: but dark skin, pink-brown like sand. I smiled at her in the confidential way one might smile at a girl when you’d seen a hole in her stocking, and she smiled back in just the same way, as much as to say, “Yes, I know. Isn’t it a scream!” Then I went back to Malvern and woke up—having seen the girl again, this time in the distance beyond the river, with other people in the cart.",
         type: "Diary",
         notes: null
-    },
-    {
-        title: "Wynyard Diary (November 1909)",
-        printedIn: "Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan)",
-        issueOrVolume: null,
-        pageRange: "19",
-        year: 1982,
-        monthAndDay: null,
-        textProvided: "We were obliged to go to St John’s; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.",
-        type: "Diary",
-        notes: ["Quotes the same passage as Carpenter in <i>The Inklings</i> (1978) on Lewis’s early anti-Catholicism, but with some changes of punctuation, no “(Watford)” after St John’s, and the addition of a sentence that Carpenter had omitted without notice in the middle of the passage: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.”"]
     },
     {
         title: "Wynyard Diary (November 1909)",
@@ -2695,7 +2673,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "It was on a black November morning, in the year of grace 1909, that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 a.m. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch …We were obliged to go to St. Johns; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our head master, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s table (which they have the vanity to call an “altar”), and pray to the Virgin …The boarders at this ridiculous little “select academy for young gentlemen” are five in number, Squiffy, Mears, Bowser, Jeyes and me … Boivie is a Swede, and a good old Northerner, who like me loaths anything that savours of the South of England. Nice as Boivie is, my great chum is Bowser. He comes from Northumberland and is staunchly Northern, he (and this makes me like him more) is very badly treated by our Southern master Mr. Capron, better known to us as “Oldy” …It is funny, as you go North the people get nicer, as you go South they get nastier, thus Bowser from Cumberland, is the nicest boy here, Jeyes from Northampton is the next nicest, Mears from Chiswick is a middling boy, and Squiffy from Worthing in Sussex is the nastiest boy here …<br/><br/>…No one got caned today.",
         type: "Diary",
-        notes: ["By far the longest quotations from the Wynyard diary. Includes the previously published morning routine and anti-Catholicism excerpts, but also includes descriptions and names of the other boys at school, a brief account of their activities, and the simple entry “No one got caned today.”"]
+        notes: ["Includes the morning routine previously published in Walter Hooper, “C.S. Lewis”, <i>The Franciscan,</i> vol. IX, no. 4 (September 1967), 163. The first two sentences of the diary are quoted, chronicling Lewis’s morning routine. Text as follows: “It was on a bleak November morning, in the year of grace 1901 [must be misprint for 1909–this would make Lewis only 3 years old], that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 A.M. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch.”", "Also includes the anti-Catholicism passage previously published in Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan, 1982), 19. Text as follows: “We were obliged to go to St John’s; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.”", "The same anti-Catholicism passage, though slightly less of it, had also been published in Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin, 1978), 50. There are 3 editorial differences: (1) different punctuation, (2) the insertion of the explanatory “(Watford)” after “St John’s,” and (3) the silent omission of the sentence: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.” Text as follows: “We were obliged to go to St John’s (Watford), a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish Protestants. In this abominable place of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.”"]
     },
     {
         title: "Oxford Diary (3 June 1926)",
@@ -2704,12 +2682,12 @@ const texts = [
         pageRange: "44",
         year: 1984,
         monthAndDay: null,
-        textProvided: "...a curious dream in the night.",
+        textProvided: "a curious dream in the night.",
         type: "Diary",
-        notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are reprinted in <i>All My Road Before Me.</i> The final one, however, from 3 June 1926, is not."]
+        notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are in <i>AMR.</i> The final one, however, is not."]
     },
     {
-        title: "Bookham Diary (19 July 1915)",
+        title: "Bookham Diary (19 July 1915 [<i>LP</i> 4:328])",
         printedIn: "Walter Hooper, preface to <i>Spirits in Bondage,</i> ed. Walter Hooper (New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "xxi",
@@ -3167,7 +3145,7 @@ const texts = [
         pageRange: "4-5 (holographs)",
         year: 1986,
         monthAndDay: null,
-        textProvided: "Mr. E. Russell Bentley of University College has been my pupil while reading for the Final Honour School of English Language and Literature. I regard him as one of the two best pupils I have had in a tutorial experience of thirteen years. His knowledge is very great, for a young man, and is at present very evenly distributed over the whole field from <i>Beowulf</i> to Auden, and he has a real interest, not very common among our students, in the general theory and presuppositions of criticism. As my pupil he has needed very little teaching in the ordinary sense, for he has always been able to find out for himself anything he wanted to know. This has enabled us to devote our tutorial hours mainly to discussion; in which I found him, though a good tempered, a formidable dialectician. I have no doubt at all that if he is given the opportunity he will one day make contributions of the highest distinction to our subject.<br/><br/>C.S. Lewis, March 12th 1938 <br/>P.T.O.<br/><br/>[<i>verso</i> side:]<br/><br/>I had forgotten to add that I know nothing of his character but what is good and that, socially, he is very agreeable. I have been present both when he was the chief talker and when he was the most silent member of the party: in both <i>rôles</i> he seemed to fit in equally well.<br/><br/>C.S.L.",
+        textProvided: "Mr. E. Russell Bentley of University College has been my pupil while reading for the Final Honour School of English Language and Literature. I regard him as one of the two best pupils I have had in a tutorial experience of thirteen years. His knowledge is very great, for a young man, and is at present very evenly distributed over the whole field from <i>Beowulf</i> to Auden, and he has a real interest, not very common among our students, in the general theory and presuppositions of criticism. As my pupil he has needed very little teaching in the ordinary sense, for he has always been able to find out for himself anything he wanted to know. This has enabled us to devote our tutorial hours mainly to discussion; in which I found him, though a good tempered, a formidable dialectician. I have no doubt at all that if he is given the opportunity he will one day make contributions of the highest distinction to our subject.<br/><br/>C.S. Lewis, March 12th 1938 <br/>P.T.O.<br/><br/>I had forgotten to add that I know nothing of his character but what is good and that, socially, he is very agreeable. I have been present both when he was the chief talker and when he was the most silent member of the party: in both <i>rôles</i> he seemed to fit in equally well.<br/><br/>C.S.L.",
         type: "Letter",
         notes: null
     },
@@ -3387,9 +3365,9 @@ const texts = [
         pageRange: "4-5",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit mioluc remaining in certain dialects after it had become meol(u)c in others. In order to explain mioluc I have to posit miluc<br/><br/>As against this I find meolean cited by Wright (OE 49) not as an example of i fractured to io later eo, but as an example of e immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive meluks.× Am I entitled, then, to assume that the root entered OE both in the milform and in the mel-. ? And in the same way that selbur & silbur, selc & silk both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/>silf > siolf (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an i- form (silba) and that Gothic i ought normally to correspond to e in O.E. etc: also that Wright (O.E. 84.) cites seolf as an example of the fracture of e. In fact all the evidence before me is against an original silf: while an original self will reach seolf without going through the siolf stage which I need. (There is no hint in any authority of an -i- or -j- to turn seolf into sielf and thence silf.)Is it possible that, since many -eo words from i (lirn > leorn) etc had the intermediate io in certain dialects still retained, false io forms arose anologically [sic] even in the case of eo words from e? I take it, it is out of the question that e itself could ever pass through io to reach eo.<br/><br/>Yours<br/><br/>C.S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither silf nor sylf appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds Historical Study of the Mother Tongue. Wyld’s Short History has no index worth a −−. Nor has Lizzie’s O.E. grammar.",
+        textProvided: "My dear Onions,<br/><br/>These are my present troubles<br/><br/>MILK. In order to explain milk I have to posit <i>mioluc</i> remaining in certain dialects after it had become <i>meol(u)c</i> in others. In order to explain <i>mioluc</i> I have to posit <i>miluc</i><br/><br/>As against this I find <i>meolean</i> cited by Wright (OE 49) <i>not</i> as an example of i fractured to io later <i>eo,</i> but as an example of <i>e</i> immediately fractured to eo. Agreeably to this I find that N.E.D. gives a primitive <i>meluks</i>.× Am I entitled, then, to assume that the root entered OE both in the <i>mil-</i> form and in the <i>mel-</i>. ? And in the same way that <i>selbur</i> & <i>silbur,</i> <i>selc</i> & <i>silk</i> both existed in prehistoric O.E.?<br/><br/>SILF = SELF. The only way in which I can explain the forms here is by assuming<br/><i>silf</i> > <i>siolf</i> (rare example of fracture before -LF) > seolf > self<br/>> siolf (surviving in Northumbrian etc.) > silf.<br/><br/>As against this I find that Gothic is the only language that gives an <i>i-</i> form (<i>silba</i>) and that Gothic <i>i</i> ought normally to correspond to <i>e</i> in O.E. etc: also that Wright (O.E. 84.) cites <i>seolf</i> as an example of the fracture of <i>e.</i> In fact all the evidence before me is against an <i>original silf:</i> while an original <i>self</i> will reach <i>seolf</i> without going through the <i>siolf</i> stage which I need. (There is no hint in any authority of an <i>-i-</i> or <i>-j-</i> to turn <i>seolf</i> into <i>sielf</i> and thence <i>silf</i>.) Is it possible that, since many <i>-eo</i> words from <i>i</i> (<i>lirn</i> > <i>leorn</i>) etc had the intermediate <i>io</i> in certain dialects still retained, false <i>io</i> forms arose anologically [sic] even in the case of <i>eo</i> words from <i>e</i>? I take it, it is out of the question that <i>e</i> itself could ever pass through <i>io</i> to reach <i>eo</i>.<br/><br/>Yours<br/>C.S. Lewis<br/><br/>P.S. It is perhaps interesting to note that neither <i>silf</i> nor <i>sylf</i> appears in the index of Wright’s OE, Wrights E.M.E., Wright’s N.E., Wylds <i>Historical Study of the Mother Tongue.</i> Wyld’s <i>Short History</i> has no index worth a −−. Nor has Lizzie’s O.E. grammar. <br/><br/>[The × is Lewis’s. It may refer to two lines of text on the <i>verso</i> side, the first of which is lost; the second reads:]<br/><br/>That is all plain sailing. But how does he get his original <i>sioluc, mioluc</i> etc.?",
         type: "Letter",
-        notes: ["The × is Lewis’s. It may refer to two lines of text on the <i>verso</i> side, the first of which is lost; the second reads, “That is all plain sailing. But how does he get his original sioluc, mioluc etc.?”"]
+        notes: null
     },
     {
         title: "Letter to John Buchan(?) (1930s?)",
@@ -3518,7 +3496,7 @@ const texts = [
         pageRange: "6",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, <br/>Oxford March 14th 1932<br/><br/>Dear Onions<br/><br/>I am sorry to hear of your armchair of sickness. Thanks very much for your notes on Chaucer which I look forward to running through in a week or so. Your conclusion seems to me <i>a priori</i> very probable.<br/><br/>For my article I leave you to choose between <i>The Origins of Mediaeval Allegory</i> and <i>Pre-History of the Mediaeval Allegory.</i> The point is that I deal not with the allegories so much as with the things which, in my view, led up to them: my thesis being that allegory owes little to the habit of interpreting scripture allegorically (wh. is usually given as its source) and is a natural outgrowth from Silver, and later, Latin lit. I hope you’ll soon be fit again.<br/><br/>Yrs<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford <br/>March 14th 1932<br/><br/>Dear Onions<br/><br/>I am sorry to hear of your armchair of sickness. Thanks very much for your notes on Chaucer which I look forward to running through in a week or so. Your conclusion seems to me <i>a priori</i> very probable.<br/><br/>For my article I leave you to choose between <i>The Origins of Mediaeval Allegory</i> and <i>Pre-History of the Mediaeval Allegory.</i> The point is that I deal not with the allegories so much as with the things which, in my view, led up to them: my thesis being that allegory owes little to the habit of interpreting scripture allegorically (wh. is usually given as its source) and is a natural outgrowth from Silver, and later, Latin lit. I hope you’ll soon be fit again.<br/><br/>Yrs<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -3540,7 +3518,7 @@ const texts = [
         pageRange: "8",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Sept 5th 1934<br/><br/>Dear Onions<br/><br/>Will this do? If so, and if you want it typewritten, you can either send it back to me for that purpose, or else charge it to me at the Broad St. typist. I find it a little hard to be quite sure what Chambers is up to − so there may be more than one <i>ignoratio elenchi</i> in what I have written.<br/><br/>Yours<br/><br/> C.S. Lewis<br/><br/>He <i>is</i> a Professor, isn’t he?",
+        textProvided: "Sept 5th 1934<br/><br/>Dear Onions<br/><br/>Will this do? If so, and if you want it typewritten, you can either send it back to me for that purpose, or else charge it to me at the Broad St. typist. I find it a little hard to be quite sure what Chambers is up to − so there may be more than one <i>ignoratio elenchi</i> in what I have written.<br/><br/>Yours<br/>C.S. Lewis<br/><br/>He <i>is</i> a Professor, isn’t he?",
         type: "Letter",
         notes: null
     },
@@ -3584,7 +3562,7 @@ const texts = [
         pageRange: "16",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "<i>substitutes</i><br/><br/>Burton. <i>Anatomy</i> Part 2. Sec. 3 Mem. 3 (<i>ad fin.</i> after quotation <i>esto [sic] quod es</i> and before <i>Parentes, patriam</i>)<br/><br/>“The earth yields nourishment to vegetables, sensible creatures feed on vegetables, both are substitutes to reasonable souls”",
+        textProvided: "<i>substitutes</i><br/><br/>Burton. <i>Anatomy</i> Part 2. Sec. 3 Mem. 3 (<i>ad fin.</i> after quotation <i>esto quod es</i> and before <i>Parentes, patriam</i>)<br/><br/>“The earth yields nourishment to vegetables, sensible creatures feed on vegetables, both are substitutes to reasonable souls”",
         type: "Letter",
         notes: null
     },
@@ -3606,7 +3584,7 @@ const texts = [
         pageRange: "8-9",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>The passage in Aquinas bearing out your interpretation of Milton’s <i>in mist,</i> is Sum.Theol. Pars I Quaest 52. Art 3. <i>Ad quintum</i><br/><br/>non fuit vera comestio sed figurativa spiritualis comestionis.<br/>[“it was not a true eating, but figurative of spiritual eating.”]<br/><br/>I hope the crudity of my expression of first doubts was not impudent. I have learned to come to you for information with such “keen despatch of real Hunger and concoctive heate” that sometimes I forget my table manners.<br/><br/>We didn’t succeed in aiming Fox’s mind and knowledge at <i>our</i> target did we? Yours<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>The passage in Aquinas bearing out your interpretation of Milton’s <i>in mist,</i> is Sum. Theol. Pars I Quaest 52. Art 3. <i>Ad quintum</i><br/><br/><i>non fuit vera comestio sed figurativa spiritualis comestionis.</i><br/>[“it was not a true eating, but figurative of spiritual eating.”]<br/><br/>I hope the crudity of my expression of first doubts was not impudent. I have learned to come to you for information with such “keen despatch of real Hunger and concoctive heate” that sometimes I forget my table manners.<br/><br/>We didn’t succeed in aiming Fox’s mind and knowledge at <i>our</i> target did we? Yours<br/><br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -3925,7 +3903,7 @@ const texts = [
         pageRange: "12",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "April 29th<br/><br/>My dear Onions,<br/><br/>Have you any idea why Gavin Douglas writes DEMING where he obviously means DEME (<i>Palice of Honour</i> Part 1 5th stanza from the end l. 3) and CLEPING where he must mean CLEPE(N) (Aen. Bk. VIII cap VI. l. 7) and INQUIRING in the previous chapter 4 lines from the end?<br/><br/>Yours<br/><br/>C.S. Lewis",
+        textProvided: "April 29<sup>th</sup><br/><br/>My dear Onions,<br/><br/>Have you any idea why Gavin Douglas writes DEMING where he obviously means DEME (<i>Palice of Honour</i> Part 1 5<sup>th</sup> stanza from the end l. 3) and CLEPING where he must mean CLEPE(N) (Aen. Bk. VIII cap VI. l. 7) and INQUIRING in the previous chapter 4 lines from the end?<br/><br/>Yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -3936,7 +3914,7 @@ const texts = [
         pageRange: "11-12",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, <br/>Oxford Jan 12th<br/><br/>Dear Onions − (1.) I have foolishly promised to review Atkins for the Mag and had better not do him twice (2.) You are fully justified in snibbing me for the nones about <i>European Balladry,</i> but I now realise that what has made me procrastinate is my inability. I am quite unfit to review this book and can only apologize for wasting so much time. (3.) I ordered a new copy of it to be sent to you yesterday in place of the one which (as you two rightly suspected) I have marked,<br/><br/>Yours<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford <br/>Jan 12th<br/><br/>Dear Onions − (1.) I have foolishly promised to review Atkins for the Mag and had better not do him twice (2.) You are fully justified in snibbing me for the nones about <i>European Balladry,</i> but I now realise that what has made me procrastinate is my inability. I am quite unfit to review this book and can only apologize for wasting so much time. (3.) I ordered a new copy of it to be sent to you yesterday in place of the one which (as you two rightly suspected) I have marked,<br/><br/>Yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -4079,7 +4057,7 @@ const texts = [
         pageRange: "15",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, Oxford <br/>Nov 30 / 49<br/><br/>Dear Onions − I am told that Blackwell has a set of de Bruyne <i>Etudes d’Aesthétique Médiévale</i> for 6 or 8 guineas. The Master of Campion and Gervase Matthews both recommend it highly. Wd. you think of it for the Library?<br/><br/>Yrs<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford <br/>Nov 30 / 49<br/><br/>Dear Onions − I am told that Blackwell has a set of de Bruyne <i>Etudes d’Aesthétique Médiévale</i> for 6 or 8 guineas. The Master of Campion and Gervase Matthews both recommend it highly. Wd. you think of it for the Library?<br/><br/>Yrs<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -4090,7 +4068,7 @@ const texts = [
         pageRange: "17",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>These are my cockshots at the Pearl. I don’t suppose any of them, except possibly the first, are worth a place in <i>Medium Aevum,</i> but they may serve for your private recreation,<br/><br/>yours,<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford<br/><br/>Dear Onions<br/><br/>These are my cockshots at the Pearl. I don’t suppose any of them, except possibly the first, are worth a place in <i>Medium Aevum,</i> but they may serve for your private recreation,<br/><br/>yours,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -4442,7 +4420,7 @@ const texts = [
         pageRange: "16",
         year: 2020,
         monthAndDay: "April",
-        textProvided: "Magdalen College, <br/>Oxford 14th. <br/>September 1953.<br/><br/>Dear Onions,<br/><br/>Thanks, I got a useful letter from Miss ? about Skelton’s Diodorus. I don’t think I have a review in me at present, but I’ll try N.S.B’s book if you are not in a hurry.<br/><br/>Yours,<br/><br/>C.S. Lewis",
+        textProvided: "Magdalen College, Oxford <br/>14th. September 1953.<br/><br/>Dear Onions,<br/><br/>Thanks, I got a useful letter from Miss ? about Skelton’s Diodorus. I don’t think I have a review in me at present, but I’ll try N.S.B’s book if you are not in a hurry.<br/><br/>Yours,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5300,7 +5278,7 @@ const texts = [
         pageRange: "185",
         year: 2020,
         monthAndDay: null,
-        textProvided: "1 June, 1963<br/><br/>Dear Professor Van Osdall,<br/><br/>I am flattered that you should wish to use my rather amateurish remarks for your purposes, and of course you have my fullest permission to do so.<br/><br/>Warning: The paperback (Fontana) eds Miracles is to be regarded as the first text. In the earlier hardback eds, I made a mess of one argument.<br/><br/>The statement that men first looked for law in Nature because they believed in a legislator is based, as you probably know on Whitehead.<br/><br/>When I spoke about the hypothesis of a lawless “subnature” I certainly had in mind “uncer-tainty wave – and particle dilemma,” not Free Will. Random variability, and mechanical neces-sity, seem to me both equally – as it were, from opposite sides – the opposites of what we mean by freedom. I was not thinking about probability as understood in ordinary neither mathematical nor philosophical) discourse.<br/><br/>That seems to me a characteristic not of the object or event we are studying but of the state at the moment of our knowledge<br/><br/>Of course you’ll “run into trouble” but so you will, surely, in any work worth writing.<br/><br/>Yours sincerely,<br/><br/>C.S. Lewis",
+        textProvided: "1 June, 1963<br/><br/>Dear Professor Van Osdall,<br/><br/>I am flattered that you should wish to use my rather amateurish remarks for your purposes, and of course you have my fullest permission to do so.<br/><br/>Warning: The paperback (Fontana) eds <i>Miracles</i> is to be regarded as the first text. In the earlier hardback eds, I made a mess of one argument.<br/><br/>The statement that men first looked for law in Nature because they believed in a legislator is based, as you probably know on Whitehead.<br/><br/>When I spoke about the hypothesis of a lawless “subnature” I certainly had in mind “uncertainty wave – and particle dilemma,” not Free Will. Random variability, and mechanical necessity, seem to me both equally – as it were, from opposite sides – the opposites of what we mean by freedom. I was not thinking about probability as understood in ordinary (neither mathematical nor philosophical) discourse.<br/><br/>That seems to me a characteristic not of the object or event we are studying but of the state at the moment of our knowledge<br/><br/>Of course you’ll “run into trouble” but so you will, surely, in any work worth writing.<br/><br/>Yours sincerely,<br/><br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5311,7 +5289,7 @@ const texts = [
         pageRange: "186",
         year: 2020,
         monthAndDay: null,
-        textProvided: "The Kilns, Headington Quarry, Oxford<br/>9 Oct 63<br/><br/>Dear Professor Van Osdall,<br/><br/>Since I wrote to you my life has undergone a great change.<br/><br/>I nearly died in July and I have now resigned all my appointments and live on one floor of this house as an invalid. This doesn’t prevent my being cheerful or comfortable but it may prevent my being of any use to you.<br/><br/>With hearty good wishes to you in your project.<br/><br/>Yours sincerely,<br/><br/>C.S. Lewis",
+        textProvided: "The Kilns, Headington Quarry, Oxford<br/>9 Oct 63<br/><br/>Dear Professor Van Osdall,<br/><br/>Since I wrote to you my life has undergone a great change.<br/><br/>I nearly died in July and I have now resigned all my appointments and live on one floor of this house as an invalid. This doesn’t prevent my being cheerful or comfortable but it may prevent my being of any use to you.<br/><br/>With hearty good wishes to you in your project.<br/><br/>Yours sincerely,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5322,7 +5300,7 @@ const texts = [
         pageRange: "187",
         year: 2020,
         monthAndDay: null,
-        textProvided: "26 Oct 63<br/>The Kilns, Headington Quarry, Oxford<br/><br/>Dear Mr. Van Osdall,<br/><br/>Thank you for your letter. You tell a most moving story. I too have lost what I most loved. Indeed unless we die young ourselves, we mostly do. We must die before them or see them die before us. And when we wish – and how agonizingly we do o how perpetually! – it is entirely for ourselves for our sakes not theirs.<br/><br/>I am very glad to hear of the work you propose to do. We need more of that kind. Not mind you, that I find real scientists (of which naturally I meet many) are usually our opponents. It is not the sciences but the popular “scientism” in the newspapers or literary (writer) that is really against us.<br/><br/>I am well supplied with reading matter, thanks, so don’t send me anything. But by all means come and see me if you are in England.<br/><br/>Yours sincerely,<br/><br/>C.S. Lewis",
+        textProvided: "26 Oct 63<br/>The Kilns, Headington Quarry, Oxford<br/><br/>Dear Mr. Van Osdall,<br/><br/>Thank you for your letter. You tell a most moving story. I too have lost what I most loved. Indeed unless we die young ourselves, we mostly do. We must die before them or see them die before us. And when we wish – and how agonizingly we do o how perpetually! – it is entirely for ourselves for our sakes not theirs.<br/><br/>I am very glad to hear of the work you propose to do. We need more of that kind. Not mind you, that I find real scientists (of which naturally I meet many) are usually our opponents. It is not the sciences but the popular “scientism” in the newspapers or literary (writer) that is really against us.<br/><br/>I am well supplied with reading matter, thanks, so don’t send me anything. But by all means come and see me if you are in England.<br/><br/>Yours sincerely,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5333,7 +5311,7 @@ const texts = [
         pageRange: "11",
         year: 2020,
         monthAndDay: "Fall/Winter",
-        textProvided: "[Sending her <i>The Screwtape Letters</i> in manuscript:]<br/><br/>Oct 20th, 1941<br/><br/>Dear Mrs. Neylan,<br/><br/>I’m just sending the proofs of the enclosed back to the publisher and wondered if you wd. care to amuse yourself with the MS. You might keep it till the book appears, in case of accidents: after that it can be made into spills. I’ve just read two books in the Signpost series by Mascall – <i>Man. His Origins and Destiny</i> and <i>The God-Man</i> (Dacre Press 1/6) both of which I thought excellent. I hope Dan and Sarah and yourself are all well. I got your address from Fr. Adams this morning.<br/><br/>Yours sincerely<br/><br/>C.S. Lewis",
+        textProvided: "[Sending her <i>The Screwtape Letters</i> in manuscript:]<br/><br/>Oct 20th, 1941<br/><br/>Dear Mrs. Neylan,<br/><br/>I’m just sending the proofs of the enclosed back to the publisher and wondered if you wd. care to amuse yourself with the MS. You might keep it till the book appears, in case of accidents: after that it can be made into spills. I’ve just read two books in the Signpost series by Mascall – <i>Man. His Origins and Destiny</i> and <i>The God-Man</i> (Dacre Press 1/6) both of which I thought excellent. I hope Dan and Sarah and yourself are all well. I got your address from Fr. Adams this morning.<br/><br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5344,7 +5322,7 @@ const texts = [
         pageRange: "[page range unknown]",
         year: 2021,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: "Dear Niblett – will this do?<br/><br/>C.S.L.<br/><br/>In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
         type: "Letter",
         notes: null
     },
@@ -5421,7 +5399,7 @@ const texts = [
         pageRange: "211",
         year: 2021,
         monthAndDay: "October",
-        textProvided: "Magdalen<br/><br/>July 23rd 1942<br/><br/>Dear Mr Derrick – Christopher was well enough to call on me the other day but I was unluckily out. I have been trying to find an afternoon to get to the hospital but have so far failed. I should like to meet him again.<br/><br/>I <i>do</i> agree with you about beauty: at least in literature. It might be difficult to apply to, say, music.<br/><br/>Yes, the Tablet is v. kind. When are you coming to see me again?<br/><br/>yours sincerely<br/>C.S. Lewis<br/><br/>The Jesuits in my pocket! I declare<br/>That must be why so little else is there!!",
+        textProvided: "Magdalen<br/>July 23rd 1942<br/><br/>Dear Mr Derrick – Christopher was well enough to call on me the other day but I was unluckily out. I have been trying to find an afternoon to get to the hospital but have so far failed. I should like to meet him again.<br/><br/>I <i>do</i> agree with you about beauty: at least in literature. It might be difficult to apply to, say, music.<br/><br/>Yes, the Tablet is v. kind. When are you coming to see me again?<br/><br/>yours sincerely<br/>C.S. Lewis<br/><br/>The Jesuits in my pocket! I declare<br/>That must be why so little else is there!!",
         type: "Letter",
         notes: null
     },
@@ -5454,7 +5432,7 @@ const texts = [
         pageRange: "212-213",
         year: 2021,
         monthAndDay: "October",
-        textProvided: "As from Magdalen,<br/>Sept. 22d. 42<br/><br/>Dear Derrick – I’ll tell you one text that does need exposition: your own letters. Not that it isn’t a very good letter, full of charm, appeal, line, atmosphere, humour, mellow wisdom, and the human touch: but what exactly is it <i>about</i>? Does it mean any, or all, of the following:<br/><br/>(a) T. D. is not going to decorate Screwtape.<br/>(b) T. D. is going to do a pictorial <i>P. Plowman</i> on his own.<br/>(c) C.S.L. is to write a P. Plowman for T. D. to illustrate.<br/>(d) C.S.L. is to illustrate the works of Langland re-written by T. D. in the style of Tinto-retto as an epithalamium for Christopher in memory of R. W. Chambers.<br/><br/>Tintoretto, by the bye, <i>was</i> an illustrator, chiefly of Ovid. The moment you paint a “nymph” you’re being literary. Apart from portraits, mention any great school of painters who were <i>not</i> mainly occupied in illustrating sacred or mythological texts. You artists are beginning to get out of hand. What wd. have happened if Tenniel had not hung on to Lewis Carroll’s coat tails, or, for the matter of that, if Mozart had not hung onto Da Ponte’s? You see (<i>salva reverentia</i>) in the beginning is the word. Out of Ovid, Tintoretto & Titian: out of the Bible, Raphael. Lor’ bless you, left to yourselves you can only mess about with land-scapes or end up in Picasso.<br/><br/>I enclose my own private idea of Uncle Screwtape.<br/><br/>yours<br/>C.S. Lewis",
+        textProvided: "As from Magdalen,<br/>Sept. 22d. 42<br/><br/>Dear Derrick – I’ll tell you one text that does need exposition: your own letters. Not that it isn’t a very good letter, full of charm, appeal, line, atmosphere, humour, mellow wisdom, and the human touch: but what exactly is it <i>about</i>? Does it mean any, or all, of the following:<br/><br/>(a) T. D. is not going to decorate Screwtape.<br/>(b) T. D. is going to do a pictorial <i>P. Plowman</i> on his own.<br/>(c) C.S.L. is to write a P. Plowman for T. D. to illustrate.<br/>(d) C.S.L. is to illustrate the works of Langland re-written by T. D. in the style of Tintoretto as an epithalamium for Christopher in memory of R. W. Chambers.<br/><br/>Tintoretto, by the bye, <i>was</i> an illustrator, chiefly of Ovid. The moment you paint a “nymph” you’re being literary. Apart from portraits, mention any great school of painters who were <i>not</i> mainly occupied in illustrating sacred or mythological texts. You artists are beginning to get out of hand. What wd. have happened if Tenniel had not hung on to Lewis Carroll’s coat tails, or, for the matter of that, if Mozart had not hung onto Da Ponte’s? You see (<i>salva reverentia</i>) in the beginning is the word. Out of Ovid, Tintoretto & Titian: out of the Bible, Raphael. Lor’ bless you, left to yourselves you can only mess about with landscapes or end up in Picasso.<br/><br/>I enclose my own private idea of Uncle Screwtape.<br/><br/>yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5487,7 +5465,7 @@ const texts = [
         pageRange: "215",
         year: 2021,
         monthAndDay: "October",
-        textProvided: "As from Magdalen.<br/>April 13th. 1944<br/><br/>My dear Derek – I hardly like to imagine what you are thinking of me by now! If you were a woman you would have devised a world of sinister reasons for my silence: being a man you have probably simply dismissed me as a problem neither soluble nor worth solving. In actual fact, I have not forgotten you. I pray for your son twice a week and the name Derek has given my conscience a kick every time: but with domestic upsets, B.B.C. talks, a mysterious sore arm, a threatened operation (the surgeon ran away in the end, I didn’t) I have just put it off from day to day. The truth is that the increasing daily correspondence with all manner of total strangers, many of them lunatic, makes me sicken at the sight of a pen. It will cost me all my own friends eventually I fear. I live like a schoolboy doing an infinite imposition. It’s always lines for me – drat ’em. Fame is not dust and ashes as the moralists say. If it were a shovel and a vacuum cleaner wd. put it right. It’s lines. Even so, I admit, I confess, mea maxima culpa, I might at least have acknowledged the really exuberant and festive Christmas picture you sent. That’s the great thing about your drawings, you know you can make paper shout – even yell. You can set the room rocking to the chorus. And now for business. Cd. you come over and spend the night on Mon. May 1st – dinner 7.15? Then I shall know you’ve forgiven me, and we can discuss the VII Deadly Sins (I can’t promise you facilities for practising them all but I’ll do my best),<br/><br/>yours<br/>C.S. Lewis",
+        textProvided: "As from Magdalen.<br/>April 13th. 1944<br/><br/>My dear Derek – I hardly like to imagine what you are thinking of me by now! If you were a woman you would have devised a world of sinister reasons for my silence: being a man you have probably simply dismissed me as a problem neither soluble nor worth solving. In actual fact, I have not forgotten you. I pray for your son twice a week and the name Derek has given my conscience a kick every time: but with domestic upsets, B.B.C. talks, a mysterious sore arm, a threatened operation (the surgeon ran away in the end, I didn’t) I have just put it off from day to day. The truth is that the increasing daily correspondence with all manner of total strangers, many of them lunatic, makes me sicken at the sight of a pen. It will cost me all my own friends eventually I fear. I live like a schoolboy doing an infinite imposition. It’s always <i>lines</i> for me – drat ’em. Fame is <i>not</i> dust and ashes as the moralists say. If it were a shovel and a vacuum cleaner wd. put it right. It’s lines. Even so, I admit, I confess, <i>mea maxima culpa,</i> I might at least have acknowledged the really exuberant and festive Christmas picture you sent. That’s the great thing about your drawings, you know you can make paper shout – even yell. You can set the room rocking to the chorus. And now for business. Cd. you come over and spend the night on Mon. May 1st – dinner 7.15? Then I shall know you’ve forgiven me, and we can discuss the VII Deadly Sins (I can’t promise you facilities for practising them all but I’ll do my best),<br/><br/>yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
