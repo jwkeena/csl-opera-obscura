@@ -5482,7 +5482,7 @@ const texts = [
         notes: ["Also reprinted, still as a holograph, in <i>C.S. Lewis: Images of His World</i> (2005), 37; then again, as text, in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 31.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“Perelandra” (a fragment of verse that appears to be the idea for <i>Perelandra</i>)",
+        title: "“Perelandra”",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
         pageRange: "171 note 1",
@@ -5490,21 +5490,21 @@ const texts = [
         monthAndDay: null,
         textProvided: "The floating islands, the flat golden sky<br/>At noon, the peacock sunset: tepid waves<br/>With the land sliding over them like a skin:<br/> The alien Eve, green-bodied, stepping forth<br/>To meet my hero from her forest home,<br/>Proud, courteous, unafraid; no thought infirm<br/>Alters her cheek —",
         type: "Poem",
-        notes: ["Reprinted in Revised and Expanded edition (2002), 202.", "The meter of the poem is blank verse, the same as Milton’s <i>Paradise Lost</i>."]
+        notes: ["This verse fragment appears to be the idea for <i>Perelandra.</i> Its metre is blank verse, the same as Milton’s <i>Paradise Lost</i>.", "Reprinted in Revised and Expanded edition (2002), 202."]
     },
     {
-        title: "“Two at the Table…” (in the metre of <i>Beowulf</i>; about J.R.R. Tolkien and E.V. Gordon examining in the English School)",
+        title: "“Two at the Table”",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "55",
         year: 1978,
         monthAndDay: null,
-        textProvided: "Two at the table in their talk borrowed<br/>Gargantua’s mouth. Gordon and Tolkien<br/>Had will to repeat well-nigh the whole<br/>That they of Verner’s law and of vowel sorrows,<br/>Cares of consonants, and case endings,<br/>Heard by hearsay.<br/>Never at board I heard<br/>Viler vivas.",
+        textProvided: "[On J.R.R. Tolkien and E.V. Gordon examining in the English School, in the metre of <i>Beowulf:</i>]Two at the table in their talk borrowed<br/>Gargantua’s mouth. Gordon and Tolkien<br/>Had will to repeat well-nigh the whole<br/>That they of Verner’s law and of vowel sorrows,<br/>Cares of consonants, and case endings,<br/>Heard by hearsay.<br/>Never at board I heard<br/>Viler vivas.",
         type: "Poem",
         notes: null
     },
     {
-        title: "“Poem for Jill Flewett” (written in the front of a copy of <i>The Screwtape Letters</i>)",
+        title: "“Poem for Jill Flewett”",
         printedIn: "Jill (Flewett) Freud, “Lewis Teaches the Retarded” in <i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 16",
         pageRange: "5",
@@ -5512,10 +5512,10 @@ const texts = [
         monthAndDay: "April",
         textProvided: "Beauty and brains and virtue never dwell<br/>Together in one place, the critics say<br/>Yet we have known a case.<br/>You must not ask her name<br/>But seek it ‘twixt July and May.",
         type: "Poem",
-        notes: ["Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
+        notes: ["Written in the front of a copy of <i>The Screwtape Letters.</i>", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
     {
-        title: "“If, following your satiric muse,” comic verse written on a paper by J.O. Reed (June 1950)",
+        title: "“If, following your satiric muse”",
         printedIn: "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         issueOrVolume: null,
         pageRange: "134",
@@ -5523,10 +5523,10 @@ const texts = [
         monthAndDay: null,
         textProvided: "If, following your satiric muse,<br/>You chanced to meet a satyr<br/>I’m sure you’d ne’er again confuse<br/>The former with the latter.",
         type: "Poem",
-        notes: null
+        notes: ["Written on a paper by J.O. Reed (June 1950)."]
     },
     {
-        title: "An untitled poem beginning “This first edition” on the end papers of John Arlott’s copy of <i>The Screwtape Letters</i>",
+        title: "Untitled poem beginning “This first edition”",
         printedIn: "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "112-113",
@@ -5534,7 +5534,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "This first edition<br/>Is full of printer’s errors:<br/>Aptly it mirrors<br/>Man’s first condition.",
         type: "Poem",
-        notes: null
+        notes: ["Written on the endpapers of John Arlott’s copy of <i>The Screwtape Letters.</i>"]
     },
     {
         title: "Four other versions of “Nearly They Stood,” first published in <i>Pilgrim’s Regress</i> and revised in <i>Poems</i> and <i>Collected Poems</i>",
@@ -5548,7 +5548,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Suggested changes to J.R.R. Tolkien’s translation of <i>Beowulf</i>",
+        title: "Suggested revisions to J.R.R. Tolkien’s translation of <i>Beowulf</i>",
         printedIn: "J.R.R. Tolkien, <i>Beowulf: A Translation and Commentary, together with Sellic Spell,</i> ed. Christopher Tolkien (Boston, MA; New York: Houghton Mifflin Harcourt)",
         issueOrVolume: null,
         pageRange: "108-112",
@@ -5559,8 +5559,8 @@ const texts = [
         notes: null
     },
     {
-        title: "“The King of Drum [But soon his feet]”",
-        printedIn: "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        title: "“The King of Drum [But soon his feet]” (drafts)",
+        printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "274-275",
         year: 2001,
@@ -5570,8 +5570,8 @@ const texts = [
         notes: null
     },
     {
-        title: "A rejected version of Epitaph [You call them Fascists]”",
-        printedIn: "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        title: "“Epitaph [You call them Fascists]” (draft)",
+        printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "299",
         year: 2001,
@@ -5581,18 +5581,18 @@ const texts = [
         notes: null
     },
     {
-        title: "Three early versions of “As the Ruin Falls”",
+        title: "“As the Ruin Falls” (drafts)",
         printedIn: "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "17-18",
         year: 2001,
         monthAndDay: null,
-        textProvided: "[Draft A (written on very thin typing paper)]<br/><br/>This is all flashy rhetoric about loving you;<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through,<br/>I want God, Man, and you, only to serve my turn.<br/><br/>Pleasure, ease, reassurance are the goals I seek,<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of “love” (a scholar’s parrot might talk Greek)<br/>But, self-imprisoned, end always where I begin.<br/><br/>But this at least: you have shown me, dearest, what I lack,<br/>Revealed the gulf, and me on the wrong side of it,<br/>Shown me the impossibility of turning back,<br/>And pointed me the one way from[?] the noisome pit.<br/><br/>For this I bless you for my broken heart. The pains You cause me are more precious than all other gains.<br/><br/>[Draft B (written on a scrap of paper)]<br/><br/>All this is flashy rhetoric, about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want friends, you, and God only to serve my turn.<br/><br/>Pleasure, peace, re-assurance are the goals I seek;<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of love—a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have shown me (oh how late) my lack:<br/>I see the chasm; and everything you are was making<br/>Each moment a long bridge by which I might get back<br/>From exile and grow man. And now the bridge is breaking.<br/><br/>Yet so, I bless you for my hammered heart: the pains<br/>You give me are more precious than all other gains.<br/><br/>[Draft C (written on lined, greenish paper)]<br/><br/>All this is flashy rhetoric about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want God, you, all friends, merely to serve my turn.<br/><br/>Peace, re-assurance, pleasure, are the goals I seek,<br/>I cannot crawl one inch outside my proper skin:<br/>I talk of love—a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have taught me (but how late) my lack.<br/>I see the chasm. And everything you are was making<br/>My heart into a bridge by which I might get back<br/>From exile, and grow man. And now the bridge is breaking.<br/><br/>For this I bless you as the ruin falls. The pains<br/>You give me are more precious than all other gains.",
+        textProvided: "[Draft A (written on very thin typing paper)]<br/><br/>This is all flashy rhetoric about loving you;<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through,<br/>I want God, Man, and you, only to serve my turn.<br/><br/>Pleasure, ease, reassurance are the goals I seek,<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of “love” (a scholar’s parrot might talk Greek)<br/>But, self-imprisoned, end always where I begin.<br/><br/>But this at least: you have shown me, dearest, what I lack,<br/>Revealed the gulf, and me on the wrong side of it,<br/>Shown me the impossibility of turning back,<br/>And pointed me the one way from[?] the noisome pit.<br/><br/>For this I bless you for my broken heart. The pains <br/>You cause me are more precious than all other gains.<br/><br/>[Draft B (written on a scrap of paper)]<br/><br/>All this is flashy rhetoric, about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want friends, you, and God only to serve my turn.<br/><br/>Pleasure, peace, re-assurance are the goals I seek;<br/>I cannot crawl one inch outside my proper skin.<br/>I talk of love—a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have shown me (oh how late) my lack:<br/>I see the chasm; and everything you are was making<br/>Each moment a long bridge by which I might get back<br/>From exile and grow man. And now the bridge is breaking.<br/><br/>Yet so, I bless you for my hammered heart: the pains<br/>You give me are more precious than all other gains.<br/><br/>[Draft C (written on lined, greenish paper)]<br/><br/>All this is flashy rhetoric about loving you.<br/>I never had a selfless thought since I was born.<br/>I am mercenary and self-seeking through and through:<br/>I want God, you, all friends, merely to serve my turn.<br/><br/>Peace, re-assurance, pleasure, are the goals I seek,<br/>I cannot crawl one inch outside my proper skin:<br/>I talk of love—a scholar’s parrot may talk Greek—<br/>But, self-imprisoned, always end where I begin.<br/><br/>Only that now you have taught me (but how late) my lack.<br/>I see the chasm. And everything you are was making<br/>My heart into a bridge by which I might get back<br/>From exile, and grow man. And now the bridge is breaking.<br/><br/>For this I bless you as the ruin falls. The pains<br/>You give me are more precious than all other gains.",
         type: "Poem",
         notes: null
     },
     {
-        title: "“In Nuptias Daphnes et Caecilii, Epithalamion” for Cecil and Daphne Harwood’s wedding",
+        title: "“In Nuptias Daphnes et Caecilii, Epithalamion”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "43-44 (transcription), 45 (holographs), 47-48 (translation)",
@@ -5614,7 +5614,7 @@ const texts = [
         notes: null
     },
     {
-        title: "An early version of “To a Friend”",
+        title: "“To a Friend” (draft)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "70-71",
@@ -5625,7 +5625,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Elegy,” a non-comic limerick",
+        title: "“Elegy”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "75",
@@ -5636,7 +5636,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Partial draft of “Abecedarium Philosophicum”",
+        title: "“Abecedarium Philosophicum” (draft)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "84",
@@ -5647,7 +5647,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Poema Historiale,” a new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien”",
+        title: "“Poema Historiale”",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
         pageRange: "31",
@@ -5655,7 +5655,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "There was a time before the ancient sun<br/>And swinging wheels of heaven had learned to run<br/>More certainly than dreams; for dreams themselves<br/>Had bodies then and filled the world with elves.<br/>The starveling lusts whose walk is now confined<br/>To darkness and the cellarage of the mind,<br/>And shuddering and despairs and shapes of sin<br/>Then walked at large and were not cooped within.<br/>Thought cast a shadow: brutes could speak: and men<br/>Get children on a star. For spirit then <br/>Threaded a fluid world and dreamed it new<br/>Each moment. Nothing was false or new [misprint for ‘true’].",
         type: "Poem",
-        notes: ["Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
+        notes: ["A new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien.”", "Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
     },
     {
         title: "“The Old Grey Mare”",
@@ -5738,7 +5738,7 @@ const texts = [
         title: "“A Death Song”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
-        pageRange: "166-169",
+        pageRange: "168-169",
         year: 2004,
         monthAndDay: "Winter",
         textProvided: false,
@@ -5856,7 +5856,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 60.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“Sonnet [The clouds are red behind us and before].”",
+        title: "“Sonnet [The clouds are red behind us and before]”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
         pageRange: "177",
@@ -5944,7 +5944,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 69.", "If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“MHΔEN ἈΓAN”",
+        title: "“ΜΗΔΕΝ ᾿ΑΤΑΝ [but should be ᾿ΑΓΑΝ]”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
         pageRange: "182",
@@ -6582,7 +6582,7 @@ const texts = [
         notes: ["If you would like to make an electronic transcription of this text, let me know."]
     },
     {
-        title: "“O Caecili care” (April 1936)",
+        title: "“O Caecili care” in letter to Cecil Harwood (April 1936)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "33",
@@ -6593,7 +6593,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Side-by-side comparison of “Arrangement of Pindar” and “Pindar Sang”",
+        title: "“Arrangement of Pindar” and “Pindar Sang” side-by-side comparison",
         printedIn: "“‘Arrangement of Pindar’ and ‘Pindar Sang’: A Variorum Edition,” ed. Brendon N. Wolfe and Judith E. Tonning<i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 5, no. 3",
         pageRange: "4-7",
@@ -6604,7 +6604,7 @@ const texts = [
         notes: ["If you would like to make an electronic transcription of these texts, let me know."]
     },
     {
-        title: "“Each book by Empson read,” a poem written into Lewis’s copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
+        title: "“Each book by Empson read” in his copy of William Empson, <i>The Structure of Complex Words</i> held in the Rare Book Collection of the University of North Carolina at Chapel Hill",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
         pageRange: "296",
@@ -6615,7 +6615,7 @@ const texts = [
         notes: null
     },
     {
-        title: "<i>Dymer</i> rough draft",
+        title: "<i>Dymer</i> (drafts)",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
         pageRange: "69 and 83",
@@ -6637,7 +6637,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Patruae Verba Linguae,” a poem on the prefixes un- and dis- (undated)",
+        title: "“Patruae Verba Linguae”",
         printedIn: "Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers)",
         issueOrVolume: null,
         pageRange: "92 and notes 95, 96",
@@ -6648,7 +6648,7 @@ const texts = [
         notes: ["Beebe discovered the poem on the back of a manuscript in the Bodleian. Don King has verified its authenticity."]
     },
     {
-        title: "Poem to Thomas Derrick",
+        title: "Poem for Thomas Derrick",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
         pageRange: "211",
