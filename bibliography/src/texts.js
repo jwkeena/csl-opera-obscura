@@ -419,7 +419,7 @@ const texts = [
         notes: null
     },
     {
-        title: "“Taste,” a revision of the original “Notes on the Way [=Different Tastes in Literature]”",
+        title: "“Taste,” a revision of the original “Notes on the Way (=Different Tastes in Literature)”",
         printedIn: "<i>Time and Tide Anthology,</i> ed. Anthony Lejeung (London: Andre Deutsch)",
         issueOrVolume: null,
         pageRange: "101-107",
@@ -595,7 +595,7 @@ const texts = [
         notes: ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have a scan of the Westminster Press text, please send it to me!"]
     },
     {
-        title: "Blurb for Austin Farrer, <i>Saving Belief</iThe>",
+        title: "Blurb for Austin Farrer, <i>Saving Belief</i>",
         printedIn: "<i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         issueOrVolume: null,
         pageRange: "dust jacket",
@@ -604,6 +604,17 @@ const texts = [
         textProvided: "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         type: "Prose",
         notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
+    },
+    {
+        title: "Introduction (=abbreviated preface to <i>George MacDonald: An Anthology</i>)",
+        printedIn: "George MacDonald, <i>Phantastes and Lilith</i> (Grand Rapids: Eerdmans)",
+        issueOrVolume: null,
+        pageRange: "5-12",
+        year: 1964,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: null
     },
     {
         title: "“Note” on <i>Till We Have Faces</i>",
@@ -1013,7 +1024,7 @@ const texts = [
         notes: ["Typescript found in the Edinburgh Sir Walter Scott Club’s files.", "The corrected text as printed in <i>Selected Literary Essays</i> reads thus: “You may feel that I have spent too much time on this great author’s faults and too little on his excellences. But that is because I am speaking among friends. Where else does one mention the faults of a man one loves? And Scott today has few friends. Our juniors are ill at ease in his presence.”"]
     },
     {
-        title: "Commentary on the <i>Lay of Leithian</i> by J.R.R.",
+        title: "Notes on the <i>Lay of Leithian</i> by J.R.R.",
         printedIn: "J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         issueOrVolume: null,
         pageRange: "[page range unknown]",
@@ -1145,7 +1156,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (= Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
+        title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
         printedIn: "Doris T. Myers, <i>C.S. Lewis in Context</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "75-77, 80",
@@ -1596,7 +1607,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (= Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
+        title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
         printedIn: "Alan Jacobs, <i>The Narnian: The Life and Imagination of C.S. Lewis</i> (New York: HarperSanFrancisco: 2005)",
         issueOrVolume: null,
         pageRange: "176 note",
@@ -2551,7 +2562,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["The text is published here in its entirety, edited and with notes by Don King. Excerpts had been published in various other places, including:", "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979), 126-127, 128. Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses.", "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 59-60. Sayer summarizes the poem in three paragraphs, giving the occasional quote. This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-111.", "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 15 (1998), 37-54. This essay contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book.", "Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i> 23, no. 1 (Spring 1999), 3-15.", "Salwa Khoddam, “From Ruined City to Edenic Garden in C.S. Lewis’s The Magician’s Nephew,” in <i>Truths Breathed Through Silver: The Inklings’ Moral and Mythopoeic Legacy,</i> ed. Jonathan B. Himes, with Joe R. Christopher and Salwa Khoddam (Newcastle, UK: Cambridge Scholars Publishing, 2008), 27-50.", "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 69 and 77."]
+        notes: ["The text is published here in its entirety, edited and with notes by Don King. Excerpts had been published in various other places, including:", "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979), 126-127, 128. Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses.", "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 59-60. Sayer summarizes the poem in three paragraphs, giving the occasional quote. This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-111.", "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 15 (1998), 37-54. This essay contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book.", "Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i> 23, no. 1 (Spring 1999), 3-15. Later republished as chapter 7 of Don. W. King, <i>Plain to the Inward Eye: Selected Essays on C.S. Lewis</i> (Abilene Christian University Press, 2011)", "Salwa Khoddam, “From Ruined City to Edenic Garden in C.S. Lewis’s The Magician’s Nephew,” in <i>Truths Breathed Through Silver: The Inklings’ Moral and Mythopoeic Legacy,</i> ed. Jonathan B. Himes, with Joe R. Christopher and Salwa Khoddam (Newcastle, UK: Cambridge Scholars Publishing, 2008), 27-50.", "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 69 and 77."]
     },
     {
         title: "C.S. Lewis’ 1924 Tutorial Notes",
@@ -4315,17 +4326,6 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to Dom Bede Griffiths (17 May 1952)",
-        printedIn: "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press)",
-        issueOrVolume: null,
-        pageRange: "102",
-        year: 2004,
-        monthAndDay: null,
-        textProvided: false, // Arend has ...??
-        type: "Letter",
-        notes: ["If you have this text, please send it to me!"]
-    },
-    {
         title: "Letter to Mary Neylan (1953)",
         printedIn: "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -5036,9 +5036,9 @@ const texts = [
         pageRange: "172",
         year: 1984,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: "[On <i>New Testament Christianity</i> by J.B. Phillips:]It has great freshness and energy and I particularly liked the way it deals with faith—a very helpful approach.",
         type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
+        notes: null
     },
     {
         title: "Letter to Peter Philip (3 March 1955)",
@@ -5055,12 +5055,12 @@ const texts = [
         title: "Letter to R.W. Chambers (5 Dec 1940)",
         printedIn: "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
         issueOrVolume: "vol. 24, no. 93",
-        pageRange: "94 (holograph)",
+        pageRange: "93-94 (transcription) and 94 (holograph)",
         year: 1987,
-        monthAndDay: "February",
-        textProvided: false,
+        monthAndDay: "June",
+        textProvided: "Magdalen, Oxford<br/>Dec. 5th 1940<br/><br/>Dear Chambers<br/><br/>Thank you very much indeed. To praise one’s seniors seems almost impudent, but I must take the liberty of saying that you are for me almost the only critic on Shakespeare who really helps. In this paper or in the one on Measure for Measure, every point seems quite unanswerable, with the single exception of ll. 46-47 where I don’t see clearly what you mean. Time after time I find myself saying “Why didn’t I see that before?” and it is all really about the play; not about Shakespeare’s life, or influence, or bibliography, or boy actors or all the rest of the side-tracks. I hope there is more and more to come; for I think this is turning out to be the most important work you have done on anyone and the most important work anyone has done on Shakespeare…<br/><br/>Tolkien’s second boy is in the army, but is trying to transfer to the R.A.F. When I said to the father that I was sorry to hear it, he replied “Everyone else who joins it is equally precious to someone”. Wrenn has been to see me recently, fresh from the bombardment of Bristol; he was rather drooping before but this seems to have made him ten years younger. He is carrying on with hardly any books and finds the spoken word coming into its own again. It led him and me to wonder whether the present destruction of libraries will really be an unmixed evil. One never knows.<br/><br/>I am reading the Andreas for my private delectation. Why was I never told how good it is? There is one line that deserves to be as well known as Roland’s paien unt tort: indeed it is more profound–sorgum geswenced, sigore gewyroðod.<br/><br/>That’s the stuff, isn’t it? With very many thanks,<br/><br/>Yours,<br/>C.S. Lewis",
         type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
+        notes: null
     },
     {
         title: "Letter to John Christopher (1945?)",
@@ -5069,9 +5069,9 @@ const texts = [
         pageRange: "41",
         year: 1987,
         monthAndDay: "April",
-        textProvided: false,
+        textProvided: "[Responding to a letter critical of Perelandra’s depiction of Weston:]<br/><br/>Dear Sir,<br/><br/>There may be something in what you say.<br/><br/>Yours sincerely,<br/>C.S. Lewis",
         type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
+        notes: null
     },
     {
         title: "Letter to John Christopher (date unknown)",
@@ -5080,9 +5080,9 @@ const texts = [
         pageRange: "41",
         year: 1987,
         monthAndDay: "April",
-        textProvided: false,
+        textProvided: "[Christopher had omitted his address, so Lewis sent his reply care of the Globe, a pub in Hatton Garden:]<br/><br/>What a fine Elizabethan thing it is, to address a man at his tavern.",
         type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
+        notes: null
     },
     {
         title: "Letter to Ruth Pitter (29 December 1951)",
@@ -5099,12 +5099,12 @@ const texts = [
         title: "Letter to “Franklin” (late 1940’s)",
         printedIn: "Patricia Batstone, <i>In Debt to C.S. Lewis</i> (Dunkeswell, Devon, UK: Cottage Books)",
         issueOrVolume: null,
-        pageRange: "52, 87-88",
+        pageRange: "52 and 87-88",
         year: 1999,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: "[{52} On being thanked for his books’ role in a conversion:]<br/><br/>Yours is at once the most beautiful and the most rational letter of this kind that I have received. I am almost alarmed by it–by the contrast between the sort of man I actually am and the sort of message I have in your case been used to transmit. However, I remember from the story of Balaam that even a donkey can be used for such purposes…<br/><br/>[{87-88} A passage from the same letter is re-quoted, but with a difference in <b>bold</b>:]<br/><br/>…the contrast between the sort of man I <b>admit I</b> am and the sort of message I have in your case {88} been used to transmit.",
         type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
+        notes: null
     },
     {
         title: "Letter to Owen Barfield (26 June 1929)",
@@ -5116,17 +5116,6 @@ const texts = [
         textProvided: "What do you think of the following alliterative lines—as metre: the matter is unintelligible out of its context (After that you are pretty well bound to find something in it?)",
         type: "Letter",
         notes: ["The note refers to Lewis’s poem “Artless and Ignorant.”"]
-    },
-    {
-        title: "Letters to three unidentified women (dates unknown)",
-        printedIn: "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press)",
-        issueOrVolume: null,
-        pageRange: "118",
-        year: 2004,
-        monthAndDay: null,
-        textProvided: false,
-        type: "Letter",
-        notes: ["If you have this text, please sent it to me!"]
     },
     {
         title: "Letter to Owen Barfield (c. 1930)",
