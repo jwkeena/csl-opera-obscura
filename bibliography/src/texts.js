@@ -2587,6 +2587,17 @@ const texts = [
         notes: ["The text is published here in its entirety, edited and with notes by Don King. Excerpts had been published in various other places, including:", "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979), 126-127, 128. Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses.", "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 59-60. Sayer summarizes the poem in three paragraphs, giving the occasional quote. This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-111.", "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 15 (1998), 37-54. This essay contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book.", "Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i> 23, no. 1 (Spring 1999), 3-15. Later republished as chapter 7 of Don. W. King, <i>Plain to the Inward Eye: Selected Essays on C.S. Lewis</i> (Abilene Christian University Press, 2011)", "Salwa Khoddam, “From Ruined City to Edenic Garden in C.S. Lewis’s The Magician’s Nephew,” in <i>Truths Breathed Through Silver: The Inklings’ Moral and Mythopoeic Legacy,</i> ed. Jonathan B. Himes, with Joe R. Christopher and Salwa Khoddam (Newcastle, UK: Cambridge Scholars Publishing, 2008), 27-50.", "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 69 and 77."]
     },
     {
+        title: "Notes on the nature of reason (Notebook V, Bodleian Dep.d.809)",
+        printedIn: "<i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 37",
+        pageRange: "87-90",
+        year: 2020,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["A single sentence of these notes was previously printed in Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press, 2012), 43."]
+    },
+    {
         title: "C.S. Lewis’ 1924 Tutorial Notes",
         printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
