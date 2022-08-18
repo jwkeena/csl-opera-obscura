@@ -152,7 +152,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "You sometimes hear people say, “Religion doesn’t appeal to me,” and I once knew a girl who said, “Religion’s all right provided it doesn’t go too far.” People who talk that way think religion is a thing like football or music which may suit some of us and not others, or which you may be interested in up to a point and no farther. The first step towards being grown up is to realize that this is balderdash.<br/><br/>Christianity isn’t a hobby, or even a patent medicine. It makes statements: God exists – man is broken – God became a man – that man can mend all other men – no one else can – those who are not mended go into the dustbin. If these statements are true, they concern everyone, and are of infinite importance. If they’re not, they concern nobody and are of no importance. Either zero – or infinity. Either this wire is not a live wire or else it carries a current of infinite voltage. Christianity can’t be moderately important.<br/><br/>The Christian God doesn’t want this or that from you: He wants you – all there is of you. It’s not  unreasonable that He should. He made you. He became a man to mend you (how would you like to become a cow for several years?). He keeps you alive from moment to moment. He gives you every minute of the time you call your own. You are, in fact, His property and He wants you. There are enemies about – His enemies and yours – who also want you. If you don’t belong to Him, you’ll belong to them. The war between them and Him is too hot for neutrals. If you try to be a neutral you’ll be invaded by the enemies. You must choose your side.<br/><br/>Some people can’t believe this because they say our Earth is such a small place in the universe that what happens on it couldn’t matter to God. But a small place may be very important in a war. (Stalingrad looks a small place on a map of the world.) That is why we ask you to put yourself wholly (every bit of you counts) and at once (every minute matters) on His side. Report for duty. Say your first prayer, wherever you happen to be, at once. Tell Him you want to join. I have never heard of anyone who seriously joined Him and regretted doing it, and very few of those who have not joined Him seem in the long run, to feel quite sure they’ve made the right choice. <br/><br/>There are lots of decent people who aren’t Christians of course, just as there are lots of decent people who take wrong trains. But it’s where you’re going to finish up that matters. The wrong train looks just as good as the right one, before it starts. Even after it’s started, it may go the same way as the right one for a considerable distance. But it lets you down in the end.",
         type: "Prose",
-        notes: ["Was published previously in the periodical <i>Think</i> (date unknown).", "Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
+        notes: ["Was published previously in the periodical <i>Think</i> (date unknown).", "Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
         title: "Blurb exclusive to US edition of <i>Perelandra</i>",
@@ -163,7 +163,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[The many devotees of Mr. Lewis’s books will be interested by the letter he wrote when asked for details about his life:]<br/><br/>I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded – by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs – or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         type: "Prose",
-        notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap.", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Revised and Expanded edition (London: HarperCollins, 2002), 170-171."]
+        notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap.", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Fully Revised & Expanded Edition (London: HarperCollins, 2002), 170-171."]
     },
     {
         title: "Comments and questions after a lecture by H.A. Hodges",
@@ -433,7 +433,7 @@ const texts = [
         title: "Prefatory note exclusive to 1<sup>st</sup> UK edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
-        pageRange: "1",
+        pageRange: "dust jacket front flap as well as page 1",
         year: 1956,
         monthAndDay: null,
         textProvided: "This re-interpretation of an old story has lived in the author’s mind, thickening and hardening with the years, ever since he was an undergraduate. That way, he could be said to have worked at it most of his life. Recently, what seemed to be the right form presented itself and themes suddenly interlocked: the straight tale of barbarism, the mind of an ugly woman, dark idolatry and pale enlightenment at war with each other and with vision, and the havoc which a vocation, or even a faith, works on human life.",
@@ -617,15 +617,15 @@ const texts = [
         notes: null
     },
     {
-        title: "“Note” on <i>Till We Have Faces</i>",
-        printedIn: "Time special paperback edition of <i>Till We Have Faces</i> (New York: Time) and Eerdmans paperback edition (Grand Rapids, MI: Eerdmans)",
+        title: "Ending “Note” exclusive to the 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
+        printedIn: "<i>Till We Have Faces</i> (New York: Harcourt, Brace and Company)",
         issueOrVolume: null,
-        pageRange: "[page range unknown] (Time); 311-313 (Grand Rapids: Eerdmans)",
-        year: 1966,
+        pageRange: "[page range unknown]",
+        year: 1957,
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["Previously only a portion of this “Note” was printed on the back cover of the UK edition (London: Geoffrey Bles, 1956).", "The “Note” is also printed in the Fount Paperbacks edition of <i>Till We Have Faces</i> (1978, 1998) as well as the Harvest edition by Harcourt (1980) and the Mariner Books edition by Houghton Mifflin Harcourt (2012).", "This text has not yet been transcribed. If you would like to do so, let me know."]
+        notes: ["Only the penultimate paragraph of this “Note” was printed on the back cover of the 1<sup>st</sup> UK edition dust jacket (London: Geoffrey Bles, 1956).", "The “Note” is  printed in full the Time special paperback edition (New York: Time, 1966), [page range unknown]; the Eerdmans paperback edition of the same year (Grand Rapids, MI: Eerdmans, 1966), 311-313; the Fount Paperbacks edition (1978, 1998), [page range unknown]; the Harvest edition by Harcourt (1980), 311-313; and the Mariner Books edition by Houghton Mifflin Harcourt (2012), 311-313", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         title: "Manuscripts on Spenser",
@@ -901,6 +901,17 @@ const texts = [
         textProvided: "...after my brother, my oldest and most intimate friend.",
         type: "Prose",
         notes: ["According to Hooper’s bibliographies (e.g., <i>C.S. Lewis at the Breakfast Table,</i> 280, item 166), there is a pen portrait of Arthur Greeves’ family on page 40; but in fact, the brief portrait (only a sentence fragment) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23.", "Both sources ultimately come from <i>LP</i> 3:305.", "There is another portrait on page 98, but this is an excerpt of a passage later published in full in <i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan, 1979), 24-26."]
+    },
+    {
+        title: "Draft of blurb for <i>Till We Have Faces</i>",
+        printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
+        issueOrVolume: null,
+        pageRange: "261",
+        year: 1974,
+        monthAndDay: null,
+        textProvided: "In one sense the author has worked on this book most of his life, for this re-interpretation of an old story (readers need not know which when they begin) had lived with him and pestered him to make it ever since he was an undergraduate. Suddenly, last Spring, the form presented itself. All came into focus: and had drawn into it many sympathies that had found no vehicle in earlier books–for the ugly woman, the barbarous idolater, the humane sceptic, and (above all) the friends and lovers of those who have a vocation or even a faith.",
+        type: "Prose",
+        notes: ["Reprinted in the 2002 Fully Revised & Expanded Edition, 355.", "This blurb accompanied Lewis’s letter to Jocelyn Gibb of 21 February 1956. It was rewritten and reorganized into the text that appears on the front flap of the dust jacket as well as page 1 of the 1<sup>st</sup> UK edition (but nowhere in the 1<sup>st</sup> US edition) of <i>Till We Have Faces</i> (London: Geoffrey Bles, 1956)."]
     },
     {
         title: "Annotations on Shakespeare",
@@ -2147,7 +2158,7 @@ const texts = [
     },
     {
         title: "“C.S. Lewis, interviewed by Wayland Young 19 January 1962”",
-        printedIn: "<i>Journal of Inklings Studies</i>",
+        printedIn: "<i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 1, no. 1",
         pageRange: "23-41",
         year: 2011,
@@ -2477,13 +2488,13 @@ const texts = [
         notes: null
     },
     {
-        title: "Manuscripts for books 1 and 2 of <i>Broadcast Talks</i>”",
+        title: "Manuscripts for books 1 and 2 of <i>Broadcast Talks</i>",
         printedIn: "Stephen Johnston, <i>Le Sense et la Vérité du Mythe</i> (Paris: L’Harmattan)",
         issueOrVolume: null,
         pageRange: "Annexe B (transcription)",
         year: 2017,
         monthAndDay: null,
-        textProvided: "[What follows are the texts of the four major paragraphs in the manuscripts as printed by Johnston that were omitted in <i>Broadcast Talks.</i> The first two of these were also printed in Walter Hooper’s <i>Companion and Guide.</i>]<br/><br/>[<i>Companion & Guide</i> 306-307 = Johnston 350-351; cut from <i>Broadcast Talks,</i> Part II, chapter I, 37. The cut paragraph would have been the first paragraph. Hooper also includes, or inserts, an extra word, given below in {braces}.]<br/><br/>It’s not because I’m anybody in particular that I’ve been asked to tell you what Christians believe. In fact, it’s just the opposite. They’ve asked me, first of all because I’m a layman and not a parson, and consequently it was thought I might understand the ordinary person’s point of view a bit better. Secondly, I think they asked me because it was known that I’d been an atheist for many years and only became a Christian quite fairly recently. They thought that would mean I’d be able to see the difficulties - able to remember what Christianity looks like from the outside. So you see, the long and short of it is that I’ve been selected for this job just because I’m an amateur not a professional, and a beginner, not an old hand. Of course, this means that you may well ask what right I have to talk on the subject at all. Well, when I’d finished the scripts, I sent them round to various people who <u>were</u> professionals: to one Church of England theologian, one Roman Catholic, one Presbyterian, and one Methodist. The Church of England man and the Presbyterian agreed with the whole thing. The Roman Catholic and the Methodist agreed in the main, but would have liked one or two places altered. So there you’ve got all the cards on the table. What I’m going to say isn’t <u>exactly</u> what all these people would say; but the greater part of it is what all Christians agree on. And the main reason why I couldn’t alter it so as to make them agree completely was that I’ve only got 15 minutes for each talk. That doesn’t give you time to make many subtle distinctions. You’ve got to go at it rather like a bull in a china shop or you won’t get through. One thing I can promise you. In spite of all {the} unfortunate differences between Christians, what they agree on is still something pretty big and pretty solid; big enough to blow any of us sky-high if it happens to be true. And if it’s true, it’s quite ridiculous to put off doing anything about it simply because Christians don’t fully agree among themselves. That’s as if a man bleeding to death refused medical assistance because he’d heard that some doctors differed about the treatment of cancer. For if Christianity is true at all, it’s as serious as that. Well, here goes.<br/><br/>[<i>Companion & Guide</i> 308 = Johnston 361; cut from <i>Broadcast Talks,</i> Part II, chapter III, 51. The cut paragraph would have come midway through the final paragraph, right after “...or the Devil of Hell.”]<br/><br/>Of course you can take the line of saying He didn’t say these things, but His followers invented them. but that’s only shifting the difficulty. They were Jews too: the last people who would invent such a thing, the people who had never said anything of the sort about Moses or Elijah. That theory only saddles you with twelve inexplicable lunatics instead of one. We can’t get out of it that way. <br/><br/>[Johnston 344, cut from <i>Broadcast Talks,</i> Part I, chapter IV, 23. The cut paragraph was replaced by the first sentence of the chapter as printed.]<br/><br/>I must begin by apologizing for my voice. Since we last met I’ve managed to catch an absolute snorter of a cold. So if you hear this talk wildly interrupted tonight by a loud crash you needn’t jump to any rash conclusions. It’ll be probably only be me sneezing or coughing. Well the point I got to last week was this.<br/><br/>[Johnston 359, cut from <i>Broadcast Talks,</i> Part II, chapter III, 47. This passage would have come in the third paragraph, after the sentence ending “...hardly be worth creating.”]<br/><br/>Some people don’t see this because they haven’t tried to imagine a world without free will. Just imagine someone you’re fond of–your wife or your daughter–meeting you, and being nice to you, and then imagine that you knew all the time that every look, and word, and laugh was just as much out of her control as the weather–that she couldn’t possibly do otherwise–that it all <u>meant</u> nothing. Imagine a world in which a man who jumped in to save your life when you were drowning was no more to be thanked than a man who had accidentally fallen in after you, because neither of them had the slightest choice in the matter! Imagine a world in which it made no difference whether you knew what your son had been doing today because he told you the truth or because you’d set a private detective to watch him–since in either case his will would have had nothing to do with it. A world in which you couldn’t even feel pleased when you’d made a good stroke at golf because your efforts had had nothing to do with it and you were <u>bound</u> to hit the ball right. In fact that’s a good example. In the real world we distinguish good strokes from flukes. In a world without freedom, everything would be a fluke. Don’t you see it would be a nightmare? A world without love, without thanks, without friends, even without amusements. I think after a week of that world you’d be very glad to get back to the real one, with all its wars and wickedness and suffering. At any rate there’s no doubt which world God has chosen to make.",
+        textProvided: "[What follows are the texts of the four major paragraphs in the manuscripts as printed by Johnston that were omitted in <i>Broadcast Talks.</i> The first two of these were also printed in Walter Hooper’s <i>Companion and Guide.</i>]<br/><br/>[<i>Companion & Guide</i> 306-307 = Johnston 350-351; cut from <i>Broadcast Talks,</i> Part II, chapter I, 37. The cut paragraph would have been the first paragraph. Hooper also includes, or inserts, an extra word, given below in {braces}.]<br/><br/>It’s not because I’m anybody in particular that I’ve been asked to tell you what Christians believe. In fact, it’s just the opposite. They’ve asked me, first of all because I’m a layman and not a parson, and consequently it was thought I might understand the ordinary person’s point of view a bit better. Secondly, I think they asked me because it was known that I’d been an atheist for many years and only became a Christian quite fairly recently. They thought that would mean I’d be able to see the difficulties - able to remember what Christianity looks like from the outside. So you see, the long and short of it is that I’ve been selected for this job just because I’m an amateur not a professional, and a beginner, not an old hand. Of course, this means that you may well ask what right I have to talk on the subject at all. Well, when I’d finished the scripts, I sent them round to various people who <u>were</u> professionals: to one Church of England theologian, one Roman Catholic, one Presbyterian, and one Methodist. The Church of England man and the Presbyterian agreed with the whole thing. The Roman Catholic and the Methodist agreed in the main, but would have liked one or two places altered. So there you’ve got all the cards on the table. What I’m going to say isn’t <u>exactly</u> what all these people would say; but the greater part of it is what all Christians agree on. And the main reason why I couldn’t alter it so as to make them agree completely was that I’ve only got 15 minutes for each talk. That doesn’t give you time to make many subtle distinctions. You’ve got to go at it rather like a bull in a china shop or you won’t get through. One thing I can promise you. In spite of all {the} unfortunate differences between Christians, what they agree on is still something pretty big and pretty solid; big enough to blow any of us sky-high if it happens to be true. And if it’s true, it’s quite ridiculous to put off doing anything about it simply because Christians don’t fully agree among themselves. That’s as if a man bleeding to death refused medical assistance because he’d heard that some doctors differed about the treatment of cancer. For if Christianity is true at all, it’s as serious as that. Well, here goes.<br/><br/>[<i>Companion & Guide</i> 308 = Johnston 361; cut from <i>Broadcast Talks,</i> Part II, chapter III, 51. The cut paragraph would have come midway through the final paragraph, right after “...or the Devil of Hell.”]<br/><br/>Of course you can take the line of saying He didn’t say these things, but His followers invented them. But that’s only shifting the difficulty. They were Jews too: the last people who would invent such a thing, the people who had never said anything of the sort about Moses or Elijah. That theory only saddles you with twelve inexplicable lunatics instead of one. We can’t get out of it that way. <br/><br/>[Johnston 344, cut from <i>Broadcast Talks,</i> Part I, chapter IV, 23. The cut paragraph was replaced by the first sentence of the chapter as printed.]<br/><br/>I must begin by apologizing for my voice. Since we last met I’ve managed to catch an absolute snorter of a cold. So if you hear this talk wildly interrupted tonight by a loud crash you needn’t jump to any rash conclusions. It’ll be probably only be me sneezing or coughing. Well the point I got to last week was this.<br/><br/>[Johnston 359, cut from <i>Broadcast Talks,</i> Part II, chapter III, 47. This passage would have come in the third paragraph, after the sentence ending “...hardly be worth creating.”]<br/><br/>Some people don’t see this because they haven’t tried to imagine a world without free will. Just imagine someone you’re fond of–your wife or your daughter–meeting you, and being nice to you, and then imagine that you knew all the time that every look, and word, and laugh was just as much out of her control as the weather–that she couldn’t possibly do otherwise–that it all <u>meant</u> nothing. Imagine a world in which a man who jumped in to save your life when you were drowning was no more to be thanked than a man who had accidentally fallen in after you, because neither of them had the slightest choice in the matter! Imagine a world in which it made no difference whether you knew what your son had been doing today because he told you the truth or because you’d set a private detective to watch him–since in either case his will would have had nothing to do with it. A world in which you couldn’t even feel pleased when you’d made a good stroke at golf because your efforts had had nothing to do with it and you were <u>bound</u> to hit the ball right. In fact that’s a good example. In the real world we distinguish good strokes from flukes. In a world without freedom, everything would be a fluke. Don’t you see it would be a nightmare? A world without love, without thanks, without friends, even without amusements. I think after a week of that world you’d be very glad to get back to the real one, with all its wars and wickedness and suffering. At any rate there’s no doubt which world God has chosen to make.",
         type: "Prose",
         notes: null
     },
@@ -2638,6 +2649,28 @@ const texts = [
         year: 2021,
         monthAndDay: null,
         textProvided: "In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Comments on A.C. Spearing’s essay “The Translation of Old English Verse”",
+        printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 12, no. 1",
+        pageRange: "111",
+        year: 2022,
+        monthAndDay: "April",
+        textProvided: "[In the essay Lewis praised Spearing’s admission that he would certainly have made errors in his specimen verse translations as]<br/><br/>a strong piece of writing.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Comments on A.C. Spearing’s dissertation draft chapter on <i>Piers Plowman</i>",
+        printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 12, no. 1",
+        pageRange: "115",
+        year: 2022,
+        monthAndDay: "April",
+        textProvided: "[In the chapter Spearing had disputed Lewis’s description in <i>The Allegory of Love</i> as “A poem in every way unsuitable for recitation.”]<br/><br/>Yes, I was wrong to say “every way”: “in many ways, tho’ not stylistically” wd. have been truer.",
         type: "Prose",
         notes: null
     },
@@ -3217,7 +3250,7 @@ const texts = [
     },
     {
         title: "Letter to Owen Barfield (5 July 1949)",
-        printedIn: "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” <i>Journal of Inklings Studies</i>",
+        printedIn: "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 5, no. 1",
         pageRange: "20-21",
         year: 2015,
@@ -3327,7 +3360,7 @@ const texts = [
     },
     {
         title: "Letter to Alan Fairhurst (6 September 1959)",
-        printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>Journal of Inklings Studies</i>",
+        printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 7, no. 2",
         pageRange: "91",
         year: 2017,
@@ -3338,7 +3371,7 @@ const texts = [
     },
     {
         title: "Letter to Alan Fairhurst (9 September 1959)",
-        printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>Journal of Inklings Studies</i>",
+        printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 7, no. 2",
         pageRange: "92",
         year: 2017,
@@ -4532,7 +4565,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "Cambridge is charming. No Lord Nuffield (drat the man!) has come to turn it into a huge industrial city, and one can still feel the county-town under the academic surface. In that way it is more like what Oxford was in my young days.",
         type: "Letter",
-        notes: ["This letter was deleted from the Revised and Expanded edition (2002) of this <i>Biography</i>."]
+        notes: ["This letter was deleted from the 2002 Fully Revised & Expanded Edition of this <i>Biography</i>."]
     },
     {
         title: "Letter to Sister Penelope (18 June 1956)",
@@ -5064,7 +5097,7 @@ const texts = [
     },
     {
         title: "Letter to J.B. Phillips (c. 1956)",
-        printedIn: "J.B. Phillips, <i>The Price of Success</i> (London: Collins; Wheaton: Harold Shaw)",
+        printedIn: "J.B. Phillips, <i>The Price of Success</i> (London: Hodder & Stoughton; Wheaton: Harold Shaw)",
         issueOrVolume: null,
         pageRange: "172",
         year: 1984,
@@ -5480,6 +5513,39 @@ const texts = [
         type: "Letter",
         notes: null
     },
+    {
+        title: "Letter to A.C. Spearing (6 November 1957)",
+        printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 12, no. 1",
+        pageRange: "111",
+        year: 2022,
+        monthAndDay: "April",
+        textProvided: "Dear Mr Spearing, I gather I have been inflicted on you as a “supervisor”, so I suppose we ought to meet. Wd. next Friday at 12. suit you? Don’t bother replying if it would, yours sincerely C.S. Lewis",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Letter to A.C. Spearing (undated)",
+        printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 12, no. 1",
+        pageRange: "115",
+        year: 2022,
+        monthAndDay: "April",
+        textProvided: "[Lewis asked to discuss a matter in one of Spearing’s papers further in person:]<br/><br/>Dear Spearing…Most interesting, and an interpretation (whether one finally agrees with it or not) certainly worth powder and shot.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Letter to A.C. Spearing (undated, c. 1960)",
+        printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 12, no. 1",
+        pageRange: "116",
+        year: 2022,
+        monthAndDay: "April",
+        textProvided: "[Spearing had asked Lewis to comment on his essay about Robert Henryson’s <i>Testament of Cresseid</i>. The letter begins with a reference to <i>The Tempest</i>, Act III, Scene 2:]<br/><br/>“He’s a fool without his Book,” said Caliban, and you catch me here without most of mine.",
+        type: "Prose",
+        notes: null
+    },
     // POEMS
     {
         title: "“The Sunrise”",
@@ -5512,7 +5578,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "The floating islands, the flat golden sky<br/>At noon, the peacock sunset: tepid waves<br/>With the land sliding over them like a skin:<br/> The alien Eve, green-bodied, stepping forth<br/>To meet my hero from her forest home,<br/>Proud, courteous, unafraid; no thought infirm<br/>Alters her cheek —",
         type: "Poem",
-        notes: ["This verse fragment appears to be the idea for <i>Perelandra.</i> Its metre is blank verse, the same as Milton’s <i>Paradise Lost</i>.", "Reprinted in Revised and Expanded edition (2002), 202."]
+        notes: ["This verse fragment appears to be the idea for <i>Perelandra.</i> Its metre is blank verse, the same as Milton’s <i>Paradise Lost</i>.", "Reprinted in the 2002 Fully Revised & Expanded Edition on 202."]
     },
     {
         title: "“Two at the Table”",
