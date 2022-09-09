@@ -2555,7 +2555,7 @@ const texts = [
     },
     {
         title: "Unused blurb for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "13 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         year: 2019,
@@ -2566,7 +2566,7 @@ const texts = [
     },
     {
         title: "Note on intended age range of readership for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "15 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         year: 2019,
@@ -2577,7 +2577,7 @@ const texts = [
     },
     {
         title: "Note on presentation notices for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "15 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         year: 2019,
@@ -5251,7 +5251,7 @@ const texts = [
     },
     {
         title: "Letter to Robert Chapman (18 September 1935)",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
@@ -5262,7 +5262,7 @@ const texts = [
     },
     {
         title: "Letter to John Mulgan (19 March 1936)",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
@@ -5273,7 +5273,7 @@ const texts = [
     },
     {
         title: "Letter to John Mulgan (4 April 1936)",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
@@ -5284,7 +5284,7 @@ const texts = [
     },
     {
         title: "Letter to Daniel Davin (7 June 1954)",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
@@ -5295,7 +5295,7 @@ const texts = [
     },
     {
         title: "Letter to Daniel Davin (August 1958)",
-        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires ud livre / Studies in Book Culture</i>",
+        printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
@@ -5691,13 +5691,13 @@ const texts = [
         notes: null
     },
     {
-        title: "“Poiema De XVI Animalibus Arcam Noe Introantibus”",
+        title: "“Poema De XVI Animalibus Arcam Noe Introantibus”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
         pageRange: "53 (holograph) and 54 (translation)",
         year: 2007,
         monthAndDay: null,
-        textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POIEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br/><br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>[“Owen Barfield and Clive Hamilton Made These” <br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark. <br/<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress, <br/>Rhinoceros with “rhinoceress” came: <br/>Also silly little mouse with silly Mrs. Mouse, <br/>Tomcat with she-cat, lion with lioness.]",
+        textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br/><br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>[“Owen Barfield and Clive Hamilton Made These” <br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark. <br/<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress, <br/>Rhinoceros with “rhinoceress” came: <br/>Also silly little mouse with silly Mrs. Mouse, <br/>Tomcat with she-cat, lion with lioness.]",
         type: "Poem",
         notes: ["This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, “The mountains are in labor, and then out comes a silly little mouse”—a satirical comment on the spectacular effort of the writer for little result."]
     },
