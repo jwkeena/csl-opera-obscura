@@ -298,7 +298,7 @@ const texts = [
         notes: ["This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
-        title: "Portion of blurb for <i>Essays Presented to Charles Williams</i>",
+        title: "Blurb for <i>Essays Presented to Charles Williams</i>",
         printedIn: "<i>Essays Presented to Charles Williams,</i> ed. C.S. Lewis (Oxford: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "dust jacket",
