@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/csl-opera-obscura/static/css/main.b844b49e.chunk.css",
-    "main.js": "/csl-opera-obscura/static/js/main.aab9209d.chunk.js",
-    "main.js.map": "/csl-opera-obscura/static/js/main.aab9209d.chunk.js.map",
+    "main.js": "/csl-opera-obscura/static/js/main.f1669574.chunk.js",
+    "main.js.map": "/csl-opera-obscura/static/js/main.f1669574.chunk.js.map",
     "runtime-main.js": "/csl-opera-obscura/static/js/runtime-main.0380b9ae.js",
     "runtime-main.js.map": "/csl-opera-obscura/static/js/runtime-main.0380b9ae.js.map",
     "static/js/2.fabdfe80.chunk.js": "/csl-opera-obscura/static/js/2.fabdfe80.chunk.js",
     "static/js/2.fabdfe80.chunk.js.map": "/csl-opera-obscura/static/js/2.fabdfe80.chunk.js.map",
     "index.html": "/csl-opera-obscura/index.html",
-    "precache-manifest.a3f87855cddf993be7b7f4fee7afb40f.js": "/csl-opera-obscura/precache-manifest.a3f87855cddf993be7b7f4fee7afb40f.js",
+    "precache-manifest.2d5934478fb46d9c69ee066d6851afc7.js": "/csl-opera-obscura/precache-manifest.2d5934478fb46d9c69ee066d6851afc7.js",
     "service-worker.js": "/csl-opera-obscura/service-worker.js",
     "static/css/main.b844b49e.chunk.css.map": "/csl-opera-obscura/static/css/main.b844b49e.chunk.css.map",
     "static/js/2.fabdfe80.chunk.js.LICENSE.txt": "/csl-opera-obscura/static/js/2.fabdfe80.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0380b9ae.js",
     "static/js/2.fabdfe80.chunk.js",
     "static/css/main.b844b49e.chunk.css",
-    "static/js/main.aab9209d.chunk.js"
+    "static/js/main.f1669574.chunk.js"
   ]
 }
