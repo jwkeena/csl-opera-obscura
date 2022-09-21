@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b928a880b9eee3a00fffd5c4e8a15374",
+    "revision": "a0396c2c7ae5380afb344c2065cbd1bc",
     "url": "/csl-opera-obscura/index.html"
   },
   {
-    "revision": "d16e7ddb76d884ba3646",
+    "revision": "0fb0ed237dd6c825b9e7",
     "url": "/csl-opera-obscura/static/css/main.b844b49e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csl-opera-obscura/static/js/2.fabdfe80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d16e7ddb76d884ba3646",
-    "url": "/csl-opera-obscura/static/js/main.63fdc7db.chunk.js"
+    "revision": "0fb0ed237dd6c825b9e7",
+    "url": "/csl-opera-obscura/static/js/main.aab9209d.chunk.js"
   },
   {
     "revision": "f24c559c91d0bb77cad2",
