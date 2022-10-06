@@ -1794,15 +1794,15 @@ const texts = [
         notes: null
     },
     {
-        title: "Notes for <i>Beyond Personality</i> (<i>verso</i> of burned manuscript of <i>Christian Behaviour</i>)",
+        title: "Notes for <i>Beyond Personality</i> on <i>verso</i> of burned manuscript of <i>Christian Behaviour</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "89 (holographs) and 90 (transcription)",
         year: 2006,
         monthAndDay: null,
-        textProvided: "Have passed from Atheism to Xnity - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master - dog: father - son: man - woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
+        textProvided: "Have passed from Atheism to Xty - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master - dog: father - son: man - woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
         type: "Prose",
-        notes: null
+        notes: ["Reprinted in Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 36-37. They make one emendation in line one, changing “Xnity” to “Xty.”"]
     },
     {
         title: "Inscription to Owen Barfield on a 1<sup>st</sup> UK edition of <i>The Problem of Pain</i>",
@@ -2422,17 +2422,6 @@ const texts = [
         notes: ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’s drawings on 127-129).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnotes, 145-169."]
     },
     {
-        title: "Summary of broadcast lecture “The Norse Spirit in English Literature”",
-        printedIn: "Harry Lee Poe, “C.S. Lewis was a Secret Government Agent,” <i>Christianity Today,</i>",
-        issueOrVolume: null,
-        pageRange: "<a href='https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html' target='_blank' rel='noopener noreferrer' class='link-to-text'>online only</a>",
-        year: 2015,
-        monthAndDay: "10 December",
-        textProvided: "https://www.christianitytoday.com/ct/2015/december-web-only/cs-lewis-secret-agent.html",
-        type: "Prose",
-        notes: ["Some of this essay has been quoted in Suzanne Bray, “‘The Exact Programme a Particular Country Wishes to Have’: C.S. Lewis’s Literary Broadcast for Iceland,” <i>Sehnsucht,</i> vol. 10 (2016), 21-32."]
-    },
-    {
         title: "“Letters to Malcolm: Letter XIIa”",
         printedIn: "“Letters to Malcolm: Letter XIIa,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 34",
@@ -2627,6 +2616,28 @@ const texts = [
         year: 2021,
         monthAndDay: null,
         textProvided: "In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Manuscript draft of “Learning in War-Time”",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S> Lewis Journal</i>Sehnsucht",
+        issueOrVolume: "vol. 15",
+        pageRange: "22-33 <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["Many, but not all, changes or deletions from the published version are marked in footnotes."]
+    },
+    {
+        title: "Notes on John Dryden’s poetry (c. 1934-1939)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S> Lewis Journal</i>Sehnsucht",
+        issueOrVolume: "vol. 15",
+        pageRange: "44 <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Had Chaucer liv’d that angel face to view<br/>(<u>To the Duchess of Ormond</u> - introductory verses<br/>To <u>Palamon & Arcite</u>)<br/><br/>Let not th’ insulting foe my fame pursue<br/>(Ep 10. <u>To Mr. Congreve<u/>)<br/><br/>Since the pleasure of seeing you I<br/>have missed my Arden <u>Rich III</u>",
         type: "Prose",
         notes: null
     },
@@ -3090,7 +3101,7 @@ const texts = [
         pageRange: "94",
         year: 1960,
         monthAndDay: null,
-        textProvided: "You make your point against me alright… ‘read’ was a quite inadequate verb. I think your terminology … works out well … Where I differ from you (but that’s not the point) is that I don’t think our late medieval verse comes out of it <i>better</i> after your terminology than after any other! ‘Different special cases of Exigency and Secondary Exigencies in different lines of the same piece’ still mean, in my language, irregularity of metre. I don’t think they were ‘probing,’ I think they were floundering. But that is a question of taste. … I hope you’ll print it.",
+        textProvided: "[Lewis responds to a draft of Manzalaoui’s essay, in which he had criticized some of Lewis’s points in “The Fifteenth Century Heroic Line”:]<br/><br/>You make your point against me alright… ‘read’ was a quite inadequate verb. I think your terminology … works out well … Where I differ from you (but that’s not the point) is that I don’t think our late medieval verse comes out of it <i>better</i> after your terminology than after any other! ‘Different special cases of Exigency and Secondary Exigencies in different lines of the same piece’ still mean, in my language, irregularity of metre. I don’t think they were ‘probing,’ I think they were floundering. But that is a question of taste. … I hope you’ll print it.",
         type: "Letter",
         notes: null
     },
@@ -5113,7 +5124,7 @@ const texts = [
         pageRange: "41",
         year: 1987,
         monthAndDay: "April",
-        textProvided: "[Responding to a letter critical of Perelandra’s depiction of Weston:]<br/><br/>Dear Sir,<br/><br/>There may be something in what you say.<br/><br/>Yours sincerely,<br/>C.S. Lewis",
+        textProvided: "[Responding to a letter critical of <i>Perelandra’s</i> depiction of Weston:]<br/><br/>Dear Sir,<br/><br/>There may be something in what you say.<br/><br/>Yours sincerely,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5479,6 +5490,28 @@ const texts = [
         textProvided: "As from Magdalen.<br/>April 13th. 1944<br/><br/>My dear Derek – I hardly like to imagine what you are thinking of me by now! If you were a woman you would have devised a world of sinister reasons for my silence: being a man you have probably simply dismissed me as a problem neither soluble nor worth solving. In actual fact, I have not forgotten you. I pray for your son twice a week and the name Derek has given my conscience a kick every time: but with domestic upsets, B.B.C. talks, a mysterious sore arm, a threatened operation (the surgeon ran away in the end, I didn’t) I have just put it off from day to day. The truth is that the increasing daily correspondence with all manner of total strangers, many of them lunatic, makes me sicken at the sight of a pen. It will cost me all my own friends eventually I fear. I live like a schoolboy doing an infinite imposition. It’s always <i>lines</i> for me – drat ’em. Fame is <i>not</i> dust and ashes as the moralists say. If it were a shovel and a vacuum cleaner wd. put it right. It’s lines. Even so, I admit, I confess, <i>mea maxima culpa,</i> I might at least have acknowledged the really exuberant and festive Christmas picture you sent. That’s the great thing about your drawings, you know you can make paper shout – even yell. You can set the room rocking to the chorus. And now for business. Cd. you come over and spend the night on Mon. May 1st – dinner 7.15? Then I shall know you’ve forgiven me, and we can discuss the VII Deadly Sins (I can’t promise you facilities for practising them all but I’ll do my best),<br/><br/>yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
+    },
+    {
+        title: "Letter to Roger Sharrock (17 June 1953)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "39 <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Vobis parta quies. Gratulamur.<br/><br/>C. S. L.",
+        type: "Letter",
+        notes: ["Previously published in <i>CL</i> 3:1348, but with the final initials accidentally omitted."]
+    },
+    {
+        title: "Letter to unknown correspondent (c. 1926)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "42 <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "7<br/><br/>lower level, as a pleasant “sentimental journey” I like it very well. The part about Sicily is really very jolly: and I like your monk with whom you had the drink. I should think it will be very successful: without prejudice to a severer work on the same subject later on. I will leave the galleys in my rooms in Magdalen and you can fetch them thence if I am out. Come up here and see me some afternoon. With many thanks<br/><br/>Yours<br/>C.S. Lewis",
+        type: "Letter",
+        notes: ["Only the final page survives, numbered “7.”"]
     },
     {
         title: "Letter to Joan Bennett (23 November 1954)",
