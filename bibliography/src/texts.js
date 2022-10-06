@@ -2637,7 +2637,7 @@ const texts = [
         pageRange: "44 <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>and online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Had Chaucer liv’d that angel face to view<br/>(<u>To the Duchess of Ormond</u> - introductory verses<br/>To <u>Palamon & Arcite</u>)<br/><br/>Let not th’ insulting foe my fame pursue<br/>(Ep 10. <u>To Mr. Congreve<u/>)<br/><br/>Since the pleasure of seeing you I<br/>have missed my Arden <u>Rich III</u>",
+        textProvided: "Had Chaucer liv’d that angel face to view<br/>(<u>To the Duchess of Ormond</u> - introductory verses<br/>To <u>Palamon & Arcite</u>)<br/><br/>Let not th’ insulting foe my fame pursue<br/>(Ep 10. <u>To Mr. Congreve</u>)<br/><br/>Since the pleasure of seeing you I<br/>have missed my Arden <u>Rich III</u>",
         type: "Prose",
         notes: null
     },
