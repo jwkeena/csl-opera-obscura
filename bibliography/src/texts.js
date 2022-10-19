@@ -5721,18 +5721,18 @@ const texts = [
         monthAndDay: null,
         textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br/><br/>I. POEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br/><br/>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br/>Rhinoceros tum cum rhinocerote venit:<br/>Neanon ridicula cum mure it ridiculus mus<br/>Tum tom-felis cum fele, leone leo.<br/><br/>[“Owen Barfield and Clive Hamilton Made These” <br/><br/>I. Poem About Sixteen Animals Entering Noah’s Ark. <br/<br/>Bull with cow, boar with pig, crane with crane, tiger with tigress, <br/>Rhinoceros with “rhinoceress” came: <br/>Also silly little mouse with silly Mrs. Mouse, <br/>Tomcat with she-cat, lion with lioness.]",
         type: "Poem",
-        notes: ["This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, “The mountains are in labor, and then out comes a silly little mouse”—a satirical comment on the spectacular effort of the writer for little result."]
+        notes: ["Co-authored with Owen Barfield.", "Note by Ken Hodgkinson, the translator: “This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, ‘The mountains are in labor, and then out comes a silly little mouse’—a satirical comment on the spectacular effort of the writer for little result.”"]
     },
     {
         title: "“ΠΕΡΙ ΣΤΕΦΑΝΟΥ”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
-        pageRange: "53-54 (holographs) and 54-55 (translation)",
+        pageRange: "53-54 (holographs); translation with commentary <a href='https://docs.google.com/document/u/0/d/1oKOi-1UN3AJH-FqZEl-Ldob69hQDaA0fOVb_5FB_jh8/edit' target='_blank' rel='noopener noreferrer' class='link-to-text'>available here</a>",
         year: 2007,
         monthAndDay: null,
-        textProvided: "ΙΙ. ΠΕΡΙ ΣΤΕΦΑΝΟΥ<br/><br/>Ἂχιος ἢν Στεφανὸς βασιλεὺς μέγα κῦδος Ἀχαίων<br/>Ἢδ' ισοστεφάνους βράκας ἐπιείμενος ἄει <br/>Καὶ δὴ φώνησας ἔπεα πτερόεντα πρόσηυδα<br/>Ὠ πόποι ἤ μέγα θωῦμα τὸδ ὀφθάλμοισιν ὁρῶμαι·<br/> Ὦνον μοὶ δεκτημορίῳ κὴρ λύγρον ἔθηκε<br/>Λίην, ἢδε τομεὺς, κυναλωπηξ ἤματα πᾶντα (1)<br/> ------------------------------<br/>(1) ναε, μῆδε ἴδοι τομέως τις κύντερον ἄλλο.<br/><br/>[II. About Stephen <br/><br/>Worthy was King Stephen, great glory of the Achaeans <br/>{55} and always clad in trousers Stephen-like. <br/>And speaking he uttered winged words: <br/>Oh dear, great wonder I see with my eyes. <br/><br/>The last two lines and the note in Greek (not translated) appear to refer to some in-joke.]",
+        textProvided: "ΙΙ ΠΕΡΙ ΣΤΕΦΑΝΟΥ<br/><br/>Ἂχιος ἢν Στεφανὸς βασιλεὺς μέγα κῦδος Ἀχαίων<br/>Ἢδ' ισοστεφάνους βράκας ἐπιείμενος ἄει <br/>Καὶ δὴ φώνησας ἔπεα πτερόεντα πρόσηυδα<br/>Ὠ πόποι ἤ μέγα θωῦμα τὸδ ὀφθάλμοισιν ὁρῶμαι·<br/> Ὦνον μοὶ δεκτημορίῳ κὴρ λύγρον ἔθηκε<br/>Λίην, ἢδε τομεὺς, κυναλωπηξ ἤματα πᾶντα (1)<br/> ——————————————————————<br/>(1) <i>vet.</i> μῆδε ἴδοι τομέως τις κύντερον ἄλλο.<br/><br/>[II ON STEPHEN <br/><br/>Worthy was King Stephen, great glory of the Achaians,<br/>Always clad in breeches equal to a crown.<br/>And speaking he uttered winged words:<br/>“Alas, this great wonder I see with my eyes:<br/>Fate set a hateful purchase-price to me, by ten percent<br/>Too much, and the tailor, a scoundrel all his days1<br/>——————————————————————<br/>1 vat. May nobody see a thing more horrible than a tailor.]",
         type: "Poem",
-        notes: null
+        notes: ["Co-authored with Owen Barfield."]
     },
     {
         title: "“To a Friend” (draft)",
@@ -5765,7 +5765,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "A is the Absolute, none can express it<br/>The Absolute! Gentlemen (fill up) God bless it.<br/><br/>M is the Many, the mortal, the body,<br/>The formless, the female, the thoroughly shoddy<br/><br/>P is for Plato who thought that ideas<br/>Were snobs who wd. only leave rinds on their peers<br/><br/>We’ve done as far as P, so let your higher thought illuminate Q-Z.",
         type: "Poem",
-        notes: null
+        notes: ["Co-authored with Owen Barfield."]
     },
     {
         title: "“Poema Historiale”",
