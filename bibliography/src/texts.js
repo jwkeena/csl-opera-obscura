@@ -4326,7 +4326,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. by Walter Hooper (London: Fount Paperbacks, 1988), 415."]
     },
     {
-        title: "Letter to “Mrs. Lockley” from Magdalen College (8 January 1952) ",
+        title: "Letter to “Mrs. Lockley” (8 January 1952) ",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
         pageRange: "236-237",
@@ -5523,6 +5523,116 @@ const texts = [
         textProvided: "7<br/><br/>lower level, as a pleasant “sentimental journey” I like it very well. The part about Sicily is really very jolly: and I like your monk with whom you had the drink. I should think it will be very successful: without prejudice to a severer work on the same subject later on. I will leave the galleys in my rooms in Magdalen and you can fetch them thence if I am out. Come up here and see me some afternoon. With many thanks<br/><br/>Yours<br/>C.S. Lewis",
         type: "Letter",
         notes: ["Only the final page survives, numbered “7.”"]
+    },
+    {
+        title: "Letter to Mr. Symonds (10 March 1942)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "46 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Magdalen College, Oxford, <br/>March 10th 1942<br/><br/>Dear Mr. Symonds – Thanks for v. kind letter and review wh. I return. I’ll tip the publishers the wink about sending a review copy to the <i>Herald</i>[.] The <i>Pilgrim’s Regress</i> was blitzed in a warehouse and is unobtainable. The Silent Planet book (Lane) ought to be alright: but you, living in publishing circles, are as likely to know as I am! The Regress as the name suggests is a sort of Bunyan up to date with Psychoanalysis replacing Giant Despair and Commu­nists, Fascists instead of Vanity Fair. The other one is about a journey to Mars – an attempt to claim for Xtian imagination a field in fiction wh. has been collared by the worst type of pseudo scientific materialists.<br/><br/>You do me proud in the review. I suppose it wd. hardly do in the Herald to add “and Luther” after “St. Thos. More”! But it was a real point in a book by an Anglican, dedicated to a Papist, to have another Papist and an extreme Protestant giving unanimous testimony on [the] title page. I thought your selection of quotations v. judicious. By the bye are there any “satirical references to the church” in my book?<br/><br/>Yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to J. Hutchinson (20 October 1942)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "47 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Magdalen College, Oxford, <br/>Oct 20th 1942<br/><br/>Dear Madam – You ask me a question I am ill qualified to answer. The Greeks distin­guished the wise man (he who by intelligence discerns timeless truths) from the prudent man (he who knows by tact, skill, and experience how to adapt principles to particular circumstances). I’m neither: but I’m much nearer to wisdom than to prudence. You are prob. much better able to instruct me in that direction than I you. What I think, however, I will now say. The first thing is to acquiesce <i>whole heartedly</i> in the rights of these people not to be visited or talked to if they don’t want. An Englishman’s house is his castle. These people feel that we are hunters and they our prey: and there is a real danger of our wanting too in­temperately to achieve their good by overriding their free will. The second thing, I suppose, is intensive prayer. <br/><br/>After these two I’m afraid I think the only thing to do is to watch in patience for any oppor­tunities that may occur. I know it sounds feeble: but I am inclined to think that a ces­sation of all overt attempts to “get at them” is the best thing. We all hate the feeling of being “got at” (how wd. you and I like continual solicitations from a Mohammedan mis­sionary?) and the harder you try the more their resistance will stiffen. <br/><br/>That is how I think. But I’m very likely wrong. Your own tact and experience will prob­ably be a much better guide,<br/><br/>yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Cecil Harwood (13 March 1944)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "48 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Thanks for letter tho’ I fear your most judicious remarks are entombed in the myste­ries of your handwriting. Now when can you come and spend a week-night in April? Days that won’t do are 2nd 3rd 8<sup>th</sup> 17<sup>th</sup> 18<sup>th</sup> 26<sup>th</sup> 28<sup>th</sup>.<br/><br/>‘Even Steiner,’ addressed to people who wd. take the orthodox scientific view means of course ‘And (what you wd. think less likely) Steiner’.<br/><br/>Love to all<br/>C. S. L.",
+        type: "Letter",
+        notes: ["Written on the back of a small gray postcard, addressed on the front side by Lewis."]
+    },
+    {
+        title: "Letter to Mr. Naylor (31 December 1945)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "49 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "REF.529/I/45.<br/>Magdalen College, Oxford.<br/>31st. December 1945.<br/><br/>Dear Mr. Naylor,<br/><br/>It is not you who owe me an apology. It is the reviewer who owes it to you at least as much as to me. If he had even said “we are told” or “it has been said”… but no, “Mr. L. has decided”. Do, for his own sake, thrash this penny-a-line omniscience out of him. But much may be forgiven to a man who was bred in the London School of Economics: a vile sink I suspect. The book you can’t get, the predecessor of Perelandra, is called “Out of the Silent Planet”. I fancy my publisher expects the American Macmillan’s to keep Toronto supplied, but will forward your remarks to him.<br/><br/>yours sincerely,<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Sarah Neylan (19 January 1952)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "50 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Ref.52/52.<br/>Magdalen College, Oxford.<br/>19th. January 1952.<br/><br/>My dear Sarah,<br/><br/>Never “feel dreadful” about not writing: I’m a very bad correspondent myself, and can sympathize. One wants <i>She and Alan</i> and <i>Wisdom’s Daughter</i> to complete the picture, but I don’t think they are as good as the other two. Bad luck term beginning on your birthday!<br/><br/>Your affectionate Godfather,<br/>C. S. Lewis",
+        type: "Letter",
+        notes: ["A typescript letter with signature."]
+    },
+    {
+        title: "Letter to E.G. Allen (16 June 1954)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "50 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Jun 16 / 54<br/>Magdalen College, Oxford.<br/><br/>Why not try it out in a letter to <i>Notes and Queries</i>? We shall then get other people weighing in: with luck, we might even get some simpler solution than has occurred to either of us. Good Hunting!<br/><br/>C. S. L.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Mr. Evans (20 September 1956)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "51 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 20/56<br/><br/>Dear Mr. Evans – I fear you wd. find it a complete disappointment if we met. I see no vis­ions. I claim no knowledge which all Christians do not have. I <i>believe</i> of course in angels; but my representation of them in my romances is pure fiction and was never intended to be taken as anything else.<br/><br/>Of course I take your letter “seriously” – that is, I don’t think you are “pulling my leg.” May I add, though, that most wise and experienced believers tell me not to attach much im­portance to visions? They may be what they seem: they may be the work of one’s own ima­gination: they may even be delusions sent by the enemy to distract us from the real cen­tre of the Christian life – which lies, as no doubt you know, in love and obedience and the surren­der of one’s will to Christ. St. Paul puts us right, doesn’t he, in 1 <i>Corinthians,</i> chapter 13?<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Mr. Evans (25 September 1956)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "52 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 25th. 1956<br/><br/>Dear Mr. Evans – I think the point about visions is this. Unless the apparently divine ones increase our love and obedience to God they do us no good, and unless the apparently dia­bol­ical ones make us proud or uncharitable they do us no harm. Even a delusion wd. be God’s Providence if it had the good effect. And even a really celestial vision would be a disaster if it had the bad one. And perhaps you and I should be cautious about wishing “to do wonderful things for God.” It will be enough (and more than most of us manage) to do His will, leaving it entirely to Him whether His will leads us to wonderful things or to the most hum-drum and unexciting duties. What we can be sure of is that <i>He</i> will do wonderful things <i>for us</i> if we patiently follow Him – tho’ most probably they will not be the sort of things that look “wonderful” to the outer world!<br/><br/>I don’t see any grammatical mistakes in your letter!<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Mr. Alford (18 February 1958)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "53 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Magdalene College, Cambridge<br/>18/2/58<br/><br/>Dear Mr Alford<br/><br/>It was an absolute pleasure meeting you last Friday and I hope to see you again very soon.<br/><br/>Here is your copy of ‘The LWW’ signed as promised.<br/><br/>Yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Mrs. Woolman (11 November 1961)",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "53 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "The Kilns, Headington Quarry, Oxford<br/>11 Nov. 61<br/><br/>Dear Mrs. Woolman<br/><br/>(Any connection with the great Quaker anti-slavery Woolman?) Thanks for your heart-cheering letter. What a lot I’d have to say in answer if I were well! Actually I am sick and am to-day all bemused and lethargic from yesterday’s blood-transfusion. So all I’ll say is (a) Thank you. (b) Don’t mistake <u>me</u> for a Pendragon! If I’ve been any use to you it was only because God used me. Remember that Balaam’s ass was also once an effective mes­senger! Anyone or anything may be so used.<br/><br/>All good wishes.<br/><br/>yours sincerely<br/>C. S. Lewis",
+        type: "Letter",
+        notes: null
     },
     {
         title: "Letter to Joan Bennett (23 November 1954)",
