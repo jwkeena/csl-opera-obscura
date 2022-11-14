@@ -233,14 +233,14 @@ const texts = [
     },
     {
         title: "Comments on George Gordon’s class",
-        printedIn: "Mary G. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
+        printedIn: "Mary C. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "77",
         year: 1945,
         monthAndDay: null,
         textProvided: "[In Leeds Gordon had started for his more advanced students a seminar or discussion class, which was popular and successful. On his return to Oxford he continued the discussion class inaugur{77}ated by Walter Raleigh. C.S. Lewis, who was a member of this class, writes of it:]<br/><br/>One of the pleasantest institutions in the English School as I first knew it was Gordon’s weekly Discussion Class. Each tutor could send only one or two of his pupils to it, so we liked to regard ourselves as a <i>corps d’élite</i>. It was held sometimes in a Committee Room and sometimes in Gordon’s house, and it was there that I first met Nevill Coghill. I don’t remember the names of most of the others, though their faces, and indeed the whole scene, come back to me very clearly: specially Gordon himself, leonine and tolerant, at the head of the table looking very much less alert than he actually was. It was work that exactly suited him − to seem to be doing nothing and yet actually to guide the whole debate. He said surprisingly little: it was only afterwards one realized how his <i>exiguum clinamen</i> had, at several points, headed us all off from some blind alley, or how a few unemphatic words of apparent agreement had turned a half truth into a whole one and tacitly suppressed an error. It never crossed our minds that the papers we read and the arguments we had about them could be less interesting, novel and momentous to him than they were to us. This was partly, no doubt, because he had a real sympathy with youth: still more, as I now realize, because he was doing his job so well that we never saw it was a “job” at all. It was doubtless his suggestion that inspired us to keep our Minutes in verse. Some of them (notably Coghill’s in the style of Chaucer) I re-read recently and thought them good.",
         type: "Prose",
-        notes: null
+        notes: ["Reprinted in Walter Hooper, “C.S. Lewis and the Oxford English Literature Discussion Group” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell,</i> ed. Bruce R. Johnson (Hamden: Winged Lion Press, 2021), 86-87."]
     },
     {
         title: "Preface to <i>That Hideous Strength</i>",
@@ -661,6 +661,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Note on his poem “The Sunrise”",
+        printedIn: "<i>The Various Light: An Anthology of Modern Poetry in English,</i> ed. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
+        issueOrVolume: null,
+        pageRange: "211-212",
+        year: 1964,
+        monthAndDay: null,
+        textProvided: "I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel",
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Ending “Note” exclusive to the 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (New York: Harcourt, Brace and Company)",
         issueOrVolume: null,
@@ -702,7 +713,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "The prose version of Dymer.—1916 (?).<br/>The ‘Redemption of Ask’.—(In two parts, Lucrece metre.)—Oct. and Nov. 1918<br/>The ‘Red Maid’ (ballad).—1920<br/>Dymer begun.—April 2nd, 1922<br/>Canto I finished.—May 11th, 1922<br/>Canto II finished.—June 1st, 1922<br/>Canto II (A-version) abandoned.—June 22nd, 1922<br/>Canto III (B) finished.—June 29th, 1922<br/>‘Lyrical Epilogue’ for Dymer attempted.—July 8th, 1922<br/>Canto IV finished.—October 8th, 1922<br/>Canto V finished.—March 25th, 1923<br/>Canto V recopied and corrected.—June 27th, 1923<br/>‘Kirkian’ stanzas done for Canto VI.—June 28th, 1923<br/>‘Kirkian’ episode abandoned.—June 29th, 1923<br/>Cantos VI and VII (A-version) finished.—September 8th, 1923. (Village shop and boat.)<br/>Cantos VI and VII condemned by Harwood.—October 21st, 1923<br/>Canto VI (B) finished.—October (?) 1923. (Old Welkin and boat.)<br/>Canto III (C) finished.—January 22nd, 1924. (The cow version.)<br/>Canto VI (C) finished.—March 25th, 1924<br/>Canto IX finished.—March 25th, 1924<br/>Canto VII (B) begun.—April 6th, 1924<br/>Fresh start on Canto VII (B).—April 10th, 1924<br/>Canto VII (B) finished.—(Complete text now in existence. Condemned.)—April 28th, 1924<br/>Canto VI (D) started.—April or May 1924<br/>Canto VI (D) finished.—Before May 23rd, 1924<br/>Canto VII (C) and VIII.—Long Vacation 1925 (?)<br/>Accepted by Dent’s.—April 1st, 1926",
         type: "Prose",
-        notes: null
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 217 note 29."]
     },
     {
         title: "Introductory note to his alliterative poem <i>The Nameless Isle</i>",
@@ -1266,7 +1277,7 @@ const texts = [
         notes: ["Portions of this document had been quoted in Walter Hooper, “The Lewis That Stayed Behind,” <i>Magdalen College Record 1995</i>, which were reprinted in <i>The Canadian C.S. Lewis Journal,</i> vol. 89 (Spring 1996), 7-9."]
     },
     {
-        title: "Word corrections on the <i>Screwtape</i> manuscript",
+        title: "Corrections on the <i>Screwtape</i> manuscript",
         printedIn: "James Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         issueOrVolume: null,
         pageRange: "165-166",
@@ -2420,6 +2431,83 @@ const texts = [
         textProvided: false,
         type: "Prose",
         notes: ["<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II,</i> 58-102.", "“Note on the Law of Contradiction,” 121-124.", "“Replies to Objections in Detail,” 124-130 (includes holographs of Lewis’s drawings on 127-129).", "<i>De Bono et Malo,</i> 131-144.", "Lewis’ unfinished <i>Commentarium in Tractatum De Toto et Parte</i> in footnotes, 145-169."]
+    },
+    {
+        title: "Note on his poem “To the Gods of Old Time”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "118 note 13",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "[The ending of the poem is appended with this comment:]<br/><br/>Pronounced ‘nuktos paidîs apaidês’ to rhyme with ‘hide is’ above. The author, I believe, is Sophocles. The literal translation follows in the second half of the line.",
+        type: "Prose",
+        notes: ["From a holograph manuscript “Early Poems: English Verses Made by Clive Staples Lewis and Copied by His Friend Joseph Arthur Greeves: Belfast in the Year 1917,” the original of which is in the Linen Hall Library, Belfast, Ireland, with a photocopy in the Wade Center catalogued as CSL/MS-41/X. Consequently I am unsure whether the note is by Lewis or Greeves."]
+    },
+    {
+        title: "Note on his poem “In His Own Image”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "119 note 28",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "[Immediately following the title of this poem, Lewis included this note:]<br/><br/>And God saw that the wickedness of man was great…and that every imagination of his heart was but of evil, and that continually–Genesis. There is no more pitiful thing that moves on the face of all-nurturing earth than the sons of men–Homer. The most pernicious race of little vermin–Swift.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Notes on his poem “Abecedarium Philosophicum”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "notes 42, 45, 49, 50, 55 and <a href='https://www.owenbarfield.org/read-online/with-c-s-lewis/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "[On line 16:]<br/><br/>Bentley <i>it’s</i>.<br/><br/>[On line 33:]<br/><br/>Malone well suggests that this passage represents a series of scribal attempts to supply a hiatus in the archtype of MS.<br/><br/>[On line 55:]<br/><br/>Dante. <i>Paradiso</i>. X. 79.<br/><br/>[On line 57:]<br/><br/>Ibid. X. 142.<br/><br/>[On line 73:]<br/><br/>MS. <i>As to Which fashioned which after which of Their images.</i> Keightley. <i>As to which fashioned Which after which of Their images.</i> Malone as above.",
+        type: "Prose",
+        notes: ["The poem was originally published in the <i>Oxford Magazine</i> vol. 52 (30 November 1933), 298, though it’s unclear whether the notes were published along with the poem or not."]
+    },
+    {
+        title: "Notes on his poem “Awake, My Lute!”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "370 notes 22 and 23",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "[On line 33:]<br/><br/>N. S. stands for <i>Non satis</i> (not enough), the mark given by Oxford examiners to a question on which the candidate has failed.<br/><br/>[On line 39:]<br/><br/>A ‘scout’ is a college servant.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Notes on his poem “From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "370-371 notes 27, 30, and 33",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "[Immediately below the title of the poem, Lewis adds in brackets:]<br/><br/>Milton’s <i>De Idea Platonica</i> was probably intended as a mere academic squib; but genius sometimes laughs at authors’ intentions. I hardly dare to hope that this version has preserved the goblin quality of the original: it will be enough if I send some readers to explore for themselves such a neglected and exquisite grotesque.<br/><br/>[On his use of the word <i>stupendious</i> in line 22, Lewis added this note at the end of the poem:]<br/><br/>Milton, when writing English, prefers this form.<br/><br/>[Lewis added this note at the end of the poem:]<br/><br/>By omitting the last five lines I cut the umbilical cord which, in the original, connects the fantasy with its scholastic occasion.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Note on his poem “A Cliché Came Out of Its Cage”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "398 note 4",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "<i>Penates quasi a penu</i>.",
+        type: "Prose",
+        notes: ["At the end of the poem Lewis offers a footnote in Latin regarding the Lardergods in line 8, which translates as “the Household Gods from the food-storehouse, as it were.”"]
+    },
+    {
+        title: "Note on his poem “Laertes to Napoleon”",
+        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "439 note 24",
+        year: 2015,
+        monthAndDay: null,
+        textProvided: "Sweven is here used to mean a knapsack.",
+        type: "Prose",
+        notes: ["The note appears at the end of the poem."]
     },
     {
         title: "“Letters to Malcolm: Letter XIIa”",
@@ -5300,13 +5388,13 @@ const texts = [
         pageRange: "available <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2019,
         monthAndDay: null,
-        textProvided: "[Asked for corrections in the first reprint of his O.H.E.L. volume:]<br/><br/>Yes, there are lots, but I can hardly do it at the moment. When is “deadline”?",
+        textProvided: "[When asked for corrections in the first reprint of his O.H.E.L. volume:]<br/><br/>Yes, there are lots, but I can hardly do it at the moment. When is “deadline”?",
         type: "Letter",
         notes: null
     },
     {
         title: "Letter to Thomas C. Van Osdall (1 June 1963)",
-        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press",
+        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "185",
         year: 2020,
@@ -5317,7 +5405,7 @@ const texts = [
     },
     {
         title: "Letter to Thomas C. Van Osdall (9 October 1963)",
-        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press",
+        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "186",
         year: 2020,
@@ -5328,7 +5416,7 @@ const texts = [
     },
     {
         title: "Letter to Thomas C. Van Osdall (26 October 1963)",
-        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press",
+        printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
         pageRange: "187",
         year: 2020,
@@ -5691,15 +5779,26 @@ const texts = [
     },
     // POEMS
     {
+        title: "<i>Dymer</i> (corrections)",
+        printedIn: "<i>Dymer</i> (London: J.M. Dent)",
+        issueOrVolume: null,
+        pageRange: "[page range unknown]",
+        year: 1950,
+        monthAndDay: null,
+        textProvided: "[In the 1st edition, Canto III, stanza 18, line 122 reads: “He hastened through: down paths that needed blind,” but in the 1950 edition “needed” was corrected to]<br/><br/>ended<br/><br/>[In the 1st edition, Canto VII, stanza 8, line 53 reads: “Save the already damned–such grules are bred,” but in the 1950 edition “grules” was corrected to]<br/><br/>grubs <br/><br/>[In the 1st edition, Canto VIII, stanza 25, line 172 reads: “And groaning in the lane he felt his trace,” but in the 1950 edition “felt” was corrected to]<br/><br/>left",
+        type: "Poem",
+        notes: ["These corrections are noted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 216-217, notes 15, 25, and 27, respectively."]
+    },
+    {
         title: "“The Sunrise”",
         printedIn: "<i>The Various Light: An Anthology of Modern Poetry in English,</i> ed. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
         issueOrVolume: null,
         pageRange: "211-212",
         year: 1964,
         monthAndDay: null,
-        textProvided: "I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel<br/><br/>That in their own right earth and sky<br/>Continually do dance<br/>For their own sakes – and here crept I<br/>To watch the world by chance.",
+        textProvided: "That in their own right earth and sky<br/>Continually do dance<br/>For their own sakes – and here crept I<br/>To watch the world by chance.",
         type: "Poem",
-        notes: null
+        notes: ["Lewis introduces the poem with the comment: “I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel...”"]
     },
     {
         title: "“Carpe Diem”",
