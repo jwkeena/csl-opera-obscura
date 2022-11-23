@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 11.14.22</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 11.23.22</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -29,7 +29,7 @@ class AboutModal extends Component {
                     <div className="modal-content">
                         <h3 className="center-align">About This Project</h3>
                         
-                        <p><b>SUBMISSIONS: </b>Corrections, <a className="blue-link" href="https://docs.google.com/document/d/1PfnJMCw3II75VWfOSmfW8mm9rbkK5itT2ZayrgnkLCk/edit?usp=sharing" target="_blank" rel="noopener noreferrer" title="Click for a list of texts that need to be typed in.">missing transcriptions</a>, <a className="blue-link" href="https://docs.google.com/document/d/1Yg1JOm05d3i0GO3Dx3tXhbflx5E-MOhF-sbBC3XSfCI/edit?usp=sharing" target="_blank" rel="noopener noreferrer" title="Click for a list of texts I do not have scans of.">missing scans</a>, and new additions are welcome. The author can be reached <a className="blue-link" href="mailto: jwkeena@gmail.com">by email</a>. Please include as much bibliographical information as possible for new submissions, for instance exact date of publication, title, reference, explanatory notes, and ideally a scan of the text itself.</p>
+                        <p><b>SUBMISSIONS: </b>Corrections, <a className="blue-link" href="https://docs.google.com/document/d/1PfnJMCw3II75VWfOSmfW8mm9rbkK5itT2ZayrgnkLCk/edit?usp=sharing" target="_blank" rel="noopener noreferrer" title="Click for a list of texts that need to be typed in.">missing transcriptions</a>, <a className="blue-link" href="https://docs.google.com/document/d/1Yg1JOm05d3i0GO3Dx3tXhbflx5E-MOhF-sbBC3XSfCI/edit?usp=sharing" target="_blank" rel="noopener noreferrer" title="Click for a list of texts I do not have scans of.">missing scans</a>, and new additions are welcome. The author can be reached <a className="blue-link" href="mailto: jwkeena@gmail.com">by email</a>. If possible, please include a scan of the text itself.</p>
 
                         <p><b>PURPOSE: </b>This bibliography is an exhaustive collection of all <b>written, published</b> works by C.S. Lewis, however minor or fragmentary, that are <i>either</i> obscure <i>or</i> new. By “new” I mean published after the 50th anniversary of Lewis’s death, November 22, 2013. In this sense the last of the “old” books is <i>Image and Imagination,</i> the final collection of texts edited by Walter Hooper. By an “obscure” work I mean a text that meets all of the following three criteria:</p>
                         
