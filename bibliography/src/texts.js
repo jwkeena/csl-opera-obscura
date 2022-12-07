@@ -675,7 +675,7 @@ const texts = [
         title: "Ending “Note” exclusive to the 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (New York: Harcourt, Brace and Company)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: "311-313",
         year: 1957,
         monthAndDay: null,
         textProvided: false,
