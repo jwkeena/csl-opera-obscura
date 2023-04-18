@@ -152,7 +152,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "You sometimes hear people say, “Religion doesn’t appeal to me,” and I once knew a girl who said, “Religion’s all right provided it doesn’t go too far.” People who talk that way think religion is a thing like football or music which may suit some of us and not others, or which you may be interested in up to a point and no farther. The first step towards being grown up is to realize that this is balderdash.<br/><br/>Christianity isn’t a hobby, or even a patent medicine. It makes statements: God exists – man is broken – God became a man – that man can mend all other men – no one else can – those who are not mended go into the dustbin. If these statements are true, they concern everyone, and are of infinite importance. If they’re not, they concern nobody and are of no importance. Either zero – or infinity. Either this wire is not a live wire or else it carries a current of infinite voltage. Christianity can’t be moderately important.<br/><br/>The Christian God doesn’t want this or that from you: He wants you – all there is of you. It’s not  unreasonable that He should. He made you. He became a man to mend you (how would you like to become a cow for several years?). He keeps you alive from moment to moment. He gives you every minute of the time you call your own. You are, in fact, His property and He wants you. There are enemies about – His enemies and yours – who also want you. If you don’t belong to Him, you’ll belong to them. The war between them and Him is too hot for neutrals. If you try to be a neutral you’ll be invaded by the enemies. You must choose your side.<br/><br/>Some people can’t believe this because they say our Earth is such a small place in the universe that what happens on it couldn’t matter to God. But a small place may be very important in a war. (Stalingrad looks a small place on a map of the world.) That is why we ask you to put yourself wholly (every bit of you counts) and at once (every minute matters) on His side. Report for duty. Say your first prayer, wherever you happen to be, at once. Tell Him you want to join. I have never heard of anyone who seriously joined Him and regretted doing it, and very few of those who have not joined Him seem in the long run, to feel quite sure they’ve made the right choice. <br/><br/>There are lots of decent people who aren’t Christians of course, just as there are lots of decent people who take wrong trains. But it’s where you’re going to finish up that matters. The wrong train looks just as good as the right one, before it starts. Even after it’s started, it may go the same way as the right one for a considerable distance. But it lets you down in the end.",
         type: "Prose",
-        notes: ["Was published previously in the periodical <i>Think</i> (date unknown).", "Lewis’s 5-paragraph summary is discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
+        notes: ["Was published previously in the periodical <i>Think</i> (date unknown). See [<a href='https://www.discovery.org/a/1030' target='_blank' rel='noopener noreferrer' class='link-to-text'>this article</a>] by Kathryn Lindskoog.", "Lewis’s 5-paragraph summary is also discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
         title: "Blurb exclusive to US edition of <i>Perelandra</i>",
@@ -409,29 +409,29 @@ const texts = [
     },
     {
         title: "Blurb for <i>The Coming of the Lord: A Study in the Creed</i>",
-        printedIn: "A Religious of C.S.M.V. [=Sister Penelope Lawson], <i>The Coming of the Lord: A Study in the Creed</i> (London: A.R. Mowbray)",
+        printedIn: "A Religious of C.S.M.V., <i>The Coming of the Lord: A Study in the Creed</i> (London: A.R. Mowbray)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
         year: 1953,
         monthAndDay: null,
         textProvided: "I am delighted with The Coming of the Lord: delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time … A lovely little book.",
         type: "Prose",
-        notes: ["The text is quoted in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him</i>, 3rd edition, ed. James T. Como (San Francisco: Ignatius, 2005), 469, item G40.","The text is ultimately based on a letter to Sister Penelope CSMV, 4 January 1953, found in <i>CL</i> 3:316-318: “I am simply <i>delighted</i> with <i>The Coming of the Lord</i>; delighted, excited, and most grateful. I think it is the best book you have yet done, and the best theological book by anyone I have read for a long time. (You are, among other things, the only person I ever meet who gives me real light on the Old Testament.) …[318] Anyway, it is a lovely little book. I am very much in your debt.”"]
+        notes: ["The text is reprinted in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him</i>, 3rd edition, ed. James T. Como (San Francisco: Ignatius, 2005), 469, item G40, with minor punctuation differences.","The text is ultimately based on a letter to Sister Penelope CSMV, 4 January 1953, found in <i>CL</i> 3:316-318: “I am simply <i>delighted</i> with <i>The Coming of the Lord</i>; delighted, excited, and most grateful. I think it is the best book you have yet done, and the best theological book by anyone I have read for a long time. (You are, among other things, the only person I ever meet who gives me real light on the Old Testament.) …[318] Anyway, it is a lovely little book. I am very much in your debt.”"]
     },
     {
         title: "Blurb for <i>Childhood’s End</i> ",
         printedIn: "Arthur C. Clarke, <i>Childhood’s End</i> (London: Sidgwick and Jackson)",
         issueOrVolume: "",
-        pageRange: "dust jacket",
+        pageRange: "dust jacket front flap",
         year: 1954,
         monthAndDay: null,
-        textProvided: "There has been nothing like it for years…an author who understands there may be things that have a higher claim on humanity than its own survival.",
+        textProvided: "It is quite out of range of the common space-and-time writers; away up near Lindsay’s <i>Voyage to Arcturus</i> and Wells’s <i>First Men in the Moon</i>. It hasn’t got Ray Bradbury’s delicacy, but then it has ten times his emotional power. . . . It’s rather like the effect of the <i>Ring</i>–a self-riching work, harmony piling up on harmony, grandeur on grandeur, pity on pity. . . . The first climax brought tears to my eyes. There has been nothing like it for years; partly for the actual invention, but partly because here we meet a modern author who understands that there may be things that have a higher claim on humanity than its own ‘survival’.",
         type: "Prose",
-        notes: ["The text is derived from <i>CL</i> 3:391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York): “There has been nothing like it for years: partly for the actual writing - ‘She has left her toys behind but ours go hence with us’, or ‘The island rose to meet the dawn’, but partly (still more, in fact) because here we meet a modern author who understands that there may be things that have a higher claim than the survival or happiness of humanity: a man who cd. almost understand ‘He that hateth not father and mother’ and certainly wd. understand the situation in Aeneid III between those who go on to Latium & those who stay in Sicily.”", "Text as it appears on the cover of the Pan Books paperback is reprinted in <i>CL</i> 3:410, note 39, which is the same as on the 1954 1<sup>st</sup> British hardback."]
+        notes: ["The text is derived from <i>CL</i> 3:390-391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York), with some unmarked omissions and even a significant word change (“the actual writing” in <i>CL</i> 3:391 becomes “the actual invention” in the blurb).", "In <i>CL</i> 3:410 note 39, Hooper prints a highly condensed version of the blurb found on the 1956 Pan paperback edition: “There has been nothing like it for years . . . an author who understands there may be things that have a higher claim on humanity than its own survival.” However, this version differs from the 1956 Pan paperback printing  I have seen: “The first climax brought tears to my eyes. There has been nothing like it for years.”"]
     },
     {
         title: "Blurb for <i>The Return of Arthur: A Poem of the Future</i>",
-        printedIn: "Blurb for Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i> (London: Chapman and Hall)",
+        printedIn: "Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i> (London: Chapman and Hall)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
         year: 1956,
@@ -482,7 +482,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
         type: "Prose",
-        notes: ["An expanded version of the blurb also appears in the publisher’s material at the end of the first paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.”", "This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433."]
+        notes: ["This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433.", "An expanded version of the blurb also appears in the publisher’s material at the end of the Fontana paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.”"]
     },
     {
         title: "Account of a lecture on Classical translations, “‘Translations from Hatred’: Classics in Modern Dress Condemned”",
@@ -515,7 +515,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "It is very rarely that a middle-aged man finds an author who gives him, what he knew so often in his teens and twenties, the sense of having opened a new door. One had thought those days were past. Eddison’s heroic romances disproved it. Here was a new literary species, a new rhetoric, a new climate of the imagination. Its effect is not evanescent, for the whole life and strength of a singularly massive and consistent personality lies behind it. Still less, however, is it mere self-expression, appealing only to those whose subjectivity resembles the author’s: admirers of Eddison differ in age and sex and include some (like myself) to whom his world is alien and even sinister. In a word, these books are works, first and foremost, of <i>art</i>. And they are irreplaceable. Nowhere else shall we meet this precise blend of hardness and luxury, of lawless speculation and sharply realised detail, of the cynical and the magnanimous. No author can be said to remind us of Eddison.",
         type: "Prose",
-        notes: ["Reprinted as “A Tribute to E.R. Eddison” in <i>Of This and Other Worlds</i> (1982), edited by Walter Hooper.", "So far as I know the text does not correspond to any passage in <i>CL</i>."]
+        notes: ["Reprinted as “A Tribute to E.R. Eddison” in <i>Of This and Other Worlds</i> (1982) and <i>On Stories, and Other Essays on Literature </i> (1982), both edited by Walter Hooper, and <i>Essay Collection & Other Short Pieces</i> (2000), edited by Lesley Walmsley."]
     },
     {
         title: "<i>Molliter Ossa Cubent</i>",
@@ -548,18 +548,18 @@ const texts = [
         monthAndDay: null,
         textProvided: "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemaniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
         type: "Prose",
-        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 470, item G49."]
+        notes: ["Reprinted in <i>CL</i> 3:1061 note 129 and in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 470, item G49."]
     },
     {
         title: "Blurb for <i>Adam: A Tone Poem</i>",
-        printedIn: "David Bolt, <i>Adam: A Tone Poem</i> (London: J. M. Dent)",
+        printedIn: "David Bolt, <i>Adam: A Tone Poem</i> (New York: John Day Company)",
         issueOrVolume: null,
-        pageRange: "band around the dust wrapper",
-        year: 1960,
+        pageRange: "dust jacket front flap",
+        year: 1961,
         monthAndDay: null,
-        textProvided: "[UK Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
+        textProvided: "[UK Edition[US Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
         type: "Prose",
-        notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 434-435, a four-sentence version of this blurb appears on the UK 1960 edition, while the 1961 US edition published by the John Day Company “has on the front flap a ten-sentence version of the blurb, which adds six sentences between the first and the second sentences of the 1960 British edition.” Hooper’s 2005 Bibliography only gives the four-sentence version on 471."]
+        notes: ["A shorter version that omits the second through seventh sentences of the US version was also used for the first UK edition (London: J.M. Dent, 1960), front band around the dust jacket. The shorter UK edition is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 471, item G52.", "The longer, 10-sentence US version is used on a later UK edition (London: Sidgwick and Jackson, 1979), dust jacket back cover, and is reprinted in Kathryn Lindskoog, <a href='https://www.discovery.org/a/1033/' target='_blank' rel='noopener noreferrer' class='link-to-text'>“A New Discovery: C.S. Lewis Praises Adam,”</a> <i>Lewis Legacy</i>, lxxxvi (Autumn 2000) as well as in Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435."]
     },
     {
         title: "Revisions to “The Cardinal Difficulty of Naturalism”",
@@ -639,13 +639,13 @@ const texts = [
         notes: ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have a scan of the Westminster Press text, please send it to me!"]
     },
     {
-        title: "Blurb for Austin Farrer, <i>Saving Belief</i>",
-        printedIn: "<i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
+        title: "Blurb for <i>Saving Belief</i>",
+        printedIn: "Austin Farrer, <i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         issueOrVolume: null,
         pageRange: "dust jacket",
         year: 1964,
         monthAndDay: null,
-        textProvided: "‘It has become customary with theologians to let themselves off a plain answer’ (98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
+        textProvided: "‘It has become customary with theologians to let themselves off a plain answer’ (p. 98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
         type: "Prose",
         notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
@@ -725,17 +725,6 @@ const texts = [
         textProvided: "Every verse contains two half-verses. Each half-verse contains two beats or accents: and two dips which may consist of any number of unaccented syllables. The dips and beats may be arranged:<br/><br/>a. In falling rhythm (—u—u) (—uu—uu) (—u—uu), etc.<br/>e.g. Eárly at évening<br/>Máster máriner<br/><br/>b. In rising rhythm (u—u—) (uu—uu—) (u—uu—), etc.<br/>e.g. of the mén was Í<br/>While fást and fáir<br/><br/>c. In clashing rhythm (uu— —uu) (u— —u), etc.<br/>e.g. In a spríng seáson<br/>Over our shíp scúdding<br/><br/>d. As beat-dip-beat, without a second dip, if the single dip contains a syllable so strong that it nearly equals a beat (—′ —u—) (—′ —′ uu—). <br/>e.g. Eíghteén in áll<br/>wítch-heárted quéen<br/><br/>The reader should read all with its natural accent and carefully avoid the artificial accents of syllabic verse<br/>e.g. Óf thě sea’s rísing<br/><br/>not, as it would be in the heroic line<br/> Óf the sea’s rísing múch he spoke in vain.<br/><br/> There may be either two or three alliterations in the verse, of which only one can fall in the second half verse.<br/><br/>All vowels alliterate together.",
         type: "Prose",
         notes: null
-    },
-    {
-        title: "Blurb for <i>Poetry of Francis Warner</i>",
-        printedIn: "Francis Warner, <i>Poetry of Frances Warner</i> (Philadelphia: Pilgrim Press)",
-        issueOrVolume: null,
-        pageRange: "dust jacket",
-        year: 1970,
-        monthAndDay: null,
-        textProvided: "This is much the best I have seen. St. Joseph riding and sliding particularly pleased me. The use of Pan is very good.",
-        type: "Prose",
-        notes: ["This is a highly edited version of a letter in <i>CL</i> 3:1330 to Francis Warner (3 April 1962)."]
     },
     {
         title: "Martlets Society Minutes of 12 March and 14 June 1919",
@@ -1200,15 +1189,15 @@ const texts = [
         notes: null
     },
     {
-        title: "Blurb (complete) for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
-        printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
+        title: "Blurb for <i>The Fellowship of the Ring</i>",
+        printedIn: "J.R.R. Tolkien, <i>The Fellowship of the Ring: Being the First Part of the Lord of the Rings</i> (London: George Allen and Unwin)",
         issueOrVolume: null,
-        pageRange: "62",
-        year: 1992,
+        pageRange: "dust jacket front flap",
+        year: 1954,
         monthAndDay: null,
-        textProvided: "It would be almost safe to say that no book like this has ever been written. If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once so multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters—comic, homely, epic, monstrous, or diabolic!",
+        textProvided: "If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters–comic, homely, epic, monstrous, or diabolic.",
         type: "Prose",
-        notes: null
+        notes: ["From <i>CL</i> 3:383 to Stanley Unwin (4 December 1953). The blurb portion of this letter, along with a holograph of it, is reprinted in <i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library, 1992), 62."]
     },
     {
         title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
@@ -2609,7 +2598,7 @@ const texts = [
         notes: ["Some of the texts quoted as belonging to ACRP/30 on 108 (and possibly the excerpts quoted on 110 and 112) may actually be letters. The phrase “we were a wonderfully happy family” certainly is: it comes from a letter to Bishop George Chase (25 August 1960) quoted more fully in George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 22 (2005), 50. But there seem to be more items than just this letter of 25 August 1960 in ACRP/30."]
     },
     {
-        title: "Unused blurb for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
+        title: "Unused blurb for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "13 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
@@ -2620,7 +2609,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Note on intended age range of readership for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
+        title: "Note on intended age range of readership for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "15 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
@@ -2631,7 +2620,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Note on presentation notices for <i>Studies in Words</i> on Cambridge University Press Advance Information sheet",
+        title: "Note on presentation notices for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
         pageRange: "15 and <a href='https://doi.org/10.7202/1060977ar' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
