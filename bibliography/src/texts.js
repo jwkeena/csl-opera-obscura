@@ -936,17 +936,6 @@ const texts = [
         notes: ["This is the only known printing of this inscription. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
     },
     {
-        title: "Draft of blurb for <i>Till We Have Faces</i>",
-        printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
-        issueOrVolume: null,
-        pageRange: "261",
-        year: 1974,
-        monthAndDay: null,
-        textProvided: "In one sense the author has worked on this book most of his life, for this re-interpretation of an old story (readers need not know which when they begin) had lived with him and pestered him to make it ever since he was an undergraduate. Suddenly, last Spring, the form presented itself. All came into focus: and had drawn into it many sympathies that had found no vehicle in earlier books–for the ugly woman, the barbarous idolater, the humane sceptic, and (above all) the friends and lovers of those who have a vocation or even a faith.",
-        type: "Prose",
-        notes: ["Reprinted in the 2002 Fully Revised & Expanded Edition, 355.", "This blurb accompanied Lewis’s letter to Jocelyn Gibb of 21 February 1956. It was rewritten and reorganized into the text that appears on the front flap of the dust jacket as well as page 1 of the 1<sup>st</sup> UK edition (but nowhere in the 1<sup>st</sup> US edition) of <i>Till We Have Faces</i> (London: Geoffrey Bles, 1956)."]
-    },
-    {
         title: "Annotations on Shakespeare",
         printedIn: "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 8, no. 7",
@@ -1231,6 +1220,17 @@ const texts = [
         textProvided: "Many of the things we learned at school were first explained to us successfully not by masters but by other boys. One inky fourth former can make another inky fourth former understand what an adult cannot make him understand. The two boys speak the same language and have the same difficulties. The boy at your elbow knows your difficulty because it was his difficulty yesterday or perhaps half an hour ago. The master very often does not. When you ask him for an explanation he often explains very clearly and at great length all the things you understand already and leaves out the thing you wanted to have explained. The reason usually is that your difficulty about that one thing arises from a misunderstanding so elementary that he never suspected it. There are, in fact, certain kinds of help you can get only from a person on your own level. That is my only excuse for writing a book on prayer.",
         type: "Prose",
         notes: null
+    },
+    {
+        title: "Note on unpublished abridgement of <i>Perelandra</i> on the title page of Lewis’s copy of <i>Perelandra</i>",
+        printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
+        issueOrVolume: null,
+        pageRange: "242",
+        year: 1996,
+        monthAndDay: null,
+        textProvided: "With excisions for an abridgement which was to have been made (but, I think, was not) in a cheaper American edition.",
+        type: "Prose",
+        notes: ["Lewis had abridged <i>That Hideous Strength</i> into <i>The Tortured Planet</i> (1946). Then, Hooper reports, “It would appear that after this Avon asked Lewis to do the same with <i>Perelandra</i> which is abridged in his own hand. He seems to have had in mind shortening this book by about a quarter. In any event, the abridgement was never used, and on the title page he wrote…”"]
     },
     {
         title: "Note in Magdalen “Betting Book” (14 May 1946)",
