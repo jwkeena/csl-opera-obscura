@@ -30,21 +30,6 @@ class Tooltip extends Component {
     };
 
     render() {
-        if (this.props.footer) {
-            return (
-                    <a 
-                        ref={ (tooltip) => {this.tooltip = tooltip}} 
-                        href="https://jwkeena.github.io/csl-letters/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="tooltipped"
-                        data-position="top" 
-                        data-tooltip={this.state.imageStatus === "loaded" ? '<img src="https://jwkeena.github.io/assets/images/csl-demo.gif">' : '<div style="height: 338px; width: 450px;"><div class="preloader-wrapper big active center-loader"><div class="spinner-layer spinner-blue-only"><div class="circle-clipper left"><div class="circle"></div></div><div class="gap-patch"><div class="circle"></div></div><div class="circle-clipper right"><div class="circle"></div></div></div></div></div>'}>
-                            C.S. Lewis Letter Search
-                            <img src="https://jwkeena.github.io/assets/images/csl-demo.gif" alt="hidden" onLoad={this.handleImageLoaded.bind(this)} style={styles.hidden}/>
-                    </a>
-            )
-        }
         
         if (!this.props.disabled) {
             return (

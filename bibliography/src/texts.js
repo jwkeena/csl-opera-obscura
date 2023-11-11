@@ -34,6 +34,17 @@ const texts = [
         notes: ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in <i>LP</i> 4:51 at the Wade Center and the Bodleian."]
     },
     {
+        title: "“Arguments” summarizing each book of <i>The Pilgrim’s Regress</i>",
+        printedIn: "<i>The Pilgrim’s Regress</i> (New York: Sheed & Ward)",
+        issueOrVolume: null,
+        pageRange: "11, 31, 51, 73, 87, 115, 137, 173, 209, and 225",
+        year: 1935,
+        monthAndDay: null,
+        textProvided: "[Book One, 11]<br/>ARGUMENT. A boy brought up from childhood to fear God more than to love Him, and to fear Hell more than God, thereby learns at least to acknowledge duties which he cannot perform and to remember death. All unconnected with this teaching are the fits of strange Desire, which haunt him from his earliest years, for something that cannot be named; something which he can describe only as ‘Not this,’ ‘Far farther,’ or ‘Yonder.’ As puberty approaches, the senses claim to have discovered what the object of this Desire really is, but do not keep their promise; and in the moment of his lowest disillusion the true Desire returns in all its force.<br/><br/>[Book Two (wrongly captured as Book One: The Data), 31]<br/>ARGUMENT. He begins his education, gathers stray scraps of popular science, and delightedly abandons his religion. His moral ideals, freed from their association with reward and punishment stand out more clearly than before; his reverence for them, though not his obedience to them, is increased. Romantic poetry takes possession of him, and the aesthetic life now claims that it will show him the object of his Desire. But it also breaks its promise. Ecstasy dwindles into mere pleasure, and in that pleasure the disguised erotic element soon reveals itself. He piques himself on seeing through adolescent illusions (as he now calls them) and adopts cynical modernity.<br/><br/>[Book Three, 51]<br/>ARGUMENT. He enters advanced coteries and tries the literature of the contemporary ‘movement,’ exposing to its outrages whatever is wholesome in his sensibility or clear in his thinking. Psycho-analysis, and the outlook popularly based on it, begin to imprison his mind. He now believes that his mysterious Desire was never anything but a mask for lust, and that all systems save materialism are wish-fulfilment dreams. But his critical faculties reawaken before this condition of mind becomes permanent. He finds that the ‘worm’s-eye view,’ when challenged, defends itself by jargon.<br/><br/>[Book Four, 73]<br/>ARGUMENT. He learns to think for himself, and at the same moment the Desire revisits him. He sees that the doctrine of the wish-fulfilment dream does not prove all the things it seemed to prove. But with this discovery comes another—that Christianity cannot be a wish-fulfilment dream. Whose wishes does it fulfil? Certainly not his, for the notion that the religion of his childhood might after all be true is still his chief, though repressed, terror. Acutely uneasy, he abandons speculative thought in a panic.<br/><br/>[Book Five, 87]<br/>ARGUMENT. He returns to an attempt at living according to his moral ideals. He knows that Christianity promises assistance in this attempt but refuses (through fear) to examine the question; and though his conscience invites him to higher endeavours, he embraces a ‘common-sense’ ideal of cultured, humane, enlightened hedonism. Such an ideal, however has no room for the Desire that still haunts him; he is disgusted at its heartlessness; and he discovers that its plausibility depends on externals. It is a philosophy that takes for granted a comfortable income and a good digestion.<br/><br/>[Book Six, 115]<br/>ARGUMENT. The collapse of ‘common sense’ drives him on to the harder and severer systems of our own day. He glances at Anglo-Catholicism, Humanism, and Classicism: at the world, in fine, of Messrs. Irving Babbitt, T. S. Eliot, Santayana, the Criterion, etc. But no compromise is possible between their world and the Desire which is still the motive of all his thoughts. Finally he tries the hardest and severest of all – ‘Nordic’ Fascism and Marxian Communism. Their asceticism attracts his conscience: but in each he discovers behind the heroic facade a genuine recrudescence of primeval cruelty and a rejection, along with the humane, of the human itself.<br/><br/>[Book Seven, 137]<br/>ARGUMENT. His conscience is now paralysed. The will to do good remains, but no ‘good’ can be found to do. Abandoning the moral view of life, he yields to his wishes and explores philosophies less jejune than those that have lately occupied him. From ‘broad-church’ modernist Christianity (which turns out in practice to be little more than a kindlier version of common sense and its fair-weather optimism) he rapidly passes to philosophical idealism. Here at last he finds a rational account both of his nameless Desire and of his moral obligations: but he finds also that this system never remains operative for long in any mind without unacknowledged support from other quarters. The Hegelians of the right draw their real strength from Christianity, those of the left from Communism. Those who do neither are merely professional philosophers—college tutors whose real life is on the golf-links or at the bridge-table.<br/><br/>[Book Eight, 173]<br/>ARGUMENT. He attempts to become a real Monist. His conscience compels him to accept, for practice, the ascetic interpretation of this creed. As soon as it is brought to the test of action, the distinction (which he had hoped to maintain) between the Absolute of philosophy and the God of religion becomes confused. He finds that he is praying: he is assisted by Divine Grace. Increasing historical knowledge lays bare the true relations between Paganism, Judaism, and Christianity. He is not allowed any longer to doubt that his Desire, and his moral conscience, are both the voice of God.<br/><br/>[Book Nine, 209]<br/>ARGUMENT. He struggles to escape, but finally submits his will to that of God revealed in Christianity.<br/><br/>[Book Ten, 225]<br/>ARGUMENT. The old Desire (now known for what it is) returns to him in its fullness; but there is no mystical or ecstatic short cut to fruition. He must begin common life again from the beginning, and learn obedience and wisdom by reapproaching all the old problems under better guidance, till, at last, he becomes as a little child.",
+        type: "Prose",
+        notes: ["These “arguments” were not printed in the British first edition published by Dent in 1933, nor in the 2013 Wade Annotated Edition. They were first printed here, in the US first edition, and once again in the 1944 Sheed & Ward edition."]
+    },
+    {
         title: "“From Johnson’s Life of Fox”",
         printedIn: "<i>The Oxford Magazine</i>",
         issueOrVolume: "LVI",
@@ -152,7 +163,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "You sometimes hear people say, “Religion doesn’t appeal to me,” and I once knew a girl who said, “Religion’s all right provided it doesn’t go too far.” People who talk that way think religion is a thing like football or music which may suit some of us and not others, or which you may be interested in up to a point and no farther. The first step towards being grown up is to realize that this is balderdash.<br/><br/>Christianity isn’t a hobby, or even a patent medicine. It makes statements: God exists – man is broken – God became a man – that man can mend all other men – no one else can – those who are not mended go into the dustbin. If these statements are true, they concern everyone, and are of infinite importance. If they’re not, they concern nobody and are of no importance. Either zero – or infinity. Either this wire is not a live wire or else it carries a current of infinite voltage. Christianity can’t be moderately important.<br/><br/>The Christian God doesn’t want this or that from you: He wants you – all there is of you. It’s not  unreasonable that He should. He made you. He became a man to mend you (how would you like to become a cow for several years?). He keeps you alive from moment to moment. He gives you every minute of the time you call your own. You are, in fact, His property and He wants you. There are enemies about – His enemies and yours – who also want you. If you don’t belong to Him, you’ll belong to them. The war between them and Him is too hot for neutrals. If you try to be a neutral you’ll be invaded by the enemies. You must choose your side.<br/><br/>Some people can’t believe this because they say our Earth is such a small place in the universe that what happens on it couldn’t matter to God. But a small place may be very important in a war. (Stalingrad looks a small place on a map of the world.) That is why we ask you to put yourself wholly (every bit of you counts) and at once (every minute matters) on His side. Report for duty. Say your first prayer, wherever you happen to be, at once. Tell Him you want to join. I have never heard of anyone who seriously joined Him and regretted doing it, and very few of those who have not joined Him seem in the long run, to feel quite sure they’ve made the right choice. <br/><br/>There are lots of decent people who aren’t Christians of course, just as there are lots of decent people who take wrong trains. But it’s where you’re going to finish up that matters. The wrong train looks just as good as the right one, before it starts. Even after it’s started, it may go the same way as the right one for a considerable distance. But it lets you down in the end.",
         type: "Prose",
-        notes: ["Was published previously in the periodical <i>Think</i> (date unknown). See [<a href='https://www.discovery.org/a/1030' target='_blank' rel='noopener noreferrer' class='link-to-text'>this article</a>] by Kathryn Lindskoog.", "Lewis’s 5-paragraph summary is also discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
+        notes: ["Was published previously in the periodical <i>Think</i>. See [<a href='https://www.discovery.org/a/1030' target='_blank' rel='noopener noreferrer' class='link-to-text'>this article</a>] by Kathryn Lindskoog.", "Lewis’s 5-paragraph summary is also discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
         title: "Autobiographical note exclusive to US edition of <i>Perelandra</i>",
@@ -180,7 +191,7 @@ const texts = [
         title: "Secretarial notes at the end of “Bulverism” and partial transcript of the consequent discussion",
         printedIn: "The <i>Socratic Digest</i>",
         issueOrVolume: "no. 2",
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1944,
         monthAndDay: "June",
         textProvided: "One might argue, Mr Lewis continued, that reason had developed by natural selection, only those methods of thought which had proved useful surviving. But the theory depends on an inference from usefulness to truth, of which the validity would have to be assumed. All attempts to treat thought as a natural event involve the fallacy of excluding the thought of the man making the attempt.<br/><br/>It is admitted that the mind is affected by physical events; a wireless set is influenced by atmospherics, but it does not originate its deliverances — we’d take no notice of it if we thought it did. Natural events we can relate one to another until we can trace them finally to the space-time continuum. But thought has no father but thought. It is conditioned, yes, not caused. My knowledge that I have nerves is inferential.<br/><br/>The same argument applies to our values, which are affected by social factors, but if they are caused by them we cannot know that they are right. One can reject morality as an illusion, but the man who does so often tacitly excepts his own ethical motive: for instance the duty of freeing morality from superstition and of spreading enlightenment.<br/><br/>Neither Will nor Reason is the product of Nature. Therefore either I am self-existent (a belief which no one can accept) or I am a colony of some Thought and Will that are self-existent. Such reason and goodness as we can attain must be derived from a self-existent Reason and Goodness outside ourselves, in fact, a Supernatural.<br/><br/>Mr Lewis went on to say that it was often objected that the existence of the Supernatural is too important to be discernible only by abstract argument, and thus only by the leisured few. But in all other ages the plain man has accepted the findings of the mystics and the philosophers for his initial belief in the existence of the Supernatural. Today the ordinary man is forced to carry that burden himself. Either mankind has made a ghastly mistake in rejecting authority, or the power or powers ruling his destiny are making a daring experiment, and all are to become sages. A society consisting solely of plain men must end in disaster. If we are to survive we must either believe the seers or scale those heights ourselves.<br/><br/>Evidently, then, something beyond Nature exists. Man is on the border line between the Natural and the Supernatural. Material events cannot produce spiritual activity, but the latter can be responsible for many of our actions on Nature. Will and Reason cannot depend on anything but themselves, but Nature can depend on Will and Reason, or, in other words, God created Nature.<br/><br/>The relation between Nature and Supernature, which is not a relation in space and time, becomes intelligible if the Supernatural made the Natural. We even have an idea of this making, since we know the power of imagination, though we can create nothing new, but can only rearrange our material provided through sense-data. It is not inconceivable that the universe was created by an Imagination strong enough to impose phenomena on other minds.<br/><br/>It had been suggested, Mr Lewis concluded, that our ideas of making and causing are wholly derived from our experience of will. The conclusion usually drawn is that there is no making or causing, only “projection”. But “projection” is itself a form of causing, and it is more reasonable to suppose that Will is the only cause we know, and that therefore Will is the cause of Nature.<br/><br/>A Discussion followed. Points arising:<br/><br/>All reasoning assumes the hypothesis that inference is valid. Correct inference is self-evident.<br/><br/>“Relevant” (re evidence) is a rational term.<br/><br/>The universe doesn’t claim to be true: it’s just there.<br/><br/>Knowledge by revelation is more like empirical than rational knowledge.<br/><br/>Question: What is the criterion of truth, if you distinguish between cause and reason?<br/><br/>Mr Lewis: A mountainous country might have several maps made of it, only one of which was a true one, i.e., corresponding with the actual contours. The map drawn by Reason claims to be that true one. I couldn’t get at the universe unless I could trust my reason. If we couldn’t trust inference we could know nothing but our own existence. Physical reality is an inference from sensations.<br/><br/>Question: How can an axiom claim self-evidence any more than an empirical judgment on evidence?",
@@ -305,7 +316,7 @@ const texts = [
         year: 1947,
         monthAndDay: null,
         textProvided: "In this book the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer: or, again, and by another classification, the work of one Anglo-Catholic, two Papists, an anthroposophist, and two whose profession is old-fashioned, square-rigged “C. of E.”, and if the reader feels disposed to complain of hotch-potch, I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["Compare the blurb with the first sentence of Lewis’s preface to <i>Essays Presented to Charles Williams</i>: “In this book the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer; if he feels disposed to complain of hotch-potch (which incidentally is an excellent dish; consult the Noctes Ambrosianae) I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.” That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), 110-124, item 18.", "The text of the front flap is reprinted in its entirety in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G21.", ]
     },
     {
@@ -320,6 +331,17 @@ const texts = [
         notes: ["Reprinted on the back cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "It is also found in <i>CL</i> 2:872-873, where Lewis calls it a “blurb.”"]
     },
     {
+        title: "Blurb for Owen Barfield, <i>Orpheus: A Poetic Drama</i>",
+        printedIn: "<i>Orpheus: A Poetic Drama</i>, ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press,",
+        issueOrVolume: null,
+        pageRange: "back cover",
+        year: 1983,
+        monthAndDay: null,
+        textProvided: "I await with great interest the public reaction to a work which has influenced me so deeply as Barfield’s ORPHEUS. On the technical side it presents us with a variety almost as rich as that of the Shepherd’s Calendar. I hope this will not be mistaken for virtuosity. The alliterative lines, the trochaics, the couplets, the blank verse and lyrics are in reality so responsive to the different states of being they embody that they serve the same purpose as dramatic orchestration. They mediate a drama which the Orpheus in each of us will understand best if he at first leaves the Eurydice in him free to follow the images and the melodic development. It is a mystery (not a “problem”) drama. It executes in us a re-union of which we always stand in need; never more than at present.",
+        type: "Blurb",
+        notes: ["Originally printed as a “Note” on the Programme of Owen Barfield’s play <i>Orpheus,</i> produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield, on 25 September (1948), 8.", "It is also found in <i>CL</i> 2:872-873, where Lewis calls it a “blurb.”"]
+    },
+    {
         title: "Acknowledgements and Introductory to <i>Arthurian Torso</i>",
         printedIn: "Charles Williams and C.S. Lewis, <i>Arthurian Torso</i> (London: Oxford University Press)",
         issueOrVolume: null,
@@ -332,7 +354,7 @@ const texts = [
     },
     {
         title: "Additions to the French edition of <i>The Problem of Pain</i>",
-        printedIn: "<i>Le problème de la souffrance</i>",
+        printedIn: "<i>Le problème de la souffrance</i> (Paris: Desclée De Brouwer)",
         issueOrVolume: null,
         pageRange: "11-12, 163 note",
         year: 1950,
@@ -353,6 +375,17 @@ const texts = [
         notes: ["The 1<sup>st</sup> edition has no dedicatee, as pointed out by Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 68."]
     },
     {
+        title: "Blurb for John Custance, <i>Wisdom, Madness & Folly: The Philosophy of a Lunatic</i> (London: Victor Gollancz, 1951)",
+        printedIn: "<i>The Daily Telegraph and Morning Post</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1951,
+        monthAndDay: "11 May",
+        textProvided: "I do not think I shall ever forget the experience of reading it.",
+        type: "Blurb",
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Pellegrini & Cudahy, 1952)."]
+    },
+    {
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
         printedIn: "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -361,7 +394,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["Has anyone done a complete comparison?"]
+        notes: ["No comparison exists to my knowledge."]
     },
     {
         title: "Preface to <i>Dymer</i>",
@@ -381,7 +414,7 @@ const texts = [
         pageRange: "9 and 31-34",
         year: 1954,
         monthAndDay: null,
-        textProvided: "Mr. C. S. Lewis, a junior colleague of Paul’s, has manifold memories of ‘Beneckiana.’ He writes:<br/><br/>‘Even when I first went to Magdalen (1925) Benecke was already an almost mythological figure and many of the stories told about him hardly pretended to be true. They mostly represented him in a ludicrous light. This might be misunderstood by one who did not know the habits of the English male. Our relations to him were like those of boys to a master who is always ridiculed behind his back, not although, but because, he is both loved and feared.<br/><br/>‘He was regarded by at least one of his junior colleagues (not me) as an inveterate romancer. I am sure myself that all his stories were intended to be strictly true, but possibly had unconsciously been moulded by a mixture of memory and imagination.<br/><br/>‘He said to me in serious conversation: “I once met a man who said he could not understand Indians because an Indian had said to him that God might be represented as an elephant. Now, though I fully understand the reasons for anthropomorphism in art, I myself have always found an elephant the most natural symbol.”<br/><br/>‘He had kinds of knowledge that one would not have suspected. Years ago some illustrated paper published a reproduction of a supposedly Diabolist picture of the Annunciation. Most of us said we could see nothing wrong in it. Benecke (in a low voice): “Look at that hand.” We: “Why, what does that mean?” Benecke (with a contraction of his lip and forehead suggesting actual physical pain): “Oh, something very bad indeed.” He made it clear that the subject was now closed.<br/><br/>‘He could, especially in his later years, be extremely formidable. This side of him cannot be represented in writing because what counted was not the words he said but the look in his face.<br/><br/>‘It was almost impossible to make Benecke recognise one’s ignorance of anything he happened to be talking about. He and I usually came out of chapel together and went to breakfast in the Common Room. He would stand by the fire reading the morning paper and presently announce in a low voice: “I see Mrs. X. is dead.” I would reply: “Mrs. X? I’m afraid I don’t know her.” “Oh!” he would say (with some severity), “surely you didn’t think I meant Mrs Norman X?<br/><br/>‘Often Benecke, J.A. Smith, J.T. Christie and I breakfasted together. Christie said: “The conversation of J.A. and Benecke is like what Ouida’s idea of donnish conversation would be, e.g. J.A.: ‘Benecke, what do you regard as the Vocative of Cleisthenes?’ P.V.M.B. (demurely): ‘Well, it depends on which Cleisthenes you mean.’ J.A. (with deep indignation): ‘Oh Cleisthenes of Trebizond of course.’ They irritated each other a little.”<br/><br/>‘Benecke had a clerical friend who used to come and pay him longer visits than were quite welcome. As Benecke generally came to breakfast a little earlier than his guest, I could tell from the way in which he spoke of him how his feelings were progressing. On the second morning he would refer to him as “my guest X.” On the third he had become “the Vicar of Z.” But on one occasion the visit lasted so long that Benecke referred to him as “the distinguished subject of our previous conversation.”<br/><br/>‘Benecke was a teetotaller when I knew him, but remarked: “If I were tempted to drink too much of anything it would be brandy. I always picture Nectar as brandy when I read about it in poetry.”<br/><br/>He told me that when he first visited Berlin as a young man there was no recognised dinner hour. He called on some of his relatives at 12 o’clock and to his horror was received with the words: “Ach! There is the young Paul from England who has so friendly himself to dinner invited.” After a very heavy meal he left the house and decided that a longish walk was what he needed. This brought him at about 6 o’clock to a neighborhood in the suburbs where he remembered that he had some other relatives he ought to call on. No sooner had he been shown in that he received exactly the same greeting and found himself sitting down to another and even larger dinner.<br/><br/>‘The state of his clothes, and especially his collars, often went beyond all ordinary limits of donnish shabbiness. Someone advanced the hypothesis that personal vanity (he was extremely, classically handsome) had been a temptation of his youth and that he had been mortifying it ever  since. But I think he was wholly unconscious of his clothes. There was a story of new collars being smuggled into his chambers by the connivance of his scout and the benevolence of a colleague, and he is said not to have noticed.<br/><br/>‘Benecke had a most insensitive skin: so insensitive that he said he regarded a mustard plaster as a pleasure because it gave him traces of sensation on the surface of his body where he usually had none. On one occasion within my memory he stood in front of the Common Room fire till two holes were burnt right through his trousers on each calf, and went away unconscious of the fact. It was discovered by his colleagues only because he went about for some days with a white patch on each calf which we at first supposed to be a stain of flour or whitewash. It was really his underclothes showing through the holes in his trouser legs.’",
+        textProvided: "Mr. C.S. Lewis, a junior colleague of Paul’s, has manifold memories of ‘Beneckiana.’ He writes:<br/><br/>‘Even when I first went to Magdalen (1925) Benecke was already an almost mythological figure and many of the stories told about him hardly pretended to be true. They mostly represented him in a ludicrous light. This might be misunderstood by one who did not know the habits of the English male. Our relations to him were like those of boys to a master who is always ridiculed behind his back, not although, but because, he is both loved and feared.<br/><br/>‘He was regarded by at least one of his junior colleagues (not me) as an inveterate romancer. I am sure myself that all his stories were intended to be strictly true, but possibly had unconsciously been moulded by a mixture of memory and imagination.<br/><br/>‘He said to me in serious conversation: “I once met a man who said he could not understand Indians because an Indian had said to him that God might be represented as an elephant. Now, though I fully understand the reasons for anthropomorphism in art, I myself have always found an elephant the most natural symbol.”<br/><br/>‘He had kinds of knowledge that one would not have suspected. Years ago some illustrated paper published a reproduction of a supposedly Diabolist picture of the Annunciation. Most of us said we could see nothing wrong in it. Benecke (in a low voice): “Look at that hand.” We: “Why, what does that mean?” Benecke (with a contraction of his lip and forehead suggesting actual physical pain): “Oh, something very bad indeed.” He made it clear that the subject was now closed.<br/><br/>‘He could, especially in his later years, be extremely formidable. This side of him cannot be represented in writing because what counted was not the words he said but the look in his face.<br/><br/>‘It was almost impossible to make Benecke recognise one’s ignorance of anything he happened to be talking about. He and I usually came out of chapel together and went to breakfast in the Common Room. He would stand by the fire reading the morning paper and presently announce in a low voice: “I see Mrs. X. is dead.” I would reply: “Mrs. X? I’m afraid I don’t know her.” “Oh!” he would say (with some severity), “surely you didn’t think I meant Mrs Norman X?<br/><br/>‘Often Benecke, J.A. Smith, J.T. Christie and I breakfasted together. Christie said: “The conversation of J.A. and Benecke is like what Ouida’s idea of donnish conversation would be, e.g. J.A.: ‘Benecke, what do you regard as the Vocative of Cleisthenes?’ P.V.M.B. (demurely): ‘Well, it depends on which Cleisthenes you mean.’ J.A. (with deep indignation): ‘Oh Cleisthenes of Trebizond of course.’ They irritated each other a little.”<br/><br/>‘Benecke had a clerical friend who used to come and pay him longer visits than were quite welcome. As Benecke generally came to breakfast a little earlier than his guest, I could tell from the way in which he spoke of him how his feelings were progressing. On the second morning he would refer to him as “my guest X.” On the third he had become “the Vicar of Z.” But on one occasion the visit lasted so long that Benecke referred to him as “the distinguished subject of our previous conversation.”<br/><br/>‘Benecke was a teetotaller when I knew him, but remarked: “If I were tempted to drink too much of anything it would be brandy. I always picture Nectar as brandy when I read about it in poetry.”<br/><br/>He told me that when he first visited Berlin as a young man there was no recognised dinner hour. He called on some of his relatives at 12 o’clock and to his horror was received with the words: “Ach! There is the young Paul from England who has so friendly himself to dinner invited.” After a very heavy meal he left the house and decided that a longish walk was what he needed. This brought him at about 6 o’clock to a neighborhood in the suburbs where he remembered that he had some other relatives he ought to call on. No sooner had he been shown in that he received exactly the same greeting and found himself sitting down to another and even larger dinner.<br/><br/>‘The state of his clothes, and especially his collars, often went beyond all ordinary limits of donnish shabbiness. Someone advanced the hypothesis that personal vanity (he was extremely, classically handsome) had been a temptation of his youth and that he had been mortifying it ever  since. But I think he was wholly unconscious of his clothes. There was a story of new collars being smuggled into his chambers by the connivance of his scout and the benevolence of a colleague, and he is said not to have noticed.<br/><br/>‘Benecke had a most insensitive skin: so insensitive that he said he regarded a mustard plaster as a pleasure because it gave him traces of sensation on the surface of his body where he usually had none. On one occasion within my memory he stood in front of the Common Room fire till two holes were burnt right through his trousers on each calf, and went away unconscious of the fact. It was discovered by his colleagues only because he went about for some days with a white patch on each calf which we at first supposed to be a stain of flour or whitewash. It was really his underclothes showing through the holes in his trouser legs.’",
         type: "Prose",
         notes: null
     },
@@ -408,37 +441,81 @@ const texts = [
         notes: null
     },
     {
-        title: "Blurb for <i>The Coming of the Lord: A Study in the Creed</i>",
+        title: "Blurb for a Religious of C.S.M.V., <i>The Coming of the Lord: A Study in the Creed</i>",
         printedIn: "A Religious of C.S.M.V., <i>The Coming of the Lord: A Study in the Creed</i> (London: A.R. Mowbray)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
         year: 1953,
         monthAndDay: null,
         textProvided: "I am delighted with <i>The Coming of the Lord</i>: delighted, excited, and most grateful. I think it is the best book the author has yet done, and the best theological book by any one I have read for a long time … A lovely little book.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["The text is reprinted in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him</i>, 3rd edition, ed. James T. Como (San Francisco: Ignatius, 2005), 469, item G40, with minor punctuation differences.","The text is ultimately based on a letter to Sister Penelope CSMV, 4 January 1953, found in <i>CL</i> 3:316-318: “I am simply <i>delighted</i> with <i>The Coming of the Lord</i>; delighted, excited, and most grateful. I think it is the best book you have yet done, and the best theological book by anyone I have read for a long time. (You are, among other things, the only person I ever meet who gives me real light on the Old Testament.) …[318] Anyway, it is a lovely little book. I am very much in your debt.”"]
     },
     {
-        title: "Blurb for <i>Childhood’s End</i> ",
+        title: "Blurb for Arthur C. Clarke, <i>Childhood’s End</i> ",
         printedIn: "Arthur C. Clarke, <i>Childhood’s End</i> (London: Sidgwick and Jackson)",
         issueOrVolume: "",
         pageRange: "dust jacket front flap",
         year: 1954,
         monthAndDay: null,
         textProvided: "It is quite out of range of the common space-and-time writers; away up near Lindsay’s <i>Voyage to Arcturus</i> and Wells’s <i>First Men in the Moon</i>. It hasn’t got Ray Bradbury’s delicacy, but then it has ten times his emotional power. . . . It’s rather like the effect of the <i>Ring</i>–a self-riching work, harmony piling up on harmony, grandeur on grandeur, pity on pity. . . . The first climax brought tears to my eyes. There has been nothing like it for years; partly for the actual invention, but partly because here we meet a modern author who understands that there may be things that have a higher claim on humanity than its own ‘survival’.",
-        type: "Prose",
-        notes: ["The text is derived from <i>CL</i> 3:390-391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York), with some unmarked omissions and even a significant word change (“the actual writing” in <i>CL</i> 3:391 becomes “the actual invention” in the blurb).", "In <i>CL</i> 3:410 note 39, Hooper prints a highly condensed version of the blurb found on the 1956 Pan paperback edition: “There has been nothing like it for years . . . an author who understands there may be things that have a higher claim on humanity than its own survival.” However, this version differs from the 1956 Pan paperback printing  I have seen: “The first climax brought tears to my eyes. There has been nothing like it for years.”"]
+        type: "Blurb",
+        notes: ["The text is derived from <i>CL</i> 3:390-391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York), with some unmarked omissions and even a significant word change (“the actual writing” in <i>CL</i> 3:391 becomes “the actual invention” in the blurb).", "There is yet another version, printed as part of an advertisement for <i>Childhood’s End</i> in the 7 May 1954 edition of <i>The Guardian</i>: “It is quite out of range of the common space-and-time writers; away up near Lindsay’s <i>Voyage to Arcturus </i>and Wells’s <i>First Men in the Moon</i>…There has been nothing like it for years; partly for the actual invention, but partly because here we meet a modern author who understands that there may be things that have a higher claim on humanity than its own ‘survival’.”", "In <i>CL</i> 3:410 note 39, Hooper prints a highly condensed version of the blurb found on the 1956 Pan paperback edition: “There has been nothing like it for years . . . an author who understands there may be things that have a higher claim on humanity than its own survival.” However, this version differs from the 1956 Pan paperback printing I have seen: “The first climax brought tears to my eyes. There has been nothing like it for years.”"]
     },
     {
-        title: "Blurb for <i>The Return of Arthur: A Poem of the Future</i>",
+        title: "Blurb for Harry Blamires, <i>Blessing Unbounded</i> (London: Longmans, Green and Company, 1955)",
+        printedIn: "<i>The Observer</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1955,
+        monthAndDay: "18 December",
+        textProvided: "This last one is definitely the best of the three…I admire the way he leads us time after time up the garden path; each time you think you’re in for a well-worn type of ridicule directed against a too familiar target, and each time you find that the purpose is quite different.",
+        type: "Blurb",
+        notes: ["See <i>CL</i> 3:682 note 367 for an indirect record of the text.", "The dust jacket for this edition does not contain any comment by Lewis."]
+    },
+    {
+        title: "Blurb for Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i>",
         printedIn: "Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i> (London: Chapman and Hall)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
-        year: 1956,
+        year: 1955,
         monthAndDay: null,
         textProvided: "I’ve romped through it with unflagging interest: a good, stiff sea-breeze of a poem which fills the lungs and makes one hold one’s hat on.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["Text is derived from <i>CL</i> 3:570 to Martyn Skinner, 27 February 1955: “I’ve romped thro’ it with unflagging interest: a good, stiff sea-breeze of a poem which fills the lungs and makes one hold one’s hat on. (There: but hesitate for using it as a blurb. My blurb did Tolkien’s <i>Lord of the Rings</i> – wh. is glorious, I hope you’ve read it – more harm than good).”", "The blurb is reprinted on Martyn Skinner, <i>The Return of Arthur: A Poem of the Future, Part 2</i> (London: Chapman and Hall, 1959), dust jacket back cover."]
+    },
+    {
+        title: "Paragraph and footnote exclusive to original publication of “Lilies that Fester”",
+        printedIn: "<i>Twentieth Century</i>",
+        issueOrVolume: "vol. 157, no. 938 (April)",
+        pageRange: "332-334",
+        year: 1955,
+        monthAndDay: null,
+        textProvided: false,
+        type: "Prose",
+        notes: ["This passage was rewritten when “Lilies that Fester” was republished in <i>They Asked for a Paper</i> (London: Geoffrey Bles, 1962), 108-110."]
+    },
+    {
+        title: "Blurb for Clare Kipps, <i>Sold for a Song</i> (London: Frederick Muller Ltd, 1956)",
+        printedIn: "<i>The Daily Telegraph and Morning Post</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1956,
+        monthAndDay: "15 June",
+        textProvided: "Every bit as good as its predecessor, and perhaps even more interesting.",
+        type: "Blurb",
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
+    },
+    {
+        title: "Blurb for Katharine M. Briggs, <i>Hobberdy Dick</i> (London: Eyre & Spottiswoode, 1955)",
+        printedIn: "<i>The Observer</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1956,
+        monthAndDay: "8 January",
+        textProvided: "What a splendid conception! How many people would have given their teeth to have thought of it. The ending is deeply satisfactory. I think I can congratulate you on a real discovery.",
+        type: "Blurb",
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
         title: "“Critical Forum: De Descriptione Temporum”",
@@ -481,14 +558,14 @@ const texts = [
         year: 1957,
         monthAndDay: null,
         textProvided: "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433.", "An expanded version of the blurb also appears in the publisher’s material at the end of the Fontana paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.”"]
     },
     {
         title: "Account of a lecture on Classical translations, “‘Translations from Hatred’: Classics in Modern Dress Condemned”",
         printedIn: "<i>The Times</i>",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1958,
         monthAndDay: "8 August",
         textProvided: "<div style='text-align: center'>“TRANSLATIONS FROM HATRED”</div><br/><div style='text-align: center'>CLASSICS IN MODERN DRESS CONDEMNED<br/>FROM OUR SPECIAL CORRESPONDENT</div><br/><div style='text-align: right'>CAMBRIDGE, AUG. 7</div><br/> In spite of the unlikely hour (immediately after breakfast) the hilarity of Professor C.S. Lewis, in his most mischievous mood, proved irresistible this morning when he delivered to the conference of classical teachers here a withering attack on modern translations of the classics. They apparently sprang, he declared, from “a very real hatred” of what most poetry, other than that of relatively recent times, has been.<br/><br/>Surveying, with acid asides, the great change he had seen during his lifetime, he admitted so little sympathy for the new idea that a translation should try to be “what the author would have written if he had lived in our own day.” What reason had we to suppose that Virgil, for instance, would have written anything at all or, if he did, would have got anywhere with it? Our age, with implacable hostility, would have known how to deal with him.<br/><br/><div style='text-align: center'>TWO CARDINAL SINS</div><br/>The present view seemed to be that ours were the only possible poetics, Professor Lewis observed; and that the old poets really must have conformed to them, however little they might appear to have done—and if they did not they must be made to do so. He singled out the opinions and Homeric translations of W. H. D. Rouse as his main target, though neither T. E. Lawrence nor Professor C. Day Lewis escaped wholly unscathed. (Of Dr. E. V. Rieu he would only say with a smile: “Rieu’s daughter was a pupil of mine and I have met him and liked them both very much.”)<br/><br/>Why, he demanded, was the Rousean view so widely held? He found much of the answer in the fact that the two cardinal sins to-day were archaisms and poetic diction. “I have seen strong young men almost turn pale at the use of an archaism.” With few exceptions all the poetry written in the past was now assumed to be “bunk”; poetry began with Mr. Eliot and Mr. Pound. Or it was argued, if you like to give the name poetry to the old stuff we shall give a new one to ours, but we want to take over the goodwill of the business.<br/><br/><div style='text-align: center'>ARCHAISM AND RITUAL</div><br/>Staunchly Profesor Lewis denied that “poetical language” was fit only for “toffs and cissies.” We still kept archaism and ritual elsewhere in life—in dressing for dances, for example—because there could not be a more obvious way of heightening the effect. He confessed he had found the same deplorable point of view in his own field. You were always discovering that some work the world had enjoyed for 300, 500, or 800 years was not what had been thought, but bore an extremely close resemblance to <i>The Outsider</i> or the like.<br/><br/>It was almost, he complained, as if there were a set of people who did not want the modern man to know there had once been a language different from our own. The age had to be carefully guarded, cut off from any subversive influence that might creep in from the poetry of the past.<br/><br/>Professor Lewis did not subscribe either to the theory that translations should try to recreate the impression the originals gave to their contemporaries. In this case we were not dealing with a snark or a boojum, but how could we know what any poem sounded like to its contemporaries? The only safe way was to seek as closely as possible the effect it would give a reader if he was really a tiptop, modern, classical scholar. Even so he gave warning against making the classics sound too English: “You don’t go to France to get tea, do you?”<br/><br/><div style='text-align: center'>MORAL LESSON</div><br/>We all knew he was a moralist, Professor Lewis cheerfully concluded, and he would be very sorry to end without drawing a useful moral lesson. It was that surely this picture of what happens to dead authors would cure us of any desire for posthumous fame, since we would only be attached to some cause we had never heard of and would probably have detested.<br/><br/>The conference ended with an obviously heartfelt discussion on the position of classics in the schools. It was introduced by Mr. H. D. P. Lee, headmaster of Winchester College, and Mr. A. W. Eagling, headmaster of the Cambridgeshire High School for Boys, both of whom doubted whether the most was being got out of Latin or Greek. ",
@@ -507,14 +584,14 @@ const texts = [
         notes: ["Lewis deleted chapters II-VI, IX, XI, XII, XVII and the two appendices entirely.", "The first chapter “The Scope of this book” was rewritten.", "There are many other changes in the text, but no one has yet made the complete comparison."]
     },
     {
-        title: "Blurb for <i>The Mezentian Gate</i>",
+        title: "Blurb for E.R. Eddison, <i>The Mezentian Gate</i>",
         printedIn: "E.R. Eddison, <i>The Mezentian Gate</i> (London: Curwen Press, 1958)",
         issueOrVolume: null,
         pageRange: "dust jacket back cover",
         year: 1958,
         monthAndDay: null,
         textProvided: "It is very rarely that a middle-aged man finds an author who gives him, what he knew so often in his teens and twenties, the sense of having opened a new door. One had thought those days were past. Eddison’s heroic romances disproved it. Here was a new literary species, a new rhetoric, a new climate of the imagination. Its effect is not evanescent, for the whole life and strength of a singularly massive and consistent personality lies behind it. Still less, however, is it mere self-expression, appealing only to those whose subjectivity resembles the author’s: admirers of Eddison differ in age and sex and include some (like myself) to whom his world is alien and even sinister. In a word, these books are works, first and foremost, of <i>art</i>. And they are irreplaceable. Nowhere else shall we meet this precise blend of hardness and luxury, of lawless speculation and sharply realised detail, of the cynical and the magnanimous. No author can be said to remind us of Eddison.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["Reprinted as “A Tribute to E.R. Eddison” in <i>Of This and Other Worlds</i> (1982) and <i>On Stories, and Other Essays on Literature </i> (1982), both edited by Walter Hooper, and <i>Essay Collection & Other Short Pieces</i> (2000), edited by Lesley Walmsley."]
     },
     {
@@ -540,26 +617,26 @@ const texts = [
         notes: ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called <i>Four Talks on Love</i>. The scripts served as a basis for Lewis’s book, <i>The Four Loves</i>.", "If anyone has scans of this text, please send it to me!"]
     },
     {
-        title: "Blurb for <i>Titus Alone</i>",
+        title: "Blurb for Mervyn Peake, <i>Titus Alone</i>",
         printedIn: "Mervyn Peake, <i>Titus Alone,</i> (London: Eyre and Spottiswoode)",
         issueOrVolume: null,
         pageRange: "<a href='https://www.dustjackets.com/pages/books/4090/mervyn-peake/titus-alone' target='_blank' rel='noopener noreferrer' class='link-to-text'></a>dust jacket front and back flaps",
         year: 1959,
         monthAndDay: null,
         textProvided: "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemaniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["Reprinted in <i>CL</i> 3:1061 note 129 and in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 470, item G49."]
     },
     {
-        title: "Blurb for <i>Adam: A Tone Poem</i>",
+        title: "Blurb for David Bolt, <i>Adam: A Tone Poem</i>",
         printedIn: "David Bolt, <i>Adam: A Tone Poem</i> (New York: John Day Company)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
         year: 1961,
         monthAndDay: null,
-        textProvided: "[UK Edition[US Edition] I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
-        type: "Prose",
-        notes: ["A shorter version that omits the second through seventh sentences of the US version was also used for the first UK edition (London: J.M. Dent, 1960), front band around the dust jacket. The shorter UK edition is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 471, item G52.", "The longer, 10-sentence US version is used on a later UK edition (London: Sidgwick and Jackson, 1979), dust jacket back cover, and is reprinted in Kathryn Lindskoog, <a href='https://www.discovery.org/a/1033/' target='_blank' rel='noopener noreferrer' class='link-to-text'>“A New Discovery: C.S. Lewis Praises Adam,”</a> <i>Lewis Legacy</i>, lxxxvi (Autumn 2000) as well as in Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435."]
+        textProvided: "I think it splendid. This book does successfully a very difficult thing. To have a sensuous imagination, at once robust and delicate, is much. To embody it in words is more. To do this continually without cloying and suffocating the reader—to combine such richness with such freshness—is more still. But to re-tell the story of Adam as Mr. Bolt has done is most of all. There is no patronage, no parody, no allegorization. The book seems to rise of itself out of prolonged meditation; the author has seen it taking just this shape. We with him, feel it would not have been otherwise. A false step would have been fatal, but the author makes none.",
+        type: "Blurb",
+        notes: ["A shorter version that omits the second through seventh sentences of the US version was also used for the first UK edition (London: J.M. Dent, 1960), front band around the dust jacket. The shorter UK edition is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 471, item G52.", "A third, even shorter version was used in an advertisement in <i>The Daily Telegraph and Morning Post</i> (23 September 1960).", "The longest, 10-sentence US version is used on a later UK edition (London: Sidgwick and Jackson, 1979), dust jacket back cover, and is reprinted in Kathryn Lindskoog, <a href='https://www.discovery.org/a/1033/' target='_blank' rel='noopener noreferrer' class='link-to-text'>“A New Discovery: C.S. Lewis Praises Adam,”</a> <i>Lewis Legacy</i>, lxxxvi (Autumn 2000) as well as in Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435."]
     },
     {
         title: "Revisions to “The Cardinal Difficulty of Naturalism”",
@@ -606,6 +683,17 @@ const texts = [
         notes: ["I include this because copies of <i>They Asked for a Paper</i> are not in print."]
     },
     {
+        title: "Blurb for Katharine Trevelyan, <i>Fool in Love</i> (London: Victor Gollancz, 1962)",
+        printedIn: "<i>The Observer</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1962,
+        monthAndDay: "1 July",
+        textProvided: "As full of pity & terror as Bunyan’s <i>Grace Abounding</i>",
+        type: "Blurb",
+        notes: ["It is currently unknown whether the dust jacket of this edition contains any remark by Lewis."]
+    },
+    {
         title: "Comments on contemporary Christianity",
         printedIn: "“Scholars Cite Obstacles to Christian Advance,” <i>Christianity Today</i>",
         issueOrVolume: "vol. 7, no. 1",
@@ -631,7 +719,7 @@ const texts = [
         title: "“Must Our Image of God Go?” (slightly revised)",
         printedIn: "<i>The Honest to God Debate</i>, ed. David Lawrence Edwards (Westminster Press)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1963,
         monthAndDay: null,
         textProvided: false,
@@ -639,14 +727,14 @@ const texts = [
         notes: ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970).", "If you have a scan of the Westminster Press text, please send it to me!"]
     },
     {
-        title: "Blurb for <i>Saving Belief</i>",
+        title: "Blurb for Austin Farrer, <i>Saving Belief</i>",
         printedIn: "Austin Farrer, <i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         issueOrVolume: null,
         pageRange: "dust jacket",
         year: 1964,
         monthAndDay: null,
         textProvided: "‘It has become customary with theologians to let themselves off a plain answer’ (p. 98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
@@ -680,7 +768,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["Only the penultimate paragraph of this “Note” was printed on the back cover of the 1<sup>st</sup> UK edition dust jacket (London: Geoffrey Bles, 1956).", "The “Note” is  printed in full the Time special paperback edition (New York: Time, 1966), [page range unknown]; the Eerdmans paperback edition of the same year (Grand Rapids, MI: Eerdmans, 1966), 311-313; the Fount Paperbacks edition (1978, 1998), [page range unknown]; the Harvest edition by Harcourt (1980), 311-313; and the Mariner Books edition by Houghton Mifflin Harcourt (2012), 311-313", "This text has not yet been transcribed. If you would like to do so, let me know."]
+        notes: ["Only the penultimate paragraph of this “Note” was printed on the back cover of the 1<sup>st</sup> UK edition dust jacket (London: Geoffrey Bles, 1956).", "The “Note” is  printed in full the Time special paperback edition (New York: Time, 1966); the Eerdmans paperback edition of the same year (Grand Rapids, MI: Eerdmans, 1966), 311-313; the Fount Paperbacks edition (1978, 1998); the Harvest edition by Harcourt (1980), 311-313; and the Mariner Books edition by Houghton Mifflin Harcourt (2012), 311-313", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
         title: "Manuscripts on Spenser",
@@ -950,7 +1038,7 @@ const texts = [
         title: "Inscription to J.R.R. Tolkien in a presentation copy of <i>The Screwtape Letters</i>",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1978,
         monthAndDay: null,
         textProvided: "In token payment of a great debt",
@@ -1049,7 +1137,7 @@ const texts = [
         title: "Notes on the <i>Lay of Leithian</i> by J.R.R.",
         printedIn: "J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1985,
         monthAndDay: null,
         textProvided: false,
@@ -1167,15 +1255,26 @@ const texts = [
         notes: null
     },
     {
-        title: "Blurb for <i>The Fellowship of the Ring</i>",
+        title: "Blurb for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
         printedIn: "J.R.R. Tolkien, <i>The Fellowship of the Ring: Being the First Part of the Lord of the Rings</i> (London: George Allen and Unwin)",
         issueOrVolume: null,
         pageRange: "dust jacket front flap",
         year: 1954,
         monthAndDay: null,
         textProvided: "If Ariosto rivalled it in invention (in fact he does not) he would still lack its heroic seriousness. No imaginary world has been projected which is at once multifarious and so true to its own inner laws; none so seemingly objective, so disinfected from the taint of an author’s merely individual psychology; none so relevant to the actual human situation yet so free from allegory. And what fine shading there is in the variations of style to meet the almost endless diversity of scenes and characters–comic, homely, epic, monstrous, or diabolic.",
-        type: "Prose",
+        type: "Blurb",
         notes: ["From <i>CL</i> 3:383 to Stanley Unwin (4 December 1953). The blurb portion of this letter, along with a holograph of it, is reprinted in <i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library, 1992), 62."]
+    },
+    {
+        title: "Blurb for Robert Penn Warren, <i>Brother to Dragons</i> (London: Eyre and Spottiswoode, 1953)",
+        printedIn: "<i>The Guradian</i>",
+        issueOrVolume: null,
+        pageRange: null,
+        year: 1954,
+        monthAndDay: "29 June",
+        textProvided: "A work modern in its grimness but classical in its sanity, which displays (especially in its architectonics) very high powers of invention.",
+        type: "Blurb",
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Random House, 1953)."]
     },
     {
         title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
@@ -1332,15 +1431,15 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to his father on the flyleaf of presentation copy of <i>The Pilgrim’s Regress</i>",
-        printedIn: "Jeffrey D. Schultz, entry on <i>The Pilgrim’s Regress</i> in <i>The C.S. Lewis Readers’ Encyclopedia,</i> ed. Jeffrey D. Schultz and John D. West Jr. (Grand Rapids, MI: Zondervan)",
+        title: "Comment on the blurb of <i>The Pilgrim’s Regress</i> (New York: Sheed & Ward, 1935), dust jacket front flap",
+        printedIn: "the entry on <i>The Pilgrim’s Regress</i> in <i>The C.S. Lewis Readers’ Encyclopedia,</i> ed. Jeffrey D. Schultz and John D. West Jr. (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
         pageRange: "323",
         year: 1998,
         monthAndDay: null,
-        textProvided: "[With regard to the publisher Sheed and Ward’s comments on the flyleaf of the dust jacket: “Mr. Lewis’s wit would probably seem to Bunyan sinful. Certainly his theology would” and “The hero, brought up in Puritania (Mr. Lewis himself was born in Ulster), cannot abide the religion he finds there.”]<br/><br/>The suggestions are put in by the unspeakable Sheed with no authority of mine & without my knowledge.",
+        textProvided: "[Lewis had underlined these words in the blurb: “Mr. Lewis’s wit would probably seem to Bunyan sinful” and “Mr. Lewis himself was born in Ulster”:]<br/><br/>The suggestions are put in by the unspeakable Sheed with no authority of mine & without my knowledge.",
         type: "Prose",
-        notes: null
+        notes: ["The source incorrectly claims that Lewis’s comment was written on the flyleaf, when in fact it is written on the front flap of the jacket, below the blurb.", "It also claims that this particular copy of <i>The Pilgrim’s Regress</i> was presented to Lewis’s father. However, Albert Lewis had died on 25 September 1929, approximately six years before the Sheed & Ward edition was published and almost three before the original draft of the <i>Regress</i> was composed in August 1932."]
     },
     {
         title: "Inscription to Penelope Bleakeley on her copy of <i>The Lion, the Witch, and the Wardrobe</i>",
@@ -1349,7 +1448,7 @@ const texts = [
         pageRange: "155",
         year: 1998,
         monthAndDay: null,
-        textProvided: "Dear Penelope,<br/><br/>Jack Lewis wrote all this. He didn’t draw a picture, though. That is why the giant who had a beard in the picture on page 91 is clean-shaven in the picture at p.157. This is wrong. Giants hardly ever shave because they can’t get razor blades of the right size.<br/><br/>This (down below) is Jack Lewis’s ort gr autograph - anyway this is how I sign my name.<br/><br/>C.S. Lewis",
+        textProvided: "Dear Penelope,<br/><br/>Jack Lewis wrote all this. He didn’t draw a picture, though. That is why the giant who had a beard in the picture on page 91 is clean-shaven in the picture at p.157. This is wrong. Giants hardly ever shave because they can’t get razor blades of the right size.<br/><br/>This (down below) is Jack Lewis’s ort gr autograph—anyway this is how I sign my name.<br/><br/>C.S. Lewis",
         type: "Prose",
         notes: null
     },
@@ -1426,7 +1525,7 @@ const texts = [
         pageRange: "124",
         year: 2000,
         monthAndDay: null,
-        textProvided: "[...the flyleaf of Lewis’s personal copy of <i>Othello</i> has a long note by him, describing the play in terms of the hero’s frightening blackness for its contemporary audiences (not the same as color- or race- prejudice), and seeing Othello as a good but dangerous ogre from the wild outside, whom the foolish white lady marries, like Beauty and the Beast. Othello]<br/><br/>may do anything<br/><br/>[{with} Iago serving as a mere catalyst for a primed explosive. Othello’s essence, not the situation in the play, makes him jealous and mad.]",
+        textProvided: "[...the flyleaf of Lewis’s personal copy of <i>Othello</i> has a long note by him, describing the play in terms of the hero’s frightening blackness for its contemporary audiences (not the same as color- or race-prejudice), and seeing Othello as a good but dangerous ogre from the wild outside, whom the foolish white lady marries, like Beauty and the Beast. Othello]<br/><br/>may do anything<br/><br/>[{with} Iago serving as a mere catalyst for a primed explosive. Othello’s essence, not the situation in the play, makes him jealous and mad.]",
         type: "Prose",
         notes: null
     },
@@ -1789,7 +1888,7 @@ const texts = [
         pageRange: "89 (holographs) and 90 (transcription)",
         year: 2006,
         monthAndDay: null,
-        textProvided: "Have passed from Atheism to Xty - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master - dog: father - son: man - woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
+        textProvided: "Have passed from Atheism to Xty - and more & more <u></u>definite.<br/>Doctrinal.<br/>Wing Commander Snooks.<br/>Quite right in thinking experience more “real.”<br/>But a map <br/>(a) Based on innumerable real experiences<br/>(b) Necessary for sailing.<br/>Knowledge = experience + logic.<br/>In religion the instrument is the whole man<br/>(Keep in good order).<br/>Behind Xty <br/>(1) The continuous systematic Jewish experience.<br/>i.e. the unity of God & it <u>does</u> matter<br/>(2) Experience of Xt.<br/>What that experience really means.<br/>Either a lunatic or ________<br/>(3) The corporate experience of a Society He founded.<br/>When you work all that out you get the Creeds.<br/>Anyone vaguely thinking about “religion” & ignoring all this, like a man starting Physics “on his own.”<br/>“Does it matter what men worship provided it’s good?”!<br/>Yes! matters whether it’s <u>there</u><br/>Right & wrong conceptions of God’s Love<br/>Master—dog: father—son: man—woman<br/>Conception of Man.<br/>Not an imperfect creature who needs development but<br/>a rebel who must remember.<br/>Wrong conception of Matter.<br/>“Our bodies drag us down” “the animal vices are the worst”<br/>God created matter. Our words get us into more trouble than <br/>our bodies. All the <u>worst</u> pleasures are spiritual.<br/>Wrong conception of what <u>to do</u>.<br/>-----t our own efforts. Prayer [&] sacraments ----- is -----",
         type: "Prose",
         notes: ["Reprinted in Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 36-37. They make one emendation in line one, changing “Xnity” to “Xty.”"]
     },
@@ -1811,7 +1910,7 @@ const texts = [
         pageRange: "110",
         year: 2006,
         monthAndDay: null,
-        textProvided: "Owen Barfield from Jack Lewis, October 1950.",
+        textProvided: "Owen Barfield from Jack Lewis, October 1950",
         type: "Prose",
         notes: null
     },
@@ -1967,7 +2066,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On <i>City of God</i> 14.18:]<br/><br/>No disobedient impulses existed before the Fall.",
         type: "Prose",
-        notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis</i>, eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007), [page range unknown]."]
+        notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis</i>, eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
         title: "Annotation in his copy of Dante, <i>De Monarchia</i>",
@@ -1978,7 +2077,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[The Monarch] is to supply the major premises of the practical syllogism to the subordinate Princes, being to them as Wisdom is to Prudence.",
         type: "Prose",
-        notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007), [page range unknown]."]
+        notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
         title: "Annotation in his copy of Richard Hooker, <i>Of the Laws of Ecclesiastical Polity</i>",
@@ -1989,7 +2088,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[Written on the front page:]<br/><br/>The soul ought to rule the body and ‘the spirit of our mind’ the soul.",
         type: "Prose",
-        notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007), [page range unknown]."]
+        notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
         title: "Annotation in his copy of Plato, <i>Laws</i>",
@@ -2000,7 +2099,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On 652b]<br/><br/>Education is right liking and right disliking, wh. must begin with habituation: its intellectual basis comes later, if at all",
         type: "Prose",
-        notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007), [page range unknown]."]
+        notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
         title: "Note on the meter in his poem, “To Charles Williams,” in a presentation copy of <i>Arthurian Torso</i>",
@@ -2009,9 +2108,9 @@ const texts = [
         pageRange: "205 endnote 49 for chapter 7",
         year: 2007,
         monthAndDay: null,
-        textProvided: "[Glyer’s additions in square brackets including the incorrect additional “t” in contour, and no comma in Glyer before “consconances”]<br/><br/>It was an experiment in a metre invented by my friend Barfield, an 8-stressed line with the first six stresses coming in pairs (roughly u-- u-- u-- u- u-) and underlined (to taste) by internal rhymes (call, all - truly, new l[ight] -) consonances (once, wince) or both mixed (can’t, cont[tuor], slant).",
+        textProvided: "[Glyer’s additions in square brackets including the incorrect additional “t” in contour, and no comma in Glyer before “consconances”]<br/><br/>It was an experiment in a metre invented by my friend Barfield, an 8-stressed line with the first six stresses coming in pairs (roughly u-- u-- u-- u- u-) and underlined (to taste) by internal rhymes (call, all—truly, new l[ight]—) consonances (once, wince) or both mixed (can’t, cont[tuor], slant).",
         type: "Prose",
-        notes: ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books [year unknown]."]
+        notes: ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books."]
     },
     {
         title: "Note on early typescript of <i>Letters to Malcolm</i> (later deleted by Lewis)",
@@ -2527,7 +2626,7 @@ const texts = [
         pageRange: "Annexe B (transcription)",
         year: 2017,
         monthAndDay: null,
-        textProvided: "[What follows are the texts of the four major paragraphs in the manuscripts as printed by Johnston that were omitted in <i>Broadcast Talks.</i> The first two of these were also printed in Walter Hooper’s <i>Companion and Guide.</i>]<br/><br/>[<i>Companion & Guide</i> 306-307 = Johnston 350-351; cut from <i>Broadcast Talks,</i> Part II, chapter I, 37. The cut paragraph would have been the first paragraph. Hooper also includes, or inserts, an extra word, given below in {braces}.]<br/><br/>It’s not because I’m anybody in particular that I’ve been asked to tell you what Christians believe. In fact, it’s just the opposite. They’ve asked me, first of all because I’m a layman and not a parson, and consequently it was thought I might understand the ordinary person’s point of view a bit better. Secondly, I think they asked me because it was known that I’d been an atheist for many years and only became a Christian quite fairly recently. They thought that would mean I’d be able to see the difficulties - able to remember what Christianity looks like from the outside. So you see, the long and short of it is that I’ve been selected for this job just because I’m an amateur not a professional, and a beginner, not an old hand. Of course, this means that you may well ask what right I have to talk on the subject at all. Well, when I’d finished the scripts, I sent them round to various people who <u>were</u> professionals: to one Church of England theologian, one Roman Catholic, one Presbyterian, and one Methodist. The Church of England man and the Presbyterian agreed with the whole thing. The Roman Catholic and the Methodist agreed in the main, but would have liked one or two places altered. So there you’ve got all the cards on the table. What I’m going to say isn’t <u>exactly</u> what all these people would say; but the greater part of it is what all Christians agree on. And the main reason why I couldn’t alter it so as to make them agree completely was that I’ve only got 15 minutes for each talk. That doesn’t give you time to make many subtle distinctions. You’ve got to go at it rather like a bull in a china shop or you won’t get through. One thing I can promise you. In spite of all {the} unfortunate differences between Christians, what they agree on is still something pretty big and pretty solid; big enough to blow any of us sky-high if it happens to be true. And if it’s true, it’s quite ridiculous to put off doing anything about it simply because Christians don’t fully agree among themselves. That’s as if a man bleeding to death refused medical assistance because he’d heard that some doctors differed about the treatment of cancer. For if Christianity is true at all, it’s as serious as that. Well, here goes.<br/><br/>[<i>Companion & Guide</i> 308 = Johnston 361; cut from <i>Broadcast Talks,</i> Part II, chapter III, 51. The cut paragraph would have come midway through the final paragraph, right after “...or the Devil of Hell.”]<br/><br/>Of course you can take the line of saying He didn’t say these things, but His followers invented them. But that’s only shifting the difficulty. They were Jews too: the last people who would invent such a thing, the people who had never said anything of the sort about Moses or Elijah. That theory only saddles you with twelve inexplicable lunatics instead of one. We can’t get out of it that way. <br/><br/>[Johnston 344, cut from <i>Broadcast Talks,</i> Part I, chapter IV, 23. The cut paragraph was replaced by the first sentence of the chapter as printed.]<br/><br/>I must begin by apologizing for my voice. Since we last met I’ve managed to catch an absolute snorter of a cold. So if you hear this talk wildly interrupted tonight by a loud crash you needn’t jump to any rash conclusions. It’ll be probably only be me sneezing or coughing. Well the point I got to last week was this.<br/><br/>[Johnston 359, cut from <i>Broadcast Talks,</i> Part II, chapter III, 47. This passage would have come in the third paragraph, after the sentence ending “...hardly be worth creating.”]<br/><br/>Some people don’t see this because they haven’t tried to imagine a world without free will. Just imagine someone you’re fond of–your wife or your daughter–meeting you, and being nice to you, and then imagine that you knew all the time that every look, and word, and laugh was just as much out of her control as the weather–that she couldn’t possibly do otherwise–that it all <u>meant</u> nothing. Imagine a world in which a man who jumped in to save your life when you were drowning was no more to be thanked than a man who had accidentally fallen in after you, because neither of them had the slightest choice in the matter! Imagine a world in which it made no difference whether you knew what your son had been doing today because he told you the truth or because you’d set a private detective to watch him–since in either case his will would have had nothing to do with it. A world in which you couldn’t even feel pleased when you’d made a good stroke at golf because your efforts had had nothing to do with it and you were <u>bound</u> to hit the ball right. In fact that’s a good example. In the real world we distinguish good strokes from flukes. In a world without freedom, everything would be a fluke. Don’t you see it would be a nightmare? A world without love, without thanks, without friends, even without amusements. I think after a week of that world you’d be very glad to get back to the real one, with all its wars and wickedness and suffering. At any rate there’s no doubt which world God has chosen to make.",
+        textProvided: "[What follows are the texts of the four major paragraphs in the manuscripts as printed by Johnston that were omitted in <i>Broadcast Talks.</i> The first two of these were also printed in Walter Hooper’s <i>Companion and Guide.</i>]<br/><br/>[<i>Companion & Guide</i> 306-307 = Johnston 350-351; cut from <i>Broadcast Talks,</i> Part II, chapter I, 37. The cut paragraph would have been the first paragraph. Hooper also includes, or inserts, an extra word, given below in {braces}.]<br/><br/>It’s not because I’m anybody in particular that I’ve been asked to tell you what Christians believe. In fact, it’s just the opposite. They’ve asked me, first of all because I’m a layman and not a parson, and consequently it was thought I might understand the ordinary person’s point of view a bit better. Secondly, I think they asked me because it was known that I’d been an atheist for many years and only became a Christian quite fairly recently. They thought that would mean I’d be able to see the difficulties—able to remember what Christianity looks like from the outside. So you see, the long and short of it is that I’ve been selected for this job just because I’m an amateur not a professional, and a beginner, not an old hand. Of course, this means that you may well ask what right I have to talk on the subject at all. Well, when I’d finished the scripts, I sent them round to various people who <u>were</u> professionals: to one Church of England theologian, one Roman Catholic, one Presbyterian, and one Methodist. The Church of England man and the Presbyterian agreed with the whole thing. The Roman Catholic and the Methodist agreed in the main, but would have liked one or two places altered. So there you’ve got all the cards on the table. What I’m going to say isn’t <u>exactly</u> what all these people would say; but the greater part of it is what all Christians agree on. And the main reason why I couldn’t alter it so as to make them agree completely was that I’ve only got 15 minutes for each talk. That doesn’t give you time to make many subtle distinctions. You’ve got to go at it rather like a bull in a china shop or you won’t get through. One thing I can promise you. In spite of all {the} unfortunate differences between Christians, what they agree on is still something pretty big and pretty solid; big enough to blow any of us sky-high if it happens to be true. And if it’s true, it’s quite ridiculous to put off doing anything about it simply because Christians don’t fully agree among themselves. That’s as if a man bleeding to death refused medical assistance because he’d heard that some doctors differed about the treatment of cancer. For if Christianity is true at all, it’s as serious as that. Well, here goes.<br/><br/>[<i>Companion & Guide</i> 308 = Johnston 361; cut from <i>Broadcast Talks,</i> Part II, chapter III, 51. The cut paragraph would have come midway through the final paragraph, right after “...or the Devil of Hell.”]<br/><br/>Of course you can take the line of saying He didn’t say these things, but His followers invented them. But that’s only shifting the difficulty. They were Jews too: the last people who would invent such a thing, the people who had never said anything of the sort about Moses or Elijah. That theory only saddles you with twelve inexplicable lunatics instead of one. We can’t get out of it that way. <br/><br/>[Johnston 344, cut from <i>Broadcast Talks,</i> Part I, chapter IV, 23. The cut paragraph was replaced by the first sentence of the chapter as printed.]<br/><br/>I must begin by apologizing for my voice. Since we last met I’ve managed to catch an absolute snorter of a cold. So if you hear this talk wildly interrupted tonight by a loud crash you needn’t jump to any rash conclusions. It’ll be probably only be me sneezing or coughing. Well the point I got to last week was this.<br/><br/>[Johnston 359, cut from <i>Broadcast Talks,</i> Part II, chapter III, 47. This passage would have come in the third paragraph, after the sentence ending “...hardly be worth creating.”]<br/><br/>Some people don’t see this because they haven’t tried to imagine a world without free will. Just imagine someone you’re fond of–your wife or your daughter–meeting you, and being nice to you, and then imagine that you knew all the time that every look, and word, and laugh was just as much out of her control as the weather–that she couldn’t possibly do otherwise–that it all <u>meant</u> nothing. Imagine a world in which a man who jumped in to save your life when you were drowning was no more to be thanked than a man who had accidentally fallen in after you, because neither of them had the slightest choice in the matter! Imagine a world in which it made no difference whether you knew what your son had been doing today because he told you the truth or because you’d set a private detective to watch him–since in either case his will would have had nothing to do with it. A world in which you couldn’t even feel pleased when you’d made a good stroke at golf because your efforts had had nothing to do with it and you were <u>bound</u> to hit the ball right. In fact that’s a good example. In the real world we distinguish good strokes from flukes. In a world without freedom, everything would be a fluke. Don’t you see it would be a nightmare? A world without love, without thanks, without friends, even without amusements. I think after a week of that world you’d be very glad to get back to the real one, with all its wars and wickedness and suffering. At any rate there’s no doubt which world God has chosen to make.",
         type: "Prose",
         notes: null
     },
@@ -2594,7 +2693,7 @@ const texts = [
         year: 2019,
         monthAndDay: null,
         textProvided: "[{12} Question 6 on the A{dvance} I{nformation} sheet asks about The Book and Its Readers: “Please give a short description of your book in simple non-technical language which will be understood by salesmen and booksellers in all countries–who need to know about it in sufficient detail to direct it towards the right buyers. Please say what it is about, its main purpose, its importance as you see it. {13} Don’t be afraid to state what would be obvious to specialists in your subject.” Lewis’s response is as follows:]<br/><br/>In how many different senses do you use the words <i>wit</i> or <i>nature</i> (or <i>sense</i> itself)? How many more senses of them have you found in old authors? How did such multiplicity of meanings come about? Do you always know which sense you are using yourself? These are the questions to which this work attempts an answer as regards seven words. They have been selected mainly for the light they throw on the history of thought and sentiment. But it is hoped that the study of them will have for the reader (as it has had for the author) a more than historical interest in increasing his awareness of what we are doing when we talk. It ‘belongs’ on the same shelf as Pearsall Smith’s <i>Four Words,</i> Owen Barfield’s <i>Poetic Diction,</i> and Professor Empson’s <i>Structure of Complex Words</i>.",
-        type: "Prose",
+        type: "Blurb",
         notes: null
     },
     {
@@ -2678,11 +2777,11 @@ const texts = [
         title: "Unused blurb for <i>The Abolition of Man</i> in letter to Roy Niblett (June 14 1943)",
         printedIn: "Michael Ward, <i>After Humanity: A Guide to C.S. Lewis’s The Abolition of Man</i> (Park Ridge: Word on Fire Academic)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: "128",
         year: 2021,
         monthAndDay: null,
         textProvided: "In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
-        type: "Prose",
+        type: "Blurb",
         notes: null
     },
     {
@@ -2703,7 +2802,7 @@ const texts = [
         pageRange: "44 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Had Chaucer liv’d that angel face to view<br/>(<u>To the Duchess of Ormond</u> - introductory verses<br/>To <u>Palamon & Arcite</u>)<br/><br/>Let not th’ insulting foe my fame pursue<br/>(Ep 10. <u>To Mr. Congreve</u>)<br/><br/>Since the pleasure of seeing you I<br/>have missed my Arden <u>Rich III</u>",
+        textProvided: "Had Chaucer liv’d that angel face to view<br/>(<u>To the Duchess of Ormond</u>—introductory verses<br/>To <u>Palamon & Arcite</u>)<br/><br/>Let not th’ insulting foe my fame pursue<br/>(Ep 10. <u>To Mr. Congreve</u>)<br/><br/>Since the pleasure of seeing you I<br/>have missed my Arden <u>Rich III</u>",
         type: "Prose",
         notes: null
     },
@@ -3161,10 +3260,10 @@ const texts = [
     },
     // LETTERS
     {
-        title: "Letter to Dorothy Sayers (date unknown)",
+        title: "Letter to Dorothy Sayers",
         printedIn: "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         issueOrVolume: "vol. 28, no. 3",
-        pageRange: "[page range unknown] and <a href='https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        pageRange: "<a href='https://arltblog.wordpress.com/dorothy-sayers-address-to-the-arlt-1952/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 1952,
         monthAndDay: "October",
         textProvided: "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
@@ -3172,7 +3271,7 @@ const texts = [
         notes: ["Paul Tankard’s listing in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, claims this letter is found in volume 38 of <i>Latin Teaching,</i> which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.",]
     },
     {
-        title: "Letter to Mahmoud Manzalaoui (date unknown)",
+        title: "Letter to Mahmoud Manzalaoui",
         printedIn: "Mahmoud Manzalaoui, “Lydgate and English Prosody,” <i>Cairo Studies in English</i>",
         issueOrVolume: null,
         pageRange: "94",
@@ -3194,7 +3293,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to Dorothea Conybeare (date unknown)",
+        title: "Letter to Dorothea Conybeare",
         printedIn: "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         issueOrVolume: null,
         pageRange: "261 note 1",
@@ -3420,7 +3519,7 @@ const texts = [
         pageRange: "24-25",
         year: 2017,
         monthAndDay: null,
-        textProvided: "Ans’d 6/5/39<br/>Magdalen College, Oxford.<br/>May 2nd 1939<br/><br/>Dear Belgion<br/><br/>It seems we are agreed.  I fully admit that there is “in the notion of C. L. as expounded by the Troubadours an element irreconcilable with the description of C. L. by a Christian as a ‘noble and ennobling passion’.” But when did I describe C. L. as a noble and ennobling passion? What I said (p. 3) was that ‘it seems or seemed to us till lately natural that love shd. be regarded as a noble and ennobling passion’ and thought this prevalent view resulted from the change begun by the Troubadours. We are confusing 2 different propositions.<br/><br/>A.	I, C.S. Lewis, think C. L. a noble passion.<br/>B. Courtly Love inaugurated a tradition which still survives in the prevalent view that Love is a noble passion.<br/><br/>I asserted B, never A. Surely the difference is obvious<br/><br/>A. C. L. = noble passion<br/>B. View that L is a noble passion = a result of C. L.<br/><br/>I admit I seem to have missed the <i>tone</i> of your review and taken <i>au pied de la lettre</i> what was meant as light raillery.<br/><br/>My reference to Lewis Carroll etc was a way (perhaps rather unkind) of pointing out the difference between the statement you attributed to me (that the <i>themes</i> of modern <i>imaginative literature</i> were derived from the Troubadours) and my real claim (that the <i>tone</i> of modern <i>imaginative lit. about love</i> were [sic] derived from the Troubadours) Once again its the difference between<br/><br/>TH (m. I. L) = d. from TR <br/>T (m. I. L about Love) = d. from TR. <br/><br/>Sorry to be so troublesome, <br/><br/>Yours<br/><br/>C.S. Lewis",
+        textProvided: "Ans’d 6/5/39<br/>Magdalen College, Oxford.<br/>May 2nd 1939<br/><br/>Dear Belgion<br/><br/>It seems we are agreed. I fully admit that there is “in the notion of C. L. as expounded by the Troubadours an element irreconcilable with the description of C. L. by a Christian as a ‘noble and ennobling passion’.” But when did I describe C. L. as a noble and ennobling passion? What I said (p. 3) was that ‘it seems or seemed to us till lately natural that love shd. be regarded as a noble and ennobling passion’ and thought this prevalent view resulted from the change begun by the Troubadours. We are confusing 2 different propositions.<br/><br/>A.	I, C.S. Lewis, think C. L. a noble passion.<br/>B. Courtly Love inaugurated a tradition which still survives in the prevalent view that Love is a noble passion.<br/><br/>I asserted B, never A. Surely the difference is obvious<br/><br/>A. C. L. = noble passion<br/>B. View that L is a noble passion = a result of C. L.<br/><br/>I admit I seem to have missed the <i>tone</i> of your review and taken <i>au pied de la lettre</i> what was meant as light raillery.<br/><br/>My reference to Lewis Carroll etc was a way (perhaps rather unkind) of pointing out the difference between the statement you attributed to me (that the <i>themes</i> of modern <i>imaginative literature</i> were derived from the Troubadours) and my real claim (that the <i>tone</i> of modern <i>imaginative lit. about love</i> were [sic] derived from the Troubadours) Once again its the difference between<br/><br/>TH (m. I. L) = d. from TR <br/>T (m. I. L about Love) = d. from TR. <br/><br/>Sorry to be so troublesome, <br/><br/>Yours<br/><br/>C.S. Lewis",
         type: "Letter",
         notes: ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C.S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47."]
     },
@@ -3461,7 +3560,7 @@ const texts = [
         title: "Letter to Albert Lewis (1 March 1909)",
         printedIn: "<i>Hertfordshire Countryside</i>",
         issueOrVolume: "vol. 37, no. 282",
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1982,
         monthAndDay: "October",
         textProvided: "Mrs Capron died about 10 o’c this morning. Of course we are all very sorry about it, it has been very sudden. Mr. Capron is in a very bad temper about it, but that is his usual way of taking trouble. …Coming as it does so soon after our own trouble, it makes me feel very down. I was very fond of Mrs. Capron. All the other boarders have written to know if they can’t go home, but unless Mr. Capron gets worse we don’t want to.",
@@ -3556,7 +3655,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G22."]
     },
     {
-        title: "Letter to the editor",
+        title: "Letter to the editor (date unknown)",
         printedIn: "<i>English</i>",
         issueOrVolume: "vol. 14",
         pageRange: "75",
@@ -3573,7 +3672,7 @@ const texts = [
         pageRange: "84-85",
         year: 1931,
         monthAndDay: "January",
-        textProvided: "CORRESPONDENCE<br/><br/>SPENSER’S IRISH EXPERIENCES AND <i>THE FAERIE QUEENE</i><br/><br/>THE EDITOR, <i>Review of English Studies.</i><br/><br/>SIR,<br/><br/>In an interesting article printed in your October number Mr. M. M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article − an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial − that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br/><br/>[84]If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br/><br/><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br/><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br/><br/>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br/><br/><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br/><br/>Il manto si rivolse al braccio manco <br/>E con la spada i malandrini affronta.<br/>Mai non fu campion cotanto franco. <br/>Questo tocca di taglio e quel di ponta,<br/>A l’un il petto, a l’altro passa il fianco:<br/>Or che bisogna che più vi racconta? <br/>Tutti i ladroni uccise in poco d’ora,<br/>Si ben col brando intorno li lavora.<br/><br/>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br/><br/>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br/><br/>Thus as he spoke, loe! with outragious cry<br/>A thousand villeins round about them swarm’d <br/>Out of the rockes and caves adjoyning nye<br/>(<i>F.Q.</i> II, ix, 13)<br/><br/>is the passage in which the same Brandimarte − who has particularly bad luck in the matter of robbers − is attacked in <i>O.I.</i> II, xxvi, 53.<br/><br/>Ragionava in tal modo Doristella <br/>Ed altre cose assai volea seguire <br/>Che non era compita sua novella,<br/>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br/><br/>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the <i>Lestrigoni</i> whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to [85] fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br/><br/>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung:</i> “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br/><br/>Yours faithfully,<br/>C.S. LEWIS.",
+        textProvided: "SPENSER’S IRISH EXPERIENCES AND <i>THE FAERIE QUEENE</i><br/><br/>THE EDITOR, <i>Review of English Studies.</i><br/><br/>SIR,<br/><br/>In an interesting article printed in your October number Mr. M. M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article − an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial − that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br/><br/>[84]If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br/><br/><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br/><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br/><br/>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br/><br/><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br/><br/>Il manto si rivolse al braccio manco <br/>E con la spada i malandrini affronta.<br/>Mai non fu campion cotanto franco. <br/>Questo tocca di taglio e quel di ponta,<br/>A l’un il petto, a l’altro passa il fianco:<br/>Or che bisogna che più vi racconta? <br/>Tutti i ladroni uccise in poco d’ora,<br/>Si ben col brando intorno li lavora.<br/><br/>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br/><br/>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br/><br/>Thus as he spoke, loe! with outragious cry<br/>A thousand villeins round about them swarm’d <br/>Out of the rockes and caves adjoyning nye<br/>(<i>F.Q.</i> II, ix, 13)<br/><br/>is the passage in which the same Brandimarte − who has particularly bad luck in the matter of robbers − is attacked in <i>O.I.</i> II, xxvi, 53.<br/><br/>Ragionava in tal modo Doristella <br/>Ed altre cose assai volea seguire <br/>Che non era compita sua novella,<br/>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br/><br/>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the <i>Lestrigoni</i> whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to [85] fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br/><br/>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung:</i> “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br/><br/>Yours faithfully,<br/>C.S. LEWIS.",
         type: "Letter",
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G2."]
     },
@@ -3919,7 +4018,29 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to Lewis’s publishers (date unknown)",
+        title: "Letter to the editor (3 May 1951)",
+        printedIn: "<i>Essays in Criticism</i>",
+        issueOrVolume: "vol. 1, no. 3",
+        pageRange: "313",
+        year: 1951,
+        monthAndDay: "July",
+        textProvided: "Magdalen College, Oxford <br/><br/>May 3rd, 1951.<br/><br/>Dear Sir,<br/><br/>I have read Mr. Watt’s essay on <i>Robinson Crusoe</i> with great interest and almost complete agreement. But what does he mean when he says that the myths of Midas and the Rheingold are ‘inspired by the prospect of never having to work again’ (p. 104). Surely the point of the first story is that Midas’s golden touch brought starvation: and the point of the second that the gold carried a curse. If the gold in either story has an economic signification at all (which might be questioned) the meaning must be less banal than Mr. Watt suggests. <br/><br/>Yours truly, <br/>C.S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to the editor (“Scientists in Fiction”)",
+        printedIn: "<i>The Daily Telegraph</i>",
+        issueOrVolume: null,
+        pageRange: "4",
+        year: 1951,
+        monthAndDay: "1 February",
+        textProvided: "Sir—A kindly reference to me by Peterborough might give a false impression.<br/><br/>In my stories all scientists are not villains but most villains claim to be scientists. I do not think that scientists are necessarily in a conspiracy against human freedom, but that, in our age, any real conspiracy against freedom will almost certainly advance scientific pretensions, just as in other ages it would have advanced military, theological or magical pretensions.<br/><br/>What is revered is not always evil; what is evil will always assume the most revered disguise it can find.<br/><br/>Yours faithfully.<br/>C.S. Lewis.<br/>Magdalen College, Oxford.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Lewis’s publishers",
         printedIn: "Chad Walsh, <i>C.S. Lewis: Apostle to the Skeptics</i> (New York: Macmillan)",
         issueOrVolume: null,
         pageRange: "162",
@@ -3933,7 +4054,7 @@ const texts = [
         title: "Letter to the editor (“Church Parade”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1943,
         monthAndDay: "19 November",
         textProvided: "CHURCH PARADE<br/><br/>Sir, – The correspondence in your columns about church parades in the Services emboldens me to protest, both as a citizen and a Christian, against what I consider an even greater evil –  church parades in the Home Guard. As a citizen, I submit that the members of the Home Guard made a voluntary sacrifice of their leisure at a time when the country was in extreme danger. Since then their service has been made compulsory and their leisure further encroached upon. Both these evils are borne with patience because they are taken as necessary evils. But what shadow of right can the State pretend for using the power it has thus acquired over them to compel them to go to church? Or in what spirit are we to suppose that a man who has lost his Sunday morning for an object which he understands and approves will see his Sunday evening also taken from him for an object which was never even mentioned when he first became a Home Guard? As a Christian, I submit that such interferences with the private life of the Home Guard are calculated to harden ordinary English indifference into fierce anticlericalism of the Continental type. Angry men do not reason clearly. They will transfer to the Church itself the resentment they justly feel for the busy-body who has marched them to it. Some of them no doubt are Christians. But why should a Christian by entering the Home Guard be deprived of the right to go to the church and service he chooses with his own wife and children, or be forced to the difficult exercise of praying amidst a crowd of comrades either bitterly resentful or (worse still) contemptuously patient? War demands compulsions; all the more reason to guard against gratuitous compulsions which it does not demand. By the mere act of putting on uniform men should not be reduced to the status of toy soldiers, moved about for the mere amusement of their owners.<br/><br/>Yours faithfully,<br/>C.S. LEWIS<br/>Magdalen College, Oxford",
@@ -3999,10 +4120,10 @@ const texts = [
         title: "Letter to the editor (“Poet and Printer”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1945,
         monthAndDay: "15 June",
-        textProvided: "[On a misprint in his poem “The Salamander”, published in the 8 June issue:]<br/><br/>POET AND PRINTER<br/><br/>Sir, –Spare me, of your charity, room to correct a misprint in a small poem by me which you printed today. For <i>Existed amid the boundless dark</i> read <i>Enisled amid the boundless dark</i>. The salamander is an Arnoldian animal.<br/><br/>– Yours, &c.,<br/><br/>C.S. LEWIS, <i>Magdalen College, Oxford</i>",
+        textProvided: "[On a misprint in his poem “The Salamander,” published in the 8 June issue:]<br/><br/>POET AND PRINTER<br/><br/>Sir, –Spare me, of your charity, room to correct a misprint in a small poem by me which you printed today. For <i>Existed amid the boundless dark</i> read <i>Enisled amid the boundless dark</i>. The salamander is an Arnoldian animal.<br/><br/>– Yours, &c.,<br/><br/>C.S. LEWIS, <i>Magdalen College, Oxford</i>",
         type: "Letter",
         notes: null
     },
@@ -4010,7 +4131,7 @@ const texts = [
         title: "Letter to Father Guy Brinkworth (1945?)",
         printedIn: "<i>The Tablet</i>",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1963,
         monthAndDay: "7 December",
         textProvided: "[In the letters I received from Lewis he time and time again asked specifically for prayers that God might give him:]<br/><br/>the light and grace to make the final gesture<br/><br/>[He even went so far as to ask in a postscript to one of his letters for]<br/><br/>prayers that the prejudices instilled in me by an Ulster nurse might be overcome",
@@ -4103,7 +4224,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "7/27/48<br/><br/>Dear Vidler – <br/><br/><i>Peccavi.</i> Don’t print the letter I sent you this morning. I don’t yet think it was unjust but I am sure it was uncharitable. I was momentarily transported by the spectacle of apparent terrier revealing itself as rabbit as the first threat. I have now repented. But, Grrr! What a little sneak!<br/><br/>Yrs<br/>C.S. Lewis",
         type: "Letter",
-        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "The earlier letter referred to is in <i>CL</i> 2."]
+        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "The earlier letter referred to is in <i>CL</i> 2."]
     },
     {
         title: "Letter to Michal Williams (22 November 1947)",
@@ -4730,7 +4851,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "It is not all tribulation. A new element of beauty as well as tragedy has entered my life. Certainly God has taken me at my word – I have for many years prayed “Lord take me out of myself, to seek and serve thee in others.”",
         type: "Letter",
-        notes: ["<i>And God Came In</i> was reprinted as <i>Joy and C.S. Lewis: The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown]."]
+        notes: ["<i>And God Came In</i> was reprinted as <i>Joy and C.S. Lewis: The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988)."]
     },
     {
         title: "Postscript of published letter to Arthur Greeves (27 November 1957)",
@@ -4851,7 +4972,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "No, I’m afraid I’m not even an Anglo-Catholic. I’m a Protestant.",
         type: "Letter",
-        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "Also reprinted in George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 383."]
+        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "Also reprinted in George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 383."]
     },
     {
         title: "Letter to Miss Breckenridge (18 August 1960)",
@@ -4994,7 +5115,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "It is kind of you to want to know my plight (by the way, apart from everything else, what a bore the subject of one’s own health is! Like wearisomely enumerating for the police all the contents of a lost handbag). It begins to look as if I shall not be fit for that operation in any reasonable time – doctor’s euphemism for NEVER? – but I’ve apparently developed a “tolerance” for the state of my blood and kidneys and can carry on, on a low diet and strict economy of exertion. So they let me [go] back to Cambridge last term “as an experiment”. The experiment, <i>Laus Deo,</i> has proved a wholly unexpected success and I am now very definitely better than I’ve ever been since last June…<br/><br/>You know I’m on the commission for revising the prayer book Psalter? It has been delightful work, with delightful colleagues, and I’ve learned a lot. We finished our first draft of Psalm 150 a fortnight ago.",
         type: "Letter",
-        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), [page range unknown].", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 112."]
+        notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 112."]
     },
     {
         title: "Letter to Henry Noel (14 November 1962)",
@@ -5121,12 +5242,23 @@ const texts = [
         title: "Letter to Clyde Kilby (mid-1953)",
         printedIn: "Clyde Kilby, “A Visit with C.S. Lewis,” <i>Kodon</i>",
         issueOrVolume: "vol. 8",
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1953,
         monthAndDay: "December",
         textProvided: "[Although this article is an interview, Kilby quotes a follow-up letter from Lewis. In that follow-up letter, Lewis gives a definition of the Renaissance as follows:]<br/><br/>...an imaginary entity responsible for everything the modern reader likes in the fifteenth and sixteenth centuries.",
         type: "Letter",
         notes: ["Lewis makes a similar quip in <i>CL</i> 2:475, 28 March 1941 to Douglas Bush (“my line is to define the Renaissance as ‘an imaginary entity responsible for anything a modern writer happens to approve in the Fifteenth or Sixteenth Century.”). See also <i>English Literature in the Sixteenth Century</i> 55: “Unfortunately it has, for many years, been widening its meaning, till now ‘the Renaissance’ can hardly be defined except as ‘an imaginary entity responsible for everything the speaker likes in the fifteenth and sixteenth centuries.’”"]
+    },
+    {
+        title: "Letter to the editor (“Illegal Detention: Claws that Remain Unclipped”)",
+        printedIn: "<i>The Daily Telegraph and Morning Post</i>",
+        issueOrVolume: null,
+        pageRange: "6",
+        year: 1956,
+        monthAndDay: "29 June",
+        textProvided: "To the Editor of The Daily Telegraph<br/><br/>Sir—I was one (probably) of thousands who rejoiced to read that Lord Goddard had rescued an innocent girl from illegal detention (with forced labour, she says) inflicted by certain magistrates at the instance of Surrey County officials.Two points call for attention. One is that a servant of the N.S.P.C.C. seems to have aided this cruelty. I hope, and expect, that the society will publish either a satisfactory defence or an unambiguous repudiation of his conduct, with an assurance that he has been talked to in a fashion that will leave him no stomach to repeat it.<br/><br/>The other is that it is not enough that tyranny, cruelty and presumption should be frustrated when reach (how often do they!) the notice of the Lord Chief Justice. We want safeguards against their recurrence.<br/><br/>There is no sign that these magistrates and officials are to be punished or their claws to be clipped; they have not even been exposed by the publication of their names to general execration.<br/><br/>I write in no vindictive spirit. If anything still undisclosed can put their behaviour in a better light I shall hear it with relief. If mild rather than severe methods will suffice to recall them to justice and humanity, so much the better. But one way or other society must be protected from them.<br/><br/>Yours faithfully,<br/>C.S. Lewis.<br/>Magdalene College, Cambridge.",
+        type: "Letter",
+        notes: null
     },
     {
         title: "Letter to Martin Lings (c. 1930)",
@@ -5206,7 +5338,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to John Christopher (date unknown)",
+        title: "Letter to John Christopher",
         printedIn: "John Christopher, “Notes on Joy,” <i>Encounter</i>",
         issueOrVolume: "vol. 68, no. 4",
         pageRange: "41",
@@ -5418,7 +5550,7 @@ const texts = [
         title: "Letter to Roy Niblett (June 14 1943)",
         printedIn: "Michael Ward, <i>After Humanity: A Guide to C.S. Lewis’s The Abolition of Man</i> (Park Ridge: Word on Fire Academic)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: "128",
         year: 2021,
         monthAndDay: null,
         textProvided: "Dear Niblett – will this do?<br/><br/>C.S.L.<br/><br/>In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
@@ -5531,7 +5663,7 @@ const texts = [
         pageRange: "212-213",
         year: 2021,
         monthAndDay: "October",
-        textProvided: "As from Magdalen,<br/>Sept. 22d. 42<br/><br/>Dear Derrick – I’ll tell you one text that does need exposition: your own letters. Not that it isn’t a very good letter, full of charm, appeal, line, atmosphere, humour, mellow wisdom, and the human touch: but what exactly is it <i>about</i>? Does it mean any, or all, of the following:<br/><br/>(a) T. D. is not going to decorate Screwtape.<br/>(b) T. D. is going to do a pictorial <i>P. Plowman</i> on his own.<br/>(c) C.S.L. is to write a P. Plowman for T. D. to illustrate.<br/>(d) C.S.L. is to illustrate the works of Langland re-written by T. D. in the style of Tintoretto as an epithalamium for Christopher in memory of R. W. Chambers.<br/><br/>Tintoretto, by the bye, <i>was</i> an illustrator, chiefly of Ovid. The moment you paint a “nymph” you’re being literary. Apart from portraits, mention any great school of painters who were <i>not</i> mainly occupied in illustrating sacred or mythological texts. You artists are beginning to get out of hand. What wd. have happened if Tenniel had not hung on to Lewis Carroll’s coat tails, or, for the matter of that, if Mozart had not hung onto Da Ponte’s? You see (<i>salva reverentia</i>) in the beginning is the word. Out of Ovid, Tintoretto & Titian: out of the Bible, Raphael. Lor’ bless you, left to yourselves you can only mess about with landscapes or end up in Picasso.<br/><br/>I enclose my own private idea of Uncle Screwtape.<br/><br/>yours<br/>C.S. Lewis",
+        textProvided: "As from Magdalen,<br/>Sept. 22d. 42<br/><br/>Dear Derrick – I’ll tell you one text that does need exposition: your own letters. Not that it isn’t a very good letter, full of charm, appeal, line, atmosphere, humour, mellow wisdom, and the human touch: but what exactly is it <i>about?</i> Does it mean any, or all, of the following:<br/><br/>(a) T. D. is not going to decorate Screwtape.<br/>(b) T. D. is going to do a pictorial <i>P. Plowman</i> on his own.<br/>(c) C.S.L. is to write a P. Plowman for T. D. to illustrate.<br/>(d) C.S.L. is to illustrate the works of Langland re-written by T. D. in the style of Tintoretto as an epithalamium for Christopher in memory of R. W. Chambers.<br/><br/>Tintoretto, by the bye, <i>was</i> an illustrator, chiefly of Ovid. The moment you paint a “nymph” you’re being literary. Apart from portraits, mention any great school of painters who were <i>not</i> mainly occupied in illustrating sacred or mythological texts. You artists are beginning to get out of hand. What wd. have happened if Tenniel had not hung on to Lewis Carroll’s coat tails, or, for the matter of that, if Mozart had not hung onto Da Ponte’s? You see (<i>salva reverentia</i>) in the beginning is the word. Out of Ovid, Tintoretto & Titian: out of the Bible, Raphael. Lor’ bless you, left to yourselves you can only mess about with landscapes or end up in Picasso.<br/><br/>I enclose my own private idea of Uncle Screwtape.<br/><br/>yours<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5575,7 +5707,7 @@ const texts = [
         pageRange: "39 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Vobis parta quies. Gratulamur.<br/><br/>C. S. L.",
+        textProvided: "Vobis parta quies. Gratulamur.<br/><br/>C.S.L.",
         type: "Letter",
         notes: ["Previously published in <i>CL</i> 3:1348, but with the final initials accidentally omitted."]
     },
@@ -5597,7 +5729,7 @@ const texts = [
         pageRange: "46 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Magdalen College, Oxford, <br/>March 10th 1942<br/><br/>Dear Mr. Symonds – Thanks for v. kind letter and review wh. I return. I’ll tip the publishers the wink about sending a review copy to the <i>Herald</i>[.] The <i>Pilgrim’s Regress</i> was blitzed in a warehouse and is unobtainable. The Silent Planet book (Lane) ought to be alright: but you, living in publishing circles, are as likely to know as I am! The Regress as the name suggests is a sort of Bunyan up to date with Psychoanalysis replacing Giant Despair and Commu­nists, Fascists instead of Vanity Fair. The other one is about a journey to Mars – an attempt to claim for Xtian imagination a field in fiction wh. has been collared by the worst type of pseudo scientific materialists.<br/><br/>You do me proud in the review. I suppose it wd. hardly do in the Herald to add “and Luther” after “St. Thos. More”! But it was a real point in a book by an Anglican, dedicated to a Papist, to have another Papist and an extreme Protestant giving unanimous testimony on [the] title page. I thought your selection of quotations v. judicious. By the bye are there any “satirical references to the church” in my book?<br/><br/>Yours sincerely<br/>C. S. Lewis",
+        textProvided: "Magdalen College, Oxford, <br/>March 10th 1942<br/><br/>Dear Mr. Symonds – Thanks for v. kind letter and review wh. I return. I’ll tip the publishers the wink about sending a review copy to the <i>Herald</i>[.] The <i>Pilgrim’s Regress</i> was blitzed in a warehouse and is unobtainable. The Silent Planet book (Lane) ought to be alright: but you, living in publishing circles, are as likely to know as I am! The Regress as the name suggests is a sort of Bunyan up to date with Psychoanalysis replacing Giant Despair and Commu­nists, Fascists instead of Vanity Fair. The other one is about a journey to Mars – an attempt to claim for Xtian imagination a field in fiction wh. has been collared by the worst type of pseudo scientific materialists.<br/><br/>You do me proud in the review. I suppose it wd. hardly do in the Herald to add “and Luther” after “St. Thos. More”! But it was a real point in a book by an Anglican, dedicated to a Papist, to have another Papist and an extreme Protestant giving unanimous testimony on [the] title page. I thought your selection of quotations v. judicious. By the bye are there any “satirical references to the church” in my book?<br/><br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5608,7 +5740,7 @@ const texts = [
         pageRange: "47 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Magdalen College, Oxford, <br/>Oct 20th 1942<br/><br/>Dear Madam – You ask me a question I am ill qualified to answer. The Greeks distin­guished the wise man (he who by intelligence discerns timeless truths) from the prudent man (he who knows by tact, skill, and experience how to adapt principles to particular circumstances). I’m neither: but I’m much nearer to wisdom than to prudence. You are prob. much better able to instruct me in that direction than I you. What I think, however, I will now say. The first thing is to acquiesce <i>whole heartedly</i> in the rights of these people not to be visited or talked to if they don’t want. An Englishman’s house is his castle. These people feel that we are hunters and they our prey: and there is a real danger of our wanting too in­temperately to achieve their good by overriding their free will. The second thing, I suppose, is intensive prayer. <br/><br/>After these two I’m afraid I think the only thing to do is to watch in patience for any oppor­tunities that may occur. I know it sounds feeble: but I am inclined to think that a ces­sation of all overt attempts to “get at them” is the best thing. We all hate the feeling of being “got at” (how wd. you and I like continual solicitations from a Mohammedan mis­sionary?) and the harder you try the more their resistance will stiffen. <br/><br/>That is how I think. But I’m very likely wrong. Your own tact and experience will prob­ably be a much better guide,<br/><br/>yours sincerely<br/>C. S. Lewis",
+        textProvided: "Magdalen College, Oxford, <br/>Oct 20th 1942<br/><br/>Dear Madam – You ask me a question I am ill qualified to answer. The Greeks distin­guished the wise man (he who by intelligence discerns timeless truths) from the prudent man (he who knows by tact, skill, and experience how to adapt principles to particular circumstances). I’m neither: but I’m much nearer to wisdom than to prudence. You are prob. much better able to instruct me in that direction than I you. What I think, however, I will now say. The first thing is to acquiesce <i>whole heartedly</i> in the rights of these people not to be visited or talked to if they don’t want. An Englishman’s house is his castle. These people feel that we are hunters and they our prey: and there is a real danger of our wanting too in­temperately to achieve their good by overriding their free will. The second thing, I suppose, is intensive prayer. <br/><br/>After these two I’m afraid I think the only thing to do is to watch in patience for any oppor­tunities that may occur. I know it sounds feeble: but I am inclined to think that a ces­sation of all overt attempts to “get at them” is the best thing. We all hate the feeling of being “got at” (how wd. you and I like continual solicitations from a Mohammedan mis­sionary?) and the harder you try the more their resistance will stiffen. <br/><br/>That is how I think. But I’m very likely wrong. Your own tact and experience will prob­ably be a much better guide,<br/><br/>yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5619,7 +5751,7 @@ const texts = [
         pageRange: "48 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Thanks for letter tho’ I fear your most judicious remarks are entombed in the myste­ries of your handwriting. Now when can you come and spend a week-night in April? Days that won’t do are 2nd 3rd 8<sup>th</sup> 17<sup>th</sup> 18<sup>th</sup> 26<sup>th</sup> 28<sup>th</sup>.<br/><br/>‘Even Steiner,’ addressed to people who wd. take the orthodox scientific view means of course ‘And (what you wd. think less likely) Steiner’.<br/><br/>Love to all<br/>C. S. L.",
+        textProvided: "Thanks for letter tho’ I fear your most judicious remarks are entombed in the myste­ries of your handwriting. Now when can you come and spend a week-night in April? Days that won’t do are 2nd 3rd 8<sup>th</sup> 17<sup>th</sup> 18<sup>th</sup> 26<sup>th</sup> 28<sup>th</sup>.<br/><br/>‘Even Steiner,’ addressed to people who wd. take the orthodox scientific view means of course ‘And (what you wd. think less likely) Steiner’.<br/><br/>Love to all<br/>C.S.L.",
         type: "Letter",
         notes: ["Written on the back of a small gray postcard, addressed on the front side by Lewis."]
     },
@@ -5630,7 +5762,7 @@ const texts = [
         pageRange: "49 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "REF.529/I/45.<br/>Magdalen College, Oxford.<br/>31st. December 1945.<br/><br/>Dear Mr. Naylor,<br/><br/>It is not you who owe me an apology. It is the reviewer who owes it to you at least as much as to me. If he had even said “we are told” or “it has been said”… but no, “Mr. L. has decided”. Do, for his own sake, thrash this penny-a-line omniscience out of him. But much may be forgiven to a man who was bred in the London School of Economics: a vile sink I suspect. The book you can’t get, the predecessor of Perelandra, is called “Out of the Silent Planet”. I fancy my publisher expects the American Macmillan’s to keep Toronto supplied, but will forward your remarks to him.<br/><br/>yours sincerely,<br/>C. S. Lewis",
+        textProvided: "REF.529/I/45.<br/>Magdalen College, Oxford.<br/>31st. December 1945.<br/><br/>Dear Mr. Naylor,<br/><br/>It is not you who owe me an apology. It is the reviewer who owes it to you at least as much as to me. If he had even said “we are told” or “it has been said”… but no, “Mr. L. has decided”. Do, for his own sake, thrash this penny-a-line omniscience out of him. But much may be forgiven to a man who was bred in the London School of Economics: a vile sink I suspect. The book you can’t get, the predecessor of Perelandra, is called “Out of the Silent Planet”. I fancy my publisher expects the American Macmillan’s to keep Toronto supplied, but will forward your remarks to him.<br/><br/>yours sincerely,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5641,7 +5773,7 @@ const texts = [
         pageRange: "50 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Ref.52/52.<br/>Magdalen College, Oxford.<br/>19th. January 1952.<br/><br/>My dear Sarah,<br/><br/>Never “feel dreadful” about not writing: I’m a very bad correspondent myself, and can sympathize. One wants <i>She and Alan</i> and <i>Wisdom’s Daughter</i> to complete the picture, but I don’t think they are as good as the other two. Bad luck term beginning on your birthday!<br/><br/>Your affectionate Godfather,<br/>C. S. Lewis",
+        textProvided: "Ref.52/52.<br/>Magdalen College, Oxford.<br/>19th. January 1952.<br/><br/>My dear Sarah,<br/><br/>Never “feel dreadful” about not writing: I’m a very bad correspondent myself, and can sympathize. One wants <i>She and Alan</i> and <i>Wisdom’s Daughter</i> to complete the picture, but I don’t think they are as good as the other two. Bad luck term beginning on your birthday!<br/><br/>Your affectionate Godfather,<br/>C.S. Lewis",
         type: "Letter",
         notes: ["A typescript letter with signature."]
     },
@@ -5652,7 +5784,7 @@ const texts = [
         pageRange: "50 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Jun 16 / 54<br/>Magdalen College, Oxford.<br/><br/>Why not try it out in a letter to <i>Notes and Queries</i>? We shall then get other people weighing in: with luck, we might even get some simpler solution than has occurred to either of us. Good Hunting!<br/><br/>C. S. L.",
+        textProvided: "Jun 16 / 54<br/>Magdalen College, Oxford.<br/><br/>Why not try it out in a letter to <i>Notes and Queries</i>? We shall then get other people weighing in: with luck, we might even get some simpler solution than has occurred to either of us. Good Hunting!<br/><br/>C.S.L.",
         type: "Letter",
         notes: null
     },
@@ -5663,7 +5795,7 @@ const texts = [
         pageRange: "51 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 20/56<br/><br/>Dear Mr. Evans – I fear you wd. find it a complete disappointment if we met. I see no vis­ions. I claim no knowledge which all Christians do not have. I <i>believe</i> of course in angels; but my representation of them in my romances is pure fiction and was never intended to be taken as anything else.<br/><br/>Of course I take your letter “seriously” – that is, I don’t think you are “pulling my leg.” May I add, though, that most wise and experienced believers tell me not to attach much im­portance to visions? They may be what they seem: they may be the work of one’s own ima­gination: they may even be delusions sent by the enemy to distract us from the real cen­tre of the Christian life – which lies, as no doubt you know, in love and obedience and the surren­der of one’s will to Christ. St. Paul puts us right, doesn’t he, in 1 <i>Corinthians,</i> chapter 13?<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C. S. Lewis",
+        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 20/56<br/><br/>Dear Mr. Evans – I fear you wd. find it a complete disappointment if we met. I see no vis­ions. I claim no knowledge which all Christians do not have. I <i>believe</i> of course in angels; but my representation of them in my romances is pure fiction and was never intended to be taken as anything else.<br/><br/>Of course I take your letter “seriously” – that is, I don’t think you are “pulling my leg.” May I add, though, that most wise and experienced believers tell me not to attach much im­portance to visions? They may be what they seem: they may be the work of one’s own ima­gination: they may even be delusions sent by the enemy to distract us from the real cen­tre of the Christian life – which lies, as no doubt you know, in love and obedience and the surren­der of one’s will to Christ. St. Paul puts us right, doesn’t he, in 1 <i>Corinthians,</i> chapter 13?<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5674,7 +5806,7 @@ const texts = [
         pageRange: "52 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 25th. 1956<br/><br/>Dear Mr. Evans – I think the point about visions is this. Unless the apparently divine ones increase our love and obedience to God they do us no good, and unless the apparently dia­bol­ical ones make us proud or uncharitable they do us no harm. Even a delusion wd. be God’s Providence if it had the good effect. And even a really celestial vision would be a disaster if it had the bad one. And perhaps you and I should be cautious about wishing “to do wonderful things for God.” It will be enough (and more than most of us manage) to do His will, leaving it entirely to Him whether His will leads us to wonderful things or to the most hum-drum and unexciting duties. What we can be sure of is that <i>He</i> will do wonderful things <i>for us</i> if we patiently follow Him – tho’ most probably they will not be the sort of things that look “wonderful” to the outer world!<br/><br/>I don’t see any grammatical mistakes in your letter!<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C. S. Lewis",
+        textProvided: "The Kilns, Headington Quarry, Oxford, England<br/>Sept 25th. 1956<br/><br/>Dear Mr. Evans – I think the point about visions is this. Unless the apparently divine ones increase our love and obedience to God they do us no good, and unless the apparently dia­bol­ical ones make us proud or uncharitable they do us no harm. Even a delusion wd. be God’s Providence if it had the good effect. And even a really celestial vision would be a disaster if it had the bad one. And perhaps you and I should be cautious about wishing “to do wonderful things for God.” It will be enough (and more than most of us manage) to do His will, leaving it entirely to Him whether His will leads us to wonderful things or to the most hum-drum and unexciting duties. What we can be sure of is that <i>He</i> will do wonderful things <i>for us</i> if we patiently follow Him – tho’ most probably they will not be the sort of things that look “wonderful” to the outer world!<br/><br/>I don’t see any grammatical mistakes in your letter!<br/><br/>With all good wishes,<br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5685,7 +5817,7 @@ const texts = [
         pageRange: "53 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "Magdalene College, Cambridge<br/>18/2/58<br/><br/>Dear Mr Alford<br/><br/>It was an absolute pleasure meeting you last Friday and I hope to see you again very soon.<br/><br/>Here is your copy of ‘The LWW’ signed as promised.<br/><br/>Yours sincerely<br/>C. S. Lewis",
+        textProvided: "Magdalene College, Cambridge<br/>18/2/58<br/><br/>Dear Mr Alford<br/><br/>It was an absolute pleasure meeting you last Friday and I hope to see you again very soon.<br/><br/>Here is your copy of ‘The LWW’ signed as promised.<br/><br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5696,7 +5828,7 @@ const texts = [
         pageRange: "53 and <a href='https://www.google.com/books/edition/Sehnsucht_The_C_S_Lewis_Journal/naBvEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
         monthAndDay: null,
-        textProvided: "The Kilns, Headington Quarry, Oxford<br/>11 Nov. 61<br/><br/>Dear Mrs. Woolman<br/><br/>(Any connection with the great Quaker anti-slavery Woolman?) Thanks for your heart-cheering letter. What a lot I’d have to say in answer if I were well! Actually I am sick and am to-day all bemused and lethargic from yesterday’s blood-transfusion. So all I’ll say is (a) Thank you. (b) Don’t mistake <u>me</u> for a Pendragon! If I’ve been any use to you it was only because God used me. Remember that Balaam’s ass was also once an effective mes­senger! Anyone or anything may be so used.<br/><br/>All good wishes.<br/><br/>yours sincerely<br/>C. S. Lewis",
+        textProvided: "The Kilns, Headington Quarry, Oxford<br/>11 Nov. 61<br/><br/>Dear Mrs. Woolman<br/><br/>(Any connection with the great Quaker anti-slavery Woolman?) Thanks for your heart-cheering letter. What a lot I’d have to say in answer if I were well! Actually I am sick and am to-day all bemused and lethargic from yesterday’s blood-transfusion. So all I’ll say is (a) Thank you. (b) Don’t mistake <u>me</u> for a Pendragon! If I’ve been any use to you it was only because God used me. Remember that Balaam’s ass was also once an effective mes­senger! Anyone or anything may be so used.<br/><br/>All good wishes.<br/><br/>yours sincerely<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5704,7 +5836,7 @@ const texts = [
         title: "Letter to Joan Bennett (23 November 1954)",
         printedIn: "Christian Rendel, “Mein Weg mit C.S. Lewis,” <i>Dran</i>",
         issueOrVolume: "no. 3",
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1998,
         monthAndDay: "März-April",
         textProvided: "Magdalen College, Oxford<br/>[Tuesday] Nov. 23 / 54<br/><br/>Dear Joan,<br/><br/>I am haunted by a feeling that I have been asked to a big tea-fight next Mon. before my lecture, but can find nothing about it in my files. As you and Stanley [Bennett] wd. almost certainly be asked, can you tell me? (I’m not mixing it up with a sherry-party after the lecture given by [Basil] Willey). Oh dear, what a scrape! Not being one yourself, you can’t imagine how difficult life is if one is a fool!<br/><br/>Yours<br/>C.S. Lewis<br/><br/>P.S. Reply at Magdalene will find me from to-morrow.",
@@ -5751,7 +5883,7 @@ const texts = [
         pageRange: "116 and <a href='https://www.transpositions.co.uk/advent-c-s-lewis-and-a-letter-from-my-grandmother/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2022,
         monthAndDay: "October",
-        textProvided: "Magdalen etc<br/>Nov. 30th. 1948<br/><br/>Dear Miss Monro<br/><br/>Your letter came more <i>à propos</i> than you could have expected for I spend most of my spare time in looking after an elderly invalid and have been forced, like you, to think about the apparent decay of the mind. The experience that seems to me to give us the key is one you have probably had if you ever slept in a school dormitory. Surely you must have addres­sed a schoolfellow who was asleep and nevertheless got an answer? These answers made by a sleeper are sometimes apparently rational (tho’, in that case, usually trite and mechanical), sometimes inconsequent: they might even be shock­ing. One is so familiar with the phenom­e­non of sleep that one forgets what a mystery it is: and one does not doubt that next morning God will “raise” the sleeper and full ratio­nal­ity will reappear. The same thing can happen in artificial anaesthesia, when the patient sometimes speaks semi-rationally or irrationally. Now I take senility to be roughly the same kind of thing. The organism is in a state verging on sleep. And what of the soul? Well, what of the soul in ordinary sleep? Where – and what – was my soul for several hours last night? This is an absolute mystery and wd. “harrow us with fear and won­der” if we weren’t used to it.<br/><br/>For some reason we are less puzzled by a total absence of the soul – say, in deep sleep or wholly unconscious senility – than by the partial absence of the sleep talker or the old per­son whose mind is merely feeble and feebler one day than another. But that might be be­cause we conceive the relations of soul & body too crudely. It is very diffi­cult to get rid of the idea that the soul is “inside” the body as the body is inside the clothes. But surely it is just as likely that “connection” or <i>rapport</i> is the proper term and that the connection admits of innumerable de­grees from the complete incarnation of an alert adult in full health to the almost, but not quite, severed connection of an uncon­scious man who may die at any moment – the cord stretched out to the utmost but not yet snapped.<br/><br/>When I was a materialist I used the phenomena of senility as an argument against im­mor­tal­ity. “These old men,” I said, “Are obviously falling asleep: how can you ask me to believe that they are preparing for a great voyage into a larger life? But the ans­wer might be that they are not preparing for it because they have already begun it: the ship is already moving away from the quay tho’ the last moorings have not yet been cast off. The collo­quial “He’s not all there” may be a more exact expression than we sup­pose. And having seen people wake from sleep and “come round” from faints or opera­tions, I find no diffi­culty in believing that God will restore to the soul which is gradually losing touch with the earthly organism another organism in which it will function better than ever.<br/><br/>In infancy, too, much that we mistake for the immaturity of the soul might be due to the fact that it is not yet <i>fully</i> incarnated, has not fully settled down in the organism. Thus one wd. have <i>full</i> incarnation in adult life as the Norm, with a twilight at each end, a morning twilight as the soul gradually establishes her grip on brain & tongue and an evening twilight when she is gradually relaxing it. Both of course involve Dependence. And why not? We are really de­pendent all the time (blankets & clothes that others made, food that others pro­duced, books that others wrote) and the more we know it the better. One of the functions of old age may be to kill the false belief in independence wh. some of us suffer from in middle life. For we must live on one another. As Charles Williams taught the one canoo that you can least pad­dle is your own. “He saved others, Himself He cannot save” is true of everyone as well as of Christ.<br/><br/>I don’t share the Canon’s difficulty about recognition of those who die in childhood. Here, one never meets more than a moment any cross section of a man (this letter is be­ing written not by me-in-general but by me-at-10.40 a.m. Nov. 30, 1948). But surely you don’t think it will be like that in Heaven? Surely the <i>total</i> man, here divided up into all his mo­ments, will in some unimaginable way co-exist: so that <i>all</i> your Fathers (his childhood, manhood, and old age, asleep and awake) will meet you. You only have a series of snap­shots here.The lion is quite ready to be attacked in its den if you think fit – by appointment al­most any weekday morning.<br/><br/>Yours sincerely<br/><br/>C. S. Lewis",
+        textProvided: "Magdalen etc<br/>Nov. 30th. 1948<br/><br/>Dear Miss Monro<br/><br/>Your letter came more <i>à propos</i> than you could have expected for I spend most of my spare time in looking after an elderly invalid and have been forced, like you, to think about the apparent decay of the mind. The experience that seems to me to give us the key is one you have probably had if you ever slept in a school dormitory. Surely you must have addres­sed a schoolfellow who was asleep and nevertheless got an answer? These answers made by a sleeper are sometimes apparently rational (tho’, in that case, usually trite and mechanical), sometimes inconsequent: they might even be shock­ing. One is so familiar with the phenom­e­non of sleep that one forgets what a mystery it is: and one does not doubt that next morning God will “raise” the sleeper and full ratio­nal­ity will reappear. The same thing can happen in artificial anaesthesia, when the patient sometimes speaks semi-rationally or irrationally. Now I take senility to be roughly the same kind of thing. The organism is in a state verging on sleep. And what of the soul? Well, what of the soul in ordinary sleep? Where – and what – was my soul for several hours last night? This is an absolute mystery and wd. “harrow us with fear and won­der” if we weren’t used to it.<br/><br/>For some reason we are less puzzled by a total absence of the soul – say, in deep sleep or wholly unconscious senility – than by the partial absence of the sleep talker or the old per­son whose mind is merely feeble and feebler one day than another. But that might be be­cause we conceive the relations of soul & body too crudely. It is very diffi­cult to get rid of the idea that the soul is “inside” the body as the body is inside the clothes. But surely it is just as likely that “connection” or <i>rapport</i> is the proper term and that the connection admits of innumerable de­grees from the complete incarnation of an alert adult in full health to the almost, but not quite, severed connection of an uncon­scious man who may die at any moment – the cord stretched out to the utmost but not yet snapped.<br/><br/>When I was a materialist I used the phenomena of senility as an argument against im­mor­tal­ity. “These old men,” I said, “Are obviously falling asleep: how can you ask me to believe that they are preparing for a great voyage into a larger life? But the ans­wer might be that they are not preparing for it because they have already begun it: the ship is already moving away from the quay tho’ the last moorings have not yet been cast off. The collo­quial “He’s not all there” may be a more exact expression than we sup­pose. And having seen people wake from sleep and “come round” from faints or opera­tions, I find no diffi­culty in believing that God will restore to the soul which is gradually losing touch with the earthly organism another organism in which it will function better than ever.<br/><br/>In infancy, too, much that we mistake for the immaturity of the soul might be due to the fact that it is not yet <i>fully</i> incarnated, has not fully settled down in the organism. Thus one wd. have <i>full</i> incarnation in adult life as the Norm, with a twilight at each end, a morning twilight as the soul gradually establishes her grip on brain & tongue and an evening twilight when she is gradually relaxing it. Both of course involve Dependence. And why not? We are really de­pendent all the time (blankets & clothes that others made, food that others pro­duced, books that others wrote) and the more we know it the better. One of the functions of old age may be to kill the false belief in independence wh. some of us suffer from in middle life. For we must live on one another. As Charles Williams taught the one canoo that you can least pad­dle is your own. “He saved others, Himself He cannot save” is true of everyone as well as of Christ.<br/><br/>I don’t share the Canon’s difficulty about recognition of those who die in childhood. Here, one never meets more than a moment any cross section of a man (this letter is be­ing written not by me-in-general but by me-at-10.40 a.m. Nov. 30, 1948). But surely you don’t think it will be like that in Heaven? Surely the <i>total</i> man, here divided up into all his mo­ments, will in some unimaginable way co-exist: so that <i>all</i> your Fathers (his childhood, manhood, and old age, asleep and awake) will meet you. You only have a series of snap­shots here.The lion is quite ready to be attacked in its den if you think fit – by appointment al­most any weekday morning.<br/><br/>Yours sincerely<br/><br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5760,7 +5892,7 @@ const texts = [
         title: "<i>Dymer</i> (corrections)",
         printedIn: "<i>Dymer</i> (London: J.M. Dent)",
         issueOrVolume: null,
-        pageRange: "[page range unknown]",
+        pageRange: null,
         year: 1950,
         monthAndDay: null,
         textProvided: "[In the 1st edition, Canto III, stanza 18, line 122 reads: “He hastened through: down paths that needed blind,” but in the 1950 edition “needed” was corrected to]<br/><br/>ended<br/><br/>[In the 1st edition, Canto VII, stanza 8, line 53 reads: “Save the already damned–such grules are bred,” but in the 1950 edition “grules” was corrected to]<br/><br/>grubs <br/><br/>[In the 1st edition, Canto VIII, stanza 25, line 172 reads: “And groaning in the lane he felt his trace,” but in the 1950 edition “felt” was corrected to]<br/><br/>left",
@@ -6984,7 +7116,7 @@ const texts = [
         pageRange: "29",
         year: 2019,
         monthAndDay: "Fall/Winter",
-        textProvided: "[Lewis’s penciled annotations comprise suggestions regarding lines 11 and 12, the same lines that Havard’s typed variations call into question:]<br/><br/>[Havard Version 1<br/>With faltering reflection of that star (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>Havard Version 2<br/>By faltering reflection from the all (11)<br/>Embracing radiance of sunlit space; and thus (12)<br/><br/>Havard Version 3<br/>By faltering reflection from that ball (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>Published Version<br/>With changing dim reflection of a far (11)<br/>Flung radiation not their own; so thus (12)<br/><br/>Lewis’s Notes]<br/>A far – (11)<br/>–Flung radiation not their own (12a)<br/><strike>(</strike>Embracing radiance not their own<strike>)</strike>: so thus (12b)",
+        textProvided: "[Lewis’s penciled annotations comprise suggestions regarding lines 11 and 12, the same lines that Havard’s typed variations call into question:]<br/><br/>[Havard Version 1<br/>With faltering reflection of that star (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>Havard Version 2<br/>By faltering reflection from the all (11)<br/>Embracing radiance of sunlit space; and thus (12)<br/><br/>Havard Version 3<br/>By faltering reflection from that ball (11)<br/>Engendering warming lighting all; so thus (12)<br/><br/>Published Version<br/>With changing dim reflection of a far (11)<br/>Flung radiation not their own; so thus (12)<br/><br/>Lewis’s Notes]<br/>A far–(11)<br/>–Flung radiation not their own (12a)<br/><strike>(</strike>Embracing radiance not their own<strike>)</strike>: so thus (12b)",
         type: "Poem",
         notes: null
     },

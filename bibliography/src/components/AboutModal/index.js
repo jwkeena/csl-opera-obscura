@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 6.21.23</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 11.11.23</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -86,7 +86,7 @@ class AboutModal extends Component {
                             <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
                         </ol>
 
-                        <p>iii. Has not been published as a monograph, anthology, or collection of stories, poems, or essays by Walter Hooper (unless it's a blurb, or a letter omitted from the <i>Collected Letters</i>): i.e., does not appear in</p>
+                        <p>iii. Has not been published in any anthology or collection of stories, poems, essays or letters edited by Walter Hooper(except for letters omitted from <i>Collected Letters</i>): i.e., does not appear as any piece in</p>
                         
                         <ol>
                             <li>1966 - <i>Studies in Medieval and Renaissance Literature</i></li>
