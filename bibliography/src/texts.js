@@ -177,17 +177,6 @@ const texts = [
         notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap.", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Fully Revised & Expanded Edition (London: HarperCollins, 2002), 169-170."]
     },
     {
-        title: "Comments and questions after a lecture by H.A. Hodges",
-        printedIn: "“Philosophy Today,” The <i>Socratic Digest</i>",
-        issueOrVolume: "no. 2",
-        pageRange: "28-30",
-        year: 1944,
-        monthAndDay: "June",
-        textProvided: "Mr. Lewis opened the DISCUSSION and commented as follows:<br/><br/>(1) All human activity seems to be here reduced to a mode of self-expression or self-indulgence (<i>cf.</i> alleged “stabilizing” effects of metaphysics), except perhaps history (but <i>cf.</i> Powicke’s Riddel Lectures: he despairs about really knowing the past). A different pattern of history will emerge from each man’s history of philosophy. The trouble about skepticism is that you cannot be skeptical about everything at the same time, or you are reduced to silence.<br/><br/>(2) If truth is not objective but only personal, what is the “right” method of thinking in logic?<br/><br/>(3) What sort of health is possible, from this point of view, to philosophy and theology when they are separated? Such a separation would leave a concealed “waffling” in metaphysics, and just naked “waffling” in religion!<br/><br/>(4) How choose responsibly when you don’t know to what or to whom you are responsible? On this view, why is theology not regarded as pure “waffle”?<br/><br/>Professor Hodges: These questions amount to a challenge to me to state my theory of knowledge. I can do so only in outline. It is dialectical (not precisely in the Hegelian sense). All experience is a conscious relation between a subject and an object, based upon a complex of adjustments and mutual conditionings. The relation insofar as conscious can subsist only insofar as the subject <i>recognizes</i> or <i>acknowledges</i> the presence of an object, and this recognition or acknowledgement is a complex intellectual-emotional-volitional attitude which the subject can refrain from taking; in which case the object which he does not acknowledge cannot be an object for him, and his experience is to that extent the poorer. “The recognition or acceptance of a particular object or type of objects is justified in face of questioning insofar as this recognition or acceptance opens up a realm of experience, not accessible otherwise, in exploring which I continually make new discoveries, produce effects, and find things happening to me. Thus e.g.<br/><br/>(1) Acceptance of a world other than my own consciousness and conforming to the scientific principle of uniformity opens up wide realms of discovery and action. (2) Acceptance of an order of persons having claims upon me (the basic attitude underlying morality) opens up another realm in which, again, I make discoveries and find things happening to me. (3) Acceptance of the object commonly called God has analogous results. In each instance the initial acceptance opens up possibilities of continuing exploration, whose results react upon myself and build up my mind, character and life-pattern. This fruitfulness in exploration is the essence and also the test of truth.<br/><br/>In ordinary life we make our basic acceptances unconsciously and get on with our exploring. The resulting growth of knowledge is a fact of life. Socratic criticism (here epistemology) cannot destroy or alter it, but can show us how it depends on the basic acceptance, how there are alternative sets of first principles which can be used to cancel one another out, how consequently there are no bedrock certitudes. This bottomlessness is also a fact of life and we have to learn to live with it. We can even conceive the possibility of a total paralysis of thought by withdrawal of all acceptances, a depth in which, as Mr. Lewis says, only silence is possible. A serious thinker will go down again and again into that silence, but he will not stay there. He will go on living, i.e. accepting, exploring, and knowing, but with a new awareness of what he is doing, and why. He will make his acceptance responsibly - by which I simply mean seriously.<br/><br/>The choice (insofar as there is a choice) between accepting and not accepting a particular type of object or set of first principles depends on the principle of fullness of life i.e. the opening up of as many realms of experience as possible. This principle operates in determining our choice whether we are aware of it or not.<br/><br/>The above contains or implies the answers to Mr. Lewis’ questions. It is he who talks of skepticism, not I. The systematic exploration of the various realms of experience is not waffling. Theology is an instance of such exploration, and so is Socratic criticism, but metaphysics is not, since it endlessly frustrates itself, and therefore it does theology no good to tie it up with metaphysics. The “right” way to think, which logic is to detect, is that which is fruitful in discovery. I have tried to show that the possibility of discovery depends on factors in the subject as well as in the object. It is not I who have inferred from this that no discovery is possible at all.<br/><br/>Fallacies lead to frustration in action, but right thinking does not. Evaluation is by action.<br/><br/>QUESTION: How “choose,” when you don’t know what are the two principles between which you choose?<br/><br/>PROFESSOR HODGES. “Fullness of life” is the principle, but principles need not all be conscious. It is part of Socratic criticism to make them conscious. Something is at work in me which I have not chosen, i.e. myself. I ask myself, “Why do I believe so and so?” and this is the fundamental passion behind philosophy as I practice it. It doesn’t worry me to say that philosophy is a branch of applied psychology. I cannot calculate what experience will yield.<br/><br/>QUESTION: Is the kind of knowledge before your choice different from the knowledge after it?<br/><br/>PROFESSOR HODGES. No. Before you made a choice you were not conscious why you did it, but afterwards you know and are therefore more stable. The aim is the emergence of self­consciousness. An “existential” decision is one which makes you a different person, and such decisions need not be religious ones.<br/><br/>MR. LEWIS. Must I, for the sake of “fullness of life,” give up the only “fullness of life” I care about - the belief in objective truth (my unextinguishable, or rather unextinguished, passion)? Only love of objective truth could make me accept what you say.<br/><br/>PROFESSOR HODGES. I speak to you as to a Christian: certain things cannot be known “in via” - this we must accept.<br/><br/>QUESTION: I thought Professor Hodges was denying objective truth to metaphysics only, not, e.g., to the principles revealed by epistemology.<br/><br/>PROFESSOR HODGES: There are three levels of thought. (1) Positive or empirical enquiry, scientific and historical, where on the basis of agreed presuppositions agreed results are reached. These are objective in the sense that they hold for all thinkers who accept the principles and weigh the evidence. (2) Socratic criticism, which discloses the principles on which (1) is based, showing the extent to which they rest on foundations in the nature of the thinking subject. Such principles can be shown to have a history, but are not individual fantasies. (3) Metaphysical construction, which is individual fantasy.<br/><br/>QUESTION. Can we <i>argue</i> about fundamental choices?<br/><br/>PROFESSOR HODGES: We can sometimes show that a principle holds for all possible subjects in like circumstances, and is in that sense objective.<br/><br/>MR. LEWIS: For all <i>possible</i> subjects or for all <i>human</i> subjects? Is truth about something or only for persons?<br/><br/>The discussion had reluctantly to be closed at 10.50 p.m.",
-        type: "Prose",
-        notes: ["Included because they are printed as an actual transcript, not as summary notes by a secretary."]
-    },
-    {
         title: "Secretarial notes at the end of “Bulverism” and partial transcript of the consequent discussion",
         printedIn: "The <i>Socratic Digest</i>",
         issueOrVolume: "no. 2",
@@ -320,6 +309,17 @@ const texts = [
         notes: ["Compare the blurb with the first sentence of Lewis’s preface to <i>Essays Presented to Charles Williams</i>: “In this book the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer; if he feels disposed to complain of hotch-potch (which incidentally is an excellent dish; consult the Noctes Ambrosianae) I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.” That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), 110-124, item 18.", "The text of the front flap is reprinted in its entirety in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G21.", ]
     },
     {
+        title: "Blurb for <i>A New Translation of the Bible: Containing the Old and New Testaments,</i> trans. James Moffatt (London: Hodder and Stoughton, 1925; revised edition, 1935)",
+        printedIn: "<i>The Guardian</i>",
+        issueOrVolume: null,
+        pageRange: "3",
+        year: 1949,
+        monthAndDay: "10 June",
+        textProvided: "Begin with the N.T. and not with the books about it. If you do not know Greek, get it in a modern translation. Moffatt’s is probably the best[.]",
+        type: "Blurb",
+        notes: ["This text is taken from <i>Miracles,</i> the beginning of chapter 17 (“Epilogue”), with some minor alterations: “My work ends here. If, after reading it, you now turn to study the historical evidence for yourself, begin with the New Testament and not with the books about it. If you do not know Greek get it in a modern translation. Moffat’s [sic] is probably the best: Monsignor Knox is also good. I do not advise the <i>Basic English</i> version.”", ]
+    },
+    {
         title: "Note on <i>Orpheus</i>",
         printedIn: "Programme of Owen Barfield’s play <i>Orpheus,</i> produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield",
         issueOrVolume: null,
@@ -376,14 +376,25 @@ const texts = [
     },
     {
         title: "Blurb for John Custance, <i>Wisdom, Madness & Folly: The Philosophy of a Lunatic</i> (London: Victor Gollancz, 1951)",
-        printedIn: "<i>The Daily Telegraph and Morning Post</i>",
+        printedIn: "<i>The Daily Telegraph & Morning Post</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "14",
         year: 1951,
         monthAndDay: "11 May",
         textProvided: "I do not think I shall ever forget the experience of reading it.",
         type: "Blurb",
-        notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Pellegrini & Cudahy, 1952)."]
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Pellegrini & Cudahy, 1952).", "The same endorsement also appeared two weeks later in <i>The Daily Telegraph & Morning Post</i> (25 May 1951), 6, and twice in <i>The Observer</i> (13 May 1951), 4, and (17 June 1951), 4."]
+    },
+    {
+        title: "Blurb for Nancy Wilson Ross, <i>ime’s Corner</i>T (London: Collins, 1953)",
+        printedIn: "<i>The Observer</i>",
+        issueOrVolume: null,
+        pageRange: "7",
+        year: 1951,
+        monthAndDay: "16 August",
+        textProvided: "I enjoyed it greatly[.]",
+        type: "Blurb",
+        notes: ["This text is from an unpublished letter to Ross (25 October 1952) in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A), Harry Ransom Center, The University of Texas at Austin. Ross had written to Lewis on 5 October 1952, sending him a copy of <i>Time’s Corner,</i> and telling him of the origin of its title, which is a phrase from <i>Perelandra.</i>"]
     },
     {
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
@@ -463,10 +474,21 @@ const texts = [
         notes: ["The text is derived from <i>CL</i> 3:390-391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York), with some unmarked omissions and even a significant word change (“the actual writing” in <i>CL</i> 3:391 becomes “the actual invention” in the blurb).", "There is yet another version, printed as part of an advertisement for <i>Childhood’s End</i> in the 7 May 1954 edition of <i>The Guardian</i>: “It is quite out of range of the common space-and-time writers; away up near Lindsay’s <i>Voyage to Arcturus </i>and Wells’s <i>First Men in the Moon</i>…There has been nothing like it for years; partly for the actual invention, but partly because here we meet a modern author who understands that there may be things that have a higher claim on humanity than its own ‘survival’.”", "In <i>CL</i> 3:410 note 39, Hooper prints a highly condensed version of the blurb found on the 1956 Pan paperback edition: “There has been nothing like it for years . . . an author who understands there may be things that have a higher claim on humanity than its own survival.” However, this version differs from the 1956 Pan paperback printing I have seen: “The first climax brought tears to my eyes. There has been nothing like it for years.”"]
     },
     {
+        title: "Blurb for Joy Davidman, <i>Smoke on the Mountain: An Interpretation of the Ten Commandments</i> (London: Hodder and Stoughton, 1955)",
+        printedIn: "<i>The Guardian</i>",
+        issueOrVolume: null,
+        pageRange: "8",
+        year: 1955,
+        monthAndDay: "23 February",
+        textProvided: "The quality of this book lies in its union of passionate heat with intelligence.",
+        type: "Blurb",
+        notes: ["From Lewis’s foreword, 10-11: “On the contrary the quality in this book which, I anticipate, will stand out more clearly the better it is known, is precisely the union of passionate heat with an intelligence which, in that passion, still modifies and distinguishes and tempers.”"]
+    },
+    {
         title: "Blurb for Harry Blamires, <i>Blessing Unbounded</i> (London: Longmans, Green and Company, 1955)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "10",
         year: 1955,
         monthAndDay: "18 December",
         textProvided: "This last one is definitely the best of the three…I admire the way he leads us time after time up the garden path; each time you think you’re in for a well-worn type of ridicule directed against a too familiar target, and each time you find that the purpose is quite different.",
@@ -499,7 +521,7 @@ const texts = [
         title: "Blurb for Clare Kipps, <i>Sold for a Song</i> (London: Frederick Muller Ltd, 1956)",
         printedIn: "<i>The Daily Telegraph and Morning Post</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "10",
         year: 1956,
         monthAndDay: "15 June",
         textProvided: "Every bit as good as its predecessor, and perhaps even more interesting.",
@@ -510,7 +532,7 @@ const texts = [
         title: "Blurb for Katharine M. Briggs, <i>Hobberdy Dick</i> (London: Eyre & Spottiswoode, 1955)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "12",
         year: 1956,
         monthAndDay: "8 January",
         textProvided: "What a splendid conception! How many people would have given their teeth to have thought of it. The ending is deeply satisfactory. I think I can congratulate you on a real discovery.",
@@ -554,23 +576,12 @@ const texts = [
         title: "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
         printedIn: "<i>The Core of the Bible: Arranged from the Authorised King James Version,</i> ed. Austin Farrer (New York: Harper and Bros.)",
         issueOrVolume: null,
-        pageRange: "dust jacket back cover",
+        pageRange: "back cover",
         year: 1957,
         monthAndDay: null,
         textProvided: "I am more than pleased, I am excited about Austin Farrer’s book. ...This is as brilliant a presentation as we’re likely to see.",
         type: "Blurb",
         notes: ["This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433.", "An expanded version of the blurb also appears in the publisher’s material at the end of the Fontana paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.”"]
-    },
-    {
-        title: "Account of a lecture on Classical translations, “‘Translations from Hatred’: Classics in Modern Dress Condemned”",
-        printedIn: "<i>The Times</i>",
-        issueOrVolume: null,
-        pageRange: null,
-        year: 1958,
-        monthAndDay: "8 August",
-        textProvided: "<div style='text-align: center'>“TRANSLATIONS FROM HATRED”</div><br/><div style='text-align: center'>CLASSICS IN MODERN DRESS CONDEMNED<br/>FROM OUR SPECIAL CORRESPONDENT</div><br/><div style='text-align: right'>CAMBRIDGE, AUG. 7</div><br/> In spite of the unlikely hour (immediately after breakfast) the hilarity of Professor C.S. Lewis, in his most mischievous mood, proved irresistible this morning when he delivered to the conference of classical teachers here a withering attack on modern translations of the classics. They apparently sprang, he declared, from “a very real hatred” of what most poetry, other than that of relatively recent times, has been.<br/><br/>Surveying, with acid asides, the great change he had seen during his lifetime, he admitted so little sympathy for the new idea that a translation should try to be “what the author would have written if he had lived in our own day.” What reason had we to suppose that Virgil, for instance, would have written anything at all or, if he did, would have got anywhere with it? Our age, with implacable hostility, would have known how to deal with him.<br/><br/><div style='text-align: center'>TWO CARDINAL SINS</div><br/>The present view seemed to be that ours were the only possible poetics, Professor Lewis observed; and that the old poets really must have conformed to them, however little they might appear to have done—and if they did not they must be made to do so. He singled out the opinions and Homeric translations of W. H. D. Rouse as his main target, though neither T. E. Lawrence nor Professor C. Day Lewis escaped wholly unscathed. (Of Dr. E. V. Rieu he would only say with a smile: “Rieu’s daughter was a pupil of mine and I have met him and liked them both very much.”)<br/><br/>Why, he demanded, was the Rousean view so widely held? He found much of the answer in the fact that the two cardinal sins to-day were archaisms and poetic diction. “I have seen strong young men almost turn pale at the use of an archaism.” With few exceptions all the poetry written in the past was now assumed to be “bunk”; poetry began with Mr. Eliot and Mr. Pound. Or it was argued, if you like to give the name poetry to the old stuff we shall give a new one to ours, but we want to take over the goodwill of the business.<br/><br/><div style='text-align: center'>ARCHAISM AND RITUAL</div><br/>Staunchly Profesor Lewis denied that “poetical language” was fit only for “toffs and cissies.” We still kept archaism and ritual elsewhere in life—in dressing for dances, for example—because there could not be a more obvious way of heightening the effect. He confessed he had found the same deplorable point of view in his own field. You were always discovering that some work the world had enjoyed for 300, 500, or 800 years was not what had been thought, but bore an extremely close resemblance to <i>The Outsider</i> or the like.<br/><br/>It was almost, he complained, as if there were a set of people who did not want the modern man to know there had once been a language different from our own. The age had to be carefully guarded, cut off from any subversive influence that might creep in from the poetry of the past.<br/><br/>Professor Lewis did not subscribe either to the theory that translations should try to recreate the impression the originals gave to their contemporaries. In this case we were not dealing with a snark or a boojum, but how could we know what any poem sounded like to its contemporaries? The only safe way was to seek as closely as possible the effect it would give a reader if he was really a tiptop, modern, classical scholar. Even so he gave warning against making the classics sound too English: “You don’t go to France to get tea, do you?”<br/><br/><div style='text-align: center'>MORAL LESSON</div><br/>We all knew he was a moralist, Professor Lewis cheerfully concluded, and he would be very sorry to end without drawing a useful moral lesson. It was that surely this picture of what happens to dead authors would cure us of any desire for posthumous fame, since we would only be attached to some cause we had never heard of and would probably have detested.<br/><br/>The conference ended with an obviously heartfelt discussion on the position of classics in the schools. It was introduced by Mr. H. D. P. Lee, headmaster of Winchester College, and Mr. A. W. Eagling, headmaster of the Cambridgeshire High School for Boys, both of whom doubted whether the most was being got out of Latin or Greek. ",
-        type: "Prose",
-        notes: null
     },
     {
         title: "Preface, abridgements, and revisions to <i>Miracles</i>",
@@ -626,6 +637,17 @@ const texts = [
         textProvided: "In his earlier romances Mr Peake created a new category, the Gormenghastly, and we wonder already how we did without it and why no one defined it before. He now expends the same disquieting power on the experiences of one who has escaped from Gormenghast. But “escaped” now turns out to be the wrong word. The world presented is, with a frightful and fruitful distortion, our own − a world at once triumphant and miserable and having lost its roots, doubtful whether it ever had them save in fantasy, unable to strike new ones, insulted by more than Betjemaniac parodies of the old, both dreading and desiring an impossible return to home; meanwhile, vast, squalid, convulsed with the energies of nightmare. All this, rendered by a prose which sometimes hits you like a mace and sometimes brushes you like a butterfly’s wing, adds up to a work which some will wish to forget as soon as they have read it. They will not succeed.",
         type: "Blurb",
         notes: ["Reprinted in <i>CL</i> 3:1061 note 129 and in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 470, item G49."]
+    },
+    {
+        title: "Blurb for Yvonne Lubbock, <i>Return to Belief</i> (London: Collins, 1961)",
+        printedIn: "<i>The Guardian</i>",
+        issueOrVolume: null,
+        pageRange: "11",
+        year: 1961,
+        monthAndDay: "28 April",
+        textProvided: "Most exciting.",
+        type: "Blurb",
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
         title: "Blurb for David Bolt, <i>Adam: A Tone Poem</i>",
@@ -686,12 +708,12 @@ const texts = [
         title: "Blurb for Katharine Trevelyan, <i>Fool in Love</i> (London: Victor Gollancz, 1962)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "8",
         year: 1962,
         monthAndDay: "1 July",
         textProvided: "As full of pity & terror as Bunyan’s <i>Grace Abounding</i>",
         type: "Blurb",
-        notes: ["It is currently unknown whether the dust jacket of this edition contains any remark by Lewis."]
+        notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
         title: "Comments on contemporary Christianity",
@@ -730,7 +752,7 @@ const texts = [
         title: "Blurb for Austin Farrer, <i>Saving Belief</i>",
         printedIn: "Austin Farrer, <i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         issueOrVolume: null,
-        pageRange: "dust jacket",
+        pageRange: "half title page",
         year: 1964,
         monthAndDay: null,
         textProvided: "‘It has become customary with theologians to let themselves off a plain answer’ (p. 98). Here plain answers abound. Plain in the sense that no evasions are offered by the writer or permitted to the reader. In another sense, far from plain; almost every answer says more than we realize at the first glance. We have been deluged with theologies in which the most flamboyant pretensions to novelty and daring co-exist with the greatest thinness and flatness of the actual content; Dr. Farrer, remaining patient, modest and orthodox, opens new horizons to us on every other page.",
@@ -1269,7 +1291,7 @@ const texts = [
         title: "Blurb for Robert Penn Warren, <i>Brother to Dragons</i> (London: Eyre and Spottiswoode, 1953)",
         printedIn: "<i>The Guradian</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "6",
         year: 1954,
         monthAndDay: "29 June",
         textProvided: "A work modern in its grimness but classical in its sanity, which displays (especially in its architectonics) very high powers of invention.",
@@ -3269,6 +3291,17 @@ const texts = [
         textProvided: "For an intelligible narrative poem, what about a chunk out of <i>Waltharius,</i> by Ekkehard, of St. Gall (tenth century). See a delightful account of it in W. P. Ker’s <i>Dark Ages.</i> For prose: Saxo Grammaticus (give them the Hamlet story) Jordanes (vel Jornandes) <i>De Rebus Geticis</i> (lots about Attila); Gregorius Turonensis <i>Historia Francorum;</i> the anonymous <i>Gesta Francorum</i> (on the First Crusade); Geoffrey of Monmouth (some Arthurian bit); and—if you want to include something of the Renaissance—Kepler’s <i>Somnium,</i> which is the first real instance of “scientifiction.”",
         type: "Letter",
         notes: ["Paul Tankard’s listing in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, claims this letter is found in volume 38 of <i>Latin Teaching,</i> which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.",]
+    },
+    {
+        title: "Letter to the Milton Society of America in the 1958 Milton Society Booklet",
+        printedIn: "<i>Seventeenth-Century News</i>",
+        issueOrVolume: "vol. 17, no. 2 (Summer)",
+        pageRange: "16 and <a href='https://archive.org/details/sim_seventeenth-century-news_summer-1959_17_2/page/n3/mode/2up' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 1959,
+        monthAndDay: null,
+        textProvided: "Mr. Eliot has recanted, Dr. Leavis is disregarded, & Middleton Murray is forgotten. The eclipse is over.",
+        type: "Letter",
+        notes: null
     },
     {
         title: "Letter to Mahmoud Manzalaoui",
