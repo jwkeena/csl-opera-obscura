@@ -386,7 +386,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Pellegrini & Cudahy, 1952).", "The same endorsement also appeared two weeks later in <i>The Daily Telegraph & Morning Post</i> (25 May 1951), 6, and twice in <i>The Observer</i> (13 May 1951), 4, and (17 June 1951), 4."]
     },
     {
-        title: "Blurb for Nancy Wilson Ross, <i>ime’s Corner</i>T (London: Collins, 1953)",
+        title: "Blurb for Nancy Wilson Ross, <i>Time’s Corner</i> (London: Collins, 1953)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
         pageRange: "7",
