@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 11.25.23</b></p>
+                    <p className="center-align nudge-up"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">Code and design by Justin Keena</a> · last updated 6.20.24</b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
@@ -86,7 +86,7 @@ class AboutModal extends Component {
                             <li>1962 - <i>They Asked for a Paper: Papers and Addresses</i></li>
                         </ol>
 
-                        <p>iii. Has not been published in any anthology or collection of stories, poems, essays or letters edited by Walter Hooper(except for letters omitted from <i>Collected Letters</i>): i.e., does not appear as any piece in</p>
+                        <p>iii. Has not been published in any anthology or collection of stories, poems, essays or letters edited by Walter Hooper (except for letters omitted from <i>Collected Letters</i>): i.e., does not appear as any piece in</p>
                         
                         <ol>
                             <li>1966 - <i>Studies in Medieval and Renaissance Literature</i></li>
@@ -95,7 +95,7 @@ class AboutModal extends Component {
                             <li>1967 - <i>Christian Reflections</i></li>
                             <li>1969 - <i>Narrative Poems</i></li>
                             <li>1969 - <i>Selected Literary Essays</i></li>
-                            <li>1970 - <i>God in the Dock: Essays on Theology and Ethics</i> (US) / <i>Undeceptions</i> (UK)</li>
+                            <li>1970 - <i>God in the Dock: Essays on Theology and Ethics</i> (US) / 1971 - <i>Undeceptions</i> (UK)</li>
                             <li>1975 - <i>Fern-seed and Elephants and Other Essays on Christianity</i></li>
                             <li>1977 - <i>The Dark Tower & Other Stories</i></li>
                             <li>1979 - <i>God in the Dock: Essays on Theology</i> (UK only)</li>
@@ -131,7 +131,7 @@ class AboutModal extends Component {
                         
                         <p>Most of all, I am indebted to Arend Smilde, Stephen Thorson, Don King, Norbert Feinendegen, and Henk van Wingerden for many additional contributions.</p>
                         
-                        <p><b>OMISSIONS: </b>  (1) <a className="blue-link" href="https://docs.google.com/document/d/1BTPrDOBXq9Aa17OM5a2T5T7y9Br766QnDS9vpWV3vN8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">Transcripts of voice recordings</a> (e.g., “C.S. Lewis, interviewed by Wayland Young 19 January 1962” in <i>The Journal of Inklings Studies,</i> vol. 1, no. 1, 2011, 23-31) and secondhand reports or summaries of Lewis’s words are excluded (e.g., most “Discussion” sections in the <i>Socratic Digest</i>). (2) Mere corrections to erroneous printings (e.g., for <i>The Allegory of Love </i>in 1938) are not included, but early drafts and later abridgements (e.g., for <i>That Hideous Strength</i> in 1946) and revisions (e.g., for <i>Miracles</i> in 1960) are. (3) Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s preface to Kathryn Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> SEVEN: An Anglo-American Literary Review</i> vol. 28 (2011), 5-15. Only the latter reference is included in this bibliography.</p>  
+                        <p><b>OMISSIONS: </b>  (1) <a className="blue-link" href="https://docs.google.com/document/d/1BTPrDOBXq9Aa17OM5a2T5T7y9Br766QnDS9vpWV3vN8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">Transcripts of voice recordings</a> (e.g., “C.S. Lewis, interviewed by Wayland Young 19 January 1962” in <i>The Journal of Inklings Studies,</i> vol. 1, no. 1, [April 2011], 23-31) and secondhand reports or summaries of Lewis’s words are excluded (e.g., most “Discussion” sections in the <i>Socratic Digest</i>). (2) Mere corrections to erroneous printings (e.g., for <i>The Allegory of Love </i>in 1938) are not included, but early drafts and later abridgements (e.g., for <i>That Hideous Strength</i> in 1946) and revisions (e.g., for <i>Miracles</i> in 1960) are. (3) Texts that were originally published only in part, but were later superseded by a complete or at least somewhat more complete printing, have usually been omitted. For example, Walter Hooper’s preface to Kathryn Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Eerdmans, 1973), 9, contains a brief passage from a realistic novel written by Lewis around 1927. This is the “Easley Fragment,” now published in full in <i> SEVEN: An Anglo-American Literary Review</i> vol. 28 (2011), 5-15. Only the latter reference is included in this bibliography.</p>  
 
                         <p>* Note that this does not apply to paratexts like prefaces, dedications, footnotes, and blurbs: blurbs are always included; prefaces, dedications, and footnotes are included if (1) there is a difference between the first edition and later editions, or (2) there is a difference between the US and UK versions, or (3) the book is out of print as of 2013.</p> 
                     </div>
