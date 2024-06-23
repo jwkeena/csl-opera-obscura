@@ -166,7 +166,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "“When a Scot or an Irishman wishes to criticize England, he settles in London and is paid by an English publisher to do the job” […] “the philosopher of progress often finds that progress has been suspended for his own lifetime” […] “Marx and Hegel are agreed upon the metaphysics of the escalator” […] “The nineteenth century gave us the word Nihilism. It is rebellion chemically pure.” Such quotations give an idea of the freshness and pungency of Mr. Bentley’s writing. But this work is something much more than a collection of wisecracks. It is the detailed and documented study of what the Author calls Heroic Vitalism—in fact, of the source from which most of the great anti-democratic movements of our own day proceed. Carlyle, Nietzsche, Shaw, Stefan George and D.H. Lawrence are among the specimens; on Wagner, Mr. Bentley seems to me especially helpful. The Author, though sternly critical, has a sympathy which I cannot emulate with those elements in Heroic Vitalism which really deserve a serious answer, and this enables him to make a constructive book out of what might easily have been a mere chamber of horrors. <br><br>C.S. LEWIS.",
         type: "Prose",
-        notes: ["A one-page positive review of the book in the front matter.", "This piece is not in <i>Image and Imagination</i> or, to my knowledge, any other collection."]
+        notes: null
     },
     {
         title: "Notes on a Sermon “All or Nothing”",
@@ -3029,6 +3029,39 @@ const texts = [
         notes: null
     },
     {
+        title: "Note on Owen Barfield’s poem “Bridge of Hominy”",
+        printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 13, no. 2",
+        pageRange: "252",
+        year: 2023,
+        monthAndDay: "October",
+        textProvided: "what language is it in? I can’t make head or tail of it",
+        type: "Prose",
+        notes: ["From one of the following (the note is unclear): Bodleian Dep. c. 1072, fol. 311, 314, 316, 326 or Dep c. 1106, fol. 4."]
+    },
+    {
+        title: "Note on Owen Barfield’s lyric poem beginning “It may have been a dream”",
+        printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 13, no. 2",
+        pageRange: "253",
+        year: 2023,
+        monthAndDay: "October",
+        textProvided: "Excellent in its kind. Try <u>this</u> in <u>Punch</u>",
+        type: "Prose",
+        notes: ["From Bodleian Dep. c. 1107, fol. 41."]
+    },
+    {
+        title: "Notes to Owen Barfield on his own poem manuscripts",
+        printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 13, no. 2",
+        pageRange: "252",
+        year: 2023,
+        monthAndDay: "October",
+        textProvided: "[...Barfield and Lewis valued criticism and even suggested editorial changes to each other’s poems. Note, for example, the frequency of Lewis’s prefatory remarks at the top of poem manuscript pages sent to Barfield, such as]<br><br>any good?<br><br>is this any use?<br><br>on which criticism is invited",
+        type: "Prose",
+        notes: ["From one of the following (the note is unclear): Bodleian Dep. c. 1072, fol. 311, 314, 316, 326 or Dep c. 1106, fol. 4."]
+    },
+    {
         title: "Annotations in his copy of H.C. Wyld’s <i>The Historical Study of the Mother Tongue</i> (1920)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -3223,7 +3256,7 @@ const texts = [
         pageRange: "99",
         year: 1988,
         monthAndDay: null,
-        textProvided: "[In the diary of the period he described Dryden as]<br><br>an intolerable worm.",
+        textProvided: "[In the diary of the period he described Dryden as]<br><br>an intolerable worm",
         type: "Diary",
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 171."]
     },
@@ -3844,13 +3877,13 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G5."]
     },
     {
-        title: "Letter to the editor (“Poetic License”)",
+        title: "Letter to the editor (“Poetic Licence”)",
         printedIn: "<i>The Sunday Times</i>",
         issueOrVolume: null,
         pageRange: "6",
         year: 1946,
         monthAndDay: "11 August",
-        textProvided: "Poetic License<br><br>Sir,—I do not understand on what grounds we can forbid English poets to treat Aphrodite as a trisyllable rhyming with “light.” This is not, of course, the Greek pronunciation; but neither is “Affrodighty.”<br><br>If we want to preserve the Greek we must say <i>Ap-hrod-eet-è</i> and (if we can) put on a tonic accent. But why should we? It is a sign of health in the vernacular to be able to assimilate foreign names. We all make the first syllable of Romulus short and the first of Remus long, not because we are all ignorant that the Latin quantities were exactly the opposite but because we are obeying an English sound-law. In the same way nearly all English poets scan Hyperion so that it would rhyme either with “ferry on” or “Chaucerian,” not with “[l]ion” (still less with “peon”). What is funny about Thucydides rhyming with “brides” or Miltiades rhyming with “brigades” is not the departure from ancient pronunciation but the departure from established English usage. Our “correct” pronunciation of Thucydides (Thisiddideez) would have been unintelligible to a Greek. <br><br>The real justification for “Affrodight” as well as “Affrodighty” is that they differ aesthetically. When you say “Affrodight” you are making a slightly different poem. Keats’s Proserpine (rhyming with “wine” is not exactly the same person poetically either as Prosérpina or Persephone. Thus “Suliman” carries us to the Arabian Nights, “Solomon” to the Authorised Version and “Salamon” to the Middle Ages.<br><br>C.S. LEWIS.	<br> Magdalen College, Oxford.",
+        textProvided: "Poetic Licence [sic]<br><br>Sir,—I do not understand on what grounds we can forbid English poets to treat Aphrodite as a trisyllable rhyming with “light.” This is not, of course, the Greek pronunciation; but neither is “Affrodighty.”<br><br>If we want to preserve the Greek we must say <i>Ap-hrod-eet-è</i> and (if we can) put on a tonic accent. But why should we? It is a sign of health in the vernacular to be able to assimilate foreign names. We all make the first syllable of Romulus short and the first of Remus long, not because we are all ignorant that the Latin quantities were exactly the opposite but because we are obeying an English sound-law. In the same way nearly all English poets scan Hyperion so that it would rhyme either with “ferry on” or “Chaucerian,” not with “[l]ion” (still less with “peon”). What is funny about Thucydides rhyming with “brides” or Miltiades rhyming with “brigades” is not the departure from ancient pronunciation but the departure from established English usage. Our “correct” pronunciation of Thucydides (Thisiddideez) would have been unintelligible to a Greek. <br><br>The real justification for “Affrodight” as well as “Affrodighty” is that they differ aesthetically. When you say “Affrodight” you are making a slightly different poem. Keats’s Proserpine (rhyming with “wine” is not exactly the same person poetically either as Prosérpina or Persephone. Thus “Suliman” carries us to the Arabian Nights, “Solomon” to the Authorised Version and “Salamon” to the Middle Ages.<br><br>C.S. LEWIS.	<br> Magdalen College, Oxford.",
         type: "Letter",
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G20."]
     },
@@ -3998,7 +4031,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to Mr. Welbon (18 September 1936)",
+        title: "Letter to Henry G. Welbon (18 September 1936)",
         printedIn: "Margaret Hannay, <i>C.S. Lewis</i> (New York: Frederick Ungar)",
         issueOrVolume: null,
         pageRange: "228",
@@ -4265,7 +4298,7 @@ const texts = [
         title: "Letter to the editor",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "217",
         year: 1943,
         monthAndDay: "3 September",
         textProvided: "Magdalen College, Oxford<br><br>Sir—Can you find space to let your readers know that in an article of mine on “Equality” which you printed in your issue of August 27th the words “Medicine is not good” are a printer’s error? I wrote “Medicine is not food”.<br><br>Yours, &c.<br>C.S. Lewis",
@@ -4276,7 +4309,7 @@ const texts = [
         title: "Letter to the editor (“Church Parade”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "481-482",
         year: 1943,
         monthAndDay: "19 November",
         textProvided: "CHURCH PARADE<br><br>Sir,—The correspondence in your columns about church parades in the Services emboldens me to protest, both as a citizen and a Christian, against what I consider an even greater evil— church parades in the Home Guard. As a citizen, I submit that the members of the Home Guard made a voluntary sacrifice of their leisure at a time when the country was in extreme danger. Since then their service has been made compulsory and their leisure further encroached upon. Both these evils are borne with patience because they are taken as necessary evils. But what shadow of right can the State pretend for using the power it has thus acquired over them to compel them to go to church? Or in what spirit are we to suppose that a man who has lost his Sunday morning for an object which he understands and approves will see his Sunday evening also taken from him for an object which was never even mentioned when he first became a Home Guard? As a Christian, I submit that such interferences with the private life of the Home Guard are calculated to harden ordinary English indifference into fierce anticlericalism of the Continental type. Angry men do not reason clearly. They will transfer to the Church itself the resentment they justly feel for the busy-body who has marched them to it. Some of them no doubt are Christians. But why should a Christian by entering the Home Guard be deprived of the right to go to the church and service he chooses with his own wife and children, or be forced to the difficult exercise of praying amidst a crowd of comrades either bitterly resentful or (worse still) contemptuously patient? War demands compulsions; all the more reason to guard against gratuitous compulsions which it does not demand. By the mere act of putting on uniform men should not be reduced to the status of toy soldiers, moved about for the mere amusement of their owners.<br><br>Yours faithfully,<br>C.S. LEWIS<br>Magdalen College, Oxford",
@@ -4342,7 +4375,7 @@ const texts = [
         title: "Letter to the editor (“Poet and Printer”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
-        pageRange: null,
+        pageRange: "550",
         year: 1945,
         monthAndDay: "15 June",
         textProvided: "[On a misprint in his poem “The Salamander,” published in the 8 June issue:]<br><br>POET AND PRINTER<br><br>Sir, –Spare me, of your charity, room to correct a misprint in a small poem by me which you printed today. For <i>Existed amid the boundless dark</i> read <i>Enisled amid the boundless dark</i>. The salamander is an Arnoldian animal.<br><br>— Yours, &c.,<br><br>C.S. LEWIS, <i>Magdalen College, Oxford</i>",
@@ -4389,7 +4422,7 @@ const texts = [
         pageRange: "199",
         year: 1988,
         monthAndDay: null,
-        textProvided: "[On F.P. Wilson’s election to the Merton Professorship:]<br><br>Oh, I owe a great deal to him. Incidentally I wonder if anyone will notice in his lectures the sources of some of my Literary heresies.",
+        textProvided: "[Jack’s former tutor, F.P. Wilson, was eventually elected to the professorship. Jack was generous in his praise in a letter to me:]<br><br>Oh, I owe a great deal to him. Incidentally I wonder if anyone will notice in his lectures the sources of some of my Literary heresies.",
         type: "Letter",
         notes: null
     },
@@ -5038,7 +5071,7 @@ const texts = [
         pageRange: "222",
         year: 1988,
         monthAndDay: null,
-        textProvided: "[On Joy Gresham Davidman:]<br><br>Never have I loved her more than since she was struck down.",
+        textProvided: "[{Joy’s} illness intensified Jack’s affection for her. From this time onward, he was certainly aware of loving her. As he wrote to one friend:]<br><br>Never have I loved her more than since she was struck down.",
         type: "Letter",
         notes: null
     },
@@ -6154,6 +6187,17 @@ const texts = [
         notes: ["Photographs of the manuscript have been available <a href='https://www.transpositions.co.uk/advent-c-s-lewis-and-a-letter-from-my-grandmother/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> since 13 December 2021.", "The manuscript itself is in the Bodleian Library, Oxford, shelfmark MS. Eng. c. 7963, fol. 26.", "The last sentence of the second paragraph is parallel to <i>That Hideous Strength</i> XII.2, the description of the Deputy Director’s drug-induced substitute for sleep: “the real man was far away, suffering, enjoying, or inflicting whatever such souls do suffer, enjoy, or inflict when the cord that binds them to the natural order is stretched out to its utmost but not yet snapped.”"]
     },
     {
+        title: "Letter to Colonel B.S. Browne (20 July 1943)",
+        printedIn: "<i>Letters from Jack, Practical Advice from the Pen of C.S. Lewis</i>, ed. Diana Pavlac Glyer (The Honors College, Azusa Pacific University)",
+        issueOrVolume: null,
+        pageRange: "153-154",
+        year: 2023,
+        monthAndDay: null,
+        textProvided: "Magdalen College, Oxford<br><br>July 20th 1943<br><br>Dear Colonel Browne<br><br>It was kind of you to write again. Christopher dined with me a few weeks ago and seems well and cheery, but it was rather a big and rowdy party and there was no opportunity of seri­ous conversa­tion. I have been able to see very little of undergraduates lately (apart from teaching my own pupils) because my mother is now so old and infirm that I have to spend all the hours I possibly can at home. But I hear excellent reports of your son as a most use­ful member of the college, who somehow manages that his medical disability shd be sin­gu­larly little trouble to other people. This, which I had from the Vice President this morn­ing, is so very unlike what must be said of most young people who have anything wrong with them, that I thought you wd. like to hear it.<br><br>I somehow never go to the films (not on principle, but there seems always to be some­thing else to do) and consequently don’t know the Noel Coward picture you mention. Some American company is going to make a film of Screwtape, by the bye! I can’t imagine what it will be like. I believe it could be done—humans silent, only the devils speaking, an ap­pal­­ling face materialising now & then in what looks an ordinary social scene. But I fear it will be all love-story and v. little devil by the time the producer has finished with it.<br><br>I’m not “scholard” enough to write on the origin etc of the Gospels, but I wish someone would. Have you seen Dorothy Sayers’ Man Born to be King? I think it quite excellent and the preface contains some good critical work.<br><br>Does it make you homesick or the reverse to tell you that this is a loud-roaring, chilly day with heavy green branches waving against a grey-to-white sky?<br><br>yours sincerely<br>C.S. Lewis<br><br>Excuse the address: I’ve forgotten your R.A.F. rank.",
+        type: "Letter",
+        notes: null
+    },
+    {
         title: "Letter to Geoffrey Shepherd (23 September 1955)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6353,6 +6397,17 @@ const texts = [
         notes: ["Written in the front of a copy of <i>The Screwtape Letters.</i>", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
     {
+        title: "Fragment of a poem in Latin on the animals entering Noah’s ark",
+        printedIn: "John Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford)",
+        issueOrVolume: null,
+        pageRange: "77",
+        year: 1986,
+        monthAndDay: null,
+        textProvided: "[Frank Hardie quoted a couple of lines by J.A. Smith about the animals entering the Ark. Then he and C.S. Lewis between them proceeded on the spot to add four more lines to the description, which then ran:]<br><br>Cum bove bos, grue grus, sue sus, cum tigride tigris<br>   Rhinoceros tum cum rhinocerote venit. (J.A.S.)<br>Necnon ridicula cum mure it ridiculus mus,<br>   Tum tom felis cum fele leone leo;<br>Et pterodactylium par nobile, parque draconum<br>   Et dinos saurus dinaque saura sua (C.S.L., W.F.R.H.)",
+        type: "Poem",
+        notes: ["Reprinted in Philip and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus & Grioux, 2015), 171 and in Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies,</i> vol. 13, no. 2 (October 2023), 256-257.", "This is one of three overlapping early versions of this poem. For the other two see Waters and Reyes, 258 and Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos and Recollections</i> (Downer’s Grove, IL: IVP Books, 2007), 53-54. In this version, “grue grus” comes before “sue sus” and it is W.F.R. Hardie, not Owen Barfield, who helped Lewis compose some of the lines."]
+    },
+    {
         title: "“If, following your satiric muse”",
         printedIn: "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         issueOrVolume: null,
@@ -6447,9 +6502,9 @@ const texts = [
         pageRange: "53 (holograph) and 54 (transcription and translation)",
         year: 2007,
         monthAndDay: null,
-        textProvided: "HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br><br>I. POEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br><br>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br>Rhinoceros tum cum rhinocerote venit:<br>Necnon ridicula cum mure it ridiculus mus<br>Tum tom-felis cum fele, leone leo.<br><br>[“Owen Barfield and Clive Hamilton Made These” <br><br>I. Poem About Sixteen Animals Entering Noah’s Ark. <br/<br>Bull with cow, boar with pig, crane with crane, tiger with tigress, <br>Rhinoceros with “rhinoceress” came: <br>Also silly little mouse with silly Mrs. Mouse, <br>Tomcat with she-cat, lion with lioness.]",
+        textProvided: "[To the following transcription and translation by Ken Hodginson I have added a translation of the header (“HAEC…HAMILTON”) and corrected two errors in the transcription by comparing it with the holograph. (1) In the title Hodgkinson’s “<i>Introantiens”</i> should be “INTROANTIBUS” to agree with “ANIMALIBUS,” though “INTROANTIBUS” is Lewis’s mistake for “INTRANTIBUS.” (2) In line three Hodgkinson’s “Neanon,” which is not a Latin word, should be “Necnon.”]<br><br>HAEC·FECIT·BARFIELD·OVENS·ET·CLIVUS·HAMILTON<br><br>I. POEMA DE XVI ANIMALIBUS ARCAM NOE INTROANTIBUS.<br><br>Cum bove bos, sue sus, grue grus, cum tigrida tigris<br>Rhinoceros tum cum rhinocerote venit:<br>Necnon ridicula cum mure it ridiculus mus<br>Tum tom-felis cum fele, leone leo.<br><br>[“Owen Barfield and Clive Hamilton Made These”<br><br>I. Poem About Sixteen Animals Entering Noah’s Ark.<br><br>Bull with cow, boar with pig, crane with crane, tiger with tigress,<br>Rhinoceros with “rhinoceress” came:<br>Also silly little mouse with silly Mrs. Mouse,<br>Tomcat with she-cat, lion with lioness.]",
         type: "Poem",
-        notes: ["Note by Ken Hodgkinson, the translator, on page 54: “This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, ‘The mountains are in labor, and then out comes a silly little mouse’—a satirical comment on the spectacular effort of the writer for little result.”", ""]
+        notes: ["Note by Ken Hodgkinson, the translator, on page 54: “This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, ‘The mountains are in labor, and then out comes a silly little mouse’—a satirical comment on the spectacular effort of the writer for little result.”", "The Latin transcription on 54 is reprinted in Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies,</i> vol. 13, no. 2 (October 2023), 258. The two mistranscriptions are reproduced but only one of them is noted (see 258 note 40).", "According to Waters and Reyes, 258, this poem may be the earliest of three known early versions of Lewis and Barfield’s Latin poem on the animals in Noah’s ark. For the other two see Waters and Reyes, 259 and J.D. Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford, 1986), 77-78."]
     },
     {
         title: "“ΠΕΡΙ ΣΤΕΦΑΝΟΥ” [PERI STEPHANOU]",
@@ -7561,6 +7616,28 @@ const texts = [
         textProvided: "But whan that Coghille had his tale ytold<br>Our Professoúr gan round about bihold<br>And lough and seyde “Unbokeled is the male!<br>Let see now who shal tell another tale;<br>And namély Sir Burns as thou art able<br>Telleth anon som matere profitable.”<br>This seely man, this Burns, lift up his head,<br>He was al wan to see and nothing red,<br>And “Sir,” he seyd, “By my devotioun<br>I shal yow nothing tell at this seasoún<br>For I have swyche a stounde of hevinesse,<br>It is the influenza as I guesse,<br>Another man shal tell. Hit am not I.”<br>Ther was a Scottis clerké set thereby,<br>And he was wunder blak and wunder pale,<br>His vois was high upon the upper scale,<br>And he was cleped hende Macdonald.<br>[84] Whan that our Professoúr upon him cald,<br>He answerd, “Sir, I am beneath your yerde,<br>And tho’ a sudden call to me is herde,<br>I wil you seye som lytel as I can,<br>Now herkneth al.” Thereon this worthie man<br>Began to tellen us a noble storie<br>Whereof somdel we holden in memorie;<br>And it was all of oldé Shakéspire<br>The highé poet out of Warwickshire<br>And how he made ful manie a fayré pleye<br>And now was dead. But shortly for to seye<br>Ther came a rout of lewed borel men<br>As Davenaunt and Kean and Garrick then<br>And marr’d his pleys: for they had lerned thus<br>In their old auctor hight Bowdlerius.<br>But of the lewed bokes that they made<br>He tolde eek how a certayn one is layde <br>In Bodley. “But by Goddes trouth,” quod he,<br>The olde monkes in the librairie<br>They know no more of it than min olde hat.”<br>The Professour gan crien out at that,<br>And al the clerkes with hir sentens soon<br>Had shent those idel monkes everichoon.<br>Thereafter swych a silence fell on us,<br>I thought it was the old god Morfëús<br>That made us sit about and slepen all,<br>Ye could have herde the little pinnes fall,<br>Till maistre Strick began to speke a word.<br>His vois was lowe, unnethe it might be herd;<br>He shook his handes two upon the table <br>As he to play piano tunes was able<br>In maner of V-fingre exercises,<br>And seyde anon that ther wer two devises <br>To make tragédies: and upon the one <br>Men tellen of som worthie wight fordone<br>And sorrwing after fashïon commune:<br>The other kind was cursing of fortune<br>In maner of the stark Prometheüs<br>And how fortúne, for al that, breketh us.<br>Now at our table, ye shal understonde.<br>[85] Ther was a paynim knight of ferne londe<br>Of Prester Iohn the kinges court of Ind,<br>Of whom in oldé bokés ye mai find.<br>A verie proper paynim knight he was,<br>And had by hert the plays of Kalidas.<br>“By Termagaunt,” he seyde, “And Apollon,<br>We have dan Shakspere changéd long agon,<br>And turn’d the bok of Lear for a comédie,<br>For in our law ther mai be non tragédie, <br>We are so wearie for to speke of sorrwe.<br>And when a pley we gon about to borrwe <br>We make the sentens ever end in ioye,<br>Tho it wer Tristram or the Tale of Troye.”<br>“Quak!” quod the duck, “Let be the bok of Lear,<br>I dar wel seyn it is a fool matere.<br>Who ever herde the like of swych a king?<br>By God there is no reasoun in the thing.”<br>“Have pees,” seyd moral Darlow. “By my bonis,<br>Ye are not in the right as for the nonis.<br>The storie of Alissaundre is so commune<br>That everich wight, I thought, knew his fortune.<br>For, sothly, he let part his territorie<br>Among his sons, al-so as in the storie.”<br>“What,” quod the duck. “Hastow not red bifore<br>In Aristotle”–but seyd no more,<br>For al our fellawship of oon accord<br>Gan risen al togeder from the bord<br>As they wer wood and crien out and seye<br>“Let be thin olde ensaumples we thee preye.<br>Of Aristotle and his philosophie<br>Telleth no more for Goddes dignity.”<br><br>·EXPLICIT·LIBER·DE·MACDONALDO·",
         type: "Poem",
         notes: null
+    },
+    {
+        title: "Fragment of a poem in Latin on the animals entering Noah’s ark (“Poema de <u>XVI Animalibus arcem</u> Noam intrantibus”)",
+        printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 3, no. 2",
+        pageRange: "259",
+        year: 2023,
+        monthAndDay: "October",
+        textProvided: "Poema de <u>XVI Animalibus arcem</u> Noam intrantibus<br><br>Cum bove bos, sue sus, grue grus, cum tigride tigris,<br>Rhinoceros tum cum rhinocerote venit<br>Necnon ridicula cum mure it ridiculus mus<br>Tum tom felis cum fele, canisque cane.<br>Fit strepitus. Quid enim? “Lateralis egone secutor,”<br>Cancer ait, “Veniam, posteriorve comes?”<br><br>K.T.P.<br>C.S.L., A.O.B. <s>Dec.</s> Jan. 1929<br>(excl. ll. L1. 1 & 2)",
+        type: "Poem",
+        notes: ["In the Bodleian, Dep. c. 1104, fol. 3. None of it is in Lewis’s hand.", "This is one of three overlapping early versions of this poem. For the other two see John Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford), 77 and Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos and Recollections</i> (Downer’s Grove, IL: IVP Books, 2007), 53-54. In this version, “sue sus” comes before “grue grus” and it is Owen Barfield, not W.F.R. Hardie, who helped Lewis compose some of the lines."]
+    },
+    {
+        title: "“De Arca Noe”",
+        printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 3, no. 2",
+        pageRange: "250-251 (final version and translation), 266-267 (transcription with manuscript corrections and variations)",
+        year: 2023,
+        monthAndDay: "October",
+        textProvided: "[Lewis’s variations marked in strikethrough; Barfield’s variations are omitted:]<br><br><u>De Arca Noe</u>.<br><br>Cum bove bos, grue grus, sue sus, cum tigride tigris,<br>   Rhinoceros tum cum rhinocerote venit;<br>Et pterodactylicum par nobile, parque draconum,<br>   Tum Tom felis cum fele, leone leo;<br>Necnon ridicula cum mure it ridiculus mus,<br>   Tum dinus saurus, dinaque saura sua.<br>Tunc Noe: ‘Heus etiam, mulier, fit pons asinorum,”<br>   Ire videns asinum atque ire videns asinam.<br>Inde chimaera ‘Secunda ubi mi est intentio?’ quaerit;<br>   Masque chimaer<s>a petit prostando vacuum. </s>us adit (combinet ut) vacuum.<br><s>Dodonem ducit </s>Ducit dodonem ante omnes pulcherrima Dodo<br>   Dum Dodonae dant duo dona deo.<br>Fit strepitus, “Quid enim: lateralis egone secutor,”<br>   Cancer ait, “veniam, posteriorve comes?”<br>Ast etiam infantem fas post elephantum elephantum   Ire: aliter sed apem quae comitatur apem.<br>Examen subito, quo nullum exilius umquam,<br>   Consertum est. Id apes conseruere duo.<br>Respiciens undas tantas crocodilus aquarum<br>   Et stupet et dicens ‘A crocodila’ silet;<br>Echo “-ocodila” sonat. “Pluvi<s>a</s>e” ast “o Juppiter” illa<br>   “Tu quoque num lacrimas fles crocodiliacas?”<br><br>[{In Barfield’s hand}<br>Quantae molis erat castorum inducere molem!<br>Nam tantas moles hoc animale facit.<br>Ham pater Ham revocat senior Shemque Japetumque<br>  Japetusque venit: Shis venit atque Ha venit.]<br><br>It canius _ horresco referens _ cane cum muliebri;<br>   Flebilis, ad vomitum non reditura tuum.<br>Vulpinatur ibi vulpes cum conjuge vulpe<br>   Per pontem, et cauda verrit eam nitida<br><br>[A bull arrives with its heifer, followed by a roan-crane and its mate, a boar with its sow, a tiger and tigress.<br>   a bull-rhinoceros with a cow-rhinoceros,<br>and then a noble brace of pterodactyls and a pair of snakes,<br>   after which comes a tomcat with its queen, as well as a lion and lioness;Similarly, an absurd mouse enters with its absurd doe,<br>   And then a dinosaur with its very own dinosauress.<br>At this point, Noah says: ‘Well now, woman, here’s a gangway for the donkeys,’<br>   Seeing a donkey arrive, and its jenny too.<br>And then, a chimaera asks, ‘Where’s my other half?’<br>   And so, a male chimaerus steps into this breach, and they make a couple.<br>Most attractive of all, a dodette leads a dodo-dude,<br>   While the duo do their devotions to the Dodonaean deity.<br>There is a noise. ‘Shall I follow sideways,’ says a crab to its partner,<br>   or shall I accompany you scuttling from behind?’<br>And while elephants, even when young, must travel single-file because of size,<br>   Nature holds otherwise for a company of bees.<br>For suddenly a swarm swirls round, but nothing could have been more meagre,<br>   Since only two bees made it up.<br>Mr Crocodile, looking over such great waves of water,<br>   stands agape, sighs, ‘Ah, Mrs Crocodile,’ and falls silent,<br>as his words echo, ‘–ocodile.’ She cries out, ‘Oh Raining Jupiter,<br>   are you crying crocodile tears too? Surely not!’<br>How mightily the beavers strive to build a dam!<br>   For it is their job to build such complicated constructions.<br>‘Ham!’ The elderly father calls and again, ‘Ham! – and Shem and Japheth too!<br>   Japheth arrives, as do Shem and Ham.<br>There appear – I shudder to say it – a dog and its bitch<br>   (pitiful beast, no longer able to return to your vomit!).<br>Then a fox, alongside its vixen,<br>cunningly crosses the gangway and uses its flashy tail to sweep the ark.]",
+        type: "Poem",
+        notes: ["In the Bodleian, Archive of Owen Barfield, Dep. c. 1111, fol. 7; and the Wade Center, C.S. Lewis Manuscripts, CSL / MS-210 / X ‘De Arca Noe’.", "A note in Barfield’s hand closes the poem: “CSL & AOB / in collaboration.”"]
     },
     {
         title: "“Mód Þrýþe Ne Wæg”",
