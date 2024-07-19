@@ -3030,7 +3030,7 @@ const texts = [
     },
     {
         title: "Notes on John Dryden’s poetry (c. 1934-1939)",
-        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S> Lewis Journal</i>",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
         pageRange: "44 and <a href='https://doi.org/10.55221/1940-5537.1086' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2021,
