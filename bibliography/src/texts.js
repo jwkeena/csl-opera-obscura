@@ -109,7 +109,7 @@ const texts = [
         pageRange: "122-125",
         year: 1940,
         monthAndDay: "March",
-        textProvided: null,
+        textProvided: false,
         type: "Prose",
         notes: ["Joe Ricke notes all known variations between this version, the other three known printings of “Learning in War-Time,” and the Lanier manuscript draft in his critical edition of the sermon in “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 80-94 (available <a href='https://doi.org/10.55221/1940-5537.1087' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>). Some of these variations are highlighted on page 74:<br><br>[A phrase referring to the (reading) audience of <i>The Student Movement</i>]<br><br>as students<br><br>[is inserted at the beginning of the second sentence, but the phrase “while you are here” (meaning Oxford) is deleted. Later, Lewis’s phrase identifying his immediate audience by “our presence here in church,” is deftly edited to]<br><br>our presence in the church<br><br>[Towards the end of the manuscript, Lewis refers to “what I have been saying in one form or another ever since I stood up [as in, stood up to preach].” This is changed, as it was later in <i>Transpositions</i> {sic} to]<br><br>ever since I started<br><br>[—erasing the specific language of the pulpit for something more general, since it could just as easily mean “started writing.” {...Among other changes of capitalization and punctuation} “in Church” is changed to]<br><br>in the church<br><br>[{...and} “If all the world were Christians” becomes]<br><br>Christian<br><br>[{...And, as stated on page 75, this version of the sermon} is the only published version not to revise in any way Lewis’s critique of Matthew Arnold and his view of “culture.”]"]
     },
@@ -120,7 +120,7 @@ const texts = [
         pageRange: "367-382",
         year: 1940,
         monthAndDay: null,
-        textProvided: null,
+        textProvided: false,
         type: "Prose",
         notes: ["Joe Ricke notes all known variations between this version, the other three known printings of “Learning in War-Time,” and the Lanier manuscript draft in his critical edition of the sermon in “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 80-94 (available <a href='https://doi.org/10.55221/1940-5537.1087' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>). Some of the idiosyncrasies of “The Christian in Danger” are highlighted on page 77:<br><br>[It is the only extant published text to include the scripture verse and citation as found on the manuscript. The title page, separated from the rest of the text, reads “The Christian in Danger” / C.S. Lewis / + / A Syrian ready to perish was my father. – Deut. xxvi.5.” Sampson’s version also retains phrases from the manuscript that capture the immediacy of the sermon, such as “as you all know” and “while you are here” and “here in church” and “ever since I stood up [to preach].” {...} Whether or not it was Sampson’s decision or Lewis’s, this version revises the original criticism of Matthew Arnold, or at least widens the heresy pool, so to speak, by suggesting that it is<br><br>writers <i>like</i><br><br>[emphasis mine]<br><br>Matthew Arnold, who have [...] encouraged a most dangerous and most anti-Christian error<br><br>[about culture. {...And as pointed out on page 74, note 72:} A phrase referring to the (reading) audience of <i>The Student Movement</i>]<br><br>as students<br><br>[is inserted at the beginning of the second sentence, but the phrase “while you are here” (meaning Oxford) is deleted.]"]
     },
@@ -3112,7 +3112,7 @@ const texts = [
         pageRange: "218 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2024,
         monthAndDay: null,
-        textProvided: "[...alongside the discussion of modern English forms that cannot be accounted for on p. 272, Lewis records the following objection:]<br><br>This is a science! Why can’t the quack say he doesn’t know—no one expects him to be infallible.<br><br>[In another marginal comment Lewis expresses the view that Coleridge had already]<br><br>exploded this ladies’ theory once and for all<br><br>[and elsewhere he observes a contradiction with a statement found in Wyld’s Short History of English and notes:]<br><br>he changes his mind (to be equally dogmatic in the new position)",
+        textProvided: "[...alongside the discussion of modern English forms that cannot be accounted for on p. 272, Lewis records the following objection:]<br><br>This is a science! Why can’t the quack say he doesn’t know—no one expects him to be infallible.<br><br>[In another marginal comment Lewis expresses the view that Coleridge had already]<br><br>exploded this ladies’ theory once and for all<br><br>[and elsewhere he observes a contradiction with a statement found in Wyld’s <i>Short History of English</i> and notes:]<br><br>he changes his mind (to be equally dogmatic in the new position)",
         type: "Prose",
         notes: null
     },
@@ -6336,7 +6336,7 @@ const texts = [
         pageRange: "43",
         year: 2023,
         monthAndDay: null,
-        textProvided: "29 March 1960<br>Dear Shepherd<br><br>Yes, I see the point, <i>Pearsall on the Flour</i> might some day have the same kind and degree of value as <i>Macrobius on Sispioun</i>. My protest, however, was not against notes that lead the stu­dent back into the whole culture presupposed in the poem, but to the nullification of parallels be­tween Middle English poems, as if, whenever a character in Wodehouse had a cup of tea some future Macrobius recorded in the places where characters in J. Austen, H. James, D.H. Law­rence, W.W. Jacob, and Marie Corelli did the same. And I wasn’t afraid the reader wd. <i>resent</i> it; only that they wd. acquire a habit of not looking at the notes at all. But of course any attempt to draw the “Thus far and no farther” line must be arbitrary.<br><br>I go for a lightning trip to Greece on Sunday so I shan’t be able to deal with AL for some time.<br><br>Yours<br>C.S. Lewis",
+        textProvided: "29 March 1960<br><br>Dear Shepherd<br><br>Yes, I see the point, <i>Pearsall on the Flour</i> might some day have the same kind and degree of value as <i>Macrobius on Sispioun</i>. My protest, however, was not against notes that lead the stu­dent back into the whole culture presupposed in the poem, but to the nullification of parallels be­tween Middle English poems, as if, whenever a character in Wodehouse had a cup of tea some future Macrobius recorded in the places where characters in J. Austen, H. James, D.H. Law­rence, W.W. Jacob, and Marie Corelli did the same. And I wasn’t afraid the reader wd. <i>resent</i> it; only that they wd. acquire a habit of not looking at the notes at all. But of course any attempt to draw the “Thus far and no farther” line must be arbitrary.<br><br>I go for a lightning trip to Greece on Sunday so I shan’t be able to deal with AL for some time.<br><br>Yours<br>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -7695,7 +7695,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem I against H.C. Wyld in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem I against H.C. Wyld in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "213 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
@@ -7706,7 +7706,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem II against H.C. Wyld in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem II against H.C. Wyld in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "213-214 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
@@ -7717,7 +7717,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem III against H.C. Wyld in Latin in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem III against H.C. Wyld in Latin in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "214 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> (holograph also <a href='https://www.theguardian.com/books/article/2024/may/19/loud-mouthed-bully-cs-lewis-satirised-oxford-peer-in-secret-poems' target='_blank' rel='noopener noreferrer' class='link-to-text'>available online</a>)",
@@ -7728,7 +7728,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem IV against H.C. Wyld in Old English in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem IV against H.C. Wyld in Old English in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "214-215 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> (holograph also <a href='https://www.theguardian.com/books/article/2024/may/19/loud-mouthed-bully-cs-lewis-satirised-oxford-peer-in-secret-poems' target='_blank' rel='noopener noreferrer' class='link-to-text'>available online</a>)",
@@ -7739,18 +7739,18 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem V against H.C. Wyld in Ancient Greek in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem V against H.C. Wyld in Ancient Greek in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "215 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> (holograph also <a href='https://www.theguardian.com/books/article/2024/may/19/loud-mouthed-bully-cs-lewis-satirised-oxford-peer-in-secret-poems' target='_blank' rel='noopener noreferrer' class='link-to-text'>available online</a>)",
         year: 2024,
         monthAndDay: null,
-        textProvided: "Ὦ πόποι ἢ μέγα θαῦμα τόδ’ ὀφθάλμοισιν ὁρῶμαι<br>πάγκακον ἦλθε τέρας, μέγα θήριον, εἰς Ἀκαδήμην.<br>Βαρβαρόφωνον ἔην, γ[ο]ργωπόν, δεἰμα βρότοισιν.<br>Ὕυβρις τόνδε ἔτεκεν κρατερον μήστ[ω]ρα φόβοιο,<br>Ὕυβρις, δεινοτάτη [σ]κοτία, θεα αὐδηέσσα.<br>Τόν δὲ πάτηρ θνητός ὀλοόφρων γείνατο Βῖλδος,<br>Βιλδος, μαινομένης Λύσσας παῖς, σχέτλια εἰδώς.<br><br>[Truly, what a great marvel I see with my eyes!<br>An utterly evil monster, a big beast, came to the Academy.<br>He was speaking a foreign tongue, fierce-eyed, a terror to mortals.<br>Pride gave birth to this powerful agitator of fear,<br>Pride, the most terrible darkness, goddess with a human voice.<br>He was begotten by a baleful mortal father, Bild [i.e. Wyld],<br>Bild, son of raging madness, expert in cruelties.]",
+        textProvided: "Ὦ πόποι ἢ μέγα θαῦμα τόδ’ ὀφθάλμοισιν ὁρῶμαι<br>πάγκακον ἦλθε τέρας, μέγα θήριον, εἰς Ἀκαδήμην.<br>Βαρβαρόφωνον ἔην, γ[ο]ργωπόν, δεἰμα βρότοισιν.<br>Ὕυβρις τόνδε ἔτεκεν κρατερον μήστ[ω]ρα φόβοιο,<br>Ὕυβρις, δεινοτάτη [σ]κοτία, θεα αὐδηέσσα.<br>Τόν δὲ πάτηρ θνητός ὀλοόφρων γείνατο Βῖλδος,<br>Βιλδος, μαινομένης Λύσσας παῖς, σχέτλια εἰδώς.<br><br>[Truly, what a great marvel I see with my eyes!<br>An utterly evil monster, a big beast, came to the Academy.<br>He was speaking a foreign tongue, fierce-eyed, a terror to mortals.<br>Pride gave birth to this powerful agitator of fear,<br>Pride, the most terrible darkness, goddess with a human voice.<br>He was begotten by a baleful mortal father, Bild {i.e. Wyld},<br>Bild, son of raging madness, expert in cruelties.]",
         type: "Poem",
         notes: null
     },
     {
-        title: "Poem VI against H.C. Wyld in French in his copy of H.C. Wyld’s <i>A Short History of English</i> (1914)",
+        title: "Poem VI against H.C. Wyld in French in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "215 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> (holograph also <a href='https://www.theguardian.com/books/article/2024/may/19/loud-mouthed-bully-cs-lewis-satirised-oxford-peer-in-secret-poems' target='_blank' rel='noopener noreferrer' class='link-to-text'>available online</a>)",
@@ -7761,7 +7761,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Poem VII against H.C. Wyld on an inner flyleaf of his copy of H.C. Wyld’s <i>The Historical Study of the Mother Tongue</i> (1920)",
+        title: "Poem VII against H.C. Wyld on an inner flyleaf of his copy of H.C. Wyld, <i>The Historical Study of the Mother Tongue</i> (1920)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
         pageRange: "217-218 and <a href='https://doi.org/10.1093/res/hgae012' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> (holograph also <a href='https://www.theguardian.com/books/article/2024/may/19/loud-mouthed-bully-cs-lewis-satirised-oxford-peer-in-secret-poems' target='_blank' rel='noopener noreferrer' class='link-to-text'>available online</a>)",
