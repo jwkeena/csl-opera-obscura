@@ -147,6 +147,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Notes on his poem “From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
+        printedIn: "<i>English: Journal of the English Association</i>",
+        issueOrVolume: "vol. 5, no. 30",
+        pageRange: "195 and <a href='https://doi.org/10.1093/english/5.30.195' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 1945,
+        monthAndDay: "Autumn",
+        textProvided: "[Immediately below the title of the poem in square brackets:]<br><br>Milton’s <i>De Idea Platonica</i> was probably intended as a mere academic squib; but genius sometimes laughs at authors’ intentions. I hardly dare to hope that this version has preserved the goblin quality of the original: it will be enough if I send some readers to explore for themselves such a neglected and exquisite grotesque.<br><br>[Footnote 1 on the word stupendious in line 22:]<br><br>Milton, when writing English, prefers this form.<br><br>[Footnote 2 on the last word of the poem:]<br><br>By omitting the last five lines I cut the umbilical cord which, in the original, connects the fantasy with its scholastic occasion.",
+        type: "Prose",
+        notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 370-1 notes 27, 30, and 33. King specifies where on the manuscript Lewis’s notes can be found."]
+    },
+    {
         title: "Footnote on “The Three Parts of Morality” in <i>Christian Behaviour</i>",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -2732,17 +2743,6 @@ const texts = [
         notes: null
     },
     {
-        title: "Notes on his poem “From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "370-371 notes 27, 30, and 33",
-        year: 2015,
-        monthAndDay: null,
-        textProvided: "[Immediately below the title of the poem, Lewis adds in brackets:]<br><br>Milton’s <i>De Idea Platonica</i> was probably intended as a mere academic squib; but genius sometimes laughs at authors’ intentions. I hardly dare to hope that this version has preserved the goblin quality of the original: it will be enough if I send some readers to explore for themselves such a neglected and exquisite grotesque.<br><br>[On his use of the word <i>stupendious</i> in line 22, Lewis added this note at the end of the poem:]<br><br>Milton, when writing English, prefers this form.<br><br>[Lewis added this note at the end of the poem:]<br><br>By omitting the last five lines I cut the umbilical cord which, in the original, connects the fantasy with its scholastic occasion.",
-        type: "Prose",
-        notes: null
-    },
-    {
         title: "Note on his poem “A Cliché Came Out of Its Cage”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -3921,7 +3921,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G5."]
     },
     {
-        title: "Letter to the editor (“Poetic Licence”)",
+        title: "Letter to the editor (“Poetic Licence [sic]”)",
         printedIn: "<i>The Sunday Times</i>",
         issueOrVolume: null,
         pageRange: "6",
@@ -3944,9 +3944,9 @@ const texts = [
     },
     {
         title: "Letter to the editor (date unknown)",
-        printedIn: "<i>English</i>",
-        issueOrVolume: "vol. 14",
-        pageRange: "75",
+        printedIn: "<i>English: Journal of the English Association</i>",
+        issueOrVolume: "vol. 14, no. 80",
+        pageRange: "75 and <a href='https://doi.org/10.1093/english/14.80.75' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 1962,
         monthAndDay: "Summer",
         textProvided: "To the Editor of <i>English</i><br><br>Dear Madam,<br><br>I think it is time I corrected the widespread belief that my <i>Experiment in Criticism</i> is a veiled attack on Dr. Leavis. It is not. I am attacking a climate of critical opinion which I meet all over the place. What share Dr. Leavis’s work may or may not have had in producing it is a historical question that I did not raise. A critique of Dr. Leavis would require a much fuller study of his works than I have made. If I undertook that, I should expect to find as much difference between him and those who invoke his authority as we find between Plato and the Platonists. To analyse a puddle is not to analyse any one of the springs that may have contributed to it. <br><br> Yours faithfully,<br><i>Magdalene College, Cambridge</i><br>C.S. Lewis",
@@ -4227,6 +4227,17 @@ const texts = [
         textProvided: "It would perhaps be going too far to say that British prisoners of war can now read the Oxford Honours School of English in their camps. But they can do something like it. The exact steps by which what was originally envisaged as advice for private study and even recreational reading became the syllabus for something like an honours course on the university model need not be recapitulated. The initiative came from the prisoners. Miss Herdman and I met their wishes by arranging an examination. A number of scholars offered their services as unpaid examiners, and the German authorities consented to allow the forwarding of the prisoners’ answers. Finally academic recognition was obtained and a decree has handed over to the Board of the Faculty of English at Oxford the duty of nominating examiners. It has not been possible to offer a degree as the result of this examination. The candidates will be admitted to it without any preliminary examinations, and, of course, they will lack matriculation and residence. The papers will, however, be set and marked according the honours standards (though of course with an eye to certain inevitable limitations of reading) and it is hoped that a good class in this examination, backed by a good report from the examiners, will have a definite practical value after the war. On the cultural side I anticipate, along with much bad work, answers of real interest, for I believe that the necessary restriction on bulky works of criticism, literary history, and apparatus, by forcing the students to concentrate on the texts and to digest them more thoroughly and, above all, to find in one great author their chief commentary on another, may have certain positive advantages over the normal procedure.",
         type: "Letter",
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G9."]
+    },
+    {
+        title: "Letter to the editor (date unknown)",
+        printedIn: "<i>English: Journal of the English Association</i>",
+        issueOrVolume: "vol. 6, no. 32",
+        pageRange: "96 and <a href='https://doi.org/10.1093/english/6.32.96-a' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 1946,
+        monthAndDay: "Summer",
+        textProvided: "To the Editor of ‘<i>English</i>’<br><br>Dear Sir,<br><br>There is between Mr. Meyerstein and myself no such disagreement about Milton’s <i>De Idea Platonica</i> as Mr. Meyerstein suspects. I do no know, though I think, that Milton intended it as a ‘squib’: that is why I used the word ‘probably’. And by the word ‘squib’ I did not mean that the condemnation of Aristotle was merely whimsical or jocular but that the expression here given to it was whimsical and jocular. Of course Mr. Meyerstein is right in claiming that Milton, like most Humanists, undervalued Aristotle’s major works as much as he reverenced the <i>Poetics</i>. My main point was that, in my opinion, the strange poetry which has found its way into the <i>De Idea</i> was an unforeseen by-product of a mocking attack on a philosopher whom Milton really disapproved.<br><br>C.S. LEWIS",
+        type: "Letter",
+        notes: null
     },
     {
         title: "Letter to James Welch (May 1942)",
@@ -6636,7 +6647,18 @@ const texts = [
         monthAndDay: "July",
         textProvided: false,
         type: "Poem",
-        notes: ["Reprinted in Reprinted in <i>LP</i> 4:51-52 and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press), 30."]
+        notes: ["Reprinted in <i>LP</i> 4:51-52 and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press), 30."]
+    },
+    {
+        title: "“From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
+        printedIn: "<i>English: Journal of the English Association</i>",
+        issueOrVolume: "vol. 5, no. 30",
+        pageRange: "195 and <a href='https://doi.org/10.1093/english/5.30.195' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 1945,
+        monthAndDay: "Autumn",
+        textProvided: "Say, ye goddesses, guardians of the sacred grove,<br>Say, oh Memory, mother of the Muses nine,<br>Tell, oh Eternity, who in thy immeasurable<br>Cave, lying leisurely, keepest the muniments<br>(Far hence) and firm laws and decrees of Jupiter<br>And the gods’ journal and the heav’nly calendar,<br>Say who the First was, after whose exemplary<br>Feature and pattern Nature moulded humankind?<br>Ageless, the sky’s co-eval, incorruptible,<br>The model God worked by, universal, singular?<br>Not a mere notion in His mind, cerebrally<br>Twinned with maid Minerva in divine fantasy.<br>No;—though in common to all men distributed,<br>He dwells apart, still one in Singularity,<br>Nay—wilder miracle—bounded in locality.<br>Haply o’er-head, the planets’ fellow-traveller,<br>Through the ten spheres he marches on forever, or<br>Nearer Earth’s neighbourhood lurks in the Lunar globe;<br>Or, beside Lethe’s bank, drowsily he sits among<br>Souls yet waiting for weeds of flesh to animate;<br>Or far away in Earth’s remotest wildernesses<br>Stalks—a stupendious archëtypal giantship<br>Lifting to heav’n a head the gods would tremble at,<br>More huge than Atlas who upholds the universe.<br>Him neither that blind prophet, old Tiresias<br>(Whom loss of sight made visionary) e’er beheld,<br>Nor in the still night feather-footed Mercury<br>Ever revealed to his poetic followers.<br>No mage Assyrian found Him, though his memory<br>Track’d without faltering Ninus and his ancestors<br>Far back to Bel and to Osiris’ progeny.<br>Ev’n the Thrice Great, the glory of the Triple Name,<br>Ev’n Trismegistus left to Isis’ worshippers<br>No word of Him, though leaving many mysteries.",
+        type: "Poem",
+        notes: ["Reprinted in <i>LP</i> 4:51-52 and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press), 333."]
     },
     {
         title: "“In Winter When the Frosty Nights are Long”",
@@ -7190,17 +7212,6 @@ const texts = [
     },
     {
         title: "“Best Quality Sackcloth & Ashes”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "333",
-        year: 2015,
-        monthAndDay: null,
-        textProvided: false,
-        type: "Poem",
-        notes: null
-    },
-    {
-        title: "“From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "333",
