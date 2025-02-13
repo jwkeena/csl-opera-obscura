@@ -3581,6 +3581,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Letter to Alec Vidler",
+        printedIn: "Alec Vidler, “Unapologetic Apologist,” <i>New York Herald Tribune Book Week</i>",
+        issueOrVolume: "26 July",
+        pageRange: "3",
+        year: 1964,
+        monthAndDay: null,
+        textProvided: "[Vidler had sent Lewis a note of appreciation about The Pilgrim’s Regress after having been recommended it by a friend in 1938:]<br><br>Thank you for the kind and unexpected compliment. You can ‘thank me enough’ and more if you will sometimes mention me in the Right Quarter in your prayers.",
+        type: "Letter",
+        notes: null
+    },
+    {
         title: "Letter to Dorothea Conybeare",
         printedIn: "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         issueOrVolume: null,
@@ -3687,6 +3698,17 @@ const texts = [
         year: 2010,
         monthAndDay: "Fall/Winter",
         textProvided: "What a good idea! It would have suited Shiel (whose books I like) better than me. Like you, I want someone else to write it, you see. But very many thanks.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Owen Barfield (10 June 1930) correction to <i>The Collected Letters of C.S. Lewis</i>",
+        printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 30",
+        pageRange: "47 note 113",
+        year: 2013,
+        monthAndDay: null,
+        textProvided: "[In <i>Collected Letters</i> I (903) the letter has been mis-dated “June 19<sup>th</sup>.” The original, which Lazo examined at the Wade Center, is dated]<br><br>June 10<sup>th</sup>",
         type: "Letter",
         notes: null
     },
@@ -3963,6 +3985,17 @@ const texts = [
         textProvided: "SPENSER’S IRISH EXPERIENCES AND <i>THE FAERIE QUEENE</i><br><br>THE EDITOR, <i>Review of English Studies.</i><br><br>SIR,<br><br>In an interesting article printed in your October number Mr. M.M. Gray traces to Spenser’s experiences of the Irish wars certain passages in the <i>Faerie Queene</i> where knights are represented in conflict with a “rascal many” of robbers, cannibals and other rabble. The purpose of this letter is not to deny Mr. Gray’s thesis. On the main issue I am disposed to agree with him. But there is one argument in his article—an argument which he merely throws out as a buttress and which it would be unfair to press if my purpose were controversial—that I would venture to criticise. We read on p. 414 that “in so far as this poem (sc. <i>The Faerie Queene</i>) was a tale of knight errantry, Spenser followed in the main the example of Malory and of the medieval romance writers, but into the adventures of the knights he introduces a new kind.” Again (p. 415), “Neither Malory nor any of his predecessors in romance provide a precedent for the type of episode in which hordes of savages rush out of the mountains and forests …in mediæval romance the knight rarely encounters the ‘rascal many.’” As against this I would plead, “In so far as this poem was a romantic epic, Spenser followed in the main the examples of Boiardo and Ariosto; and in Boiardo (I do not answer for Ariosto) he found precedent for the type of episode in which knights are attacked by a rabble of robbers or cannibals.”<br><br>[84]If it were necessary at this time of day to prove Spenser’s familiarity with Boiardo, a single quotation would suffice.<br><br><i>F.Q.</i> III, iii, 26. But that he by an Elfe was gotten of a Fay.<br><i>Orlando Innamorato,</i> III, ii, 46. Che d’una fata nacque e d’un folletto.<br><br>In such an allowed matter, however, it will save time to proceed at once to those scenes of attack by a “rabble” which are in question.<br><br><i>O.I.</i> II, xix, 16 <i>et seq.</i>, Brandimarte, journeying unarmed with Fiordelisa, hears a robbers’ scout summoning his companions and is forced to fly until he finds a dead king in the forest, whose sword he takes. After that −<br><br>Il manto si rivolse al braccio manco <br>E con la spada i malandrini affronta.<br>Mai non fu campion cotanto franco. <br>Questo tocca di taglio e quel di ponta,<br>A l’un il petto, a l’altro passa il fianco:<br>Or che bisogna che più vi racconta? <br>Tutti i ladroni uccise in poco d’ora,<br>Si ben col brando intorno li lavora.<br><br>There is no question here of a “parallel passage” in the strict sense; but we have clearly a combat of the same kind as that between the knights and “villeins” in <i>F.Q.</i> II, ix, 14, when −<br><br>Those Champions broke on them that forst them fly, etc. Slightly closer to Spenser’s<br><br>Thus as he spoke, loe! with outragious cry<br>A thousand villeins round about them swarm’d <br>Out of the rockes and caves adjoyning nye<br>(<i>F.Q.</i> II, ix, 13)<br><br>is the passage in which the same Brandimarte—who has particularly bad luck in the matter of robbers—is attacked in <i>O.I.</i> II, xxvi, 53.<br><br>Ragionava in tal modo Doristella <br>Ed altre cose assai volea seguire <br>Che non era compita sua novella,<br>Quando vide d’un bosco gente uscire, Ch’è parte a piedi e parte in su la sella; Tutti erano ladroni a non mentire.<br><br>Spenser’s cannibals (in <i>F.Q.</i> VI, viii, 36) are paralleled in the <i>Lestrigoni</i> whom Orlando meets in <i>O.I.</i> II, xviii, 34 <i>et seq.</i>, and whose dinner, with pleasant ambiguity, he proposes to attend. Even the “villein” in Spenser who seems to be slain and then rises again to [85] fight with Arthur (<i>F.Q.</i> II, xi, 35) finds his parallel in Boiardo’s Orrilo (<i>O.I.</i> III, ii, 48 <i>et seq.</i>).<br><br>I have already said that I am not trying to refute Mr. Gray’s thesis. The differences between Spenser and Boiardo in these passages are as important as the similarities, and those differences can well be explained as the product of Spenser’s Irish experiences. My own concern in the matter is to combat the idea that “Malory and his predecessors” are the main source of Spenser’s episodes. Is it not rather a canon of Spenserian <i>Quellenforschung:</i> “Never look further for the source of a passage until you have satisfied yourself that it does not come out of the Italian epics”?<br><br>Yours faithfully,<br>C.S. LEWIS.",
         type: "Letter",
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G2."]
+    },
+    {
+        title: "Letter to the editor (“The Function of Education”)",
+        printedIn: "<i>The Spectator</i>",
+        issueOrVolume: null,
+        pageRange: "292",
+        year: 1935,
+        monthAndDay: "22 February",
+        textProvided: "THE FUNCTION OF EDUCATION<br><i>To the Editor</i> of THE SPECTATOR.<br><br>SIR,—In your last number Mr. Graham Greene, reviewing Professor Pelham Edgar’s <i>Art of the Novel,</i> states that at Oxford “the Professor of English Literature is a Member of the Book Society Committee.” Why this should be discreditable I need not inquire, for it is untrue. What is more important is the reviewer’s assumption that it is the business of a school of English literature to criticize recent or contemporary work. He is doubtless entitled to hold this view, but not to take it for granted, since it is highly controversial. Most of us at Oxford, I believe, proceed on a premise which Mr. Greene seems to be unaware of, and which may be stated as follows:<br><br>The function of education is to lift the individual out of the provincialism of his own place and time, to liberate him from the tyranny of the immediate, and so to make him more of a man <i>simpliciter</i> and less of a man <i>secundum quid.</i> Hence, as a colleague once laughingly said to me, “a university aims at making a man as unlike his cousins as possible.” For those whose minds tend to the abstract, this liberation is effected by philosophy, science, or mathematics; for those of a more concrete turn, by the various forms of history. Among these, “English Language and Literature” may claim to be the most concrete, studying, as it does, a thousand years, not of war and politics, but of human thought, sentiment, and idiom. With the decay of classical studies, indeed, “English,” thus conceived, bids fair to become the only discipline at our older Universities which still gives a man a living acquaintance with civilizations, modes of expression, and basic assumptions other than his own. We believe that a school of English which adheres to these principles may do invaluable work; by devoting itself to contemporary criticism it would merely abandon that work in order to enter an arena which is already as well supplied with combatants as any temperate spectator can desire.—Yours faithfully,<br><br>C.S. LEWIS.<br><i>Magdalen College, Oxford.</i>",
+        type: "Letter",
+        notes: null
     },
     {
         title: "Letter to Cecil Harwood (March 1931)",
@@ -4317,6 +4350,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Letter to the editor (“Leaven in the Schools”)",
+        printedIn: "<i>The Spectator</i>",
+        issueOrVolume: null,
+        pageRange: "816",
+        year: 1951,
+        monthAndDay: "22 June",
+        textProvided: "Leaven in the Schools<br><br>SIR.—I read with interest Lord Beveridge’s suggestion that if those few children who bring “intellectual interests” with them from home were sent to the same schools as the masses they would act as a “leaven.” The troublesome question is why this has not already happened at the English public schools. For there too, of course, the boys with intellectual interests have usually been a minority. But have they acted as a leaven? Did not most of them either learn in their first week to assume the mask which they never laid aside until they reached the university, or else undergo years of such ostracism as turned them into soured intellectuals who are such a feature of our age? The hope that they would have fared better at State schools would be reasonable if we had evidence that proletarian philistines are less hostile, or less successfully hostile, to distinction than philistines from bourgeois homes. But have we? Is it not more probable that English boys of all classes know equally well how to cope with “leaven”?—Yours, &c.,<br><br>C.S. LEWIS.<br><i>Magdalen College, Oxford.</i>",
+        type: "Letter",
+        notes: null
+    },
+    {
         title: "Letter to the editor (3 May 1951)",
         printedIn: "<i>Essays in Criticism</i>",
         issueOrVolume: "vol. 1, no. 3",
@@ -4346,6 +4390,17 @@ const texts = [
         year: 1949,
         monthAndDay: null,
         textProvided: "I have all the usual vices: the only virtue (if it is a virtue) which I can claim in any marked degree is a patience, amounting almost to a liking, for bores.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Lewis’s publishers",
+        printedIn: "Chad Walsh, <i>C.S. Lewis: Apostle to the Skeptics</i> (New York: Macmillan)",
+        issueOrVolume: null,
+        pageRange: "2-3",
+        year: 1949,
+        monthAndDay: null,
+        textProvided: "…the Celtic origin seems never to have affected my imagination which is Germanic through and through—Norse mythology having been my first love and perhaps my strongest.",
         type: "Letter",
         notes: null
     },
@@ -5907,7 +5962,7 @@ const texts = [
         pageRange: "152",
         year: 2009,
         monthAndDay: null,
-        textProvided: "The Kilns, Headington Quarry, Oxford<br>5 November 1961<br><br>Dear McIntosh<br>(Need we “Professor” each other?)<br><br>Thank you very much for the kind things you say about my little experiment and also for the two papers. The Linguistics one elicited my warm applause almost everywhere. I think that Oxford in the ’40’s was moving towards a proper synthesis of literary and linguistic study, but I gather Freddie Bateson and that gang are wrecking it all again. The poor lambs fancy they can evade semantics by doing more XIXth century literature!—as if it didn’t already need philology as much as any other age. That is why I was so glad you chose Jane Austen as an example. How many of these “sensitive”, ignorant readers know what her characters mean by I daresay or what people in Trollope meant by bother? At Cambridge (I’m on sick-leave at present) it is even worse. And I’m afraid ‘Linguistics’ as sponsored by Hugh Sykes Davies etc, tho’ a v. desirable study per se, will only distract attention from our problem,<br><br>yours<br>C.S. Lewis",
+        textProvided: "The Kilns, Headington Quarry, Oxford<br>5 November 1961<br><br>Dear McIntosh<br>(Need we “Professor” each other?)<br><br>Thank you very much for the kind things you say about my little experiment and also for the two papers. The Linguistics one elicited my warm applause almost everywhere. I think that Oxford in the ’40’s was moving towards a proper synthesis of literary and linguistic study, but I gather Freddie Bateson and that gang are wrecking it all again. The poor lambs fancy they can evade semantics by doing more XIXth century literature!—as if it didn’t already need philology as much as any other age. That is why I was so glad you chose Jane Austen as an example. How many of these “sensitive”, ignorant readers know what her characters mean by <i>I daresay</i> or what people in Trollope meant by <i>bother</i>? At Cambridge (I’m on sick-leave at present) it is even worse. And I’m afraid ‘Linguistics’ as sponsored by Hugh Sykes Davies etc, tho’ a v. desirable study <i>per se</i>, will only distract attention from <i>our</i> problem,<br><br>yours<br>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -6381,6 +6436,28 @@ const texts = [
         year: 2023,
         monthAndDay: null,
         textProvided: "12 June 62<br><br>Dear Sheppard [sic]<br><br>What are your re-actions to the enclosed? (I don’t know the man myself). An edn. of Skelton is rather badly needed, but perhaps it may make a bigger book than our series can encourage. When you have talked it over with our partners perhaps you could write direct to the parties?<br><br>Yours<br>C.S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to Henry G. Welbon (18 September 1936)",
+        printedIn: "Mark A. Noll, <i>C.S. Lewis in America: Readings and Reception, 1935-1947</i> (Downer’s Grove, IL: InterVarsity Press)",
+        issueOrVolume: null,
+        pageRange: "106-107",
+        year: 2023,
+        monthAndDay: null,
+        textProvided: "[…Lewis’ reply of September 18, 1936, immediately set Welbon straight on the facts: Lewis was]<br><br>born in Belfast<br><br>[(he was not English) and was]<br><br>an Anglican Layman<br><br>[(he was not a Roman Catholic). But Lewis also took responsibility for]<br><br>the mistake which led you, and has led others, to make me a Papist<br><br>[due to his allegorical depiction of]<br><br>Mother Kirk.<br><br>[…After telling how his own journey to faith had been assisted by an Anthroposophist (Owen Barfield, whom he does not name), the Presbyterian George MacDonald, the Catholic Dante, and another unnamed Catholic (J.R.R. Tolkien), Lewis then explained to Welbon why he was]<br><br>at home<br><br>[with this ecclesiastical mish-mash:]<br><br>they are all alike ‘evangelical’ in the Pauline sense, all concerned with the ‘new creature,’ and also because they are all genuine supernaturalists.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to the Bodleian Library",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "plate IV",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "Magdalen College, Oxford.<br>14 Nov. 1941.<br><br>I authorise R.G. Morgan to apply for the following books for the purposes of private study.<br><br>φ f 37 Vénus la populaire, ou apologie des maisons de joye [tr. from English ‘A modest defence of public stews’] attrib. to B. de Mandeville. Preface: Phil-Pornix.<br>φ f 64 nouv. Éd.<br><br>C.S. Lewis",
         type: "Letter",
         notes: null
     },
