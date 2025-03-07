@@ -829,6 +829,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Comment on a student paper",
+        printedIn: "John Lawlor, “The Tutor and the Scholar” in <i>Light on C.S. Lewis,</i> ed. Jocelyn Gibb",
+        issueOrVolume: null,
+        pageRange: "78",
+        year: 1965,
+        monthAndDay: null,
+        textProvided: "[On a Collection paper in which I had adopted, too uncritically for him, his view of the medieval antithesis between love and marriage, he himself wrote in parody of me:]<br><br>Mr Lewis seems to forget that Palamon and Arcite both wanted to <i>marry</i> Emelye.",
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Ending “Note” exclusive to the 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (New York: Harcourt, Brace and Company)",
         issueOrVolume: null,
