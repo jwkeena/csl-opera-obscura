@@ -221,7 +221,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[The many devotees of Mr. Lewis’s books will be interested by the letter he wrote when asked for details about his life:]<br><br>I never remember dates. The principal facts of my life are not (in a form suitable for biography) known to me. I was a younger son, and we lost my mother when I was a child. That meant very long days alone when my father was at work and my brother at boarding school. Alone in a big house full of books. I suppose that fixed a literary bent. I drew a lot, but soon began to write more. My first stories were mostly about mice (influence of Beatrix Potter), but mice usually in armor killing gigantic cats (influence of fairy stories). That is, I wrote the books I should have liked to read if only I could have got them. That’s always been my reason for writing. People won’t write the books I want, so I have to do it for myself: no rot about “self-expression.” I loathed school. Being an infantry soldier in the last war would have been nicer if one had known one was going to survive. I was wounded—by an English shell. (Hence the greetings of an aunt who said, with obvious relief, “Oh, so that’s why you were wounded in the back!”) I gave up Christianity at about fourteen. Came back to it when getting on for thirty. An almost purely philosophical conversion. I didn’t want to. I’m not the religious type. I want to be let alone, to feel I’m my own master: but since the facts seemed to be the opposite I had to give in. My happiest hours are spent with three or four old friends in old clothes tramping together and putting up in small pubs—or else sitting up till the small hours in someone’s college rooms talking nonsense, poetry, theology, metaphysics over beer, tea, and pipes. There’s no sound I like better than adult male laughter.",
         type: "Prose",
-        notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap.", "Also reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Fully Revised & Expanded Edition (London: HarperCollins, 2002), 169-170."]
+        notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap, and again reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Fully Revised & Expanded Edition (London: HarperCollins, 2002), 169-170."]
     },
     {
         title: "Secretarial notes at the end of “Bulverism” and partial transcript of the consequent discussion",
@@ -1011,9 +1011,9 @@ const texts = [
         pageRange: "12",
         year: 1973,
         monthAndDay: null,
-        textProvided: "This book is about four children whose names were Ann, Martin, Rose and Peter. But it is most about Peter who was the youngest. They all had to go away from London suddenly because of the Air Raids, and because Father, who was in the army, had gone off to the War and Mother was doing some kind of war work. They were sent to stay with a relation of Mother’s who was a very old Professor who lived by himself in the country.",
+        textProvided: "[With corrections made from the holograph in Horobin; there is no “the” in “the Air Raids”, “Army” is capitalized, and Hooper missed “kind of” in the transcription.]<br/><br/>This book is about four children whose names were Ann, Martin, Rose and Peter. But it is most about Peter who was the youngest. They all had to go away from London suddenly because of <s>the</s> Air Raids, and because Father, who was in the Army, had gone off to the War and Mother was doing some kind of war work. They were sent to stay with a kind of relation of Mother’s who was a very old Professor who lived by himself in the country",
         type: "Prose",
-        notes: ["This manuscript is written on the back of the first page of the manuscript of <i>The Dark Tower</i> found in the Bodleian Library.", "Holograph of this text, along with the first pages of <i>The Dark Tower,</i> was later printed in <i>The Canadian C.S. Lewis Journal,</i> no. 66 (Spring 1989), 4-5, 7. ", "Text also reprinted in Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 102."]
+        notes: ["This manuscript is written on the back of the first page of the manuscript of <i>The Dark Tower,</i> found in the Bodleian Library.", "A holograph of this text, along with the first pages of <i>The Dark Tower,</i> was later printed in <i>The Canadian C.S. Lewis Journal,</i> no. 66 (Spring 1989), 4-5, 7. ", "Another holograph (but without any portion of <i>The Dark Tower</i>), was printed in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), plate 17.", "Text also reprinted in Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 102."]
     },
     {
         title: "Juvenilia: Boxen illustrations and manuscripts",
@@ -1035,7 +1035,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "When I first met Brown F.R.A.S., I had no idea that his love for Jules Verne’s side of astronomy would lead me into this. I came to know him through his ½-brother Jeames: as I took a mild intrest in astronomy, Brown and I were good chums. It was after I had known him for about a month that he suddenly droped in to see me one night. “Bensin I’m going to Mars” he said in his short way. I laughed. “How?” said I. “In a vessel” said he “all I want is money.” “Don’t be a fool Brown” said I “you’ll never do it!” “Oh yes I will” quoth he “at any rate I’ll try.”  <br><br>“It is wrong to commit suicide specially when one has wife and children” I observed.  <br><br> “It is, very wrong,” said Brown “but I am not going to.” However I thought I’d give you the chance of coming with me:—will you?”  <br><br>Come with him!—I Hadn’t thought of that. I reflected and then said,  <br><br>“If you don’t mind Brown I’ll wait till you have settled your arrangements” <br><br>“Sorry Bensin” returned my friend “but I am going to start from central Africa, I sail from Southampton to-morrow night!” <br><br>“Well I’ll come, and tell you what I’m going to, in the morning. said I <br><br>“Right. good by said he <br><br>good by said I<br><br>and he went.",
         type: "Prose",
-        notes: ["This is the only known printing of this story. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
+        notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
         title: "Non-Boxen story illustrations",
@@ -1057,7 +1057,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "C.S. Lewis<br>English Poem “Carpe Diem”.<br>Oct. 13. 1913.",
         type: "Prose",
-        notes: ["This holograph does not appear in the 2005 edition of this book."]
+        notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
         title: "Annotations in his copy of <i>Annals of English Literature 1475-1950</i> (Oxford: 1935)",
@@ -1067,8 +1067,8 @@ const texts = [
         year: 1973,
         monthAndDay: null,
         textProvided: "[1530]<br>J{oh}n. Rastell <i>Bk. of Purgatory</i><br>Rob{er}t Copland, <i>High Way to Spital Ho</i>{<i>use</i>} X (36?)<br>The Clergy, threatened with <i>Praemunire</i> pay £100,000 + call Hen{ry}. supreme Ld. {=Lord} and “as far as the law of χ {=Christ} allows, supreme Head.<br>Diet of Augsburg<br>{Sir David} Lyndsay, <i>Papyngo</i> (W)<br><br>[1531]<br>Here[?] f[???]s b[???]ing of Edward Crome because his opinion includes[?] denial of Papal Supremacy.<br>Act against Vagabonds.<br>Agrippa <i>De Occulta Phil</i>{<i>osophia</i>} + <i>De Incertitudine</i> + <i>Vanitate Scientiarum</i><br><br>[1532]<br>Convocation makes drastic concessions to Hen{ry}.<br>More resigns.<br>Annates Act",
-        type: "Prose",
-        notes: ["This holograph does not appear in the 2005 edition of this book."]
+        type: "Annotation",
+        notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
         title: "Family tree of Crowfoot family in his copy of George MacDonald, <i>Annals of a Quiet Neighborhood</i>",
@@ -1079,7 +1079,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["This holograph does not appear in the 2005 edition of this book."]
+        notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
         title: "Drawing of W.T. Kirkpatrick",
@@ -1101,7 +1101,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "To my Father<br><br>With the author’s best love and compliments, in memory of the happy days when we “Built the Promenade” together.<br><br><u>29th March 1919</u>",
         type: "Prose",
-        notes: ["This is the only known printing of this inscription. It does not exist in the later 2005 edition of this book, which is not simply a reprint of the 1973 version."]
+        notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
         title: "Annotations on Shakespeare",
@@ -1189,7 +1189,7 @@ const texts = [
         monthAndDay: null,
         textProvided: false,
         type: "Prose",
-        notes: ["Limited to 100 copies, according to <i>CL</i> 2:155 note 8.", "Portions of the text with Lewis’s answers were reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35."]
+        notes: ["Limited to 100 copies, according to <i>CL</i> 2:155 note 8.", "Portions of the text with Lewis’s answers were reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35 and in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 101-102 and plates 18-19 (holographs)."]
     },
     {
         title: "Inscription to Joy Davidman in a copy of George MacDonald’s <i>Diary of an Old Soul</i>",
@@ -1324,7 +1324,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations on his copy of <i>Sir Gawain and the Green Knight</i>",
+        title: "Annotations in his copy of <i>Sir Gawain and the Green Knight</i>",
         printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
         pageRange: "42 (holograph)",
@@ -1364,7 +1364,7 @@ const texts = [
         year: 1994,
         monthAndDay: null,
         textProvided: "[{75} In their effort to simplify the concept for secondary pupils King and Ketley say “That is sublime” means “I have sublime feelings.” Lewis comments in the margin:]<br><br>confusion worse confounded<br><br>[{76} They also declare that “pure narrative, written in scientific prose, is the backbone of all kinds of narrative” (179) and that an inherently interesting fact does not need the hype of emotional language. Lewis’s marginal comment is:]<br><br>The fact might include an emotional value<br><br>[...the authors encourage the student to suppress his sincere excitement and write on a more superficial, cowardly level. Lewis’s marginal notes point out that]<br><br>Plato,  St. Paul, Hooker, Sidney, Pascal, Browne, and Burke<br><br>[as well as politicians and advertisers have attempted to arouse people’s emotions.]",
-        type: "Prose",
+        type: "Annotation",
         notes: ["See also page 80 for an indirect account of Lewis’s annotations on the flyleaf of <i>The Control of Language,</i> and how they align with chapter II, footnote 1 in the published <i>The Abolition of Man</i>."]
     },
     {
@@ -1418,9 +1418,9 @@ const texts = [
         pageRange: "726",
         year: 1996,
         monthAndDay: null,
-        textProvided: "[According to Hooper, after WWII Tom Brown Stevens, a Fellow of Magdalen, “returned to Magdalen in 1946 as an Official Fellow and Tutor in Ancient History. He had not been back long when Lewis made a bet with him. We find it in the college ‘Betting Book’, written in Lewis’s hand:”]<br><br>Lewis bet Stevens that the word ΕΡΩΣ does not occur in the <i>Odyssey</i> (a bottle of port) 14 May ’46.<br><br>[“There follows in Stevens’s hand: ‘Paid by Mr Stevens.’”]",
+        textProvided: "[According to Hooper, after WWII Tom Brown Stevens, a Fellow of Magdalen, “returned to Magdalen in 1946 as an Official Fellow and Tutor in Ancient History. He had not been back long when Lewis made a bet with him. We find it in the college ‘Betting Book’, written in Lewis’s hand:”]<br/><br/>Lewis bets Stevens that the word ΕΡΩΣ does not occur in the <i>Odyssey</i> (a bottle of port) May 14th 46<br/><br/>[“There follows in Stevens’s hand: ‘Paid by Mr Stevens.’”]",
         type: "Prose",
-        notes: null
+        notes: ["Corrections have been made to Hooper’s transcription based on the holograph in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), plate 6 (holograph). According to Horobin the bet was made with C.E. Stevens (not “Tom Brown Stevens”)."]
     },
     {
         title: "His will",
@@ -1452,7 +1452,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "Words are the meeting points at which regions of experience which can never combine...come together. They are the occasions and means of that growth which is the mind’s endless endeavor to order itself. ...It is no mere signalling system.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1507,7 +1507,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "if value = satisfaction why increase consciousness, that is, increase the power of having both satisfactions and dissatisfactions?",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1551,7 +1551,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[56]<br><br>Sin has no substance and is real only in the pains it causes.<br><br>Cf. p. 112.<br><br>[57]<br><br>Since God does not blame <u>us</u> for sin, it would be hard if <u>we</u> blamed <u>Him</u>! But there is more behind.<br><br>[126]<br><br>But in the higher part (signified by the “inward regard”) there are no mercies nor pardons but only joy. (1)<br><br>cf. p. 131.<br><br>(1.) I am v. doubtful whether I understand this page. <br><br>(2.) Natural means almost the opposite to what we mean by it in the antithesis “Spiritual X Natural”, it means “pertaining to our real or transcendental “substance”, as opposed to our “sensuality” cf pp. 131, 132, 136n3 (where God is <u>kyndhede</u>) 138, 156.<br><br>[127]<br><br>Thus man can be blameworthy quâ the lower self and the and blameless in his Real Will, which is in Christ.<br><br>pp. 105, 106<br><br>[178]<br><br>Method of the visions. ¶ The doctrine of sin here developed has special reference (a.) To impatience or Sloth (b.) To Despair.<br><br>(1.) N.B. The whole book deals with those who have already reached a pretty high degree of sanctity. It wd. be rash to apply most of it directly to ones own problems.<br><br>[179]<br><br>The suspicion that God will not really make us sinless in the end, though it masquerades as meekness, is really a fault<br><br>(1) v. pp 143-145<br><br>(2) A good illustration of the meanings of <u>mazon</u> and <u>cunnan</u>.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1562,7 +1562,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[<i>Antony and Cleopatra</i> (5th edition, published 1926) is signed in front ‘Brandon Laight, Trinity College, Oxford, November 1928’ and alongside]<br><br>(later) CS Lewis Magdalen",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1573,7 +1573,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[<i>Coriolanus</i> merely has a few brief notes with page references designed to jog Lewis’s memory: a note like]<br><br>Erasmus [p.]19<br><br>[is not very illuminating.]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1584,7 +1584,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[<i>Hamlet</i> has a packed page of]<br><br>Hermeneutica<br><br>[arranged in page order, denoting passages which are of interest to the interpreter and lexicographer. It also has some information]<br><br>de textu<br><br>[(about the text) which is much less full than the equivalent in King Lear, and two entries under the heading]<br><br>de re metrica<br><br>[(on metrical matters) where he notes the five Alexandrine (twelve-syllable) lines and an occasion where the word ‘safety’ is given three syllables.]<br><br>[Lewis includes a curious semantic diagram mapping the different senses of the word {49}]<br><br>circumstance<br><br>[at <i>Hamlet</i> 3.4.83. {...} Probably the most assiduous effort is the]<br><br>Appendix<br><br>[on the character of Hamlet. Salient statements from 1710 to 1922 (including Dr. Johnson, Voltaire, Goethe, Coleridge, and Hazlitt) are sorted into four]<br><br>groups<br><br>[and an orthodoxy—that the play is]<br><br>a tragedy of weakness<br><br>[which he endorses, saying that the play’s great soliloquies]<br><br>appeal to the fact that we have all said them already to ourselves<br><br>[In many ways this is classic Lewis criticism {...} This is seen in the opening comment in his conclusion about Hamlet:]<br><br>It is satisfactory to find that the greatest and most authoritative part of these critics differ no more from one another in these accounts of H. than the same number would in describing a living acquaintance.]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1595,7 +1595,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[This play also has the tetchiest remarks about its editor, H.C. Hart, who is credited with]<br><br>nonsense<br><br>[and]<br><br>slender evidence<br><br>[{49} In the <i>Love’s Labour’s Lost</i> glossary under]<br><br>Latin<br><br>[he gives a list of all the page numbers on which Latin phrases or words appear. He does much the same under]<br><br>Quibbles<br><br>[Regarding the origins of <i>Love’s Labour’s Lost</i>, Lewis dismisses as]<br><br>verbiage<br><br>[everything except Sidney Lee’s identification of a source for the names in the play. {...} In the glossary for <i>Love’s Labour’s Lost</i> he says that the phrase]<br><br>‘brow of progeny’ has perplexed no reader before me<br><br>[while under an instance of the word]<br><br>‘copper’ <br><br>[he says]<br><br>I suspect some pun here but can’t find it.<br><br>[Later he simply says]<br><br>I don’t understand this passage.<br><br>[One of the most revealing notes is for the phrase]<br><br>‘sowed cockle’ I don’t know why I indexed this but no doubt there was a good reason<br><br>[{50} The most tantalising annotation is not really an annotation at all—and it is not clear that it is certainly by Lewis, although it very much looks like it. At the back of <i>Love’s Labour’s Lost</i> there is a pencil outline drawing of a medieval castle, complete with walls, gatehouse, keep, stables, outbuildings, a garden, and a prominent chapel with a rose window.]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1606,7 +1606,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[At times Lewis is quite waspish about the efforts of earlier editors. A reference to ‘proverbs and no-verbs’ in <i>Merry Wives of Windsor</i> 3.1 causes him to say]<br><br>Edd. are strongly silent on this<br<br>[He is also capable of observing how editorial priorities differ from those of readers and audiences—the<br<br>impossible time scheme<br<br>[of <i>Merry Wives</i> is something which<br<br>no one but Edd. ever notices",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1617,7 +1617,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[The list of linguistic notes for Othello is titled]<br><br>language places",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1628,7 +1628,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[Another case is <i>Richard III</i> (3rd edition, 1918), which has]<br><br>CS Lewis Magdalen (the pencil notes by Griffiths)<br><br>[This could be Alan Griffiths, a pupil (and later friend) of Lewis during his early days as a Fellow of Magdalen after his election in 1925.]",
-        type: "Prose",
+        type: "Annotation",
         notes: ["This annotation was partially reprinted in E.H. Cooper, “Reading a Sonnet with C.S. Lewis” in <i>Magdalen College Magazine,</i> no. 60 (2015-16), 63 and <a href='https://issuu.com/magdalenecollege/docs/college_magazine_2015-16' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
@@ -1639,7 +1639,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[He is capable, then, of expressing dissatisfaction with editors who do not provide answers, as when he wonders in a written aside]<br><br>Why do edd. say nothing about this?<br><br>[with reference to a line in <i>Tempest</i> 1.2. {...} Evidence for a possible revision of <i>The Tempest</i> put forward in the New Cambridge Shakespeare is said to be, for the most part,]<br><br>chimerical<br><br>[{52} In his Arden <i>Tempest</i> he unusually takes issue with an editor’s commentary when Morton Luce calls Shakespeare ‘the greatest poet and philosopher who ever lived’ (p. lxiii). Lewis adds a note in pencil:]<br><br>Shakespeare the least philosophical of all great poets.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1650,7 +1650,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[Lewis includes a curious semantic diagram mapping the different senses of the word]<br><br>favour<br><br>[invoked by <i>Two Gentlemen</i> of {49} <i>Verona</i> 2.1.53. {...} He is more expansive in the front of <i>The Two Gentlemen of Verona</i> when he becomes energised by the theory that the play’s only surviving text in the 1623 First Folio has been adapted by another writer. His conclusion is that it is]<br><br>very shaky<br><br>[in parts,]<br><br>absurd<br><br>[in others.]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1661,7 +1661,7 @@ const texts = [
         year: 1998,
         monthAndDay: null,
         textProvided: "[Lewis also says]<br><br>I do not know why<br><br>[about the New Cambridge Shakespeare’s interpretation of <i>Winter’s Tale</i> 4.3.30, perhaps because it tried to offer a non-religious meaning for ‘the life to come’. His sharp tone here is also used of the great eighteenth-century editor Edmond Malone at the end of Act 1 Scene 2:]<br><br>I don’t see how he gets this out of the words<br><br>[On the idea that {50} worms are equated with lovers, he (understandably) says]<br><br>Why, I don’t know<br><br>[When making textual notes he occasionally admits a<br><br>locus desperandus<br><br>[—‘an example to cause despair].]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1771,7 +1771,7 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "[But it is clear that he sees the medieval lyrics as, on the whole, inferior; on No. 26, to the lines “She is right true, I do it see; / My heart to have she doth me bind…” he writes:]<br><br>true drab age.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1782,7 +1782,7 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "[Lewis, in his copy of W.W. Skeat, ed., <i>Chaucer: The Minor Poems</i> (1896), annotated the <i>Book of the Duchess</i> mostly with philological and textual corrections, but noted his then belief (probably early) that Octavien (lines 368ff.)]<br><br>represents Edward III",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1793,7 +1793,7 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "[See Lewis’s review of Parry’s translation of <i>The Art of Courtly Love</i>. His review copy is annotated, and makes it clear that he accepted Parry’s]<br><br>vivid picture of life in a medieval court<br><br>[and his historically unfounded opinion that <i>amour courtois</i> was]<br><br>probably also practiced<br><br>[as a fusion of]<br><br>sensual<br><br>[and]<br><br>spiritual<br><br>[tradition. One tangential comment of Lewis in the margin reaches forward, however, to his more substantial lectures on the classical foundations of medieval thought. On p. 9 of Parry, Lewis writes:]<br><br>The fact that when Platonism came in later it harmonized so well with CL suggests that the silence of med. writers about all this proves they never knew it. If they had they would have used it.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1804,7 +1804,7 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "[In his copy of Bruno S. James’s <i>St. Bernard of Clairvaux</i> (London: Hodder and Stoughton, 1957) he has written on the front flap:]<br><br>As sawdusty a book as ever I tried to read, and sometimes a touch of fatuity.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1815,7 +1815,7 @@ const texts = [
         year: 2000,
         monthAndDay: null,
         textProvided: "[On many a book margin he wrote]<br><br>Bosh<br><br>No!<br><br>[or simply]<br><br>?!<br><br>[But it seems evident that he refrained from publishing negative criticism wherever possible.]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1903,11 +1903,11 @@ const texts = [
         year: 2004,
         monthAndDay: null,
         textProvided: "[{73 note 13} Dorsett claims Lewis wrote a note next to Article 13. He implies that this Article is on predestination, but in fact Article 17 is titled “Of Predestination and Election.” Article 13 is titled “Of Works Before Justification.” In any case here is the note:]<br><br>doctrine never to be discussed<br><br>[{163} He jotted these words in his personal copy of the Book of Common Prayer:]<br><br>What seems to be you at the time, to be your own effort, must in fact be grace.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
-        title: "Annotation on endpapers of his copy of Richard Baxter, <i>Saint’s Everlasting Rest</i>",
+        title: "Annotation on the endpapers of his copy of Richard Baxter, <i>Saint’s Everlasting Rest</i>",
         printedIn: "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press, 2004)",
         issueOrVolume: null,
         pageRange: "75",
@@ -1947,7 +1947,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[At one point King and Ketley write, “To the eighteenth century, ‘vulgar’ simply meant, ‘belonging to low life,’ as opposed to the life of ‘polished society.’” To which Lewis wrote in the marin:]<br><br>Wrong.<br><br>[...They continue, “If you wished properly to understand [the reference of such words] you would need to read fairly widely in the critical writings of the eighteenth century.” Lewis:]<br><br>You would.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1958,7 +1958,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "Reread (after many years) Oct. 1959<br><br>Again May 1962",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1969,7 +1969,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[On <i>City of God</i> 11.10:]<br><br>God is a Trinity because He has three persons, and a unity because He <i>is</i> what he <i>has,</i> as a living being is the life that he has…i.e. Substance and quality or existence and essence coincide in God.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1980,7 +1980,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[On <i>Responde de M. Foucher A M Leibniz:</i>]<br><br>(no answer to the ‘Berkeleyian objection)<br><br>[On <i>Monadologie:</i>]<br><br>Berkeley foreshadowed.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -1991,7 +1991,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[On 50c:]<br><br>A-H says they are the form (as opposed to the substance) of material objects: in fact they are <i>Aristotelian</i> eidos.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2002,7 +2002,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[3]<br><br>The good and the good Being are entirely the same…Everything desires to realize its own proper nature…But in seeking to be itself a thing is seeking unity (=good)…Therefore the end of all things is the good, or the single good Being (which are the same).<br><br>[7]<br><br>For to be = to be oneself and to be bad is to relinquish that <i>as far as possible</i>.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2013,7 +2013,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[His summary of <i>Ethics</i> 3.3:]<br><br>Abstract wish for good end: but particular wishes for the <i>supposed</i> Good",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2024,7 +2024,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "The dialectic of method",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2035,7 +2035,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[His summary of <i>Politics</i> 3.9:]<br><br>equal sharing to the equal and unequal to the unequal",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2046,7 +2046,7 @@ const texts = [
         year: 2005,
         monthAndDay: null,
         textProvided: "[On <i>City of God</i> 11.23:]<br><br>all <i>natures</i> are good",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2211,7 +2211,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[In <i>Essays First,</i> 183, Emerson discusses the intuitive perception of truth in “Intellect,” and Lewis jots at the bottom of the page:]<br><br>His whole system makes him sure that <i>his</i> processes are the same as everyone else’s because he doesn’t really believe in other people. Yet he’s often right, I suspect<br><br>[In his treatise on “Friendship” in <i>Essays First and Second Series,</i> 111, Emerson proclaims: “as soon as the stranger begins to intrude his partialities...into the conversation [among friends], it is all over.” Lewis wonders if Emerson is primarily offended by having to give up center stage:]<br><br>It sounds precious like it!",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2222,29 +2222,29 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "political Rousseavian[ism]<br><br>[sic, but probably transcriber’s error for Roussea<i>u</i>ian]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
-        title: "Annotation on his copy of Athanasius, <i>De Incarnatione</i>",
+        title: "Annotation in his copy of Athanasius, <i>De Incarnatione</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
         pageRange: "10 note 24",
         year: 2006,
         monthAndDay: null,
         textProvided: "He who gives Himself a virgin birth is the genius of all births: He who makes water wine is a King of all Waters.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
-        title: "Annotation on his copy of Tacitus, <i>Annalium</i>",
+        title: "Annotation in his copy of Tacitus, <i>Annalium</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
         pageRange: "14 note 107",
         year: 2006,
         monthAndDay: null,
         textProvided: "[See the last page of Lewis’ edition of Cornelii Taciti’s <i>Annalivum</i> {sic, but this is the author’s error for <i>Annalium</i>}, where he says, upon re-reading it in 1953, thirty-two years after his first reading of it:]<br><br>we have grown used to the police-state.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2255,7 +2255,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[On <i>Ethics</i> 7.3]<br><br>In its general sense, Acrasia means pursuance of physical pleasure contrary to deliberate choice.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2266,7 +2266,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[On <i>City of God</i> 14.18:]<br><br>No disobedient impulses existed before the Fall.",
-        type: "Prose",
+        type: "Annotation",
         notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis</i>, eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
@@ -2277,7 +2277,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[The Monarch] is to supply the major premises of the practical syllogism to the subordinate Princes, being to them as Wisdom is to Prudence.",
-        type: "Prose",
+        type: "Annotation",
         notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
@@ -2288,7 +2288,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[Written on the front page:]<br><br>The soul ought to rule the body and ‘the spirit of our mind’ the soul.",
-        type: "Prose",
+        type: "Annotation",
         notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
@@ -2299,7 +2299,7 @@ const texts = [
         year: 2006,
         monthAndDay: null,
         textProvided: "[On 652b]<br><br>Education is right liking and right disliking, wh. must begin with habituation: its intellectual basis comes later, if at all",
-        type: "Prose",
+        type: "Annotation",
         notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
@@ -2343,7 +2343,7 @@ const texts = [
         year: 2007,
         monthAndDay: null,
         textProvided: "x a female prophet",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2354,7 +2354,7 @@ const texts = [
         year: 2007,
         monthAndDay: null,
         textProvided: "[There are two pages of notes including cryptic comments such as]<br><br>sense and imagination <br><br>[and]<br><br>Johnson knew better!",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2365,7 +2365,7 @@ const texts = [
         year: 2007,
         monthAndDay: null,
         textProvided: "[Lewis had the habit of marking in his books the date on which he read a book. In the case of hid edition of <i>Ethica Nicomachea,</i> it was dated]<br><br>1917",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2387,7 +2387,7 @@ const texts = [
         year: 2008,
         monthAndDay: null,
         textProvided: "[Commenting on the lines “The words of <u>Mercury are harsh after the songs of Apollo</u>” (V, ii, 919-920, as underlined by Lewis):]<br><br>MERCURY & APOLLO. Hart explains ‘the best prose is harsh after verse.’ Eloquence v. Poetry almost certainly right.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2402,14 +2402,14 @@ const texts = [
         notes: null
     },
     {
-        title: "“The difficulty about bodies…” extensive comments in Lewis’s edition of Aristotle’s <i>Ethica Nicomachea</i>",
+        title: "Annotations in his copy of Aristotle, <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
         pageRange: "226 note 26",
         year: 2009,
         monthAndDay: null,
         textProvided: "The difficulty about bodies is that if a man believes bodies to be real, he must of course believe his own body to be real. But then he will believe the accounts which physiologists give of perception, and sooner or later will regard all the coloured and tangible shapes wh we call matter, as appearances arising in his own mind, from physiological causes. But among the appearances his own body must be caused/coloured: therefore, the whole world, including his body will be inside his mind. True, there might be another world of bodies wh caused this world of appearances: but that does not matter, for the whole argument was about the perceptible bodies. He will now have fallen into a contradiction for because he believes in his own body he has been forced to disbelieve in all bodies: but as this involved disbelief in his own body wh caused disbelief in all the rest, he has now no reason left for his disbelief: yet if he abandons it for belief he must go thro the same circle again.<br><br>While the contemplated or the enjoyed differ in kind, the material and the psychological (much of which is contemplated) are only different in tendency. What is private to a single self at a single moment, is the lowest level, the merely psychological. What is private is a single self, but, for that self, permanent, in psychological approaching materiality. What is common to a few selves is on the border line. What is not public, which is a permanent object for the greatest number of selves is most material. <br><br>Characteristics of matter. <i>1.</i> resistant to (informable) will <i>2.</i> common <i>3.</i> contemplated<br>Matter<br><br><i>1. </i>As a necessity if there is to be a plurality of selves knowing one another. For to know another self does not mean to enjoy its thinking etc, wh wd mean to <i>be</i> it, and thus to remove all plurality, but to contemplate what it enjoys. But to talk of something wh can be both contemplated from without and enjoyed from within is to talk of a living body or an incarnate soul. For to know an alien soul (in any world) is to apprehend what it can only be: and the difference between the being and the apprehending gives you at once a distinction between the soul itself and something that wd be analogous to our ‘body’—however it might differ from it in the detail of its laws of working.<br><br><i>2. </i>As the resistant stuff. We have a specimen of a world without matter in fantasy, or with a minimum of matter of wh the result is that there is no value in it.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2442,7 +2442,7 @@ const texts = [
         year: 2009,
         monthAndDay: "April",
         textProvided: false,
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2501,7 +2501,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Annotations on his copy of Ariosto, <i>Orlando Furioso</i>",
+        title: "Annotations in his copy of Ariosto, <i>Orlando Furioso</i>",
         printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
         pageRange: "50-59 (holographs); 47-49, 60-61, and 64 note 9 (transcriptions)",
@@ -2519,7 +2519,7 @@ const texts = [
         year: 2011,
         monthAndDay: "Spring",
         textProvided: "[A note by Lewis on the third page says he bought it at Charing Cross in March 1917. At the end he records that he finished it]<br><br>for the first time, Oct. 10th 1923<br><br>[and the second time]<br><br>Jan. 12th 1942",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2530,7 +2530,7 @@ const texts = [
         year: 2011,
         monthAndDay: "Spring",
         textProvided: "[His index reads:]<br><br><u>womanish </u>p. 261; <u>women. </u>Outnumbered by men at court of Urbin 22__excused from speaking in the débat 24__reckoned among ‘sillie soules’ 169__shd. have nothing mannish 189__some tilt, ride etc. 193__shd. know letters, music etc. 195__whether inferior to men 196 <u>et seq</u>__longer lived 201__sources of curialitas 234, 323.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2589,6 +2589,28 @@ const texts = [
         notes: null
     },
     {
+        title: "Annotation in his copy of Henri Bergson, <i>L’Evolution Creatrice</i>",
+        printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press)",
+        issueOrVolume: null,
+        pageRange: "127",
+        year: 2012,
+        monthAndDay: null,
+        textProvided: "[Lewis apply summarized the Darwinian mechanism of adaptation according to Bergson as the]<br><br>Elimination of the unfit<br><br>[and noted that it]<br><br>Plainly cannot account for the complicated similarities on divergent lines of evolution.<br><br></br>[Lewis also noted Bergson’s view that]<br><br>pure Darwinism has to lean on a marvellous series of accidents<br><br>[and how Darwinists try to]<br><br>escape<br><br>[this truth]<br><br>by a bad metaphor.<br><br>[Lewis paid particular attention to Bergson’s critique of Darwinian accounts of eye evolution in mollusks and vertebrates, concluding that]<br><br>Natural selection…fails to explain these Eyes.",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of Pierre Teilhard de Chardin, <i>The Phenomenon of Man</i>",
+        printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press)",
+        issueOrVolume: null,
+        pageRange: "127",
+        year: 2012,
+        monthAndDay: null,
+        textProvided: "[Near the end of his life, Lewis read prominent theistic evolutionist Pierre Teilhard de Chardin’s posthumously published book The Phenomenon of Man, which proposed yet another kind of emergent evolution. Lewis filled his copy of the book with critical annotations such as]<br><br>Yes, he is quite ignorant<br><br>a radically bad book<br><br>Ever heard of death or pain?<br><br>[The last comment responded to de Chardin’s statement that ‘[s]omething threatens us, something is more than ever lacking, but without our being able to say exactly what.”]",
+        type: "Annotation",
+        notes: null
+    },
+    {
         title: "“Early Prose Joy”",
         printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 30",
@@ -2607,7 +2629,7 @@ const texts = [
         year: 2013,
         monthAndDay: null,
         textProvided: "[On the front endpaper his copy is signed and dated]<br><br>Jan 1927<br><br>[In paragraph 20 of the text, he has underlined the phrase “a heretic in the truth.” His running title for that page reads:]<br><br>You will destroy even the truth we already have, for truth is the ἐνεργεία and lives in its own exercise. A man may be a heretic in the truth.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2618,7 +2640,7 @@ const texts = [
         year: 2013,
         monthAndDay: null,
         textProvided: "[Lewis footnoted Act I, Scene 7, line 45 as follows:]<br><br>Catus amat pisces sed non vult tingere plantos<br><br>[Which appears to be an unattributed Latin proverb. This appears in English in John Heywood’s <i>Proverbs</i> 61.7: “The cat would eate fish and would not wet her feete.” I would rather translate “The cat loves fish but doesn’t want to get her feet wet.”]",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2651,7 +2673,7 @@ const texts = [
         year: 2013,
         monthAndDay: null,
         textProvided: "I had forgotten the curious badness of the writing in many places",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2684,7 +2706,7 @@ const texts = [
         year: 2014,
         monthAndDay: null,
         textProvided: false,
-        type: "Prose",
+        type: "Annotation",
         notes: ["According to Downing’s Note on xiii, “On 18 June 1937, C.S. Lewis inscribed his name and the date in a copy of The Pilgrim’s Regress that he had carefully annotated for one of his students, Richard Thornton Hewitt, who was reading English at Magdalen College at the time.” That copy is now in the possession of the Wade Center.", "In this new edition of <i>The Pilgrim's Regress </i>Lewis’s comments are printed in bold in the margins."]
     },
     {
@@ -2776,14 +2798,14 @@ const texts = [
         notes: ["The note appears at the end of the poem."]
     },
     {
-        title: "Annotation in his copy of Shakespeare, <i>Richard III</i>",
+        title: "Annotations on the front endpaper of his copy of Shakespeare, <i>Sonnets</i>",
         printedIn: "E.H. Cooper, “Reading a Sonnet with C.S. Lewis” in <i>Magdalen College Magazine</i>",
         issueOrVolume: "no. 60",
-        pageRange: "65 and <a href='https://issuu.com/magdalenecollege/docs/college_magazine_2015-16' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        pageRange: "65 (holograph) and <a href='https://issuu.com/magdalenecollege/docs/college_magazine_2015-16' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         year: 2016,
         monthAndDay: null,
         textProvided: "XXI<br><br><u>statement</u>	four lines<br><u>exempla</u>	four lines<br><u>theme</u>		four lines<br>re-statement<u></u>	two lines<br><br><br><u>Alliterations</u><br>l	1      m, m	1<br>2		0<br>3		0<br>4		0<br>5    ć,`p–`a,ṕ	½ crossed accents<br>6		0<br>7     a-a, f-fl	1 ½ <br>8       h-hj	½ <br>9   		0<br>10      c,c	1<br>11		0<br>12		0<br>13		0<br>14    pr, p-p	½<br><br><u>Quantity</u><br>l 1 	3<br>2	4<br>3	4<br>4	5<br>5	3<br>6	5<br>7	5<br>8	4<br>9	5<br>10	4<br>11	3<br>12	{4}<br>13	5<br>14	5<br><br><u>Things</u><br>heaven<br>sun<br>moon<br>earth<br>sea<br>gems<br>flowers<br>mother<br><br><u>Turns</u><br>4 fair—fair<br>7 true—truly<br>9, 10 love, love<br>13 say, hearsay<br>———————————————————————————————————<br>XXX<br><br><u>Statement</u>	three lines<br><u>Exempla</u>	1, 2 	one line each<br>3	two lines<br>4, 5, 6	one line each<br>7	three lines<br><u>Application</u>	2	lines<br><br><u>Alliterations</u><br>l 1     s, sw-s	1<br>2		0<br>3       s, s	1<br>4     w-w-w	1<br>5		0<br>6       d,d	½ (inefficient)<br>7    w-l, {l-w}	1 ½ (crossed)<br>8		0<br>9     gr-gr-g	1<br>10		0?<br>11		0?<br>12		0?		5<br><br><u>Quantity</u><br>l 1	3<br>2	3<br>3	4<br>4	5<br>5	3<br>6	3<br>7	5<br>8	5<br>9	3<br>10	3<br>11	4<br>12	3<br>13	5<br>14	2 <br><br><u>Things</u><br>remembrance<br>things past<br>{waste}<br>death<br>night<br>moan<br><br><u>Turns</u><br>9 grieve, grievances<br>11 fore-bemoaned moan<br>12 pay paid<br>———————————————————————————————————<br>XXXIII<br><br><u>Statement</u>	8 lines<br><s><u>Theme</u>		4 lines</s><br><u>Application</u>	4 lines<br><u>Theme</u>		2 lines<br><br>Alliterations<br>{<s>7, 4</s>} 1, 2, 3	F-fl-f	1.<br>3, 4	g-gr-g	1<br>6, 7	f-fr-f	1<br>10	all <br><br><u>Things</u><br>morning<br>mountain tops<br>golden<br>{??} green<br>{west}<br>early morn<br>clouds<br><br>Turns {??}",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2805,7 +2827,7 @@ const texts = [
         year: 2017,
         monthAndDay: "Fall/Winter",
         textProvided: "Never again!",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -2816,7 +2838,7 @@ const texts = [
         year: 2017,
         monthAndDay: null,
         textProvided: "[The first quarto, Q1, is, as Lewis notes here, a highly problematic text; Dowden gives some excerpts from its unique readings in an appendix, and Lewis notes on one occasion (Ophelia’s description of the mad Hamlet, II.i.87) that he]<br><br>cannot help regretting<br><br>[their loss from the received text. The last back endpaper contains three tightly packed columns of]<br><br>Hermeneutica<br><br>[(Lewis’s heading), that is, words or phrases of particular interest or obscurity, which spill over into two more columns in the bottom half of the inside back cover—some 250 in all (Fig 1) {Page 94, which contains Fig 1, the holograph of the ‘Hermeneutica’ page, is largely illegible.} {95} A better indication of when {Lewis} might have made {these annotations} is that a number refer to the views of]<br><br>D.W.<br><br>[sometimes as a supplement to Dowden’s own notes, sometimes in order to disagree. D.W. is John Dover Wilson, editor of the Cambridge Shakespeare series, whose edition of Hamlet was published in 1934. Some of these seem to have been added as a later layer to Lewis’s original annotations, as the numbers in the text linking them to the notes are occasionally out of order, the number]<br><br>2<br><br>[on a page of text preceding a]<br><br>1<br><br>[but there is no difference in the handwriting, and it looks as if they all belong to much the same period of his life. {...} A date close to the appearance of Dover Wilson’s edition is confirmed by his note on Gertrude’s notorious comment on her son in the duel with Laertes, ‘He’s fat, and scant of breath’ (V.ii.298; ‘fat’ underlined in the text). Lewis annotates ‘fat’ as]<br><br>Sweaty…A pupil tells me (1935) that he has heard <u>fat</u> for ‘sweaty’ in Wales.<br><br>[{96} When Hamlet describes a king’s relationship with his flatterers as ‘He keeps them, like an ape, in the corner of his jaw’ (IV.ii.19-20, the Folio reading adopted by Dowden), Lewis lines up the variant readings listed in Dowden’s textual notes for ‘like an ape’)—]<br><br>Q1 <u>as an Ape doth nuttes</u>; Q2 <u>like an apple</u>; F1 <u>like an Ape</u><br><br>[and notes]<br><br>All three make good sense: I see no way of deciding that one is more genuine than another.<br><br>[On the ‘slings’ of ‘slings and arrows of outrageous fortune’ (III.i.58), he notes that in Michael Drayton’s poem on the battle of Agincourt, ‘slings’ may]<br><br>apparently…mean ‘culverins,’ tho’ there is no proof that it here does<br><br>[He draws a linguistic family tree to show how the different meanings of]<br><br>circumstance<br><br>[might have developed. He will also on occasion try out what Shakespeare’s original copy might have looked like. When Claudius worries that ‘The terms of our estate may not endure / Hazard so near us as doth hourly grow / Out of his lunacies,’ (III.iii.5-7), the word ‘lunacies’ is taken from the Folio text, where the quarto editions have ‘browes’. Lewis settles for a third reading, ‘lunes’, meaning]<br><br>fits of lunacy<br><br>[he comments,]<br><br>Q must be a misreading of <u>lunes</u><br><br>[followed by a writing of both words in an imitation of the secretary hand standard around 1600, to show how similar they might look]<br><br>and F a compositor’s, or editor’s, substitution of the more familiar for the less. Read <u>lunes</u>. D.W. conj <u>brawls</u>.<br><br>[{97} In his discussion of the problem of ‘O that this too too solid flesh would melt’—the Folio reading of I.ii.129, where the quarto reading is ‘sallied’ and more recent editors have suggested ‘sullied’—Lewis comments,]<br><br>The emendation sulled for sallied of course involves no paleographical difficulties: but the F. reading is excellent. I cannot agree with D.W. that “there is something absurd in associating ‘solid flesh’ with ‘melt’.” Nay, what wd. melt if not a solid?<br><br>[A trivial substitution of Dover Wilson’s later in the play (‘and’ for the Folio’s ‘yea’ at III.iv.49) elicits a still sharper comment, that the alteration is]<br><br>needlessly the very exstasy [sic] of paleography!<br><br>[In lines spoken over Claudius as he is attempting to pray, Hamlet expresses the wish that the king’s ‘heels may kick at heaven’ as his soul tumbles into hell (III.iii.93-5). Samuel Johnson, one of the great Shakespeare scholars, had complained that the lines are ‘too horrible to be read’, a judgement rejected by Dover Wilson on the grounds that ‘they are no more “barbarous” than Hamlet’s “fattning the region kites” or Laertes’ “cut his throat in the Church”’—all of which Lewis quotes, concluding with]<br><br>surely an odd view!<br><br>[...another occurs with the line ‘What a piece of work is a man’ (II.ii.318), where one late quarto reads simply ‘is man’, a reading also argued for, as Dowden and Lewis note, by two of the play’s nineteenth-century editors. Lewis’s comment runs:]<br><br>But it would need better evidence to make me alter F1 so greatly for the worse. <u>Man</u> is a Godwin and Shelley figment: <u>a man</u> is the concrete (I owe this to Barfield)<br><br>[He is emphatic on the fact that Hamlet, in accordance with the early modern belief as set {98} out in the 1572 work <i>Of Ghosts and Spirits walking by Night</i> (itself cited, he notes, by Dover Wilson), does not assume that the ghost is his father’s: an apparent spirit of the dead might well be a devil in disguise, and Hamlet needs a proof that it is not.]<br><br>Of course all the characters, v. properly, wobble.<br><br>[On Hamlet’s comment to Polonius on the players, that everyone would deserve whipping (II.ii.564-5), he notes that the lines have]<br><br>more point if we remember that that [sic] Players were classed by the Act of 1572 with rogues and vagabonds to “bee grevouslye whipped”<br><br>[unless they had aristocratic patronage. For the gravediggers’ discussion of suicide, he writes]<br><br>Excellent<br><br>[beside Dowden’s note citing a contemporary account of an analogous coroner’s case. {...} He joins the debate about whether the inset play speech ‘The rugged Pyrrhus’ (II.ii.483) is intended to be recognized as an imitation of Marlowe or as a parody, and insists that it is certainly not]<br><br>intended to be ridiculous<br><br>[in support, he quotes Coleridge’s description of it as]<br><br>‘this admirable substitution of the epic for the dramatic’<br><br>[It is the character of Hamlet himself, however, that had been the focus of criticism from the eighteenth century forward, and it is that that forms the sole topic of the four pages of notes at the start of Lewis’s copy. Here he summarises or quotes the views of 26 earlier critics {...} These concentrate largely on two issues: why does Hamlet not kill Claudius right away, and does he really go mad? The latter elicits the briefest of the cited quotations, Voltaire’s]<br><br>‘H. becomes crazy in the second act.’<br>[Lewis then summarizes these in the final half-page of the four, headed]<br><br>Equidem<br><br>[{Latin for} ‘for my part’. Here, he divides the differing views of his 26 critics into four groups, each with the relevant names attached:]<br><br>I The ‘Pressure of Grief’ group<br>II The ‘Shakespeare bungling’ group<br>III The ‘Madness’ group<br>IV The ‘Hamlet awaiting Proofs’ group<br><br>[{99} to which he adds]<br><br>what may be called the orthodox tradition which attributes the delay to the weakness of Hamlet. [...] My own view wd. be orthodox with some modifications. <u>Hamlet</u> is the tragedy of weakness. But group I are right in attributing the weakness to Hamlet’s three intolerable experiences rather than to an original character—that is, a character before the play began, of which we can know nothing. The weakness springs from disgust, from the haunting, from apparently despised love, and from fear of death [with page references in parentheses to the soliloquies ‘To be or not to be’ and ‘How all occasions’, and the exchange with Horatio culminating in ‘What is’t to leave betimes?’]. But this weakness is finally overcome. H’s mind is made up when he is summoned to the duel: not that he foresaw what would there occur, but that he was now ready to take the next opportunity [with a page reference in parentheses to that same exchange with Horatio]. And finally, the weakness is not to be regarded as anything abnormal, nor is all the delay to be laid to its charge—the journey to England being compulsory. The inner history of any great action performed by a man of the reflective (as opposed to the heroic) type, wd be found to contain all these turnings and windings: and the soliloquies ‘Oh what a rogue’ and ‘How all occasions’ owe their endless appeal to the fact that we have all said them already—to ourselves. <u>Hamlet</u> (as Hazlitt said of his creator) ‘is just like any other man, except that he is every other man’. In him, Sh., by extreme individualising, reaches the universal. See how Goethe and Coleridge (why shd. I venture into their company!) and poor Hazlitt all betray themselves as soon as they describe him.<br><br>[{101} In “Hamlet: The Prince or the Poem?” Lewis quotes the extract from Shaftesbury that he had copied into his Arden edition, that this play above all others seems]<br><br>‘most to have affected English hearts and has perhaps been oftenest acted’",
-        type: "Prose",
+        type: "Annotation",
         notes: ["Only the annotations quoted by Cooper are given here; the holographs, whose image quality is low, are illegible in many places not quoted by Cooper."]
     },
     {
@@ -2850,7 +2872,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "Skulu allir Kolbítar soekja heim C.S. Lewis Mariae Magdalenae helgu í búi í Odins degi Nov XX (d. 30) Er þín bit. Helgakviþa Hundingsbana I 50-100<br><br>[Translation: “All the Coalbiters should visit Lewis at Magdalen College on Wednesday, November 20 [1929]. Your bit is Helgakvitha Hundingsbana I 50-100.”]",
         type: "Prose",
-        notes: null
+        notes: ["Reprinted in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 54 (holograph)."]
     },
     {
         title: "Annotation in his copy of H.C. Wyld, <i>Studies in English Rhymes from Surrey to Pope</i> (1923)",
@@ -2860,7 +2882,7 @@ const texts = [
         year: 2018,
         monthAndDay: "4 May",
         textProvided: "[On page 78, in response to a comment by Wyld regarding the pronunciation of the word soot, Lewis offers this autobiographical reflection:]<br><br>I was brought up on sūt; never heard sŭt till I came to England.",
-        type: "Prose",
+        type: "Annotation",
         notes: null
     },
     {
@@ -3117,6 +3139,160 @@ const texts = [
         notes: ["From one of the following (the note is unclear): Bodleian Dep. c. 1072, fol. 311, 314, 316, 326 or Dep c. 1106, fol. 4."]
     },
     {
+        title: "Comments on essays by Kenneth Taylor",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "47-48 and plate 10 (holograph)",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[on page 47 and plate 10:]<br/><br/>Wd. like more than two answers<br/><br/>only serious omission in an otherwise good answer<br/><br/>[on page 48 and plate 10:]<br/><br/>is this quite the right word?<br/><br/>[on plate 10 only:]<br/><br/>a bit clumsy<br/><br/>excellent<br/><br/>? Wd. it be better with these amputations?",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "End-of-term reports on Joan O’Hare, Rosamund Rieu, Patricia Thomson, and Mary Gerken",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "134",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Joan recalled being struck by the degree to which her termly report was perceptive of her personality—much more so than any other in her three years at Oxford. She must be referring to the report of Hilary term, in which Lewis attributes a perceived flatness to her essays to excessive diffidence and a need of encouragement. It certainly cannot be the report on the previous term’s efforts, which simply states:]<br/><br/>Has done a satisfactory term’s work.<br/><br/>[Lewis was clearly impressed by both Rosamund Rieu and Patricia Thomson; his report on Miss Rieu described her as]<br/><br/>Quite definitely a First Class pupil<br/><br/>[while Miss Thomson, whose work showed]<br/><br/>considerable penetration<br/><br/>ought to have a good change of a First<br/><br/>[Another St Hugh’s student, Mary Gerken, who had tutorials on Spenser with Lewis in Trinity term 1944, was]<br/><br/>clear-headed and diligent<br/><br/>[although Lewis added a somewhat backhanded compliment about her readiness to profit from her own mistakes. Lewis recognized the difficulty he experienced in drawing out students who were tentative and diffident in tutorials; he referred to this in a report on Miss Beese of St Hugh’s College in Hilary term 1930, noting that she might have got more out of the discussion if she had knitted or smoked, thereby creating a less intense atmosphere—an unusual piece of advice to find in a tutorial report.]",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "End-of-term report on Derek Brewer",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "46",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "lacking pep",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Note on Socratic Club discussion minutes",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "128",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[The account of one evening’s discussion records that ‘one member explained fully the existentialist views of assent’; Lewis circled the word ‘fully’ and added in the margin:]<br/><br/>is it possible? C.S.L.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Notes for various papers or talks",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "plate 17",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "1. Science, Religion<br/>(a.) Miracles<br/>(b.) Origins<br/>2. Evasion of the Ethical.<br/>Yes: f{m} the beginning.<br/>Natural Law.<br/>All re-affir[me]d by Xtianity<br/>3. Pacifism<br/>(1.) Ought w{?} to be {a}t {a}ll.<br/>No condemnation of soldiers, Joh[n] Baptist, c{ent[urion]}, magistrate<br/>Nor of Israel’s part ><br/>< T{??} {??} {???} c{???}.<br/>i.e. {argue} prohibition of Retaliation as such<br/>(2.)<br/>4. Relation to the World.<br/>Demand for martyrdom )( T{??}g{??}. Honor {th}[e] King.<br/>{Inter}marriage.<br/>P{agan} di{nner} parties ^<br/>5. 2 Thess. II 2. Don’t believe the day is at hand<br/>III 11 Don’t become busybodies but go quietly on with your own work<br/>",
+        type: "Prose",
+        notes: ["This manuscript is written upside-down on the same page of the earliest known manuscript of <i>The Lion, the Witch, and the Wardrobe,</i> held at the Bodleian Library."]
+    },
+    {
+        title: "Notes on the voyage of Ohthere",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "plate 4 (holograph)",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "<u>Reduplicating Verbs.</u><br/><u>a.</u> Lǣtan _ lēt _ lēton _ lǣten<br/>Hātan _ hēt _ hēton _ hāten<br/><br/><u>b.</u> Healdan _ heōld _ hēoldon _ healden<br/><br/>II.<br/><br/><u>Orosius</u>, Paulus. Late IVth. century <u>Historia adversum Paganos</u>. Which begins with a short outline of geography. Here Aelfred adds much from his own knowledge to the part dealing with Europe and interpolates the travels of Ohthere and Wulfstan wholesale.<br/>Translated by Hakluyt 1589. Paraphrased by Longfellow in <u>Birds of Passage</u><br/><br/>1. <u>Hlāforde</u> Ohthere presumably in the temporary employment of Aelfred cf. 48<br/>3 <u>Norþwdum</u> [sic for Norþweardum] Adj. agreeing with <u>lande</u>.<br/><u>Þeāh</u>. sc. in spite of the fact that he lived further Nth. than anyone<br/>5. <u>Styccee</u> piece (cf Germ. <u>stück</u>) mǣlum cf “piecemeal”.<br/>8 {Legjave}, laeg, laegen, legen V<br/>> licgan 1M.<br/>10. <u>Lǣtan, lēt, lǣtēn</u> allow > to cause > “to have”. <u>Habuit sibi</u>.<br/><u>steorbord</u> Steered by a paddle on the right stern wh is hence the <u>steorbord</u>. The helmsman thus faces right and has at his back the bæcbord. Later developments of nomenclature all depend apparently on [the] fact that such a ship cd. not be brought alongside except to a wharf or bank on the left. Hence <u>bæcbord</u> is the <u>lādbord</u> or side you load from: hence by analogy <u>larboard</u>. It is also the port or harbour side: hence <u>port</u>. (v. Oseberg ship. {<u>Hmskv</u>}. p 580).",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Signature on programme of the Martlets",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "21 (holograph)",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "C.S. Lewis",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Title of supplementary lecture notebook",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "53",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[When he felt that additional material was required, Lewis drew upon a second notebook, containing further exempla and quotations with which he could elaborate and support his arguments. One such notebook survives, with the title]<br/><br/>Thickening<br/><br/>[written in large letters on the cover, evidently intended to accompany Lewis’s introductory Renaissance lectures.]",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in Charles Hinton, <i>A New Era of Thought</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e155 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[On chapter VII, “Self Elements in Our Consciousness”:]<br><br>This whole chapter is nonsense",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in R.H. Tawney, <i>Religion and the Rise of Capitalism</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e167 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[When R.H. Tawney, in his <i>Religion and the Rise of Capitalism,</i> seeks to describe Puritans as people living their lives in a hostile territory, Lewis questions this perception of Puritanism by remarking:]<br><br>Where in literature does one <i>meet</i> this Puritan?",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in W.R. Inge, <i>Protestantism</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e167 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Further, the author writes on page 27, “It was a change in the whole conception of authority, which from being an absolute and Heaven-ordained relation of subservience to a theocratic system, became a mutual agreement between the rulers and the ruled.” Lewis comments:]<br><br>The truth precisely the reverse. Real change from Lex Regia to Divine Right!",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in Christopher Dawson, <i>Beyond Politics</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e165 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[As World War II loomed, Lewis summarized each page in the chapter called “Politics and National Culture,” completing his reading of the entire book, according to his own notation at the end of it, in]<br><br>April 1940<br><br>[Lewis, in response to Dawson’s comment that both communism and fascism are one-sided, writes in the margin:]<br><br>Which none the less had a <u>tradition</u> behind it in Russia and Germany<br><br>[Dawson even warns that democracies could become totalitarian in their intent, which leads Lewis to pen this response:]<br><br>Strict ideological Democracy…<u>and</u> Dictatorship both children of the Revolution and dist. from tolerationist Democracy of the English style",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in John Green, <i>A Short History of the English Language</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e166-e167 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[When the author writes about the theological problems in Protestantism, Lewis underlines, “It wasted its strength in theological controversies.” He then annotates at the bottom of the page:]<br><br>Luther—Calvin Evil influence of their <u>doctrines</u><br><br>[In a discussion of the transfer of power from Elizabeth to James and the ensuing gunpowder plot, Lewis underlines, “The dream of a reformation of the universal Church was utterly at an end. The borders of Protestantism were narrowing every day, nor was there a sign that the triumph of the Papacy was arrested” (Green 463). To the side of this quote, Lewis writes:]<br><br>happening stil!!<br><br>[Green writes of the large number of Catholics who were named as recusants. Lewis writes in the margin:]<br><br>unwarranted severity<br><br>[Lewis underlines, “The abrogation of the penal laws against the Catholics, {e167} a Catholic education for the Prince’s children, a Catholic household for the Infanta, all were no sooner asked than they were granted” (Green 263). In response to this, Lewis writes:]<br><br>Catholic tyranny which fortunately ended in nothing<br><br>[A description of the low moral state of society in the mid-eighteenth century led Lewis to underline, “In spite however of scenes such as this, England as a whole remained at heart religious” (Green 717). In the margin, he writes:]<br><br>a testimony to the fact that the middle class makes the country",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of in Passerin d’Entreves, <i>The Medieval Contribution to Political Thought</i>",
+        printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
+        issueOrVolume: "vol. 40",
+        pageRange: "e165-e166 and <a href='https://journals.wheaton.edu/index.php/vii/article/view/1157/692' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[The author notes that Christian political philosophy did not lead to institutions being created via contract. Medievalists instead saw the state as a necessary and divinely appointed institution to punish and provide remedies for sin. One can almost hear Lewis sigh when he writes in response:]<br><br>But this was later lost sight of<br><br>[A few pages later, the author writes of the change from the traditional law of nature that dominated the Middle Ages to the notion, which found “its complete development only in Machiavelli and Hegel,” of the state as the source of law. Lewis, though, despite his agreement with the author’s concern over this alteration in the source of law, offers a slight corrective to Passerin d’Entreves’s commentary, writing:]<br><br>But this did not (as some think) abolish, rather it transmitted, the doctrine of Natural Law<br><br>[{e166} As Passerin d’Entreves explains Aquinas’s views, Lewis raises this question at the top of page 27:]<br><br>How can he [Aquinas] reconcile the supremacy of the Aristotelian common good with the Xtian supreme importance of the individual?<br><br>[On page 28, Lewis answers his own question:]<br><br>It looks to me as if he doesn’t (in this world anyway).",
+        type: "Annotation",
+        notes: null
+    },
+    {
         title: "Annotations in his copy of H.C. Wyld, <i>The Historical Study of the Mother Tongue</i> (1920)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -3124,6 +3300,28 @@ const texts = [
         year: 2024,
         monthAndDay: null,
         textProvided: "[...alongside the discussion of modern English forms that cannot be accounted for on p. 272, Lewis records the following objection:]<br><br>This is a science! Why can’t the quack say he doesn’t know—no one expects him to be infallible.<br><br>[In another marginal comment Lewis expresses the view that Coleridge had already]<br><br>exploded this ladies’ theory once and for all<br><br>[and elsewhere he observes a contradiction with a statement found in Wyld’s <i>Short History of English</i> and notes:]<br><br>he changes his mind (to be equally dogmatic in the new position)",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Notes on Old English grammar (Notebook 29, Bodleian Library)",
+        printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 14, no. 2",
+        pageRange: "129-130",
+        year: 2024,
+        monthAndDay: "October",
+        textProvided: "[The notebook contains a number of introductory sections designed to help beginners grasp the basics of the Old English language. For instance, a section titled]<br><br>First steps in OE<br><br>[sets out the elements of the Old English spelling and pronunciation. This is followed by a series of instructions which are clearly intended to form homework for his students:]<br><br>Read a passage. Learn hē, se, þes<br><br>[that is, the declension of the third person singular masculine pronoun and the demonstrative pronouns se and þes, equivalent to Modern English ‘the/that’ and ‘this’. This is followed by the instruction to learn]<br><br>hām<br><br>[the noun ‘home’, which declines according to the masculine strong noun declension. This is followed by an account of the first sound law (known today as First Fronting), and listings of the various classes of strong verb, set out with their principal parts from which the full conjugations can be derived. Students are then expected to define a long syllable, learn how to decline the long and short-stemmed neuter nouns <i>land</i> and <i>scip</i>, as well as the noun <i>fæt</i>, and how to explain its variant forms. This is followed by an account of Verner’s Law, and an explanation of how it helps to make sense of the anomalies found in various strong verb forms, e.g. the presence of an <r> in the preterite plural and past participle forms of cēosan: – cēas – curon – coren. It is clear that Lewis’s students were expected to make quick progress from the basics to more advanced topics. Lewis’s notes were intended to function as a kind of gloss on E.E. Wardale’s <i>An Old English Grammar</i>, first published in 1922, in an attempt to make her {130} explanations simpler than he himself had found them. Alongside his description of how fracture (a process of diphthongization of vowels before certain consonant clusters known today as ‘breaking’) affected strong verbs, Lewis has noted:]<br><br>Am substituting a simpler explanation of W’s p. 106 n.1<br><br>[The corresponding note in Wardale’s grammar explains that: ‘þēon belonged originally to the third class and had a form *þinhan. Traces of this appear in a pret. plur. indicative oferþungon, pret. subjunctive þunge, and past part. geþungen (used as an adjective) and oferþungen’. (p. 106).]",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Prose translations of <i>Beowulf</i> 702-734a, 1251-1278, and 1529-1556 (Notebook 29, Bodleian Library)",
+        printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 14, no. 2",
+        pageRange: "130, 131-132, and 133-134",
+        year: 2024,
+        monthAndDay: "October",
+        textProvided: "[130, covering lines 702-734a, Grendel’s attack on Heorot:]<br><br>He that walketh in shadow came gliding through the black night. The hurlers of the spear lay sleeping, even they that were appointed to guard the gabled house, all save one. For now it was made manifest to men that their demon foe had no power, when the Lord would not, to snatch them down into the realm of darkness. Beowulf slept not: full of wrath against the fierce enemy, he abode in anger the issue of their battle. Then from the mountain, among the fells where the mist tarries, came Grendel stalking, and bore the burden of God’s anger. The evil-doer was minded in that lofty hall to ensnare many a child of man. Under the clouds he went to where he well knew that he might find the golden house, even the place, gleaming with sheeted gold, where heroes drank their wine. It was not the first journey he had made to Hrothgar’s home; but never in the days of his life, before nor after, gat he a harder lot nor harder thanes in the hall. The spirit of war came now in his journey even unto the hall, the spirit that knew no joy. Full soon the door, for all its bands of forged iron, sprang open when Grendel’s hand was laid upon it. Evil was his mind, hot his fury, as he rent asunder the mouth of the hall. And swiftly after that the enemy walked the bright-paved floor, came on with rage in his heart. Out of his eyes there streamed unlovely light, and its likeness was as fire. There he beheld many warriors sleeping in the hall, the whole fellowship of kinsmen assembled, and the multitude of men of war. His heart laughed within him. The terrible one, the warrior, was minded ere day came to sunder the life from the body of every one of them, now that such hope of banquet had befallen him.<br><br>[131-132, covering lines 1251-1278, the fight with Grendel’s mother:]<br><br>Then they laid them down to sleep; one paid a generous price for his evening’s bed, as it had full often befallen them since Grendel haunted the golden hall and dealt unrighteously till his end gat hold of him, even death according to his sins. Now it was made manifest and widely known among men that there lived yet an avenger after the slaying of their foe, a long time after the trouble of their warfare. The woman, the she-terror, remembered affliction: even Grendel’s mother {131} whose habitation was appointed among perilous waters and cold streams ever since Cain arose to slay with the edge of the sword his only brother, his father’s seed. Then he departed with the stain of blood upon him, marked with murder to flee from men and their delights. The wilderness was his dwelling. Of him there sprang many spirits of the elder creation. Grendel was one of them, wolf’s head of war, the spirit of hatred; but in Heorot he found a man that slept not, but abode the battle. There the terrible one wrestled with him. Howbeit he remembered the strength of his might, and the manifold gift that God had given him. He put his trust in the mercy of the Almighty, even in His comfort and succour: thereby he overcame the enemy, he laid low the spirit of Hell. And Grendel was humbled and went his ways: the spirit that knew no joy, the enemy of the children of men, went to look upon the abode of death. And now, after all that, his mother was an-hungered and her heart was sore: she was minded to make a journey full of care, to avenge the death of her son.<br><br>[Lewis’s concern with finding a translation that he is happy with is apparent from his inclusion of an alternative rendering of line 1251:]<br><br>They got down to it; but one man paid a high price for that evening’s rest as had happened to them very often since Grendel became sentry of the goldhall<br><br>[133-134, covering lines 1529-1556, the fight with Grendel’s mother continued:]<br><br>Then yet again the kinsman of Higelac was constant: he was no laggard in his might, neither forgat he his noble deeds. The man of war in his wrath cast away the patterned blade, even the sword wreathed with cunning works. It lay on the earth, the hard sword steely-edged. Now all his trust was in main strength and the mighty grip of his hands. Even so it behoves a man to do when he is minded to gain in battle long-lasting praise, and cares not for his life. The warrior Geat gat hold on Grendel’s dam by her shoulder: the quarrel dismayed him not at all. When his anger was kindled, he that was hardy in war dragged his mortal enemy till she stooped to the ground. But soon with her horrible grip she repaid him. She came with he[r] grasp against him: the dark-souled horror threw him down; she made him fall, strongest of warriors though he were, of men that fight upon  their feet. She sate upon that stranger in her hall: she drew her knife, broad and bright of edge; minded to avenge her son, her only child. The woven net of mail lay on his breast and shoulders, and warded his life, withstood the entry of point or edge. In that hour the son of Ecgtheow, the warrior of the Geats, would have gone his way under the great deep unless his corselet of battle, even the hard net of war, had given him help, and holy God appointed him victory. Easily did the wise Lord, the ruler of the heavens, dispense a righteous doom, when Beowulf rose again to his feet.",
         type: "Prose",
         notes: null
     },
@@ -4725,12 +4923,23 @@ const texts = [
     },
     {
         title: "Letter to John Dover Wilson (19 February 1950)",
-        printedIn: "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
-        issueOrVolume: null,
+        printedIn: "Joe Ricke, “‘Text Corruptions’ Corruption: Restoring C.S. Lewis’s Critical Satire” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 14, no. 1",
         pageRange: "57",
-        year: 2018,
-        monthAndDay: null,
-        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentlemen of Verona:</i>]<br><br>I was on the point of sending off the enclosed squib to the T.L.S. when it occurred to me you might think it malevolent or even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the case in wh. decasyllabics occur in all English prose. If you are quite sure you do not find it in the least offensive wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket—whither I’d rather rend every existing list of TGV than cause a moments uneasiness to you who have us all in your debt so many times.",
+        year: 2024,
+        monthAndDay: "April",
+        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentlemen of Verona:</i>]<br/><br/>Magdalene College<br/>Oxford<br/>19/2/50<br/><br/>Dear Dover Wilson—I was on the point of sending off the enclosed squib to the T.L.S. when it occurred to me that you might think it malapert or even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the ease in wh. decasyllabics occur in English prose. If you are quite sure you do not find it in the least offensive wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket—whither I’d rather rend every existing line of TGV than cause a moment’s uneasiness to you who have us all in your debt so many times. With all good wishes of the year.<br/><br/>Yours sincerely<br/>C.S. Lewis",
+        type: "Letter",
+        notes: ["Most of the body of this letter, with several differences of transcription, was previously published in Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press, 2018), 57.","Looking at the transcription, I think it should read “I’d rather <b>s</b>end every existing line,” not “rend;” and the letterhead says “Magdalen,” not “Magdalene.”"]
+    },
+    {
+        title: "Letter to John Dover Wilson (8 October 1943)",
+        printedIn: "Joe Ricke, “‘Text Corruptions’ Corruption: Restoring C.S. Lewis’s Critical Satire” in <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 14, no. 1",
+        pageRange: "60-61",
+        year: 2024,
+        monthAndDay: "April",
+        textProvided: "Magdalen College<br/>Oxford<br/>Oct 8th [1943]<br/><br/>Dear Professor—Thank you very much indeed. I got back last night (from giving the Skemp lecture at Bristol) at 11.30 p.m. and read about half the book before turning in. I am delighted with it and, so far, in complete agreement. It come on top of a suspicion that had recently occurred to me in another context viz: that the commonest cause of bad criticism is one so simple we never suspect it—just not really knowing what happens in the book criticised! One finds it again and again. The basis of the criticism is really some previous critic & thus errors are perpetuated. I had already in a vaguer way taken your view about Falstaff and wondered how any one after the recruiting scene could believe in the idealized F. of modern criticism. But you make it much clearer: and I hadn’t grasped the full reasons for the difference between Pt. I and Pt. II. Your little inscription is over kind. Say rather that some happy fate intended that your book and Tillyard’s Elizabethan Outlook and my Preface shd. all independently & at the same time remind people of the Hierarchical principle. So if they don’t [61] know now, they’re inexcusable! What a pity Masefield wrote that little book! It is so well written that all its errors stick. With very many thanks,<br/><br/>Yours,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -6465,12 +6674,78 @@ const texts = [
         title: "Letter to the Bodleian Library",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
-        pageRange: "plate IV",
+        pageRange: "figure 10 (holograph)",
         year: 2024,
         monthAndDay: null,
         textProvided: "Magdalen College, Oxford.<br>14 Nov. 1941.<br><br>I authorise R.G. Morgan to apply for the following books for the purposes of private study.<br><br>φ f 37 Vénus la populaire, ou apologie des maisons de joye [tr. from English ‘A modest defence of public stews’] attrib. to B. de Mandeville. Preface: Phil-Pornix.<br>φ f 64 nouv. Éd.<br><br>C.S. Lewis",
         type: "Letter",
         notes: null
+    },
+        {
+        title: "Letter to A.S.L. Farquharson (24 May 1931)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "30-31",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Lewis felt that his pupil J.T. Holland took a cavalier approach to Old English and appeared]<br/><br/>genuinely hurt at being asked to find the Nominative and the Verb before translating a sentence<br/><br/>[{31} Another pupil, P.A. Wallers, was praised by Lewis as]<br/><br/>the most worthy pupil I have ever had. Starting with no knowledge and scant talents he has turned himself into a new man by sheer commonsense, teachableness and industry.<br/><br/>[Of Wallers’s classmate, Lewis noted simply:]<br/><br/>Seems awake and prepared to work.",
+        type: "Letter",
+        notes: ["Farquharson is not identified as the recipient, nor is the date given in Horobin’s text. The letter is held at the Magdalen College Archives, UC J7/A2/42."]
+    },
+    {
+        title: "Letter to Arthur Lehman Goodhart (13 February 1959)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "31",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[In 1959 University College elected Lewis to an honorary fellowship; writing to the master, Arthur Lehman Goodhart, to acknowledge the appointment, Lewis described himself as]<br/><br/>quite overwhelmed",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to John Betjeman (10 November 1936)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "42",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[An unpublished letter from Lewis to Betjeman dated 10 November 1936 replies to a request from his former pupil to bury the hatchet. Lewis responded positively, making light of the]<br/><br/>few bolts<br/><br/>[that Benjamin had shot at him in his prefaces, claiming that their verbal sparring was nothing more than the]<br/><br/>ordinary amoenities of a literary life.<br/><br/>[Lewis goes on to concede that he was a very young tutor when Betjeman was his student and that he may have]<br/><br/>much more than I suppose for which to ask a pardon.<br/><br/>[He concludes with a friendly benediction:]<br/><br/>Peace be to you and your house",
+        type: "Letter",
+        notes: null
+    },
+    {
+        title: "Letter to the President of Magdalen College (4 June 1954)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "65",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[In his letter of resignation to the President, Lewis signs off by hoping that the Bursar will not be too prompt in requesting the return of his college keys, as it is difficult, after twenty-nine years, to envisage]<br/><br/>a Grove-less and Adderless life.",
+        type: "Letter",
+        notes: ["This letter is held at the Magdalen College Archives, shelfmark unknown."]
+    },
+    {
+        title: "Letter to unidentified Fellow of Magdalen College (1930)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "31",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[In Michaelmas Term 1930 Lewis labelled his pupil P.A. Wallers a]<br/><br/>third class man",
+        type: "Letter",
+        notes: ["This letter is held at the Magdalen College Archives, UC J7/A2/40."]
+    },
+    {
+        title: "Letter to unidentified Fellow of Magdalen College (c. 1930s)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "30",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Lewis expressed a concern in his termly reports that students were letting themselves down with]<br/><br/>poor Anglo-Saxon",
+        type: "Letter",
+        notes: ["The archival location is not identified."]
     },
     // POEMS
     {
@@ -7813,7 +8088,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "He opens and closes his glottis at pleasure,<br>Explosives and stops he is able to measure,<br>No grunt and no gurgle escapes his attention,<br>Religiously marking each slackness and tension,<br>You find him in air-bursts beguiling his leisure.<br><br>Can any one blame him if, doomed to mistaking<br>Each word in its meaning, he studies the making?<br>Condemned to be blind to the picture, the frame<br>Instead let him chip at. But why, in God’s name,<br>Lead us from Parnassus to join your muck-raking?<br><br>Why, pray, should a squire of the Muse and Apollo<br>Yield thus with a living steam-organ to follow?<br>Leave us to the spirit and keep your phonetics,<br>Don’t come to the table to talk dietetics.<br><br>His Berkshire garden grows, I’m told,<br>Enormous marrows tinged with gold",
         type: "Poem",
-        notes: null
+        notes: ["Reprinted in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 18."]
     },
     {
         title: "Poem III against H.C. Wyld in Latin in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
@@ -7868,6 +8143,84 @@ const texts = [
         monthAndDay: null,
         textProvided: "There was a time ere Oxford’s woes began<br>When every lecturer was a gentleman;<br>When spirits humane were dons (in Saturn’s reign),<br>Their discourse easy, and their wit urbane;<br>But golden ages pass without repeal<br>And WYLD has ushered in the age of steel,<br>―Enormous WYLD, of whom the Muses sung<br>That from no mortal seed the portent sprung;<br>But Insolence, dire goddess, Stygian whore,<br>To several sires the barking infant bore.<br>Insolence, Charon’s daughter, loosed her zone<br>To Braggadocio, nor to him alone;<br>For Pistol, too, her couch did next enjoy,<br>And Kestr[e]l topp’d her third, that roaring boy.<br>Thence grew the windy babe, who shewed the fires<br>Of all his mother―and of all his sires;<br>Even in his cradle boomed the boastful child,<br>Th’infernal gossips shrieked and called him WYLD.<br>Escaped from hell, his earthly life began<br>In Cardiff as a lavatory-man,<br>Whom soon the Corporation, when they found<br>Him stealing paper, spued from underground:<br>Next as a New-York peeler, clubbing beggars<br>And cripples, he was pensioned by boot-leggers,<br>Until, for being bribed to get a black<br>A l[y]nching, he at last was giv’n the sack.<br>Thence he returned, and since he could not be<br>A sergeant-major, learned Philology;<br>S[ei]zed on a chair, talked louder and became<br>Our joke in Oxford, and abroad, our shame,<br>The Miles Gloriosus of the schools,<br>The scorn of scholars and the fear of fools,<br>Loud among women at the Viva-board<br>But humble to a millionaire or Lord,<br>In peaceful times a Tory, but nigh Red<br>When guns are cocked and Riot Acts are read,<br>The genuine race of the Tartarean whore,<br>The bully, coward, braggart, snob and bore.",
         type: "Poem",
+        notes: null
+    },
+    {
+        title: "Verse translation of <i>Beowulf</i> 1251-1278 (Notebook 29, Bodleian Library)",
+        printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
+        issueOrVolume: "vol. 14, no. 2",
+        pageRange: "132-133",
+        year: 2024,
+        monthAndDay: "October",
+        textProvided: "They sank to sleep. One paid a heavy scot<br>For that night-rest―so oft had been their lot<br>Since Grendel, doer of ill deeds, had learned<br>To haunt the golden hall – till sin returned<br>As death upon his head. ‘Twas seen at last<br>And known to men that after combat passed,<br>After the slaying, an Avenger still<br>Was left alive. A female shape of ill,<br>Grendel’s foul dam, remembered all her woe:<br>Who dwells where evil-ominous waters flow<br>And perilous streams forever, since the day<br>When Cain’s incest[u]ous sword was drawn to slay<br>His father’s son―and, marked with murder, then,<br>Unclean, he fled far from the mirth of men,<br>And Grendel he begot and all the race<br>Of ancient spectres in some desert place.<br>But Grendel found in Hart the man whose eyes<br>Waited unslumbering, for the war to rise,<br>And grip with grip the man and monster there<br>Wrestled: for on the Lord he laid his care,<br>And trusting in the grace of heaven and strength<br>From God received, o’erthrew the foe at length;<br>And humbled and brought low the spirit of Hell<br>Went joyless thence to learn how dead men dwell.",
+        type: "Poem",
+        notes: null
+    },
+    {
+        title: "Excerpt from draft of “The Tragi-Comicall Briefe Reigne of Lewis the Bald” (a five-act drama in blank verse on his single year as Vice President of Magdalen College)",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "72",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Lewis’s drama is written directly into the vice president’s register; this fair copy is based upon a draft version that survives in one of his exercise books. Among these rough jottings we can observe Lewis’s first attempts and later revisions; for instance, in this early version we find Hortensius, the estates bursar Mark Dunbar Van Oss, proposing an alternative candidate for vice president in]<br/><br/>Ploughman Charles, incomparable lexicographer<br/><br/>[That is, Charles Talbut Onions, editor of the <i>Oxford English Dictionary</i> and a fellow of Magdalen since 1923.]",
+        type: "Poem",
+        notes: null
+    },
+    {
+        title: "Excerpts from “The Tragi-Comicall Briefe Reigne of Lewis the Bald” (a five-act drama in blank verse on his single year as Vice President of Magdalen College) ",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "70-73",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[A central theme of Lewis’s drama is his own inability to carry out his vice-presidential duties effectively; in one scene the members of a committee await his appearance as chair of the meeting, only to learn that he had been seen bustling towards the Summer Common Room, where the meeting was to be held, at the appropriate time on the previous day:]<br/><br/>I saw him yesterday, this self-same hour<br/>Obsequiously attired in cap and gown<br/>With brow contracted and with lips pursed up<br/>…<br/>Hasting towards the Summer Common Room.<br/>You need not doubt he went to take the chair<br/>At this same meeting, yesterday, on time.<br/><br/>[{71} Lewis’s unsuitability for the role of vice president is further apparent from his total reliance upon the college secretary, Miss Anderson, named Egeria (from the Greek term for a female advisor) in the drama, who ended up carrying much of the work herself, or referring it to McFarlane. When she appears at the opening of Act IV, Lewis heralds her coming with:]<br/><br/>But soft! The fair Egeria<br/><br/>[and addresses her in a reworking of Hamlet’s famous words to Ophelia:]<br/><br/>Nymph, on thy typewriter<br/>Be all my jobs remembered.<br/><br/>[Lewis’s reliance upon the long-suffering secretary during his vice-presidential year is apparent from a scene in the drama where she pleads with him to respond to overdue requests for feedback from unsuccessful candidates for admission, and to look over the agenda for a forthcoming meeting of the college’s main teaching committee, the Tutorial Board, known as the ‘T.B.’ Lewis responds in another Shakespearean pastiche, playing on Hamlet’s ‘What’s Hecuba to him or he to Hecuba?’:]<br/><br/>Fairest maid<br/>I have no time. What’s the T.B. to me<br/>Or it to Hecuba? Make the agenda up <br/>And set down what you will.<br/><br/>[Dismissing the serious business of college governance in this way, Lewis beats a hasty retreat—with the famous stage direction from <i>The Winter’s Tale</i> ‘Exit pursued by a bear’ suitably modified:]<br/><br/>Exit pursued by a Secretarie<br/><br/>[In a later scene, the noble Egeria,]<br/><br/>Never so wearie, never so in woe<br/><br/>[like Hermia before her, searches the ominous wood of the Magdalen grove]<br/><br/>with fix’d intent<br/>To button-hole a lost Vice President<br/><br/>[finally giving into fatigue and sleeping. Lewis has taken refuge in this pastoral idyll in order to escape the demands of office: {72}]<br/><br/>Here no committees meet. The gentle conies<br/>Know no agenda save to get their kind,<br/>Nor do the dappled deer.<br/><br/>[{73} As vice president, Lewis was obliged to attend the regular meetings of the Air Raid Precautions Committee, tasked with ensuring the college’s compliance with the university’s detailed directives. There is a scene in the drama in which the college miraculously succeeds in having implemented every regulation; the bursar reports that]<br/><br/>Our petrol pumps and stirrup pumps, our posts<br/>Lamps, oilskins, respirators, whistles, hats<br/>Are perfectly complete.<br/><br/>[What’s more, all the members of the college—fellows, tutors, demies, commoners, scouts, boys, bedmakers and cate–have internalized some twenty thousand rules, so that not even Momus (the Greek god of criticism) could find fault. But, just as Lewis announces that the best wine will run in the cloister pump until midnight in celebration, a messenger arrives to repeal the earlier directives and replace them with others:]<br/><br/>All is revoked. All orders, minutes, rules,<br/>Schemes, plans, organisations, policies<br/>That you have learn’d, all from this moment cease<br/>And are annulled as though they had not been.<br/>A wholly new design of A.R.P.,<br/>Briefly comprised in thirty volumes, each<br/>An hundred pages long (lo, here the first!)<br/>Must be engraved, and presently, upon<br/>Your inner tablets with a style of brass.<br/>Gentles, tear up whatever you have done,<br/>And buckle to’t. The game begins anew!<br/><br/>[The news causes considerable stress among the fellows, especially Lewis, who passes out:]<br/><br/>The V.P. swoons. Look to him<br/><br/>[recalling Osric’s ‘Look to the queen’ at the end of <u>Hamlet</u>.]",
+        type: "Poem",
+        notes: null
+    },
+    // ANNOTATIONS
+    {
+        title: "Annotation in his copy of Robert Burton, <i>The Anatomy of Melancholy</i>",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "12",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Alongside a passage in which Burton wonders what the Greek philosopher Democritus would have made of ‘so many bloody battles, so may thousands slain at once, such streams of blood able to turn mills’, Lewis inscribed the word]<br/><br/><u>WAR</u>",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotation in his copy of George Saintsbury, <i>A History of English Literature</i>",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "26",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[Alongside Saintsbury’s contention that ‘The Faerie Queene is the only long poem that a lover of poetry can sincerely wish longer’, that famous lover of the long narrative poem has scrawled the objection:]<br/><br/>No!",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotations on the title page of his copy of Shakespeare, <i>Love’s Labour’s Lost</i>",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "plate 9 (holograph)",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[<i>verso</i>]<br/>METRE, peculiarities of. pp. 91, 92, 93, 99, 138, 145, 175, 177<br/>MILTON. Gorgeous east. p. 99.<br/>MISPRISION p. 90. I can’t understand this place.<br/>MONARCHO p. 66 and n. <u>Ibid</u><br/>MOONSHINE IN WATER From Aesop > a thing of no worth > (? according to Hart) mod. “all moonshine”<br/>MOTE p. 94.<br/>MOTH. supposed connection with M. la Motte p. xxiii. (2.)<br/>MUSCOVITES pp. xxvi, xxviii.<br/>O’ERSHOT p. 94. Astray in ones aim, wide of the mark.<br/>OPINION. self conceit. p. 109<br/>ORTHOGRAPHY shd regulate pronunciation on Holofernes’ view. p. 110.<br/>OSTENTATION, apparently = spectacle p. 118.<br/>OUT OF ALL SUIT. <u>Hart</u> “Out of all fitness.” <u>Onions</u> explains “suit” = attendance at court of a liege lord, hence “out of all s” = out of all service<br/>PAINTED CLOTH. p. 162<br/>’PARITORS officers of ecclesiastical courts, summoners > person concerned with discovery of fornication p. 55<br/>PASS. p. 120 “To represent, take the rôle of” (Hart, on strength of unconvincing quotation from B. Jonson). Onions the same, queried.<br/>PASSADO. Forward lung[e] with foot, sword. p. 28.<br/>PATCH. p. 73. A patch > patch’d on pied coat > wearer of pied coat > fool. (<u>Hart</u>.) Fool (<u>Onions</u>)<br/>PATHETICAL 23, 71.<br/>PEDANTIUS. parallel p. 64. v. p. xxxvii <u>et</u> <u>seq</u>.<br/>PEN = style. p. 84.<br/>PEREGRINATE. Adj. = with a travelled air. ἁπ. λεγ. V. sub Armado. <br/>PERJURE WEARING PAPERS Papers set on the heads of convicted perjurers (in pillory?) p. 87<br/>PERSON, pun on p. 78.<br/>PICKED. = <u>argutus</u>, <u>exquisitus</u> (Rider 1589)<br/>PIERCING A HOGSHEAD v. <u>Hogshead</u><br/>PINN’D ON SLEEVE “to pin wenches” etc. Hart thinks it from pinning the mistresse’s [sic] favour on sleeve, but his quotations give rather the idea of “tying to ones apron-strings”, “keeping in ones pocket” p. 143<br/>POINT DEVISE here an adj. apparently = <u>picked</u> (q.v.) No explanation in Hart or Onions.<br/>POMEWATER. a large juicy pale apple now lost. p. 71<br/>PRICKET v. <u>Buck</u><br/>PROMETHEAN Chapman (1594) finds it necessary to annotate the word<br/>PROTESTANTISM [?] “defects Not by might mastered but by special <u>grace</u>” (p 9.)— “to hearken after the flesh” p 12— “in the testimony of a good conscience” p 71— “My beauty will be <u>saved</u> <u>by</u> <u>merit</u>—Oh <u>heresy</u>” p 59— “Charity itself fulfils the law p. 106.<br/>PRUNING = preening, p. 96.<br/>PUTTENHAM dominator p. 13—voluble p. 32—passionate p. 42—vulgar p. 63—orthography p. 110—p. xl—{Tranlacer} p. 27<br/>QUIBBLES pp. 12, 21, 26, 37, 39, 49, 56, 67, 76, 77, 99, 123, 124, 132, 138, 141, 145, 163, 164.<br/>QUILLETS. p. 102. <br/>QUOTE. 1. To give the reference to (a quotation) i.e. in the margin as we find in old books. (p. 40). 2. To set down for, to reckon as (pp. 90, 176)<br/>REASONS = conversations ({<u>nagion</u>}—) p. 108. <br/>REVELS, DANCES etc. p. 108. This line borrowed in <u>Return from</u> Parnassus. Also see some nonsense of Hart’s ad. Loc.<br/>REGULAR ANAPESTS, p. 40. <br/>REMEMBER THY COURTESY Ordinarily means “Why the devil don’t you uncover?” (wh. by the bye shows the semantic history of the surviving <u>courtesy</u>, a female bow): but in p 117 Holofernes is already uncovered. <u>Malone</u> reads “remember not” (Pray don’t bother to keep your hat off.) <u>Steevens</u> explains “You’ve forgotten your hat is off (i.e. your courtesy) please put it on again. <u>Hart</u> thinks Hol. is being told first to uncover (not to Arm. but) at the king’s name, then to cover again.<br/>ROSE TRADTN. v. <u>Allegory</u>.<br/>SCHOOL OF NIGHT <u>Hart. ad. loc</u> (p. 100) {<u>delviat</u>}.<br/>SCURRILITY = smut. pp. 75, 109.<br/>SELL A BARGAIN to one = to sell him a pup. p. 50<br/>SEQUENT, a follower. P. 83.<br/>SEVERAL A “several” field >< a common. p. 39<br/>SHROWS, sinews. p. 125<br/>SIDNEY juvenal p. 18—arrest your word p. 36. pp. 62-63—p.108 (v. slight)—thousand years a boy. p. 123. <br/>SISTER p. 123, v. <u>Sources</u><br/>SINONIMIA, recommended by Puttenham p 77—example. p. 109.<br/>SNEAPING p 8.<br/>SNIP AND AWAY p. 44.<br/>SOURCES No literary source has been found. From the facts (a) That Shakespeare nowhere shows the power of <u>invention</u> in the lower senses (b) That L.L.L. as a story is contemptible; I conclude that he invented it. Historical sources have bin {sic} conjectured.<br/><u>1.</u> <u>Hunter</u> Unfulfilled promise about Armado suggests that S. is following real story. Draws same from the {crown} speech + {cf.} <u>Montrelet</u> s. an[no]. 1425—some negotiations betw. France + Navarre rê 200,000 {ce}.<br/>2. <u>Sidney Lee</u> In 1586 Katharine de Medici—virtual gov. of France for infirm, mentally defective son (cf. p 9, “Decrept sick, bedrid. father) negotiated with H. of Navarre: in whose train were <u>de Longueville</u>, <u>de Biror</u>, <u>de Mayenne</u>. Interest in this in England because London sent Navarre 1000 men in 1589.<br/>3. <u>Furnivall</u>. Why shdnt. <u>Moth</u> be the Fr. ambassador de la Motte?<br/>4. <u>Hart</u> The sister business (p 123) looks like fragm of real story. The Princess represents France itself <u>sum up</u>: Lee has pretty clearly found the source of the <u>names</u>. The rest is verbiage.(1.)<br/>SOWED COCKLE etc p. 107. I don’t know why I indexed this but no doubt there was a good reason.<br/>SPENSER ? p. 123. also p. xxv<br/>STAFF = stanza >< verse = line.<br/>STATE = stance p. 96<br/>STATUTE CAPS p. 139. <u>Johnson</u> thought it meant mortar boards. {<u>Prey</u>} showed that in 1571 wool caps on Sunday became compulsory for all except nobility as a measure to encourage the {cappers}. <u>Hart</u> wanting to give an extra pt. to “plain” (also “citizen” in his quotatn. from {Marston}) has ferreted out a 1582 regulation enjoining wool cap[s] for prentices.<br/>STEEP-UP p. 58. Adj. cf Sonnets. But Q+F <u>steep</u> <u>uprising</u> is just as good.<br/>STOOP p. 90. Adj? (Onions). Hart takes as imperative “come down off your high horse.[”]<br/><br/>[<i>verso,</i> Lewis’s footnotes:]<br/><br/>(1.) D.W. argues “LLL was printed under same condtns as <u>Romeo</u>, <u>Romeo</u> had a bad Q. behind it. ∴ LLL had a bad Q. behind it. But most had Q.’s reproduce earlier plays. ∴ There was an earlier pre-Sh. LLL. Q.E.D. (2.) or <u>Nash</u><br/><br/>[<i>recto</i>]<br/><br/>STRUNG WITH HIS HAIR p. 105.<br/>SUGGEST(IONS) pp 10, 175 = Tempt(ations)<br/>SUITORS p. 67. pron. “shooter.”<br/>SWEAR CUT p. 33 To forswear, give up. p. 21 “to outswer Cupid” may be explained in same way as the ordinary sense of “outswear” has little point here.<br/>SYMPATHIZED p. 46 = adapted, suitable, appropriate (Onions, Hart) The vb. occurs first in Lyly. v. Nashe.<br/>TABLES p. 144 games played on a “table” or  board, of wh. genus backgammon is a species p. 144<br/>TAFFETA p. 132. According. to Hart the pt. here is that their masks are made of taffeta.<br/>TAKE IT IN SNUFF. To take it as you wd. take the smell of a snuff’d candle (? Hart) > to dislike > to be huffy or snuffy at. p 123.<br/>TAKE HIM AT HIS WORD “To talk to him in his own vein” (Hart) p. 38.<br/>TEXT p. 84. Not identified (Hart.)<br/>THARBOROUGH p. 11. = Thirdborough on constable (Onions) <br/>THRASONICAL p. 109.<br/>THROW AT NOVUM p. 159. Locus paene desperatus.<br/>TO THE DEATH p. 131. Apparently only means “until we die.”<br/>TRANLACER, figure of. Explained from Puttenham p. 27 n. Examples pp 3, 27, 62, 86.<br/>TRANSLATION (of hypocrisy) p. 125. Onions + Hart Tacent, equidem p{rim}us, ut videtur, {haereo}. <br/>TREYS (sb. pl.) p 136 Threes at dice<br/>TRIP AND GO p. 83. Name of a {morris} dance (Chappell.)<br/>TROYAN, “Trojan” in sense of a “brick,” a good fellow pp. 166, 170.<br/>TWICE-SOD = <u>bis</u> <u>coctus</u> p. 73 cf “Double-distilled.”<br/>UNSEEMING p. 36 “Not seeming (to be willing”! (<u>On</u>ions) Hart tacet. <br/>UPSHOT or upshot = The shot wh. is best or leading at a given moment, i.e. until a better is shot (Hrt.) p 69.<br/>VAILING = to lower, hence to unveil. p. 141. v. <u>Clouds</u><br/>VEAL prob. a pun on <u>veil</u> p. 137.<br/>VIA = Forward! > cheer up! (Hart.) Onions <u>tacet</u>.<br/>WARE PENCILS p. 124. H’s explanation poor.<br/>WILL SHALL BREAK IT WILL p. 3. {Capells} “break it; will and nothing else” Hart nearly inarticulate here<br/>WILSON Arte of Rhetorique 1584. Parallel to Amado’s letter p. 62—insinuation p. 72—intellection for synecdoche p. 83—<br/>WIT-OLD pun on p. 115<br/>WOODCOCKS = foc{l}s p. 89.<br/>WORMS p. 93. As elsewhere = lovers. Why, I don’t know.<br/>WORTHIES (sb. Abst. pl) = excellences p. 100.<br/>VISITED p. 150. i.e. with the plague (v. <u>Date</u>)<br/><br/><u>ADDENDA</u><br/>NASH defends neologisms in -<u>ize</u> p. 46—piercing a hogshead p. 78—Allons! Allons! p. 107<br/>NASO p. 82. Pun—or aetiological myth?<br/>NICKNAME To miscall, name wrongly (N.E.D.) p. 146<br/>NO POINT. Not a whit (Florio) From French? pp. 37, 139<br/>NOTE = nota, branded on criminal p. 97 v. <u>Perjure</u><br/>NUMBERS RATIFIED. p. 82. Verses duly measured out.<br/>WOOLWARD = wearing wool next [to] the skin p. 172.<br/><br/><u>Text</u><br/><br/><u>Furnivall</u> gives<br/>Q1 1598<br/>     |<br/>F1 1623<br/>     |<br/>Q2 1631<br/><br/><u>Hart</u> gives<br/>  Actors copy α<br/>|		|<br/>Actors copy β?		Q1 1598<br/><br/><u>Hart</u> thinks β may have contained improvements and that, in any case, F1 printed from its source more carefully than Q1. <u>Furnivall</u> prefers Q1<br/><br/><u>Textual Places</u>.<br/><br/>I i. 106 (p.8.) QQFF. <u>New fangled shows</u><br/><u>Edd.</u> Various emendations for rime<br/><br/>I ii 173 (p 28) QQFF. <u>Shall turn sonnet</u><br/><u>Hammer</u> Shall turn sonneter<br/><u>Amyot</u> Shall turn a sonnet<br/><br/>III i. 21 (p. 44) QQFF <u>Do you note men</u><br/><u>Hammer</u> Do you note me.<br/><br/>III i. 171 (p 54) QQFF. <u>Signior Junios</u><br/><u>Hammer</u> Senior Junior.<br/><br/>III i. 181 (p. 56) QQ.F1. <u>Cloak</u>.<br/>FF2-4. Clock.<br/><br/>IV i. 142. (p. 70) Q1. <u>Ath too then</u><br/>F1. <u>Ath to the</u><br/><u>Giant White</u> <u>O’the to</u><br/><u>Rowe</u> A th’ to<br/><u>Dyces</u> O’ the one<br/><br/>IV ii 112 (p. 82) QQFF. <u>Apostraphas</u><br/><u>Murray in N.E.D.</u> Apostrophus.<br/><br/>IV iii 13 (p 85) QQFF. <u>Mallichollie</u><br/>Edd. Melancholy.<br/><br/>IV iii 50 (p. 88) QQF1. <u>Triumphery</u>.<br/><u>Rowe</u> Triumvirate.<br/><br/>IV iii 56 (p 88) QQFF. <u>Shop</u>.<br/><u>Theobald</u> Slop.<br/><br/>IV iii 83. (p. 90) QQFF. <u>She is not, corporal</u>.<br/><u>Theobald</u> She is but corporal.<br/><br/>IV iii 158 (p. 94) QQFF. <u>Moth</u>..<u>moth</u><br/>Rowe, Mote..mote.<br/><br/>IV iii 170 (p. 96) Q1 <u>caudle</u><br/>F1 <u>candle</u><br/><br/>IV iii 177 (p. 96) QQFF. <u>Men like men of inconstancy</u><br/><u>Dyce</u> Men like you, men of inconstancy.<br/><br/>IV iii 252 (100) QQFF. <u>School of night</u>.<br/><u>Theobald</u> Scowl of night.<br/><u>Hammer</u> Stole of night.<br/><br/>IV iii 355 (p. 106) QQFF. <u>Loves all men</u><br/><u>Hammer</u> Moves.<br/><u>Mason</u> Leads.<br/><br/>IV iii 380 (p. 109) QQFF. <u>Alone! Alone.</u><br/><u>Theobald</u> Allons! Allons",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        title: "Annotations in his copy of <i>Sir Gawain and the Green Knight</i>",
+        printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
+        issueOrVolume: null,
+        pageRange: "plate 16 (holograph)",
+        year: 2024,
+        monthAndDay: null,
+        textProvided: "[<i>verso,</i> most of which is cut off]<br/><br/>635 But here in proper sense<br/><br/>[<i>verso,</i> Lewis’s footnotes, most of which are cut off]<br/><br/>> ME. <u>Boutde</u> > <u>dut</u><br/>[...] but cf. 773<br/>[...] hear high Mass ^<br/>[...] + <u>pinnen</u> to pin<br/>[...] ew. (<u>þle hyldo wiþ</u>)<br/>[...] some misunderstand.<br/>[...] = to spur. Unexpl-<br/>[...] the direction of <br/>[...] it got onto<br/>[...] pick out > see (cf.<br/><br/>[recto, identifying elements of Bertilak’s castle illustrated by Lewis:]<br/><br/>Halle →<br/>Troches, vel Fylyoleȝ—<br/>coproune<br/>Tour—<br/>Barbican→<br/>Garyte—<br/>Louþes →<br/>Tableȝ →<br/><br/>[recto, marginal notes, with line numbers in brackets:]<br/>[790] style<br/>[791] 611<br/>[794] 611<br/>[796] OF [Old French] <u>Filloelles</u> (pinnacles) OE. <u>Fēgan</u>, to fit<br/>[798] 778 n. <br/>[799] Tower-roofs<br/>[801] embrasures<br/>[804] 750<br/>[810] 223<br/>[816] freolice<br/><br/>[recto, Lewis’s footnotes]<br/><br/>(1.) Halt, tarry. (unexplained). (2.) How <u>drīfan to</u> gets the sense “to enclose” is not easily seen. (3.) To draw, lift, or go(!) origin uncertain. (4.) Either a loop hole or (as I suspect) a curleycew of floral tracery which ran into itself with a cleanly chiselled edge. (cf. 591) (5.) OE <u>Teldian</u>, to pitch tent > build (6) OF <u>Troche</u> “Tine” of deer > (Archit.) pinaccle [sic] (7.) F. <u>Couperon</u>, pinnacle-top. (8) Simply “that wh. Encloses,” wall. (9.) Adj (pleasant) parallel to <u>fayr</u> <u>innoghe</u> (803) and agreeing with <u>to</u> <u>herber</u>. (10) Perfectly civil. (11.) i.e. back into the gate home to see to the machinery after speaking with G. through a grid? (12) Apparently ‘courteously.’",
+        type: "Annotation",
         notes: null
     }
 ]

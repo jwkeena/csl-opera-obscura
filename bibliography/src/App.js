@@ -213,7 +213,7 @@ class App extends Component {
               <div className="col s12 m10 l5">
                 <FormSelect 
                   multipleSelect={true} 
-                  optionNames={["Prose", "Letter", "Blurb", "Diary", "Poem"]}
+                  optionNames={["Annotation", "Blurb", "Diary", "Letter", "Poem", "Prose"]}
                   updateTypesDisplayed={this.updateTypesDisplayed}>
                 </FormSelect>
               </div>
