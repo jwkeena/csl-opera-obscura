@@ -9,6 +9,13 @@ class FormSelect extends Component {
         this.updateDisplayText();
     }
 
+    componentDidUpdate() {
+        // Re-check and update display text after any component update
+        if (this.props.multipleSelect) {
+            this.updateDisplayText();
+        }
+    }
+
     updateDisplayText() {
         if (this.props.multipleSelect) {
             const instance = M.FormSelect.getInstance(this.FormSelect);
