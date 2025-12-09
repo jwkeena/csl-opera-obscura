@@ -2,11 +2,19 @@
     margin-bottom: 0.25rem;
 }
 
+.search-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
 .search-input-wrapper {
     position: relative;
     display: flex;
     align-items: center;
     margin-right: .75rem;
+    flex-grow: 1;
+    margin-bottom: 0 !important;
 }
 
 .search-input-wrapper .prefix {
@@ -47,6 +55,13 @@
 
 .clear-icon:hover {
     color: #333;
+}
+
+.search-field-select {
+    flex-shrink: 0;
+    min-width: 130px;
+    margin-bottom: 0 !important;
+    font-family: 'Libre Baskerville', serif !important;
 }
 
 .search-results-count {

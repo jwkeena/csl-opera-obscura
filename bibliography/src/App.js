@@ -15,6 +15,7 @@ class App extends Component {
     sortByOption: "Year",
     typesDisplayed: ["Prose", "Letter", "Blurb", "Diary", "Poem"],
     searchTerm: '',
+    searchField: 'all',
   };
 
   componentDidMount() {
@@ -186,25 +187,27 @@ class App extends Component {
     })
 
     this.setState({texts: filteredTexts}, () => {
+      // Re-apply sorting
+      this.sort(this.state.sortByOption.toLowerCase());
       // Re-apply search filter if there's an active search term
       if (this.state.searchTerm) {
-        this.filterBySearch(this.state.searchTerm);
+        this.filterBySearch(this.state.searchTerm, this.state.searchField);
       }
     })
   }
 
-  handleSearch = (searchTerm) => {
-    this.setState({ searchTerm }, () => {
+  handleSearch = (searchTerm, searchField) => {
+    this.setState({ searchTerm, searchField }, () => {
       if (searchTerm === '') {
         // If search is cleared, revert to type-filtered texts
         this.filterAndDisplayTypes();
       } else {
-        this.filterBySearch(searchTerm);
+        this.filterBySearch(searchTerm, searchField);
       }
     });
   }
 
-  filterBySearch = (searchTerm) => {
+  filterBySearch = (searchTerm, searchField) => {
     const searchLower = searchTerm.toLowerCase();
     // Start from backupTexts and apply both type and search filters
     let textsCopy = this.state.backupTexts;
@@ -220,23 +223,35 @@ class App extends Component {
       });
     });
 
-    // Then filter by search term in title, reference, or textProvided
-    const searchFilteredTexts = typeFilteredTexts.filter(text => {
-      // Helper to strip HTML tags and check for match
-      const stripAndMatch = (str) => {
-        if (str && typeof str === 'string') {
-          const plainText = str.replace(/<[^>]*>/g, '');
-          return plainText.toLowerCase().includes(searchLower);
-        }
-        return false;
-      };
+    // Helper to strip HTML tags and check for match
+    const stripAndMatch = (str) => {
+      if (str && typeof str === 'string') {
+        const plainText = str.replace(/<[^>]*>/g, '');
+        return plainText.toLowerCase().includes(searchLower);
+      }
+      return false;
+    };
 
-      return stripAndMatch(text.title) ||
-             stripAndMatch(text.reference) ||
-             stripAndMatch(text.textProvided);
+    // Filter by search term based on selected field
+    const searchFilteredTexts = typeFilteredTexts.filter(text => {
+      if (searchField === 'all') {
+        return stripAndMatch(text.title) ||
+               stripAndMatch(text.reference) ||
+               stripAndMatch(text.textProvided);
+      } else if (searchField === 'title') {
+        return stripAndMatch(text.title);
+      } else if (searchField === 'reference') {
+        return stripAndMatch(text.reference);
+      } else if (searchField === 'textProvided') {
+        return stripAndMatch(text.textProvided);
+      }
+      return false;
     });
 
-    this.setState({ texts: searchFilteredTexts });
+    this.setState({ texts: searchFilteredTexts }, () => {
+      // Re-apply sorting
+      this.sort(this.state.sortByOption.toLowerCase());
+    });
   }
 
   render() {

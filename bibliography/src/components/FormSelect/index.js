@@ -5,13 +5,41 @@ import FormSelectOption from '../FormSelectOption';
 class FormSelect extends Component {
 
     componentDidMount() {
-        M.FormSelect.init(this.FormSelect)
+        M.FormSelect.init(this.FormSelect);
+        this.updateDisplayText();
+    }
+
+    updateDisplayText() {
+        if (this.props.multipleSelect) {
+            const instance = M.FormSelect.getInstance(this.FormSelect);
+            if (instance) {
+                const selectedValues = instance.getSelectedValues();
+                const allSelected = selectedValues.length === this.props.optionNames.length;
+                if (allSelected) {
+                    const input = this.FormSelect.parentElement.querySelector('input.select-dropdown');
+                    if (input) {
+                        input.value = 'All Types';
+                    }
+                }
+            }
+        }
     }
 
     getTypesChosen() {
-        const typesDisplayedDropdown = document.querySelectorAll('select')[1];
-        const typesChosen = M.FormSelect.init(typesDisplayedDropdown).getSelectedValues();
-        this.props.updateTypesDisplayed(typesChosen);
+        const instance = M.FormSelect.getInstance(this.FormSelect);
+        if (instance) {
+            const typesChosen = instance.getSelectedValues();
+            this.props.updateTypesDisplayed(typesChosen);
+
+            // Update display text after selection changes
+            setTimeout(() => {
+                const allSelected = typesChosen.length === this.props.optionNames.length;
+                const input = this.FormSelect.parentElement.querySelector('input.select-dropdown');
+                if (input && allSelected) {
+                    input.value = 'All Types';
+                }
+            }, 0);
+        }
     }
 
     render() {
