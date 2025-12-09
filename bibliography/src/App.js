@@ -3,6 +3,7 @@ import { texts } from './texts';
 import TableRow from './components/TableRow/';
 import FormSelect from './components/FormSelect';
 import AboutModal from './components/AboutModal';
+import SearchBar from './components/SearchBar';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -13,6 +14,7 @@ class App extends Component {
     backupTexts: null, // To keep a fresh copy at all times. Used for filtering
     sortByOption: "Year",
     typesDisplayed: ["Prose", "Letter", "Blurb", "Diary", "Poem"],
+    searchTerm: '',
   };
 
   componentDidMount() {
@@ -183,7 +185,58 @@ class App extends Component {
       });
     })
 
-    this.setState({texts: filteredTexts})
+    this.setState({texts: filteredTexts}, () => {
+      // Re-apply search filter if there's an active search term
+      if (this.state.searchTerm) {
+        this.filterBySearch(this.state.searchTerm);
+      }
+    })
+  }
+
+  handleSearch = (searchTerm) => {
+    this.setState({ searchTerm }, () => {
+      if (searchTerm === '') {
+        // If search is cleared, revert to type-filtered texts
+        this.filterAndDisplayTypes();
+      } else {
+        this.filterBySearch(searchTerm);
+      }
+    });
+  }
+
+  filterBySearch = (searchTerm) => {
+    const searchLower = searchTerm.toLowerCase();
+    // Start from backupTexts and apply both type and search filters
+    let textsCopy = this.state.backupTexts;
+    let typesToDisplay = this.state.typesDisplayed;
+
+    // First filter by type
+    let typeFilteredTexts = [];
+    typesToDisplay.forEach(type => {
+      textsCopy.forEach(text => {
+        if (text["type"] === type) {
+          typeFilteredTexts.push(text);
+        }
+      });
+    });
+
+    // Then filter by search term in title, reference, or textProvided
+    const searchFilteredTexts = typeFilteredTexts.filter(text => {
+      // Helper to strip HTML tags and check for match
+      const stripAndMatch = (str) => {
+        if (str && typeof str === 'string') {
+          const plainText = str.replace(/<[^>]*>/g, '');
+          return plainText.toLowerCase().includes(searchLower);
+        }
+        return false;
+      };
+
+      return stripAndMatch(text.title) ||
+             stripAndMatch(text.reference) ||
+             stripAndMatch(text.textProvided);
+    });
+
+    this.setState({ texts: searchFilteredTexts });
   }
 
   render() {
@@ -191,7 +244,11 @@ class App extends Component {
       <div className="App">
           
           <div className="container header">
-              <AboutModal/> 
+              <AboutModal/>
+              <SearchBar
+                onSearch={this.handleSearch}
+                searchResultCount={this.state.searchTerm ? this.state.texts?.length : null}
+              />
           </div>
 
           <div className="container main-content">
