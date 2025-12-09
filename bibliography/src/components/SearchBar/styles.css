@@ -59,13 +59,14 @@
 
 .search-field-select {
     flex-shrink: 0;
+    margin-right: .75rem;
     min-width: 130px;
     margin-bottom: 0 !important;
     font-family: 'Libre Baskerville', serif !important;
 }
 
 .search-results-count {
-    margin: 0.25rem 0 0 0;
+    margin: 0.25rem 0 0 2.75rem;
     font-size: 0.85rem;
     color: #666;
     font-style: italic;
