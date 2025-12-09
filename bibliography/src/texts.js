@@ -1390,13 +1390,13 @@ const texts = [
         notes: null
     },
     {
-        title: "Early “book on prayer”",
+        title: "Excerpts from an early “book on prayer”",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
         pageRange: "378-379",
         year: 1996,
         monthAndDay: null,
-        textProvided: "Many of the things we learned at school were first explained to us successfully not by masters but by other boys. One inky fourth former can make another inky fourth former understand what an adult cannot make him understand. The two boys speak the same language and have the same difficulties. The boy at your elbow knows your difficulty because it was his difficulty yesterday or perhaps half an hour ago. The master very often does not. When you ask him for an explanation he often explains very clearly and at great length all the things you understand already and leaves out the thing you wanted to have explained. The reason usually is that your difficulty about that one thing arises from a misunderstanding so elementary that he never suspected it. There are, in fact, certain kinds of help you can get only from a person on your own level. That is my only excuse for writing a book on prayer.",
+        textProvided: "[The opening paragraphs of an unpublished 45-page manuscript:]<br><br>Many of the things we learned at school were first explained to us successfully not by masters but by other boys. One inky fourth former can make another inky fourth former understand what an adult cannot make him understand. The two boys speak the same language and have the same difficulties. The boy at your elbow [379] knows your difficulty because it was his difficulty yesterday or perhaps half an hour ago. The master very often does not. When you ask him for an explanation he often explains very clearly and at great length all the things you understand already and leaves out the thing you wanted to have explained. The reason usually is that your difficulty about that one thing arises from a misunderstanding so elementary that he never suspected it. There are, in fact, certain kinds of help you can get only from a person on your own level. That is my only excuse for writing a book on prayer.<br><br>[In that manuscript Lewis also began a paragraph three times with the sentence:]<br><br>I now turn from prayer considered as Request to prayer considered as Adoration.<br><br>[In another passage, discussing the]<br><br>Agnostic’s view of prayer<br><br>[he said:]<br><br>The modern man who has come to Christianity as an adult may begin to feel uncomfortable. Are we not making our relation to our Creator far too Personal? … And if this is so, is it not really ‘putting back the clock’ to re-introduce a crudely personal approach on the highest level of all? Is not prayer simply the last survival of savage, pre-philosophical, thinking?<br><br>Now for certain people at certain moments this objection is positively a healthy one. Some who have always been Christians, and whose adult prayers are still much too like the prayers they made in childhood, who still in their heart of hearts think of God only as a Big Man in the sky, may easily take the idea of prayer far too much for granted. The possibility of personal intercourse between the little, hairless bipeds called Men and the inconceivable, self-existent Being which underlies all phenomena [380] and all space and time, may seem to such people nothing surprising, nothing that we had not a right to expect. If the fact that it appears outrageous to those who have had a purely scientific upbringing startles any such Christian into the realization that, in a sense, it really is outrageous, not to be thought of without amazement and trembling, then it will have done him good. There is a certain type of Christian (I suspect I am of that type myself) who often needs to learn reverence from a certain type of Agnostic.",
         type: "Prose",
         notes: null
     },
@@ -3809,7 +3809,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "How can they (i.e. the gods) meet us face to face till we have faces? The idea was that a human being must become real before it can expect to receive any message from the superhuman; that is, it must be speaking with its own voice (not one of its borrowed voices), expressing its actual desires (not what it imagines that it desires), being for good or ill itself, not any mask, veil or <i>persona</i>.",
         type: "Letter",
-        notes: ["Reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
+        notes: ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (New York: HarperCollins, 1996), 252 and Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
     },
     {
         title: "Letter to James E. Higgins (31 July 1962)",
@@ -4928,9 +4928,9 @@ const texts = [
         pageRange: "57",
         year: 2024,
         monthAndDay: "April",
-        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentlemen of Verona:</i>]<br/><br/>Magdalene College<br/>Oxford<br/>19/2/50<br/><br/>Dear Dover Wilson—I was on the point of sending off the enclosed squib to the T.L.S. when it occurred to me that you might think it malapert or even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the ease in wh. decasyllabics occur in English prose. If you are quite sure you do not find it in the least offensive wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket—whither I’d rather rend every existing line of TGV than cause a moment’s uneasiness to you who have us all in your debt so many times. With all good wishes of the year.<br/><br/>Yours sincerely<br/>C.S. Lewis",
+        textProvided: "[On Wilson’s edition of Shakespeare’s <i>Two Gentlemen of Verona:</i>]<br/><br/>Magdalene College<br/>Oxford<br/>19/2/50<br/><br/>Dear Dover Wilson—I was on the point of sending off the enclosed squib to the T.L.S. when it occurred to me that you might think it malapert or even unfriendly. It is intended only to be a jocular way of putting a v. minor point against yr. argument, viz. the ease in wh. decasyllabics occur in all English prose. If you are quite sure you do not find it in the least offensive, wd. you be so kind as to lick the envelope and send it on its way? But if you have the slightest objection by all means consign it to the Waste Paper Basket—whither I’d rather send every existing line of TGV than cause a moment’s uneasiness to you who have put us all in your debt so many times. With all good wishes for the year.<br/><br/>Yours sincerely<br/>C.S. Lewis",
         type: "Letter",
-        notes: ["Most of the body of this letter, with several differences of transcription, was previously published in Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press, 2018), 57.","Looking at the transcription, I think it should read “I’d rather <b>s</b>end every existing line,” not “rend;” and the letterhead says “Magdalen,” not “Magdalene.”"]
+        notes: ["Comparing with the holograph, I’ve made five corrections to the transcription: (1) I read “I’d rather <b>s</b>end every existing line,” not “rend”; (2) the holograph has “in <b>all</b> English prose,” where the transcription omits “all”; (3) I add a comma after “offensive”; (4) I read “all good wishes <b>for</b> the year”, not “of the year”; and (4) the letterhead says “Magdalen,” not “Magdalene.”"]
     },
     {
         title: "Letter to John Dover Wilson (8 October 1943)",
@@ -4939,7 +4939,7 @@ const texts = [
         pageRange: "60-61",
         year: 2024,
         monthAndDay: "April",
-        textProvided: "Magdalen College<br/>Oxford<br/>Oct 8th [1943]<br/><br/>Dear Professor—Thank you very much indeed. I got back last night (from giving the Skemp lecture at Bristol) at 11.30 p.m. and read about half the book before turning in. I am delighted with it and, so far, in complete agreement. It come on top of a suspicion that had recently occurred to me in another context viz: that the commonest cause of bad criticism is one so simple we never suspect it—just not really knowing what happens in the book criticised! One finds it again and again. The basis of the criticism is really some previous critic & thus errors are perpetuated. I had already in a vaguer way taken your view about Falstaff and wondered how any one after the recruiting scene could believe in the idealized F. of modern criticism. But you make it much clearer: and I hadn’t grasped the full reasons for the difference between Pt. I and Pt. II. Your little inscription is over kind. Say rather that some happy fate intended that your book and Tillyard’s Elizabethan Outlook and my Preface shd. all independently & at the same time remind people of the Hierarchical principle. So if they don’t [61] know now, they’re inexcusable! What a pity Masefield wrote that little book! It is so well written that all its errors stick. With very many thanks,<br/><br/>Yours,<br/>C.S. Lewis",
+        textProvided: "Magdalen College<br/>Oxford<br/>Oct 8th [1943]<br/><br/>Dear Professor—Thank you very much indeed. I got back last night (from giving the Skemp lecture at Bristol) at 11.30 p.m. and read about half the book before turning in. I am delighted with it and, so far, in complete agreement. It come [sic] on top of a suspicion that had recently occurred to me in another context viz: that the commonest cause of bad criticism is one so simple we never suspect it—just not really knowing what happens in the book criticised! One finds it again and again. The basis of the criticism is really some previous critic & thus errors are perpetuated. I had already in a vaguer way taken your view about Falstaff and wondered how any one after the recruiting scene could believe in the idealized F. of modern criticism. But you make it much clearer: and I hadn’t grasped the full reasons for the difference between Pt. I and Pt. II. Your little inscription is over kind. Say rather that some happy fate intended that your book and Tillyard’s Elizabethan Outlook and my Preface shd. all independently & at the same time remind people of the Hierarchical principle. So if they don’t [61] know now, they’re inexcusable! What a pity Masefield wrote that little book! It is so well written that all its errors stick. With very many thanks,<br/><br/>Yours,<br/>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -5869,23 +5869,23 @@ const texts = [
     },
     {
         title: "Letter to Martin Lings (c. 1930)",
-        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (London: Perennial Books)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
         monthAndDay: null,
-        textProvided: "I have a very clear-cut idea of the difference between poetry and mere verse, and this is poetry beyond a doubt.",
+        textProvided: "[On reading a masque by Lings performed at Magdalen College in 1930:]<br><br>I have a very clear-cut idea of the difference between poetry and mere verse, and this is poetry beyond a doubt.",
         type: "Letter",
         notes: null
     },
     {
         title: "Letter to Martin Lings (c. 1931)",
-        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (Bedford, Middlesex, UK: Perennial Books, Tomorrow Publications)",
+        printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (London: Perennial Books)",
         issueOrVolume: null,
         pageRange: "7",
         year: 1967,
         monthAndDay: null,
-        textProvided: "You have changed from being a young man who merely writes poetry to a young man who has written a poem—not a very great poem, but none the less a poem, a unity with a  distinct flavour all its own which it keeps from beginning to end.",
+        textProvided: "[In response to “a short narrative poem” by Lings shown to Lewis “a few months” after the masque:]<br><br>You have changed from being a young man who merely writes poetry to a young man who has written a poem—not a very great poem, but none the less a poem, a unity with a  distinct flavour all its own which it keeps from beginning to end.",
         type: "Letter",
         notes: null
     },
@@ -6746,6 +6746,17 @@ const texts = [
         textProvided: "[Lewis expressed a concern in his termly reports that students were letting themselves down with]<br/><br/>poor Anglo-Saxon",
         type: "Letter",
         notes: ["The archival location is not identified."]
+    },
+    {
+        title: "Letter to Nancy Wilson Ross (10 October 1952)",
+        printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+        issueOrVolume: "no. 4",
+        pageRange: "125",
+        year: 2025,
+        monthAndDay: null,
+        textProvided: "[On being asked to borrow a phrase from Perelandra as the title of her book Time’s Corner:]<br><br>52/395. <br><br>Magdalen College, Oxford.<br>10th. October 1952.<br><br>Dear Miss Ross,<br><br>I shall be flattered at having my words so used, and wish the novel every success.<br><br>Yours sincerely,<br>C.S. Lewis",
+        type: "Letter",
+        notes: ["This letter is held in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A) at the Harry Ransom Center, The University of Texas at Austin.."]
     },
     // POEMS
     {
