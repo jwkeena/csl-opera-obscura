@@ -208,7 +208,10 @@ class App extends Component {
   }
 
   filterBySearch = (searchTerm, searchField) => {
-    const searchLower = searchTerm.toLowerCase();
+    // Normalize apostrophes/quotes (convert curly to straight) for matching
+    // Uses unicode escapes: \u2018 ' \u2019 ' \u201C " \u201D "
+    const normalizeQuotes = (str) => str.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"');
+    const searchLower = normalizeQuotes(searchTerm.toLowerCase());
     // Start from backupTexts and apply both type and search filters
     let textsCopy = this.state.backupTexts;
     let typesToDisplay = this.state.typesDisplayed;
@@ -227,7 +230,7 @@ class App extends Component {
     const stripAndMatch = (str) => {
       if (str && typeof str === 'string') {
         const plainText = str.replace(/<[^>]*>/g, '');
-        return plainText.toLowerCase().includes(searchLower);
+        return normalizeQuotes(plainText.toLowerCase()).includes(searchLower);
       }
       return false;
     };
