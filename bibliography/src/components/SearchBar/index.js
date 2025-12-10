@@ -8,6 +8,8 @@ class SearchBar extends Component {
         searchField: 'all'
     };
 
+    debounceTimer = null;
+
     componentDidMount() {
         M.FormSelect.init(this.fieldSelect);
     }
@@ -16,10 +18,24 @@ class SearchBar extends Component {
         M.FormSelect.init(this.fieldSelect);
     }
 
+    componentWillUnmount() {
+        // Clean up timer on unmount
+        if (this.debounceTimer) {
+            clearTimeout(this.debounceTimer);
+        }
+    }
+
     handleInputChange = (e) => {
         const searchTerm = e.target.value;
         this.setState({ searchTerm });
-        this.props.onSearch(searchTerm, this.state.searchField);
+
+        // Debounce the search - wait 250ms after user stops typing
+        if (this.debounceTimer) {
+            clearTimeout(this.debounceTimer);
+        }
+        this.debounceTimer = setTimeout(() => {
+            this.props.onSearch(searchTerm, this.state.searchField);
+        }, 250);
     };
 
     handleFieldChange = (e) => {
@@ -31,16 +47,20 @@ class SearchBar extends Component {
     };
 
     clearSearch = () => {
+        // Cancel any pending debounced search
+        if (this.debounceTimer) {
+            clearTimeout(this.debounceTimer);
+        }
         this.setState({ searchTerm: '' });
         this.props.onSearch('', this.state.searchField);
     };
 
     getPlaceholder = () => {
         const placeholders = {
-            all: 'Search titles, references, and text content...',
-            title: 'Search titles...',
-            reference: 'Search references...',
-            textProvided: 'Search text content...'
+            all: 'Search titles, references, and text content',
+            title: 'Search titles',
+            reference: 'Search references',
+            textProvided: 'Search text content'
         };
         return placeholders[this.state.searchField];
     };

@@ -13,7 +13,7 @@ class App extends Component {
     texts: null,
     backupTexts: null, // To keep a fresh copy at all times. Used for filtering
     sortByOption: "Year",
-    typesDisplayed: ["Prose", "Letter", "Blurb", "Diary", "Poem"],
+    typesDisplayed: ["Annotation", "Prose", "Letter", "Blurb", "Diary", "Poem"],
     searchTerm: '',
     searchField: 'all',
   };
@@ -291,12 +291,12 @@ class App extends Component {
               </div>
             </div>
             <div id="texts">
-                {this.state.typesDisplayed.length === 0 ? 
+                {this.state.typesDisplayed.length === 0 ?
                   <div className="row center-align">
                     <br/>
                     <h5>Choose at least one type of text to display.</h5>
                   </div>
-                  : 
+                  :
               <table>
                 <thead>
                   <tr>
@@ -309,22 +309,22 @@ class App extends Component {
                   </tr>
                 </thead>
                 <tbody className="z-depth-2">
-                  {this.state.texts !== null ? 
+                  {this.state.texts !== null ?
                   this.state.texts.map((text, index) => {
                     return (
-                    <TableRow 
-                      year={text.year} 
-                      title={text.title} 
-                      reference={text.reference} 
-                      type={text.type} 
-                      textProvided={text.textProvided} 
-                      notes={text.notes} 
+                    <TableRow
+                      year={text.year}
+                      title={text.title}
+                      reference={text.reference}
+                      type={text.type}
+                      textProvided={text.textProvided}
+                      notes={text.notes}
                       tooltipNotes={text.tooltipNotes}
-                      key={index} 
+                      key={index}
                       rowNumber={index}>
                     </TableRow>
                     )
-                  }) 
+                  })
                   : <tr>
                     <td>
                       Loading texts...
