@@ -6671,7 +6671,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Letter to the Bodleian Library",
+        title: "Letter to the Bodleian Library (14 November 1941)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
         pageRange: "figure 10 (holograph)",
@@ -6756,7 +6756,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "[On being asked to borrow a phrase from Perelandra as the title of her book Time’s Corner:]<br><br>52/395. <br><br>Magdalen College, Oxford.<br>10th. October 1952.<br><br>Dear Miss Ross,<br><br>I shall be flattered at having my words so used, and wish the novel every success.<br><br>Yours sincerely,<br>C.S. Lewis",
         type: "Letter",
-        notes: ["This letter is held in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A) at the Harry Ransom Center, The University of Texas at Austin.."]
+        notes: ["This letter is held in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A) at the Harry Ransom Center, The University of Texas at Austin."]
     },
     // POEMS
     {

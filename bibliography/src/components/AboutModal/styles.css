@@ -3,6 +3,10 @@
     font-family: "Libre Baskerville", serif;
 }
 
+.subHeader.center-align {
+    margin-top: .5rem;
+}
+
 @media (max-width: 767px) {
     .media-query-realign {
         text-align: center;   
