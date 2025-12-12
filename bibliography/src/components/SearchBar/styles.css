@@ -75,3 +75,17 @@
 .material-icons.prefix.active {
     color: #574d37 !important;;
 }
+
+/* Mobile: stack search input and field select vertically */
+@media screen and (max-width: 600px) {
+    .search-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.5rem;
+    }
+
+    .search-field-select {
+        min-width: unset;
+        margin-left: 0.75rem;
+    }
+}

@@ -1390,7 +1390,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Excerpts from an early “book on prayer”",
+        title: "Excerpts from an early “book on prayer” (c. 1953)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
         pageRange: "378-379",
@@ -2590,7 +2590,7 @@ const texts = [
     },
     {
         title: "Annotation in his copy of Henri Bergson, <i>L’Evolution Creatrice</i>",
-        printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press)",
+        printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press) and <a href='https://scienceandculture.com/2013/11/darwin_in_the_d_2/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         issueOrVolume: null,
         pageRange: "127",
         year: 2012,
@@ -3059,6 +3059,17 @@ const texts = [
         monthAndDay: null,
         textProvided: "In these lectures Mr. Lewis speaks not as a theologian but as a don. Two foolish schoolbooks become the starting point for a diagnosis of what is implied in much modern educational and social theory. The notion that planners and teachers have a “creative” function is here, perhaps for the first time, subjected to serious examination, and the author discovers in methods to which hundreds of enlightened and conscientious people have lent their authority unawares, <s>an imminent</s> a serious threat to humanity.",
         type: "Blurb",
+        notes: null
+    },
+    {
+        title: "Note (undated) to relatives on yellow scrap",
+        printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 15",
+        pageRange: "54 and <a href='https://doi.org/10.55221/1940-5537.1086' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "Best Love to all<br>Thanks<br>J",
+        type: "Prose",
         notes: null
     },
     {
@@ -3743,6 +3754,28 @@ const texts = [
         textProvided: "I came away very heartened. Walked with Price as far as Magdalen…",
         type: "Diary",
         notes: ["Earlier parts of this entry had already been published in <i>AMR,</i> 298-299."]
+    },
+    {
+        title: "Oxford Diary (22 March 1923)",
+        printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 17",
+        pageRange: "32",
+        year: 2023,
+        monthAndDay: null,
+        textProvided: "[In April 1922 Lewis began writing <i>Dymer</i>. On 22 March 1923, he noted in his diary that Canto V]<br><br>would always go wrong until I altered the contents–i.e., the episode does not run right and that is why the execution fails. I was struck with the truth of Aristotle’s dogma of ‘plot first.’",
+        type: "Diary",
+        notes: null
+    },
+    {
+        title: "Oxford Diary (23 March 1923)",
+        printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 17",
+        pageRange: "32 note 103",
+        year: 2023,
+        monthAndDay: null,
+        textProvided: "[After composing Canto V of Dymer:]<br><br>I wish I knew how the next canto is to go",
+        type: "Diary",
+        notes: null
     },
     // LETTERS
     {
@@ -6671,6 +6704,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Letter to Joseph McCulloch (13 May 1941)",
+        printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 17",
+        pageRange: "17 note 27",
+        year: 2023,
+        monthAndDay: null,
+        textProvided: "[Lewis admitted that The Pilgrim’s Regress is]<br>too darned metaphysical and full of unnecessary difficulties.",
+        type: "Letter",
+        notes: null
+    },
+    {
         title: "Letter to the Bodleian Library (14 November 1941)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8186,6 +8230,17 @@ const texts = [
         year: 2024,
         monthAndDay: null,
         textProvided: "[A central theme of Lewis’s drama is his own inability to carry out his vice-presidential duties effectively; in one scene the members of a committee await his appearance as chair of the meeting, only to learn that he had been seen bustling towards the Summer Common Room, where the meeting was to be held, at the appropriate time on the previous day:]<br/><br/>I saw him yesterday, this self-same hour<br/>Obsequiously attired in cap and gown<br/>With brow contracted and with lips pursed up<br/>…<br/>Hasting towards the Summer Common Room.<br/>You need not doubt he went to take the chair<br/>At this same meeting, yesterday, on time.<br/><br/>[{71} Lewis’s unsuitability for the role of vice president is further apparent from his total reliance upon the college secretary, Miss Anderson, named Egeria (from the Greek term for a female advisor) in the drama, who ended up carrying much of the work herself, or referring it to McFarlane. When she appears at the opening of Act IV, Lewis heralds her coming with:]<br/><br/>But soft! The fair Egeria<br/><br/>[and addresses her in a reworking of Hamlet’s famous words to Ophelia:]<br/><br/>Nymph, on thy typewriter<br/>Be all my jobs remembered.<br/><br/>[Lewis’s reliance upon the long-suffering secretary during his vice-presidential year is apparent from a scene in the drama where she pleads with him to respond to overdue requests for feedback from unsuccessful candidates for admission, and to look over the agenda for a forthcoming meeting of the college’s main teaching committee, the Tutorial Board, known as the ‘T.B.’ Lewis responds in another Shakespearean pastiche, playing on Hamlet’s ‘What’s Hecuba to him or he to Hecuba?’:]<br/><br/>Fairest maid<br/>I have no time. What’s the T.B. to me<br/>Or it to Hecuba? Make the agenda up <br/>And set down what you will.<br/><br/>[Dismissing the serious business of college governance in this way, Lewis beats a hasty retreat—with the famous stage direction from <i>The Winter’s Tale</i> ‘Exit pursued by a bear’ suitably modified:]<br/><br/>Exit pursued by a Secretarie<br/><br/>[In a later scene, the noble Egeria,]<br/><br/>Never so wearie, never so in woe<br/><br/>[like Hermia before her, searches the ominous wood of the Magdalen grove]<br/><br/>with fix’d intent<br/>To button-hole a lost Vice President<br/><br/>[finally giving into fatigue and sleeping. Lewis has taken refuge in this pastoral idyll in order to escape the demands of office: {72}]<br/><br/>Here no committees meet. The gentle conies<br/>Know no agenda save to get their kind,<br/>Nor do the dappled deer.<br/><br/>[{73} As vice president, Lewis was obliged to attend the regular meetings of the Air Raid Precautions Committee, tasked with ensuring the college’s compliance with the university’s detailed directives. There is a scene in the drama in which the college miraculously succeeds in having implemented every regulation; the bursar reports that]<br/><br/>Our petrol pumps and stirrup pumps, our posts<br/>Lamps, oilskins, respirators, whistles, hats<br/>Are perfectly complete.<br/><br/>[What’s more, all the members of the college—fellows, tutors, demies, commoners, scouts, boys, bedmakers and cate–have internalized some twenty thousand rules, so that not even Momus (the Greek god of criticism) could find fault. But, just as Lewis announces that the best wine will run in the cloister pump until midnight in celebration, a messenger arrives to repeal the earlier directives and replace them with others:]<br/><br/>All is revoked. All orders, minutes, rules,<br/>Schemes, plans, organisations, policies<br/>That you have learn’d, all from this moment cease<br/>And are annulled as though they had not been.<br/>A wholly new design of A.R.P.,<br/>Briefly comprised in thirty volumes, each<br/>An hundred pages long (lo, here the first!)<br/>Must be engraved, and presently, upon<br/>Your inner tablets with a style of brass.<br/>Gentles, tear up whatever you have done,<br/>And buckle to’t. The game begins anew!<br/><br/>[The news causes considerable stress among the fellows, especially Lewis, who passes out:]<br/><br/>The V.P. swoons. Look to him<br/><br/>[recalling Osric’s ‘Look to the queen’ at the end of <u>Hamlet</u>.]",
+        type: "Poem",
+        notes: null
+    },
+    {
+        title: "Poem written on the rear page verso and flyleaf of his copy of <i>William Cowper: Selected Letters</i> in Charlie Starr, “Dating the Undated Poems in Don W. King’s <i>Collected Poems of C.S. Lewis: A Critical Edition</i>”",
+        printedIn: "<i>Sehnsucht: The C.S. Lewis Journal</i>",
+        issueOrVolume: "vol. 19",
+        pageRange: "60",
+        year: 2025,
+        monthAndDay: null,
+        textProvided: "Our planet is provincial too,<br>In this old universe<br>There’s places where they never knew<br>That Homer made a verse.<br>Nay, in each copse & field, about<br>Your doorway, beat the hearts<br>Of myriad living souls, without<br>A knowledge of the arts.<br>Men also—never fear—will lust,<br>Eat hearty, and beget their kind<br>When Elgin marbles drift to dust,<br>And Titian’s colours all go blind.<br>The last edition of the plays<br>Of Shakespeare, when it goes<br>Will go unwept: the east will raise<br>Next day, her ancient rose.<br>When Time has swallowed with our race<br>This globe whereon we dwell,<br>I think not that the gap in space<br>Will be remarkable.<br>Come quiet, then. The longest fame<br>In its extent has been<br>A poet’s corner, and the frame<br>A Parish Magazine.",
         type: "Poem",
         notes: null
     },
