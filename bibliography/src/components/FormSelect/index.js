@@ -5,7 +5,11 @@ import FormSelectOption from '../FormSelectOption';
 class FormSelect extends Component {
 
     componentDidMount() {
-        M.FormSelect.init(this.FormSelect);
+        M.FormSelect.init(this.FormSelect, {
+            dropdownOptions: {
+                onCloseEnd: () => this.updateDisplayText()
+            }
+        });
         this.updateDisplayText();
     }
 
