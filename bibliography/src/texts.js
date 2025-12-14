@@ -1390,7 +1390,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Excerpts from an early “book on prayer” (c. 1953)",
+        title: "Excerpts from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
         pageRange: "378-379",
@@ -2325,7 +2325,7 @@ const texts = [
         notes: null
     },
     {
-        title: "References to manuscript on prayer (Wade MS-155)",
+        title: "References to the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CT: Praeger Perspectives)",
         issueOrVolume: null,
         pageRange: "213-214",
@@ -2333,7 +2333,6 @@ const texts = [
         monthAndDay: null,
         textProvided: "Three references, as follows: two fictional characters mentioned, Mr. Drysdale and Mr. Land; Moderns do not know how to “bow” spiritually; “looking at” and “looking along” reprised from Lewis’s essay, “Meditation in a Toolshed.”",
         type: "Prose",
-        notes: null
     },
     {
         title: "Annotation in his copy of Cyprian of Carthage, <i>Opera Genuina,</i> Vol. 2",
@@ -3113,6 +3112,17 @@ const texts = [
         year: 2022,
         monthAndDay: "April",
         textProvided: "[In the chapter Spearing had disputed Lewis’s description in <i>The Allegory of Love</i> as “A poem in every way unsuitable for recitation.”]<br><br>Yes, I was wrong to say “every way”: “in many ways, tho’ not stylistically” wd. have been truer.",
+        type: "Prose",
+        notes: null
+    },
+    {
+        title: "Excerpt from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
+        printedIn: "Charlie Starr, <i>The Lion’s Country: C.S. Lewis’s Theory of the Real</i> (Kent, Ohio: The Kent State University Press)",
+        issueOrVolume: null,
+        pageRange: "113-116",
+        year: 2022,
+        monthAndDay: null,
+        textProvided: "Sometimes one can explain a real thing only by first describing something imaginary, and that is what I am now going to do. I hope you will have patience if I seem to be taking a long time. For the matter is important. To understand about the Praise or Adoration of God is more important than any of the things you were going to ask God to give you, more important, in a sense, than your own Salvation. At least “Salvation,” if you could have it without this, would be no good to you . . . Picture a vast open space where creatures of all sorts, including Man but some of them far higher, stronger, more ancient and godlike than he, stand in a circle; waiting. Though the assembly is so great (millions upon millions) there is perfect silence, for they are all expecting something. At last, suddenly, it is there in the midst. I cannot, even by imagination, suggest what it appears like to the nonhuman spectators; except that it is their heart’s desire. And I can suggest only very dimly how it appears to the men and women and children. It is in one way like a physical sensation: like fresh air with garden smells in it after you have been long shut up in a stuffy room; like the ease that comes when you take off an uncomfortable pair of shoes; like cool water rippling round hot feet or warm water embracing cold ones; like the blessed emptiness in the place where a sharp pain was, now that the pain has gone. In a word it is like relief, like everything which would make you say “It’s alright <i>now</i>.” In another way, however, it is more like a kind of knowledge than a kind of sensation: like the moment when you first see, in one glorious flash, the answer to a problem you have been working on for years, and see, almost in the same flash, how this is going to be the answer to a whole series of other problems (which you thought quite unconnected) and how perfectly it fits in with everything else you know. And you wonder how you could have been so dense as not to see it before. Now at last you can really get on . . . Once again you will say “It’s alright <i>now</i>. I see <i>Now</i>.” All your thinking, up till that moment, will appear to have been fumbling and groping and misapprehension. Now the real clue has been put into your hand. You can go on and on now; no more deadends, no more false trails: you have a master-secret and it is going to lead to—well, literally, to everything. But then, in yet another way, this thing that has appeared is more like beauty than it is like knowledge. All that ever led you on mile after mile among the mountains, all that rushes back on your mind at the smell of the sea, all that you ever felt during those few perfect moments (and they are very few) when great music or great verse was having its completest effect upon you, so that you ceased to be aware of yourself at all, all that, and more, comes full upon those who see this thing. All, and more: it is obvious now that all the other beauties were only shreds and echoes and copies of this. This is where they all came from; this is the real thing at last. If you were allowed to enjoy it for a thousand years you would not notice the passage of time. And yet again, this thing is like love. It is like coming home to the faces and voices and the very smells and sounds you love best, after long, lonely years in some cruel country, perhaps in a prison camp. It is like meeting again your best beloved, whom you thought to be dead, or with whom you had quarreled, and finding that all is well. You see now why I cannot describe it. For though, in one sense, it is most certainly like all the things I have suggested, yet after all it is utterly unlike them. All these remind you of it; yet when it appears it is overwhelmingly new. It gives you experiences so new that it has to give you new modes of sensation to receive them. It opens a new world, outside and beyond all that you have known. It satisfies desires which you never knew you had. If I could really describe it, my words would break like the heart of everyone who read them. But of course it is impossible for any man to describe it . . . But try to accept (only as an imagination) the idea that its coming fills all that assembly of creatures with utter satisfaction of all their known, and unknown, desires; that when they see it they become themselves for the first time, and know beyond doubt that this is the thing they were made for.<br><br>You will not find it hard to suppose that when it appeared some sound would break from the lips of all those creatures: perhaps just a long inarticulate <i>Oh</i>.<br><br>Now that sound, the delight of the creatures made audible, may stand as our first crude idea of Praise. For the Christian doctrine is that at the back of everything, in the heart of everything, there is a Being of absolute beauty, the heart’s desire of all the creatures He has made. And we have been made in order that we might thus meet Him. And the inevitable result of that meeting, on our part, is that we should praise or adore.",
         type: "Prose",
         notes: null
     },
