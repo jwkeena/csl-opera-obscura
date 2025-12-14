@@ -2333,6 +2333,7 @@ const texts = [
         monthAndDay: null,
         textProvided: "Three references, as follows: two fictional characters mentioned, Mr. Drysdale and Mr. Land; Moderns do not know how to “bow” spiritually; “looking at” and “looking along” reprised from Lewis’s essay, “Meditation in a Toolshed.”",
         type: "Prose",
+        notes: null
     },
     {
         title: "Annotation in his copy of Cyprian of Carthage, <i>Opera Genuina,</i> Vol. 2",
