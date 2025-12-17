@@ -55,10 +55,13 @@ class Modal extends Component {
                             <h6 className="left-align">Reference</h6>
                             <div dangerouslySetInnerHTML={{__html: this.props.reference + "."}}></div>
                         </div>
-                        <div className="hide-on-large-only">
-                            <h6 className="left-align">Notes</h6>
-                            <div dangerouslySetInnerHTML={{__html: this.props.notes}}></div>
-                        </div>
+                        {/* Only show Notes section if there is actual notes content */}
+                        {this.props.notes && this.props.notes !== "No notes for this item." && (
+                            <div className="hide-on-large-only">
+                                <h6 className="left-align">Notes</h6>
+                                <div dangerouslySetInnerHTML={{__html: this.props.notes}}></div>
+                            </div>
+                        )}
                     </div>
                         <div className="modal-footer">
                         <a href="#!" className="modal-close btn-flat">close</a>
