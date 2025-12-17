@@ -318,6 +318,12 @@ class App extends Component {
                   {this.state.texts !== null ?
                   this.state.texts.map((text, index) => {
                     return (
+                    // CHANGE 3B: Use stable key based on content instead of array index
+                    // Previously, key={index} meant that when rows were filtered or reordered,
+                    // React couldn't tell which rows were the same - a row that was index 5
+                    // might become index 2, causing React to rebuild it unnecessarily.
+                    // Now the key is based on the text's content (year + title + reference),
+                    // so React can correctly identify and reuse existing row components.
                     <TableRow
                       year={text.year}
                       title={text.title}
@@ -326,7 +332,7 @@ class App extends Component {
                       textProvided={text.textProvided}
                       notes={text.notes}
                       tooltipNotes={text.tooltipNotes}
-                      key={index}
+                      key={`${text.year}-${text.title}-${text.reference}`}
                       rowNumber={index}>
                     </TableRow>
                     )

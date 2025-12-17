@@ -1,4 +1,6 @@
-import React from 'react';
+// CHANGE 3A: Import memo from React
+// Previously, we only imported React. Now we also import memo to enable memoization.
+import React, { memo } from 'react';
 import Tooltip from '../Tooltip';
 import Modal from '../Modal';
 
@@ -29,7 +31,12 @@ const styles = {
     },
 }
 
-function TableRow(props) {
+// CHANGE 3A: Wrap TableRow with React.memo
+// Previously, this was a plain function component that re-rendered every time
+// the parent App component re-rendered, even if this row's props hadn't changed.
+// With memo(), React compares previous props to new props and skips re-rendering
+// if they're identical. With hundreds of rows, this prevents significant unnecessary work.
+const TableRow = memo(function TableRow(props) {
     return (
         <tr style={props.type === "Prose" ? styles.prose : props.type === "Poem" ? styles.poem : props.type === "Diary" ? styles.diary : styles.letter}>
             <td className="center-align">&nbsp;&nbsp;{props.year}&nbsp;&nbsp;</td>
@@ -63,6 +70,6 @@ function TableRow(props) {
             <td className="hide-on-med-and-down">{props.tooltipNotes !== null ? <Tooltip tooltipNotes={props.tooltipNotes} disabled={false}></Tooltip> : <Tooltip disabled={true}></Tooltip>}</td>
         </tr>
     )
-}
+});
 
 export default TableRow;
