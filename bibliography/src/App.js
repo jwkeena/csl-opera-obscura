@@ -97,72 +97,85 @@ class App extends Component {
     })
   }
 
-  sort(option) {
-    let sortedTexts;
-
+  // CHANGE 4A: Extracted comparator logic into reusable method
+  // Previously, sorting logic was inline in sort() and couldn't be reused.
+  // Now we can use the same comparator for both texts and backupTexts.
+  getComparator(option) {
     // Without this function all titles and references which begin with an html <i> tag will be sorted before other non-italicized strings
     function ignoreItalicTag(string) {
       if (string.startsWith("<i>")) {
         return string.slice(3);
       } else {
         return string;
-      };
+      }
     }
 
     if (option === "year") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
+      return function (a, b) {
         // If years match, then sort by title instead
         if (a["year"] === b["year"]) {
           // If titles match, then sort by reference instead
           if (ignoreItalicTag(a["title"]) === ignoreItalicTag(b["title"])) {
-            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
+            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true});
           }
-          return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); // Use localeCompare to ignore quotations in the string
+          return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true});
         }
-        return a["year"] > b["year"] ? 1 : -1; // But use basic comparison for integers
-      });
+        return a["year"] > b["year"] ? 1 : -1;
+      };
     }
 
     if (option === "title") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
-
+      return function (a, b) {
         if (a["title"] === b["title"]) {
           if (a["year"] === b["year"]) {
-            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
+            return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true});
           }
           return a["year"] > b["year"] ? 1 : -1;
         }
-        return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); 
-      });
+        return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true});
+      };
     }
 
     if (option === "reference") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
+      return function (a, b) {
         if (ignoreItalicTag(a["reference"]) === ignoreItalicTag(b["reference"])) {
           return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true});
         }
         return ignoreItalicTag(a["reference"]) > ignoreItalicTag(b["reference"]) ? 1 : -1;
-      });
+      };
     }
 
     if (option === "type") {
-      sortedTexts = this.state.texts.sort(function (a, b) {
+      return function (a, b) {
         if (a["type"] === b["type"]) {
           if (a["year"] === b["year"]) {
             if (ignoreItalicTag(a["title"]) === ignoreItalicTag(b["title"])) {
-              return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true}); 
+              return ignoreItalicTag(a["reference"]).localeCompare(ignoreItalicTag(b["reference"]), undefined, {ignorePunctuation: true});
             }
-            return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true}); 
+            return ignoreItalicTag(a["title"]).localeCompare(ignoreItalicTag(b["title"]), undefined, {ignorePunctuation: true});
           }
           return a["year"] > b["year"] ? 1 : -1;
         }
-        return a["type"].localeCompare(b["type"], undefined, {ignorePunctuation: true}); 
-      });
+        return a["type"].localeCompare(b["type"], undefined, {ignorePunctuation: true});
+      };
     }
+  }
+
+  // CHANGE 4B: Sort both texts AND backupTexts
+  // Previously, only texts was sorted, leaving backupTexts unsorted.
+  // This meant every filter operation required re-sorting after filtering.
+  // Now backupTexts stays sorted, so filtering preserves sort order automatically.
+  sort(option) {
+    const comparator = this.getComparator(option);
+
+    // Use spread operator to create new arrays (avoids mutating state directly)
+    const sortedTexts = [...this.state.texts].sort(comparator);
+    const sortedBackup = [...this.state.backupTexts].sort(comparator);
 
     this.setState({
-      texts: sortedTexts
-    })
+      texts: sortedTexts,
+      backupTexts: sortedBackup
+    });
   }
 
   updateTypesDisplayed = (typesChosenArr) => {
@@ -171,24 +184,19 @@ class App extends Component {
     }, () => this.filterAndDisplayTypes())
   }
 
+  // CHANGE 4C: Removed this.sort() call from filterAndDisplayTypes
+  // Previously, sort() was called after every filter operation.
+  // Now that backupTexts is kept sorted (see CHANGE 4B), filtering from it
+  // preserves the sort order automatically - no re-sorting needed.
   filterAndDisplayTypes = () => {
-    let textsCopy = this.state.backupTexts;
-    let typesToDisplay = this.state.typesDisplayed;
-    let filteredTexts = [];
+    const textsCopy = this.state.backupTexts;
+    const typesSet = new Set(this.state.typesDisplayed);
 
-    // Run each type against each member of the textsCopy array, push all matches to a fresh array
-    // so much for using a one-line .filter: textsCopy.filter(text => text["type"] === type)
-    typesToDisplay.forEach(type => {
-      textsCopy.forEach(text => {
-        if (text["type"] === type) {
-          filteredTexts.push(text);
-        }
-      });
-    })
+    // Filter texts whose type is in the selected types Set - O(n) instead of O(n*m)
+    // Since backupTexts is already sorted, filteredTexts will be sorted too
+    const filteredTexts = textsCopy.filter(text => typesSet.has(text.type));
 
     this.setState({texts: filteredTexts}, () => {
-      // Re-apply sorting
-      this.sort(this.state.sortByOption.toLowerCase());
       // Re-apply search filter if there's an active search term
       if (this.state.searchTerm) {
         this.filterBySearch(this.state.searchTerm, this.state.searchField);
@@ -213,18 +221,11 @@ class App extends Component {
     const normalizeQuotes = (str) => str.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"');
     const searchLower = normalizeQuotes(searchTerm.toLowerCase());
     // Start from backupTexts and apply both type and search filters
-    let textsCopy = this.state.backupTexts;
-    let typesToDisplay = this.state.typesDisplayed;
+    const textsCopy = this.state.backupTexts;
+    const typesSet = new Set(this.state.typesDisplayed);
 
-    // First filter by type
-    let typeFilteredTexts = [];
-    typesToDisplay.forEach(type => {
-      textsCopy.forEach(text => {
-        if (text["type"] === type) {
-          typeFilteredTexts.push(text);
-        }
-      });
-    });
+    // First filter by type - O(n) instead of O(n*m)
+    const typeFilteredTexts = textsCopy.filter(text => typesSet.has(text.type));
 
     // Helper to strip HTML tags and check for match
     const stripAndMatch = (str) => {
@@ -236,6 +237,7 @@ class App extends Component {
     };
 
     // Filter by search term based on selected field
+    // Since typeFilteredTexts came from sorted backupTexts, result stays sorted
     const searchFilteredTexts = typeFilteredTexts.filter(text => {
       if (searchField === 'all') {
         return stripAndMatch(text.title) ||
@@ -251,10 +253,11 @@ class App extends Component {
       return false;
     });
 
-    this.setState({ texts: searchFilteredTexts }, () => {
-      // Re-apply sorting
-      this.sort(this.state.sortByOption.toLowerCase());
-    });
+    // CHANGE 4D: Removed this.sort() call from filterBySearch
+    // Previously, sort() was called after every search.
+    // Now that backupTexts is kept sorted (see CHANGE 4B), the filtered
+    // result is already in the correct order.
+    this.setState({ texts: searchFilteredTexts });
   }
 
   render() {

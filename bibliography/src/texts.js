@@ -1093,7 +1093,7 @@ const texts = [
         notes: ["Appears somewhat smaller in <i>C.S. Lewis: Images of His World</i> (2005), 38."]
     },
     {
-        title: "Inscription to his father on a 1<sup>st</sup> UK edition of <i>Spirits in Bondage</i>",
+        title: "Inscription to his father in a 1<sup>st</sup> edition of <i>Spirits in Bondage</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
         pageRange: "118 (holograph)",
@@ -1256,6 +1256,17 @@ const texts = [
         textProvided: "In his present state it is all-most impossible to do such a a [sic] thing. For instance: ‘The hideous topper’, ‘The Loathsome frock coat.’ Ouf the beastly things, how can man continue to wear them? The dress in which boys are generally clothed are not much better. The sailor suit is awful!! Terrible! FEARFUL!! The thing is that some old-fashioned dress must be adopted, and I really think that then man might look pictures.",
         type: "Prose",
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this note can be found on 236."]
+    },
+    {
+        title: "Inscription in a 1st edition of <i>Spirits in Bondage</i>",
+        printedIn: "H.R. Woudhuysen, “Sales of books and manuscripts,” <i>The Times Literary Supplement</i>",
+        issueOrVolume: null,
+        pageRange: "1310",
+        year: 1986,
+        monthAndDay: "21 November 1986",
+        textProvided: "Bang went 3/6! yrs very truly Clive Hamilton",
+        type: "Prose",
+        notes: null
     },
     {
         title: "Note on an essay written by Kenneth Tynan (c.1946)",
@@ -1522,7 +1533,7 @@ const texts = [
         notes: ["The source incorrectly claims that Lewis’s comment was written on the flyleaf, when in fact it is written on the front flap of the jacket, below the blurb.", "It also claims that this particular copy of <i>The Pilgrim’s Regress</i> was presented to Lewis’s father. However, Albert Lewis had died on 25 September 1929, approximately six years before the Sheed & Ward edition was published and almost three before the original draft of the <i>Regress</i> was composed in August 1932."]
     },
     {
-        title: "Inscription to Penelope Bleakeley on her copy of <i>The Lion, the Witch, and the Wardrobe</i>",
+        title: "Inscription to Penelope Bleakeley in her copy of <i>The Lion, the Witch, and the Wardrobe</i>",
         printedIn: "David Bleakley, <i>C.S. Lewis: At home in Ireland, A Centenary Biography</i> (Bangor, Northern Ireland: Strandtown Press)",
         issueOrVolume: null,
         pageRange: "155",
@@ -1709,7 +1720,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription on a manuscript of <i>An Experiment in Criticism</i> given to H. Stanley Bennett (c. 1962)",
+        title: "Inscription in a manuscript of <i>An Experiment in Criticism</i> given to H. Stanley Bennett (c. 1962)",
         printedIn: "Brian Barbour, “Lewis and Cambridge,” <i>Modern Philology</i>",
         issueOrVolume: "vol. 96, no. 4 (May)",
         pageRange: "427",
@@ -2050,7 +2061,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Geoffrey Barfield in 1<sup>st</sup> UK edition of <i>Prince Caspian</i>",
+        title: "Inscription to Geoffrey Barfield in a 1<sup>st</sup> UK edition of <i>Prince Caspian</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "41",
@@ -2061,7 +2072,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Geoffrey Corbett in 1<sup>st</sup> UK edition of <i>The Silver Chair</i>",
+        title: "Inscription to Geoffrey Corbett in a 1<sup>st</sup> UK edition of <i>The Silver Chair</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "41",
@@ -2072,7 +2083,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Mary Neylan on a 1<sup>st</sup> edition of <i>George Macdonald: An Anthology</i>",
+        title: "Inscription to Mary Neylan in a 1<sup>st</sup> edition of <i>George Macdonald: An Anthology</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "68",
@@ -2094,7 +2105,7 @@ const texts = [
         notes: ["Reprinted in Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 36-37 and <a href='https://doi.org/10.55221/1940-5537.1086' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>. They make one emendation in line one, changing “Xnity” to “Xty.”"]
     },
     {
-        title: "Inscription to Owen Barfield on a 1<sup>st</sup> UK edition of <i>The Problem of Pain</i>",
+        title: "Inscription to Owen Barfield in a 1<sup>st</sup> UK edition of <i>The Problem of Pain</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "110",
@@ -2105,7 +2116,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Owen Barfield on a 2<sup>nd</sup> UK edition of <i>Dymer</i>",
+        title: "Inscription to Owen Barfield in a 2<sup>nd</sup> UK edition of <i>Dymer</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "110",
@@ -2138,7 +2149,7 @@ const texts = [
         notes: ["The second comment (on 113) was reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15 and <a href='https://doi.org/10.55221/1940-5537.1289' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>'.", "However, Starr and Dickieson misidentify the source of the quotation as being inscribed by Lewis on a copy of James Stephens’s <i>Here Are Ladies</i> (15). Joe Ricke corrected them in “The Archangel Fragment: Identifying and Interpreting C.S. Lewis’s ‘Cryptic Note,’” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 14 (2020), 108-109 and <a href='https://doi.org/10.55221/1940-5537.1181' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
-        title: "Inscription to Bel Goldstine on a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
+        title: "Inscription to Bel Goldstine in a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "114 (holograph)",
@@ -2149,7 +2160,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Bel Goldstine on a 1<sup>st</sup> US edition of <i>Surprised by Joy</i>",
+        title: "Inscription to Bel Goldstine in a 1<sup>st</sup> US edition of <i>Surprised by Joy</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "114",
@@ -2182,7 +2193,7 @@ const texts = [
         notes: null
     },
     {
-        title: "Inscription to Penelope Berners-Price on a 1<sup>st</sup> edition of <i>Prince Caspian</i>",
+        title: "Inscription to Penelope Berners-Price in a 1<sup>st</sup> edition of <i>Prince Caspian</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
         pageRange: "146",
@@ -3095,6 +3106,17 @@ const texts = [
         notes: null
     },
     {
+        title: "Typescript draft of The Silver Chair (pages 117 and 48)",
+        printedIn: "Michael Ward, ““Planet Narnia Revisited,” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell</i>, ed. Bruce R. Johnson (Hamden: Winged Lion Press)",
+        issueOrVolume: null,
+        pageRange: "119-120",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[On page 117 of the typescript of The Silver Chair Lewis amended the title of chapter 10, changing it from]<br><br>The Sunless Sea<br><br>[{120 note 27} Page 48 of the typescript is also of interest: it shows Lewis to have amended]<br><br>the blood of the gods flowed in her veins<br><br>[so that it reads “the blood of the stars flowed in her veins.”]",
+        type: "Prose",
+        notes: null
+    },
+    {
         title: "Comments on A.C. Spearing’s essay “The Translation of Old English Verse”",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -3117,13 +3139,13 @@ const texts = [
         notes: null
     },
     {
-        title: "Excerpt from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
+        title: "Excerpts from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Charlie Starr, <i>The Lion’s Country: C.S. Lewis’s Theory of the Real</i> (Kent, Ohio: The Kent State University Press)",
         issueOrVolume: null,
         pageRange: "113-116",
         year: 2022,
         monthAndDay: null,
-        textProvided: "Sometimes one can explain a real thing only by first describing something imaginary, and that is what I am now going to do. I hope you will have patience if I seem to be taking a long time. For the matter is important. To understand about the Praise or Adoration of God is more important than any of the things you were going to ask God to give you, more important, in a sense, than your own Salvation. At least “Salvation,” if you could have it without this, would be no good to you . . . Picture a vast open space where creatures of all sorts, including Man but some of them far higher, stronger, more ancient and godlike than he, stand in a circle; waiting. Though the assembly is so great (millions upon millions) there is perfect silence, for they are all expecting something. At last, suddenly, it is there in the midst. I cannot, even by imagination, suggest what it appears like to the nonhuman spectators; except that it is their heart’s desire. And I can suggest only very dimly how it appears to the men and women and children. It is in one way like a physical sensation: like fresh air with garden smells in it after you have been long shut up in a stuffy room; like the ease that comes when you take off an uncomfortable pair of shoes; like cool water rippling round hot feet or warm water embracing cold ones; like the blessed emptiness in the place where a sharp pain was, now that the pain has gone. In a word it is like relief, like everything which would make you say “It’s alright <i>now</i>.” In another way, however, it is more like a kind of knowledge than a kind of sensation: like the moment when you first see, in one glorious flash, the answer to a problem you have been working on for years, and see, almost in the same flash, how this is going to be the answer to a whole series of other problems (which you thought quite unconnected) and how perfectly it fits in with everything else you know. And you wonder how you could have been so dense as not to see it before. Now at last you can really get on . . . Once again you will say “It’s alright <i>now</i>. I see <i>Now</i>.” All your thinking, up till that moment, will appear to have been fumbling and groping and misapprehension. Now the real clue has been put into your hand. You can go on and on now; no more deadends, no more false trails: you have a master-secret and it is going to lead to—well, literally, to everything. But then, in yet another way, this thing that has appeared is more like beauty than it is like knowledge. All that ever led you on mile after mile among the mountains, all that rushes back on your mind at the smell of the sea, all that you ever felt during those few perfect moments (and they are very few) when great music or great verse was having its completest effect upon you, so that you ceased to be aware of yourself at all, all that, and more, comes full upon those who see this thing. All, and more: it is obvious now that all the other beauties were only shreds and echoes and copies of this. This is where they all came from; this is the real thing at last. If you were allowed to enjoy it for a thousand years you would not notice the passage of time. And yet again, this thing is like love. It is like coming home to the faces and voices and the very smells and sounds you love best, after long, lonely years in some cruel country, perhaps in a prison camp. It is like meeting again your best beloved, whom you thought to be dead, or with whom you had quarreled, and finding that all is well. You see now why I cannot describe it. For though, in one sense, it is most certainly like all the things I have suggested, yet after all it is utterly unlike them. All these remind you of it; yet when it appears it is overwhelmingly new. It gives you experiences so new that it has to give you new modes of sensation to receive them. It opens a new world, outside and beyond all that you have known. It satisfies desires which you never knew you had. If I could really describe it, my words would break like the heart of everyone who read them. But of course it is impossible for any man to describe it . . . But try to accept (only as an imagination) the idea that its coming fills all that assembly of creatures with utter satisfaction of all their known, and unknown, desires; that when they see it they become themselves for the first time, and know beyond doubt that this is the thing they were made for.<br><br>You will not find it hard to suppose that when it appeared some sound would break from the lips of all those creatures: perhaps just a long inarticulate <i>Oh</i>.<br><br>Now that sound, the delight of the creatures made audible, may stand as our first crude idea of Praise. For the Christian doctrine is that at the back of everything, in the heart of everything, there is a Being of absolute beauty, the heart’s desire of all the creatures He has made. And we have been made in order that we might thus meet Him. And the inevitable result of that meeting, on our part, is that we should praise or adore.",
+        textProvided: "Sometimes one can explain a real thing only by first describing something imaginary, and that is what I am now going to do. I hope you will have patience if I seem to be taking a long time. For the matter is important. To understand about the Praise or Adoration of God is more important than any of the things you were going to ask God to give you, more important, in a sense, than your own Salvation. At least “Salvation,” if you could have it without this, would be no good to you . . . Picture a vast open space where creatures of all sorts, including Man but some of them far higher, stronger, more ancient and godlike than he, stand in a circle; waiting. Though the assembly is so great (millions upon millions) there is perfect silence, for they are all expecting something. At last, suddenly, it is there in the midst. I cannot, even by imagination, suggest what it appears like to the nonhuman spectators; except that it is their heart’s desire. And I can suggest only very dimly how it appears to the men and women and children. It is in one way like a physical sensation: like fresh air with garden smells in it after you have been long shut up in a stuffy room; like the ease that comes when you take off an uncomfortable pair of shoes; like cool water rippling round hot feet or warm water embracing cold ones; like the blessed emptiness in the place where a sharp pain was, now that the pain has gone. In a word it is like relief, like everything which would make you say “It’s alright <i>now</i>.” In another way, however, it is more like a kind of knowledge than a kind of sensation: like the moment when you first see, in one glorious flash, the answer to a problem you have been working on for years, and see, almost in the same flash, how this is going to be the answer to a whole series of other problems (which you thought quite unconnected) and how perfectly it fits in with everything else you know. And you wonder how you could have been so dense as not to see it before. Now at last you can really get on . . . Once again you will say “It’s alright <i>now</i>. I see <i>Now</i>.” All your thinking, up till that moment, will appear to have been fumbling and groping and misapprehension. Now the real clue has been put into your hand. You can go on and on now; no more deadends, no more false trails: you have a master-secret and it is going to lead to—well, literally, to everything. But then, in yet another way, this thing that has appeared is more like beauty than it is like knowledge. All that ever led you on mile after mile among the mountains, all that rushes back on your mind at the smell of the sea, all that you ever felt during those few perfect moments (and they are very few) when great music or great verse was having its completest effect upon you, so that you ceased to be aware of yourself at all, all that, and more, comes full upon those who see this thing. All, and more: it is obvious now that all the other beauties were only shreds and echoes and copies of this. This is where they all came from; this is the real thing at last. If you were allowed to enjoy it for a thousand years you would not notice the passage of time. And yet again, this thing is like love. It is like coming home to the faces and voices and the very smells and sounds you love best, after long, lonely years in some cruel country, perhaps in a prison camp. It is like meeting again your best beloved, whom you thought to be dead, or with whom you had quarreled, and finding that all is well. You see now why I cannot describe it. For though, in one sense, it is most certainly like all the things I have suggested, yet after all it is utterly unlike them. All these remind you of it; yet when it appears it is overwhelmingly new. It gives you experiences so new that it has to give you new modes of sensation to receive them. It opens a new world, outside and beyond all that you have known. It satisfies desires which you never knew you had. If I could really describe it, my words would break like the heart of everyone who read them. But of course it is impossible for any man to describe it . . . But try to accept (only as an imagination) the idea that its coming fills all that assembly of creatures with utter satisfaction of all their known, and unknown, desires; that when they see it they become themselves for the first time, and know beyond doubt that this is the thing they were made for.<br><br>You will not find it hard to suppose that when it appeared some sound would break from the lips of all those creatures: perhaps just a long inarticulate <i>Oh</i>.<br><br>Now that sound, the delight of the creatures made audible, may stand as our first crude idea of Praise. For the Christian doctrine is that at the back of everything, in the heart of everything, there is a Being of absolute beauty, the heart’s desire of all the creatures He has made. And we have been made in order that we might thus meet Him. And the inevitable result of that meeting, on our part, is that we should praise or adore.<br><br>[Lewis will go on to say that, if we couldn’t praise God when we encounter him in heaven, it would actually bother us, it would]<br><br>be a kind of stifling and torture",
         type: "Prose",
         notes: null
     },
@@ -8087,6 +8109,17 @@ const texts = [
         year: 2021,
         monthAndDay: "October",
         textProvided: "You will find me, never fear,<br>’Neath the holy Golden Cross,<br>Sitting down and drinking beer,<br>And by no means at a loss,<br>Singing songs as sweet as Herrick,<br>(Singing soft but drinking hard),<br>Singing some delightful lyric,<br>None so sweet from here to Berwick,<br>While I wait for honest Derrick<br>In the yard.",
+        type: "Poem",
+        notes: null
+    },
+    {
+        title: "“The Planets” (draft)",
+        printedIn: "Michael Ward, ““Planet Narnia Revisited,” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell</i>, ed. Bruce R. Johnson (Hamden: Winged Lion Press)",
+        issueOrVolume: null,
+        pageRange: "119-120",
+        year: 2021,
+        monthAndDay: null,
+        textProvided: "[In the published poem, Lewis described Saturn as walking round the heaven “Stoop’d and stumbling, with staff groping.” In the draft of the poem, he used a different final word in this prhase:]<br><br>Shambling<br><br>[{136} In the published poem, the Jovial influence is described in this way: “Soft breathes the air / Mild and meadow-sweet as we mount further / Where rippled radiance rolls about us,” but in the draft Lewis inserted a line between those final two:]<br><br>Diving upward mid dancing light",
         type: "Poem",
         notes: null
     },
