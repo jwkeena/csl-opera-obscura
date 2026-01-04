@@ -13,10 +13,14 @@ class FormSelect extends Component {
         this.updateDisplayText();
     }
 
-    componentDidUpdate() {
+    componentDidUpdate(prevProps) {
         // Re-check and update display text after any component update
         if (this.props.multipleSelect) {
             this.updateDisplayText();
+        }
+        // Reinitialize Materialize select when sortByOption changes from header click
+        if (!this.props.multipleSelect && prevProps.sortByOption !== this.props.sortByOption) {
+            M.FormSelect.init(this.FormSelect);
         }
     }
 
@@ -61,10 +65,11 @@ class FormSelect extends Component {
 
         return (
         <div className="libre-baskerville">
-            <select 
+            <select
                 ref={ (FormSelect) => {this.FormSelect = FormSelect} }
                 multiple={multiple}
-                defaultValue={multiple === false ? 'Year' : this.props.optionNames} // This sets the default values 
+                value={multiple === false ? this.props.sortByOption.charAt(0).toUpperCase() + this.props.sortByOption.slice(1) : undefined}
+                defaultValue={multiple === true ? this.props.optionNames : undefined}
                 onChange={multiple === false ? (event) => this.props.updateSortOption(event.target.value.toLowerCase()) : () => this.getTypesChosen()}>
                 {this.props.optionNames.map((optionName, index) => {
                     return (

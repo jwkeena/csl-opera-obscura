@@ -25,6 +25,12 @@
     color: #574D37;
 }
 
+.search-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
 .search-input {
     padding-right: 2.25rem !important;
     font-family: 'Libre Baskerville', serif !important;

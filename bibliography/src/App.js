@@ -12,7 +12,8 @@ class App extends Component {
   state = {
     texts: null,
     backupTexts: null, // To keep a fresh copy at all times. Used for filtering
-    sortByOption: "Year",
+    sortByOption: "year",
+    sortDirection: "asc",
     typesDisplayed: ["Annotation", "Prose", "Letter", "Blurb", "Diary", "Poem"],
     searchTerm: '',
     searchField: 'all',
@@ -91,10 +92,41 @@ class App extends Component {
 
   updateSortOption = (option) => {
     this.setState({
-      sortByOption: option
+      sortByOption: option,
+      sortDirection: "asc"
     }, () => {
       this.sort(option);
     })
+  }
+
+  handleHeaderSort = (column) => {
+    const option = column.toLowerCase();
+    if (this.state.sortByOption === option) {
+      // Toggle direction if same column
+      const newDirection = this.state.sortDirection === "asc" ? "desc" : "asc";
+      this.setState({ sortDirection: newDirection }, () => {
+        this.sort(option);
+      });
+    } else {
+      // New column, default to ascending
+      this.setState({ sortByOption: option, sortDirection: "asc" }, () => {
+        this.sort(option);
+      });
+    }
+  }
+
+  renderSortIndicator = (column) => {
+    const option = column.toLowerCase();
+    if (this.state.sortByOption !== option) {
+      return null;
+    }
+    // SVG triangle matching Materialize's caret style
+    const isAsc = this.state.sortDirection === "asc";
+    return (
+      <svg className="sort-indicator" height="24" viewBox="0 0 24 24" width="24" style={{transform: isAsc ? 'rotate(180deg)' : 'none'}}>
+        <path fill="rgba(0,0,0,0.87)" d="M7 10l5 5 5-5z"/>
+      </svg>
+    );
   }
 
   // CHANGE 4A: Extracted comparator logic into reusable method
@@ -166,7 +198,13 @@ class App extends Component {
   // This meant every filter operation required re-sorting after filtering.
   // Now backupTexts stays sorted, so filtering preserves sort order automatically.
   sort(option) {
-    const comparator = this.getComparator(option);
+    const baseComparator = this.getComparator(option);
+    const direction = this.state.sortDirection;
+
+    // Wrap comparator to handle descending order
+    const comparator = direction === "desc"
+      ? (a, b) => -baseComparator(a, b)
+      : baseComparator;
 
     // Use spread operator to create new arrays (avoids mutating state directly)
     const sortedTexts = [...this.state.texts].sort(comparator);
@@ -306,10 +344,10 @@ class App extends Component {
               <table>
                 <thead>
                   <tr>
-                    <th className="center-align" title="Year of publication">Year</th>
-                    <th>Title</th>
-                    <th className="hide-on-small-only">Reference</th>
-                    <th className="hide-on-med-and-down">Type</th>
+                    <th className="center-align" title="Year of publication"><span className="sortable-header" onClick={() => this.handleHeaderSort("year")}>Year{this.renderSortIndicator("year")}</span></th>
+                    <th><span className="sortable-header" onClick={() => this.handleHeaderSort("title")}>Title{this.renderSortIndicator("title")}</span></th>
+                    <th className="hide-on-small-only"><span className="sortable-header" onClick={() => this.handleHeaderSort("reference")}>Reference{this.renderSortIndicator("reference")}</span></th>
+                    <th className="hide-on-med-and-down"><span className="sortable-header" onClick={() => this.handleHeaderSort("type")}>Type{this.renderSortIndicator("type")}</span></th>
                     <th></th>
                     <th className="hide-on-med-and-down"></th>
                   </tr>

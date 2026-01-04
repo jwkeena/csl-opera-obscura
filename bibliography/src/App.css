@@ -108,11 +108,34 @@ table > tbody > tr {
     border-top: 2px solid grey;
     border-bottom: 2px solid grey;
     font-size: .9rem;
-}  
+}
 
 table > tbody {
     border: 2px solid grey;
     border-style: groove;
+}
+
+.sortable-header {
+    cursor: pointer;
+    user-select: none;
+}
+
+.sortable-header:hover {
+    color: #000;
+    font-weight: bold;
+}
+
+.sort-indicator {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    margin-left: 2px;
+}
+
+th:first-child {
+    min-width: 4.5rem;
+    white-space: nowrap;
 }
 
 /* Overriding materialize styles: dropdown, checkbox */
