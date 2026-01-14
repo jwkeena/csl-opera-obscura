@@ -399,7 +399,6 @@ class App extends Component {
               </table>}
             </div>
           </div>
-        <br/>
 
         <div className="footer">
           <Footer/>
