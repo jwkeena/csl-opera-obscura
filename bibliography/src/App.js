@@ -26,7 +26,15 @@ class App extends Component {
   hideLoadingSpinner() {
     const spinner = document.getElementById('loading-spinner');
     if (spinner) {
-      spinner.classList.add('hidden');
+      // Wait for fonts to load before hiding spinner to prevent FOUT
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(() => {
+          spinner.classList.add('hidden');
+        });
+      } else {
+        // Fallback for browsers without font loading API
+        spinner.classList.add('hidden');
+      }
     }
   }
 
