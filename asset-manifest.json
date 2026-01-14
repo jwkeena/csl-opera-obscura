@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/csl-opera-obscura/static/css/main.9779585d.css",
-    "main.js": "/csl-opera-obscura/static/js/main.9772df50.js",
+    "main.js": "/csl-opera-obscura/static/js/main.8d548592.js",
     "index.html": "/csl-opera-obscura/index.html",
     "main.9779585d.css.map": "/csl-opera-obscura/static/css/main.9779585d.css.map",
-    "main.9772df50.js.map": "/csl-opera-obscura/static/js/main.9772df50.js.map"
+    "main.8d548592.js.map": "/csl-opera-obscura/static/js/main.8d548592.js.map"
   },
   "entrypoints": [
     "static/css/main.9779585d.css",
-    "static/js/main.9772df50.js"
+    "static/js/main.8d548592.js"
   ]
 }
