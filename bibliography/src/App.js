@@ -20,11 +20,15 @@ class App extends Component {
   };
 
   componentDidMount() {
-    // Small delay ensures the browser paints the loading spinner before processing data
-    setTimeout(() => {
-      this.formatTexts();
-    }, 50);
+    this.formatTexts();
   };
+
+  hideLoadingSpinner() {
+    const spinner = document.getElementById('loading-spinner');
+    if (spinner) {
+      spinner.classList.add('hidden');
+    }
+  }
 
   formatTexts() {
     // Get fresh copy of texts from import (that's the only time they need to be formatted)
@@ -90,6 +94,7 @@ class App extends Component {
       backupTexts: formattedTexts
     }, () => {
       this.sort("year"); // Set standard sorting option
+      this.hideLoadingSpinner();
     });
   };
 
@@ -302,14 +307,9 @@ class App extends Component {
   }
 
   render() {
-    // Show loading spinner until data is ready
+    // While loading, render nothing (the HTML spinner overlay handles this)
     if (this.state.texts === null) {
-      return (
-        <div style={{display:'flex',justifyContent:'center',alignItems:'center',height:'100vh',backgroundColor:'#FFF8E2'}}>
-          <div style={{width:'50px',height:'50px',border:'4px solid #e0d9c8',borderTopColor:'#574D37',borderRadius:'50%',animation:'spin 1s linear infinite'}}></div>
-          <style>{`@keyframes spin{to{transform:rotate(360deg)}}`}</style>
-        </div>
-      );
+      return null;
     }
 
     return (
