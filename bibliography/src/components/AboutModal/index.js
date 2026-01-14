@@ -21,7 +21,7 @@ class AboutModal extends Component {
                     </div>
                     </div>
                 </a>
-                    <p className="subHeader center-align"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">last updated 1.3.26 · By Justin Keena</a></b></p>
+                    <p className="subHeader center-align"><b><a href="https://jwkeena.github.io/" target="_blank" rel="noopener noreferrer" title="See my portfolio">last updated 1.13.26 · By Justin Keena</a></b></p>
                 <div 
                     ref={ (modal) => {this.modal = modal} }
                     id="about"
