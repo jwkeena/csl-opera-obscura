@@ -20,7 +20,10 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.formatTexts();
+    // Small delay ensures the browser paints the loading spinner before processing data
+    setTimeout(() => {
+      this.formatTexts();
+    }, 50);
   };
 
   formatTexts() {
@@ -299,6 +302,16 @@ class App extends Component {
   }
 
   render() {
+    // Show loading spinner until data is ready
+    if (this.state.texts === null) {
+      return (
+        <div style={{display:'flex',justifyContent:'center',alignItems:'center',height:'100vh',backgroundColor:'#FFF8E2'}}>
+          <div style={{width:'50px',height:'50px',border:'4px solid #e0d9c8',borderTopColor:'#574D37',borderRadius:'50%',animation:'spin 1s linear infinite'}}></div>
+          <style>{`@keyframes spin{to{transform:rotate(360deg)}}`}</style>
+        </div>
+      );
+    }
+
     return (
       <div className="App">
           
@@ -353,8 +366,7 @@ class App extends Component {
                   </tr>
                 </thead>
                 <tbody className="z-depth-2">
-                  {this.state.texts !== null ?
-                  this.state.texts.map((text, index) => {
+                  {this.state.texts.map((text, index) => {
                     return (
                     // CHANGE 3B: Use stable key based on content instead of array index
                     // Previously, key={index} meant that when rows were filtered or reordered,
@@ -374,12 +386,7 @@ class App extends Component {
                       rowNumber={index}>
                     </TableRow>
                     )
-                  })
-                  : <tr>
-                    <td>
-                      Loading texts...
-                    </td>
-                  </tr>}
+                  })}
                 </tbody>
               </table>}
             </div>
