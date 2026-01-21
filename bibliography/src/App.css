@@ -16,15 +16,16 @@ body {
 
 /* Using flexbox to make main content div fill the available space in the page */
 /* See https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space */
-html, body {  
+html, body {
     height: 100%;
-    margin: 0
+    margin: 0;
+    padding: 0;
 }
 
 #root, .App {
     display: flex;
     flex-flow: column;
-    height: 100%;
+    min-height: 100vh;
 }
 
 .App .header {
@@ -170,7 +171,8 @@ th:first-child {
 
 /* For footer */
 .page-footer {
-    padding-top: 0;
+    padding: 15px 0;
+    margin-top: 20px;
     border-top: 2px solid #574D37;
     border-bottom: 2px solid #574D37;
     background-color: lightslategray;
