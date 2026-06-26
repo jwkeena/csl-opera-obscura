@@ -4,6 +4,7 @@
 const texts = [
     // PROSE PIECES
     {
+        id: "52jqy5",
         title: "“The Expedition to Holly Bush Hill”",
         printedIn: "<i>Cherbourg School Magazine</i>",
         issueOrVolume: null,
@@ -15,6 +16,7 @@ const texts = [
         notes: ["Original copies have not been found. Only known to exist in <i>LP</i> 3:310-311 at the Wade Center and the Bodleian."]
     },
     {
+        id: "n5kha9",
         title: "“Are Athletes Better than Scholars?”",
         printedIn: "<i>Cherbourg School Magazine</i>",
         issueOrVolume: "no. 2",
@@ -26,6 +28,7 @@ const texts = [
         notes: ["Original copies have not been found. Only known to exist in <i>LP</i> 3:318-319 at the Wade Center and the Bodleian."]
     },
     {
+        id: "68gdfk",
         title: "“The Expedition to Holly Bush Hill”",
         printedIn: "<i>Cherbourg School Magazine</i>",
         issueOrVolume: null,
@@ -37,6 +40,7 @@ const texts = [
         notes: ["This is a different expedition from the 1912 piece.", "Original copies have not been found. Only known to exist in <i>LP</i> 4:51 at the Wade Center and the Bodleian."]
     },
     {
+        id: "7xbj7q",
         title: "“Arguments” summarizing each book of <i>The Pilgrim’s Regress</i>",
         printedIn: "<i>The Pilgrim’s Regress</i> (New York: Sheed & Ward)",
         issueOrVolume: null,
@@ -48,6 +52,7 @@ const texts = [
         notes: ["These “arguments” were not printed in the British first edition published by Dent in 1933, nor in the 2013 Wade Annotated Edition. They were first printed here, in the US first edition, and once again in the 1944 Sheed & Ward edition."]
     },
     {
+        id: "896c67",
         title: "“From Johnson’s Life of Fox”",
         printedIn: "<i>The Oxford Magazine</i>",
         issueOrVolume: "LVI",
@@ -59,6 +64,7 @@ const texts = [
         notes: ["A description of Adam Fox’s poetry in the style of Samuel Johnson. Fox was Oxford’s Professor of Poetry from 1938-1942.", "The piece is anonymous."]
     },
     {
+        id: "2pv4du",
         title: "“The Allegory of Love”",
         printedIn: "<i>The Tablet</i>",
         issueOrVolume: "vol. 173",
@@ -70,6 +76,7 @@ const texts = [
         notes: ["A rebuttal to an anonymous negative review of <i>The Allegory of Love</i>.", "This piece has been reprinted in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>, vol. 11 (2017), 17 and <a href='https://doi.org/10.55221/1940-5537.1378' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
+        id: "fjawmu",
         title: "Preface to <i>Rehabilitations and Other Essays</i>",
         printedIn: "<i>Rehabilitations and Other Essays</i> (London: Oxford University Press)",
         issueOrVolume: null,
@@ -81,6 +88,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013)."]
     },
     {
+        id: "77a5gg",
         title: "“Miracles”",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -92,6 +100,7 @@ const texts = [
         notes: ["An earlier, shorter version of the essay “Miracles.”"]
     },
     {
+        id: "n6g29j",
         title: "Preface to <i>Broadcast Talks</i>",
         printedIn: "<i>Broadcast Talks</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -103,6 +112,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013).", "The same preface is in the US equivalent volume, <i>The Case for Christianity.</i>", "Elements of this piece were later reworked into the preface of <i>Mere Christianity.</i>"]
     },
     {
+        id: "g9gcy7",
         title: "“Culture in War-Time” (second known printing of “Learning in War-Time”)",
         printedIn: "<i>The Student Movement</i>",
         issueOrVolume: "vol. 42, no. 6",
@@ -114,6 +124,7 @@ const texts = [
         notes: ["Joe Ricke notes all known variations between this version, the other three known printings of “Learning in War-Time,” and the Lanier manuscript draft in his critical edition of the sermon in “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 80-94 (available <a href='https://doi.org/10.55221/1940-5537.1087' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>). Some of these variations are highlighted on page 74:<br><br>[A phrase referring to the (reading) audience of <i>The Student Movement</i>]<br><br>as students<br><br>[is inserted at the beginning of the second sentence, but the phrase “while you are here” (meaning Oxford) is deleted. Later, Lewis’s phrase identifying his immediate audience by “our presence here in church,” is deftly edited to]<br><br>our presence in the church<br><br>[Towards the end of the manuscript, Lewis refers to “what I have been saying in one form or another ever since I stood up [as in, stood up to preach].” This is changed, as it was later in <i>Transpositions</i> {sic} to]<br><br>ever since I started<br><br>[—erasing the specific language of the pulpit for something more general, since it could just as easily mean “started writing.” {...Among other changes of capitalization and punctuation} “in Church” is changed to]<br><br>in the church<br><br>[{...and} “If all the world were Christians” becomes]<br><br>Christian<br><br>[{...And, as stated on page 75, this version of the sermon} is the only published version not to revise in any way Lewis’s critique of Matthew Arnold and his view of “culture.”]"]
     },
     {
+        id: "hvxcvz",
         title: "“The Christian in Danger” (second known printing of “Learning in War-Time”)",
         printedIn: "<i>Famous English Sermons,</i> ed. Ashley Sampson (London: Thomas Nelson & Sons)",
         issueOrVolume: null,
@@ -125,6 +136,7 @@ const texts = [
         notes: ["Joe Ricke notes all known variations between this version, the other three known printings of “Learning in War-Time,” and the Lanier manuscript draft in his critical edition of the sermon in “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 80-94 (available <a href='https://doi.org/10.55221/1940-5537.1087' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>). Some of the idiosyncrasies of “The Christian in Danger” are highlighted on page 77:<br><br>[It is the only extant published text to include the scripture verse and citation as found on the manuscript. The title page, separated from the rest of the text, reads “The Christian in Danger” / C.S. Lewis / + / A Syrian ready to perish was my father. – Deut. xxvi.5.” Sampson’s version also retains phrases from the manuscript that capture the immediacy of the sermon, such as “as you all know” and “while you are here” and “here in church” and “ever since I stood up [to preach].” {...} Whether or not it was Sampson’s decision or Lewis’s, this version revises the original criticism of Matthew Arnold, or at least widens the heresy pool, so to speak, by suggesting that it is<br><br>writers <i>like</i><br><br>[emphasis mine]<br><br>Matthew Arnold, who have [...] encouraged a most dangerous and most anti-Christian error<br><br>[about culture. {...And as pointed out on page 74, note 72:} A phrase referring to the (reading) audience of <i>The Student Movement</i>]<br><br>as students<br><br>[is inserted at the beginning of the second sentence, but the phrase “while you are here” (meaning Oxford) is deleted.]"]
     },
     {
+        id: "6gjx55",
         title: "Dedication in <i>A Preface to Paradise Lost</i>",
         printedIn: "<i>A Preface to Paradise Lost</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -136,6 +148,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013)."]
     },
     {
+        id: "gb6zux",
         title: "Prefatory note exclusive to UK edition of <i>Christian Behaviour</i>",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -147,6 +160,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qv8uhe",
         title: "Notes on his poem “From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
         printedIn: "<i>English: Journal of the English Association</i>",
         issueOrVolume: "vol. 5, no. 30",
@@ -158,6 +172,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 370-1 notes 27, 30, and 33. King specifies where on the manuscript Lewis’s notes can be found."]
     },
     {
+        id: "an8rc8",
         title: "Footnote on “The Three Parts of Morality” in <i>Christian Behaviour</i>",
         printedIn: "<i>Christian Behaviour</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -169,6 +184,7 @@ const texts = [
         notes: ["The footnote also appears in the US edition, also titled <i>Christian Behaviour</i> (New York: Macmillan, 1944), 6 note 1."]
     },
     {
+        id: "ehj45k",
         title: "Footnotes absent from 1933 and 1935 editions of <i>The Pilgrim’s Regress</i>",
         printedIn: "<i>The Pilgrim’s Regress,</i> new and revised edition (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -180,6 +196,7 @@ const texts = [
         notes: ["The 1943 edition of <i>The Pilgrim’s Regress</i> had a few distinguishing features compared to earlier editions, according to Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 182: “Besides a valuable Preface in which Lewis explains what he meant by Romanticism, he makes his story clearer still with the occasional footnote and running headlines on every page explaining exactly what the story is about.” The original 1933 Bles first edition and the 1935 Sheed & Ward editions (both English and American) need to be checked to verify that they do not contain any occasional footnotes.", "The first footnote is present in the 1944 edition by Sheed & Ward, but the other 8 footnotes are not present."]
     },
     {
+        id: "x59w9m",
         title: "Preface to <i>The Pilgrim’s Regress</i>",
         printedIn: "<i>The Pilgrim’s Regress,</i> new and revised edition (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -191,6 +208,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vmu8t7",
         title: "Appreciation of Eric Bentley",
         printedIn: "Bentley, <i>The Cult of the Superman</i> (Gloucester: Peter Smith)",
         issueOrVolume: null,
@@ -202,6 +220,7 @@ const texts = [
         notes: null
     },
     {
+        id: "heftkr",
         title: "Notes on a Sermon “All or Nothing”",
         printedIn: "<i>In our tongues</i>, ed. James Patrick Stevenson (London: S.P.C.K.)",
         issueOrVolume: null,
@@ -213,6 +232,7 @@ const texts = [
         notes: ["Was published previously in the periodical <i>Think</i>. See [<a href='https://www.discovery.org/a/1030' target='_blank' rel='noopener noreferrer' class='link-to-text'>this article</a>] by Kathryn Lindskoog.", "Lewis’s 5-paragraph summary is also discussed in Bruce Johnson, “Scripture, Setting, and Audience in the RAF Talks of C.S. Lewis,” <i>The Journal of Inklings Studies</i> vol. 4, no. 2 (October 2014), 103."]
     },
     {
+        id: "9u7n7n",
         title: "Autobiographical note exclusive to US edition of <i>Perelandra</i>",
         printedIn: "<i>Perelandra</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -224,6 +244,7 @@ const texts = [
         notes: ["Re-used on the US edition of <i>That Hideous Strength</i> (New York: Macmillan 1946), dust jacket back flap, and again reprinted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i>, Fully Revised & Expanded Edition (London: HarperCollins, 2002), 169-170."]
     },
     {
+        id: "pvqyx3",
         title: "Secretarial notes at the end of “Bulverism” and partial transcript of the consequent discussion",
         printedIn: "The <i>Socratic Digest</i>",
         issueOrVolume: "no. 2",
@@ -235,6 +256,7 @@ const texts = [
         notes: ["This section of the essay, which was originally read to the Socratic Society before publication in the <i>Socratic Digest,</i> is in the form of notes taken down by the Secretary of the Society. But some of it is in the first person, and seems to be Lewis’s exact words.", "In reprintings of “Bulverism,” this passage is only found in the US collection <i>God in the Dock</i> (1970). It is not found in the equivalent UK volume <i>Undeceptions</i> (1971), nor in <i>First and Second Things</i> (1985), nor in Lesley Walmsley’s <i>Essay Collection</i> (2000)."]
     },
     {
+        id: "n8kdwt",
         title: "Preface to <i>Beyond Personality</i>",
         printedIn: "<i>Beyond Personality</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -246,6 +268,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013).", "Elements of this piece were later reworked into the preface of <i>Mere Christianity.</i>"]
     },
     {
+        id: "eqypqd",
         title: "Epigraph exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -257,6 +280,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zq48qa",
         title: "Dedication exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -268,6 +292,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hm6wfc",
         title: "Footnote exclusive to UK edition of <i>The Great Divorce</i>",
         printedIn: "<i>The Great Divorce</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -279,6 +304,7 @@ const texts = [
         notes: null
     },
     {
+        id: "n77wes",
         title: "Comments on George Gordon’s class",
         printedIn: "Mary C. Gordon, <i>The Life of George S. Gordon,</i> 1881-1942 (London: Oxford University Press)",
         issueOrVolume: null,
@@ -290,6 +316,7 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, “C.S. Lewis and the Oxford English Literature Discussion Group” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell,</i> ed. Bruce R. Johnson (Hamden: Winged Lion Press, 2021), 86-87."]
     },
     {
+        id: "m3fhtp",
         title: "Preface to <i>That Hideous Strength</i>",
         printedIn: "<i>That Hideous Strength</i> (London: John Lane the Bodley Head)",
         issueOrVolume: null,
@@ -301,6 +328,7 @@ const texts = [
         notes: ["This preface differs substantially from the shortened preface to the abridged 1955 edition, <i>The Tortured Planet</i> (Avon Books), and in minor detail from the preface to the 1<sup>st</sup> US edition (Macmillan, 1946)."]
     },
     {
+        id: "qp9cg4",
         title: "“A Christian Reply to Professor Price”",
         printedIn: "<i>Phoenix Quarterly</i>",
         issueOrVolume: "vol. 1, no. 1",
@@ -312,6 +340,7 @@ const texts = [
         notes: ["As Walter Hooper notes in his 1996 bibliography in <i>C.S. Lewis: A Companion & Guide,</i> 829, item D134: “Despite the fact that ‘Religion Without Dogma?’ was published later, ‘A Christian Reply to Professor Price’ is a revision of ‘Revision Without Dogma?’.", "“Religion Without Dogma” was first published in the <i>Socratic Digest,</i> no. 4 (1948), 82-94."]
     },
     {
+        id: "s98jhu",
         title: "“A Christmas Sermon for Pagans”",
         printedIn: "<i>The Strand</i>",
         issueOrVolume: "vol. 112, no. 672",
@@ -323,6 +352,7 @@ const texts = [
         notes: ["Reprinted in <i>SEVEN: An Anglo-American Literary Review,</i> vol. 34 (2017), 47-50."]
     },
     {
+        id: "3s2km9",
         title: "Preface to <i>The Tortured Planet</i>",
         printedIn: "<i>The Tortured Planet</i> (=<i>That Hideous Strength</i>) (New York: Avon Books)",
         issueOrVolume: null,
@@ -334,6 +364,7 @@ const texts = [
         notes: ["This is a substantially shortened version of the original 1945 preface, with an additional paragraph on the literary effect of the abridgment."]
     },
     {
+        id: "86smac",
         title: "Preface to <i>George MacDonald: An Anthology</i>",
         printedIn: "<i>George MacDonald: An Anthology,</i> ed. C.S. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -345,6 +376,7 @@ const texts = [
         notes: ["This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
+        id: "k25prn",
         title: "Blurb for <i>Essays Presented to Charles Williams</i>",
         printedIn: "<i>Essays Presented to Charles Williams,</i> ed. C.S. Lewis (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -356,6 +388,7 @@ const texts = [
         notes: ["Compare the blurb with the first sentence of Lewis’s preface to <i>Essays Presented to Charles Williams</i>: “In this book the reader is offered the work of one professional author, two dons, a solicitor, a friar, and a retired army officer; if he feels disposed to complain of hotch-potch (which incidentally is an excellent dish; consult the Noctes Ambrosianae) I must reply that the variety displayed by this little group is far too small to represent the width of Charles Williams’s friendships.” That preface is itself reprinted in <i>Image and Imagination,</i> ed. Walter Hooper, (Cambridge: Cambridge University Press), 110-124, item 18.", "The text of the front flap is reprinted in its entirety in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G21."]
     },
     {
+        id: "vet72j",
         title: "Blurb for <i>A New Translation of the Bible: Containing the Old and New Testaments,</i> trans. James Moffatt (London: Hodder and Stoughton, 1925; revised edition, 1935)",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -367,6 +400,7 @@ const texts = [
         notes: ["This text is taken from <i>Miracles,</i> the beginning of chapter 17 (“Epilogue”), with some minor alterations: “My work ends here. If, after reading it, you now turn to study the historical evidence for yourself, begin with the New Testament and not with the books about it. If you do not know Greek get it in a modern translation. Moffat’s [sic] is probably the best: Monsignor Knox is also good. I do not advise the <i>Basic English</i> version.”"]
     },
     {
+        id: "45xaza",
         title: "Note on <i>Orpheus</i>",
         printedIn: "Programme of Owen Barfield’s play <i>Orpheus,</i> produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield",
         issueOrVolume: null,
@@ -378,6 +412,7 @@ const texts = [
         notes: ["Reprinted on the back cover of Owen Barfield, <i>Orpheus: A Poetic Drama,</i> ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press, 1983).", "It is also found in <i>CL</i> 2:872-873, where Lewis calls it a “blurb.”"]
     },
     {
+        id: "tczrkh",
         title: "Blurb for Owen Barfield, <i>Orpheus: A Poetic Drama</i>",
         printedIn: "<i>Orpheus: A Poetic Drama</i>, ed. John C. Ulrich, Jr. (West Stockbridge: The Lindisfarne Press,",
         issueOrVolume: null,
@@ -389,6 +424,7 @@ const texts = [
         notes: ["Originally printed as a “Note” on the Programme of Owen Barfield’s play <i>Orpheus,</i> produced by the Sheffield Educational Settlement at The Little Theatre, Shipton Street, Sheffield, on 25 September (1948), 8.", "It is also found in <i>CL</i> 2:872-873, where Lewis calls it a “blurb.”"]
     },
     {
+        id: "hv294n",
         title: "Acknowledgements and Introductory to <i>Arthurian Torso</i>",
         printedIn: "Charles Williams and C.S. Lewis, <i>Arthurian Torso</i> (London: Oxford University Press)",
         issueOrVolume: null,
@@ -400,6 +436,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013)."]
     },
     {
+        id: "8ztqkq",
         title: "Additions to the French edition of <i>The Problem of Pain</i>",
         printedIn: "<i>Le problème de la souffrance</i> (Paris: Desclée De Brouwer)",
         issueOrVolume: null,
@@ -411,6 +448,7 @@ const texts = [
         notes: ["Translations are given by Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 296-297."]
     },
     {
+        id: "ecteg9",
         title: "Dedication in <i>Dymer</i>",
         printedIn: "<i>Dymer</i>, 2<sup>nd</sup> edition, London: J.M. Dent & Sons Ltd., New York: The Macmillan Company",
         issueOrVolume: null,
@@ -422,6 +460,7 @@ const texts = [
         notes: ["The 1<sup>st</sup> edition has no dedicatee, as pointed out by Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 68."]
     },
     {
+        id: "8zxq9r",
         title: "Blurb for John Custance, <i>Wisdom, Madness & Folly: The Philosophy of a Lunatic</i> (London: Victor Gollancz, 1951)",
         printedIn: "<i>The Daily Telegraph & Morning Post</i>",
         issueOrVolume: null,
@@ -433,6 +472,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Pellegrini & Cudahy, 1952).", "The same endorsement also appeared two weeks later in <i>The Daily Telegraph & Morning Post</i> (25 May 1951), 6, and twice in <i>The Observer</i> (13 May 1951), 4, and (17 June 1951), 4."]
     },
     {
+        id: "w8hfyf",
         title: "Blurb for Nancy Wilson Ross, <i>Time’s Corner</i> (London: Collins, 1953)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
@@ -444,6 +484,7 @@ const texts = [
         notes: ["This text is from an unpublished letter to Ross (25 October 1952) in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A), Harry Ransom Center, The University of Texas at Austin. Ross had written to Lewis on 5 October 1952, sending him a copy of <i>Time’s Corner,</i> and telling him of the origin of its title, which is a phrase from <i>Perelandra.</i>"]
     },
     {
+        id: "mffww6",
         title: "Extensive revisions to chapter 12 of US edition of <i>The Voyage of the Dawn Treader</i>",
         printedIn: "<i>The Voyage of the Dawn Treader</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -455,6 +496,7 @@ const texts = [
         notes: ["No comparison exists to my knowledge."]
     },
     {
+        id: "4qpvaa",
         title: "Preface to <i>Dymer</i>",
         printedIn: "<i>Dymer</i>, 2<sup>nd</sup> edition, London: J.M. Dent & Sons Ltd., New York: The Macmillan Company",
         issueOrVolume: null,
@@ -466,6 +508,7 @@ const texts = [
         notes: ["The preface first appears in this edition (US only).", "It is also reprinted in <i>Narrative Poems,</i> ed. Walter Hooper (UK, 1969; US, 1972)."]
     },
     {
+        id: "jcqndb",
         title: "Reminiscence of P.V.M. Benecke",
         printedIn: "Margaret Denecke [<a href='https://archive-cat.magd.ox.ac.uk/records/F33/3/C3/2' target='_blank' rel='noopener noreferrer' class='link-to-text'>sic</a>], <i>Paul Victor Mendelssohn Benecke 1868-1944</i> (Oxford: Privately printed by A.T. Broome and Son)",
         issueOrVolume: null,
@@ -477,6 +520,7 @@ const texts = [
         notes: null
     },
     {
+        id: "k82dag",
         title: "Preface to <i>English Literature in the Sixteenth Century Excluding Drama</i>",
         printedIn: "<i>English Literature in the Sixteenth Century Excluding Drama</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -488,6 +532,7 @@ const texts = [
         notes: ["Included because this book has not been in print (as of 2013)."]
     },
     {
+        id: "jxqkw4",
         title: "“Comedian of Highest Order”",
         printedIn: "<i>The Mark Twain Journal</i>",
         issueOrVolume: "vol. 9, no. 4",
@@ -499,6 +544,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gn9drn",
         title: "Blurb for a Religious of C.S.M.V., <i>The Coming of the Lord: A Study in the Creed</i>",
         printedIn: "A Religious of C.S.M.V., <i>The Coming of the Lord: A Study in the Creed</i> (London: A.R. Mowbray)",
         issueOrVolume: null,
@@ -510,6 +556,7 @@ const texts = [
         notes: ["Reprinted in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him</i>, 3rd edition, ed. James T. Como (San Francisco: Ignatius, 2005), 469, item G40, with minor punctuation differences.","The text is ultimately based on a letter to Sister Penelope CSMV, 4 January 1953, found in <i>CL</i> 3:316-318: “I am simply <i>delighted</i> with <i>The Coming of the Lord</i>; delighted, excited, and most grateful. I think it is the best book you have yet done, and the best theological book by anyone I have read for a long time. (You are, among other things, the only person I ever meet who gives me real light on the Old Testament.) …[318] Anyway, it is a lovely little book. I am very much in your debt.”"]
     },
     {
+        id: "qvme49",
         title: "Blurb for Arthur C. Clarke, <i>Childhood’s End</i> ",
         printedIn: "Arthur C. Clarke, <i>Childhood’s End</i> (London: Sidgwick and Jackson)",
         issueOrVolume: null,
@@ -521,6 +568,7 @@ const texts = [
         notes: ["This 110-word text is derived from <i>CL</i> 3:390-391 to Joy Gresham (not to Clarke, who only heard about the letter later after meeting Joy in person in New York), with some unmarked omissions and even a significant word change (“the actual writing” in <i>CL</i> 3:391 becomes “the actual invention” in the blurb).", "There are four other known variations of this blurb. An 18-word version appeared in newspaper advertisements from late April to early May 1954: “It is quite out of range of the common space-and-time writers…there has been nothing like it for years.” <i>The Observer</i> (25 April 1954), 9 and <i>The Birmingham Post</i> (27 April 1954), 6 omit the final period, but <i>The Western Mail</i> (28 April 1954), 6 and <i>The Liverpool Daily Post</i> (4 May 1954), 9 include it.", "A 65-word version was printed in an advertisement for <i>Childhood’s End</i> in the 7 May 1954 edition of <i>The Guardian:</i> “It is quite out of range of the common space-and-time writers; away up near Lindsay’s <i>Voyage to Arcturus</i> and Wells’s <i>First Men in the Moon</i>…There has been nothing like it for years; partly for the actual invention, but partly because here we meet a modern author who understands that there may be things that have a higher claim on humanity than its own ‘survival’.”", "A 27-word version was used on the back cover of the 1956 Pan paperback edition, according to Walter Hooper in <i>CL</i> 3:410, note 39: “There has been nothing like it for years…an author who understands there may be things that have a higher claim on humanity than its own survival.”", "However, this version differs from the 16-word variation on 1956 Pan paperback printing I have seen: “The first climax brought tears to my eyes. There has been nothing like it for years.”"]
     },
     {
+        id: "smghrc",
         title: "Blurb for Joy Davidman, <i>Smoke on the Mountain: An Interpretation of the Ten Commandments</i> (London: Hodder and Stoughton, 1955)",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -532,6 +580,7 @@ const texts = [
         notes: ["From Lewis’s foreword, 10-11: “On the contrary the quality in this book which, I anticipate, will stand out more clearly the better it is known, is precisely the union of passionate heat with an intelligence which, in that passion, still modifies and distinguishes and tempers.”"]
     },
     {
+        id: "5vr4qm",
         title: "Blurb for Harry Blamires, <i>Blessing Unbounded</i> (London: Longmans, Green and Company, 1955)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
@@ -543,6 +592,7 @@ const texts = [
         notes: ["See <i>CL</i> 3:682 note 367 for an indirect record of the text.", "The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
+        id: "8faf2p",
         title: "Blurb for Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i>",
         printedIn: "Martyn Skinner, <i>The Return of Arthur: A Poem of the Future</i> (London: Chapman and Hall)",
         issueOrVolume: null,
@@ -554,6 +604,7 @@ const texts = [
         notes: ["Text is derived from <i>CL</i> 3:570 to Martyn Skinner, 27 February 1955: “I’ve romped thro’ it with unflagging interest: a good, stiff sea-breeze of a poem which fills the lungs and makes one hold one’s hat on. (There: but hesitate for using it as a blurb. My blurb did Tolkien’s <i>Lord of the Rings</i>—wh. is glorious, I hope you’ve read it—more harm than good).”", "The blurb is reprinted on Martyn Skinner, <i>The Return of Arthur: A Poem of the Future, Part 2</i> (London: Chapman and Hall, 1959), dust jacket back cover."]
     },
     {
+        id: "u9z2rr",
         title: "Paragraph and footnote exclusive to original publication of “Lilies that Fester”",
         printedIn: "<i>Twentieth Century</i>",
         issueOrVolume: "vol. 157, no. 938 (April)",
@@ -565,6 +616,7 @@ const texts = [
         notes: ["This passage was rewritten when “Lilies that Fester” was republished in <i>They Asked for a Paper</i> (London: Geoffrey Bles, 1962), 108-110."]
     },
     {
+        id: "m884e3",
         title: "Blurb for Clare Kipps, <i>Sold for a Song</i> (London: Frederick Muller Ltd, 1956)",
         printedIn: "<i>The Daily Telegraph and Morning Post</i>",
         issueOrVolume: null,
@@ -576,6 +628,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
+        id: "h45zsc",
         title: "Blurb for Katharine M. Briggs, <i>Hobberdy Dick</i> (London: Eyre & Spottiswoode, 1955)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
@@ -587,6 +640,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
+        id: "5d333b",
         title: "“Critical Forum: De Descriptione Temporum”",
         printedIn: "<i>Essays in Criticism</i>",
         issueOrVolume: "VI, issue 2",
@@ -598,6 +652,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hpanuq",
         title: "“Taste,” a revision of the original “Notes on the Way (=Different Tastes in Literature)”",
         printedIn: "<i>Time and Tide Anthology,</i> ed. Anthony Lejeung (London: Andre Deutsch)",
         issueOrVolume: null,
@@ -609,6 +664,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6asab2",
         title: "Prefatory note exclusive to 1<sup>st</sup> UK edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -620,6 +676,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3j7wn6",
         title: "Blurb for <i>The Core of the Bible: Arranged from the Authorised King James Version</i>",
         printedIn: "<i>The Core of the Bible: Arranged from the Authorised King James Version,</i> ed. Austin Farrer (New York: Harper and Bros.)",
         issueOrVolume: null,
@@ -631,6 +688,7 @@ const texts = [
         notes: ["This blurb was discovered and publicized by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 433.", "An expanded version of the blurb also appears in the publisher’s material at the end of the Fontana paperback edition of <i>Miracles</i> (1960): “I am more than pleased, I am excited, by Austin Farrer’s book. I don’t know that I ever learned so much (from anything of the same sort and on the same scale) as I have done from his introduction. This is a brilliant popularisation [sic] as we are ever likely to see.”"]
     },
     {
+        id: "g6dmze",
         title: "Preface, abridgements, and revisions to <i>Miracles</i>",
         printedIn: "Paperback edition of <i>Miracles: A Preliminary Study</i>, A Reflection Book (New York: Association Press)",
         issueOrVolume: null,
@@ -642,6 +700,7 @@ const texts = [
         notes: ["Lewis deleted chapters II-VI, IX, XI, XII, XVII and the two appendices entirely.", "The first chapter “The Scope of this book” was rewritten.", "There are many other changes in the text, but no one has yet made the complete comparison."]
     },
     {
+        id: "4vbsyx",
         title: "Blurb for E.R. Eddison, <i>The Mezentian Gate</i>",
         printedIn: "E.R. Eddison, <i>The Mezentian Gate</i> (London: Curwen Press, 1958)",
         issueOrVolume: null,
@@ -653,6 +712,7 @@ const texts = [
         notes: ["Reprinted as “A Tribute to E.R. Eddison” in <i>Of This and Other Worlds</i> (1982) and <i>On Stories, and Other Essays on Literature </i> (1982), both edited by Walter Hooper, and <i>Essay Collection & Other Short Pieces</i> (2000), edited by Lesley Walmsley."]
     },
     {
+        id: "4yznre",
         title: "<i>Molliter Ossa Cubent</i>",
         printedIn: "<i>The Campbellian</i>",
         issueOrVolume: "XIV, no. 9",
@@ -664,6 +724,7 @@ const texts = [
         notes: ["<i>The Campbellian</i> is the school magazine of Campbell College, Belfast.", "The piece is an obituary of Jane Agnes McNeill. The title is from Ovid, <i>Tristia,</i> III, iii, 76: “Soft may her bones lie.”", "Reprinted in <i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan, 1979), 550-551 and Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins), 706-707."]
     },
     {
+        id: "d77jte",
         title: "A Series of Ten Radio Talks on Love",
         printedIn: "Ten pamphlets published by The Episcopal Radio-TV Foundation (Atlanta, Georgia)",
         issueOrVolume: null,
@@ -675,6 +736,7 @@ const texts = [
         notes: ["These ten individual pamphlets are the radio scripts Lewis recorded on tape in 1958, which tapes were issued in 1970 on four cassettes called <i>Four Talks on Love</i>. The scripts served as a basis for Lewis’s book, <i>The Four Loves</i>.", "If anyone has scans of this text, please send it to me!"]
     },
     {
+        id: "9zps6r",
         title: "Blurb for Mervyn Peake, <i>Titus Alone</i>",
         printedIn: "Mervyn Peake, <i>Titus Alone,</i> (London: Eyre and Spottiswoode)",
         issueOrVolume: null,
@@ -686,6 +748,7 @@ const texts = [
         notes: ["Reprinted in <i>CL</i> 3:1061 note 129 and in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 470, item G49."]
     },
     {
+        id: "pehwba",
         title: "Blurb for Yvonne Lubbock, <i>Return to Belief</i> (London: Collins, 1961)",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -697,6 +760,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
+        id: "weshn7",
         title: "Blurb for David Bolt, <i>Adam: A Tone Poem</i>",
         printedIn: "David Bolt, <i>Adam: A Tone Poem</i> (New York: John Day Company)",
         issueOrVolume: null,
@@ -708,6 +772,7 @@ const texts = [
         notes: ["A shorter version that omits the second through seventh sentences of the US version was also used for the first UK edition (London: J.M. Dent, 1960), front band around the dust jacket. The shorter UK edition is reprinted in Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 471, item G52.", "A third, even shorter version was used in an advertisement in <i>The Daily Telegraph and Morning Post</i> (23 September 1960).", "The longest, 10-sentence US version is used on a later UK edition (London: Sidgwick and Jackson, 1979), dust jacket back cover, and is reprinted in Kathryn Lindskoog, <a href='https://www.discovery.org/a/1033/' target='_blank' rel='noopener noreferrer' class='link-to-text'>“A New Discovery: C.S. Lewis Praises Adam,”</a> <i>Lewis Legacy</i>, lxxxvi (Autumn 2000) as well as in Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435."]
     },
     {
+        id: "rsynb7",
         title: "Revisions to “The Cardinal Difficulty of Naturalism”",
         printedIn: "<i>Miracles,</i> 2<sup>nd</sup> edition (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -719,6 +784,7 @@ const texts = [
         notes: ["Have all the changes been identified?"]
     },
     {
+        id: "ekkrv6",
         title: "Preface to the 1961 edition of <i>The Screwtape Letters & Screwtape Proposes a Toast</i>",
         printedIn: "<i>The Screwtape Letters & Screwtape Proposes a Toast</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -730,6 +796,7 @@ const texts = [
         notes: ["The piece itself is dated by Lewis May 18, 1960.", "The original preface to <i>The Screwtape Letters</i> is also printed on 19-20.", "A shortened version of this preface was included in the 1965 paperback edition of <i>Screwtape Proposes a Toast and Other Pieces</i>. The preface to <i>that</i> paperback disingenuously says that the preface to the 1961 <i>The Screwtape Letters & Screwtape Proposes a Toast</i> has been “reprinted in this book” (5) when in fact it includes only the final three paragraphs of this version."]
     },
     {
+        id: "gbtpjz",
         title: "“Going into Europe: A Symposium”",
         printedIn: "<i>Encounter</i>",
         issueOrVolume: "XIX",
@@ -741,6 +808,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7hhyr8",
         title: "Acknowledgements for <i>They Asked for a Paper</i>",
         printedIn: "C.S. Lewis, <i>They Asked for a Paper</i> (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -752,6 +820,7 @@ const texts = [
         notes: ["I include this because copies of <i>They Asked for a Paper</i> are not in print."]
     },
     {
+        id: "jwmfea",
         title: "Blurb for Katharine Trevelyan, <i>Fool in Love</i> (London: Victor Gollancz, 1962)",
         printedIn: "<i>The Observer</i>",
         issueOrVolume: null,
@@ -763,6 +832,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis."]
     },
     {
+        id: "5gvr89",
         title: "Comments on contemporary Christianity",
         printedIn: "“Scholars Cite Obstacles to Christian Advance,” <i>Christianity Today</i>",
         issueOrVolume: "vol. 7, no. 1",
@@ -774,6 +844,7 @@ const texts = [
         notes: ["Reprinted in Samuel Joeckel, <i>The C.S. Lewis Phenomenon: Christianity and the Public Sphere</i> (Macon, Georgia: Mercer University Press, 2013), 50."]
     },
     {
+        id: "ktjuht",
         title: "Note on the Meaning of Civilization in the Chronicles of Narnia",
         printedIn: "Roger Lancelyn Green, <i>C.S. Lewis, A Bodley Head Monograph,</i> (London: The Bodley Head)",
         issueOrVolume: null,
@@ -785,6 +856,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jwva7m",
         title: "“Must Our Image of God Go?” (slightly revised)",
         printedIn: "<i>The Honest to God Debate</i>, ed. David Lawrence Edwards (Westminster Press)",
         issueOrVolume: null,
@@ -796,6 +868,7 @@ const texts = [
         notes: ["Revised version also reprinted in <i>God in the Dock,</i> ed. Walter Hooper (William B. Eerdmans, 1970)."]
     },
     {
+        id: "f37agf",
         title: "Blurb for Austin Farrer, <i>Saving Belief</i>",
         printedIn: "Austin Farrer, <i>Saving Belief: A Discussion of Essentials</i> (London: Hodder and Stoughton)",
         issueOrVolume: null,
@@ -807,6 +880,7 @@ const texts = [
         notes: ["According to Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 435, Hooper’s 2005 Bibliography “quotes only sixteen words of this blurb: the second half of the last sentence."]
     },
     {
+        id: "gj46kx",
         title: "Introduction (=abbreviated preface to <i>George MacDonald: An Anthology</i>)",
         printedIn: "George MacDonald, <i>Phantastes and Lilith</i> (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -818,6 +892,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bkz4ch",
         title: "Note on his poem “The Sunrise”",
         printedIn: "<i>The Various Light: An Anthology of Modern Poetry in English,</i> ed. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
         issueOrVolume: null,
@@ -829,6 +904,7 @@ const texts = [
         notes: null
     },
     {
+        id: "z6xw24",
         title: "Comment on a student paper",
         printedIn: "John Lawlor, “The Tutor and the Scholar” in <i>Light on C.S. Lewis,</i> ed. Jocelyn Gibb",
         issueOrVolume: null,
@@ -840,17 +916,19 @@ const texts = [
         notes: null
     },
     {
+        id: "646pqf",
         title: "Ending “Note” exclusive to the 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "<i>Till We Have Faces</i> (New York: Harcourt, Brace and Company)",
         issueOrVolume: null,
         pageRange: "311-313",
         year: 1957,
         monthAndDay: null,
-        textProvided: false,
+        textProvided: "NOTE<br><br>The story of Cupid and Psyche first occurs in one of the few surviving Latin novels, the <i>Metamorphoses</i> (sometimes called <i>The Golden Ass</i>) of Lucius Apuleius Platonicus, who was born about 125 A.D. The relevant parts are as follows:<br><br>A king and queen had three daughters of whom the youngest was so beautiful that men worshipped her as a goddess and neglected the worship of Venus for her sake. One result was that Psyche (as the youngest was called) had no suitors; men reverenced her supposed deity too much to aspire to her hand. When her father consulted the oracle of Apollo about her marriage he received the answer: “Hope for no human son-in-law. You must expose Psyche on a mountain to be the prey of a dragon.” This he obediently did.<br><br>But Venus, jealous of Psyche’s beauty, had already devised a different punishment for her; she had ordered her son Cupid to afflict the girl with an irresistible passion for the basest of men. Cupid set off to do so but, on seeing Psyche, fell in love with her himself. As soon as she was left on the mountain he therefore had her carried off by the West-Wind (Zephyrus) to a secret place where he had prepared a stately palace. Here he visited her by night and enjoyed her love; but he forbade her to see his face. Presently she begged that she might receive a visit from her two sisters. The god reluctantly consented and wafted them to her palace. Here they were royally feasted and expressed great delight at all the splendours they saw. But inwardly they were devoured with envy, for their husbands were not gods and their houses not so fine as hers.<br><br>They therefore plotted to destroy her happiness. At their next visit they persuaded her that her mysterious husband must really be a monstrous serpent. “You must take into your bedroom to-night,” they said, “a lamp covered with a cloak and a sharp knife. When he sleeps uncover the lamp—see the horror that is lying in your bed—and stab it to death.” All this the gullible Psyche promised to do.<br><br>When she uncovered the lamp and saw the sleeping god she gazed on him with insatiable love, till a drop of hot oil from her lamp fell on his shoulder and woke him. Starting up, he spread his shining wings, rebuked her, and vanished from her sight.<br><br>The two sisters did not long enjoy their malice, for Cupid took such measures as led both to their death. Psyche meanwhile wandered away, wretched and desolate, and attempted to drown herself in the first river she came to; but the god Pan frustrated her attempt and warned her never to repeat it. After many miseries she fell into the hands of her bitterest enemy, Venus, who seized her for a slave, beat her, and set her what were meant to be impossible tasks. The first, that of sorting out seeds into separate heaps, she did by the help of some friendly ants. Next, she had to get a hank of golden wool from some man-killing sheep; a reed by a river bank whispered to her that this could be achieved by plucking the wool off the bushes. After that, she had to fetch a cupful of the water of the Styx, which could be reached only by climbing certain impracticable mountains, but an eagle met her, took the cup from her hand, and returned with it full of the water. Finally she was sent down to the lower world to bring back to Venus, in a box, the beauty of Persephone, the Queen of the Dead. A mysterious voice told her how she could reach Persephone and yet return to our world; on the way she would be asked for help by various people who seemed to deserve her pity, but she must refuse them all. And when Persephone gave her the box (full of beauty) she must on no account open the lid to look inside. Psyche obeyed all this and returned to the upper world with the box; but then at last curiosity overcame her and she looked into it. She immediately lost consciousness.<br><br>Cupid now came to her again, but this time he forgave her. He interceded with Jupiter, who agreed to permit his marriage and make Psyche a goddess. Venus was reconciled and they all lived happily ever after. The central alteration in my own version consists in making Psyche’s palace invisible to normal, mortal eyes—if “making” is not the wrong word for something which forced itself upon me, almost at my first reading of the story, as the way the thing must have been. This change of course brings with it a more ambivalent motive and a different character for my heroine and finally modifies the whole quality of the tale. I felt quite free to go behind Apuleius, whom I suppose to have been its transmitter, not its inventor. Nothing was further from my aim than to recapture the peculiar quality of the <i>Metamorphoses</i>—that strange compound of picaresque novel, horror comic, mystagogue’s tract, pornography, and stylistic experiment. Apuleius was of course a man of genius: but in relation to my work he is a “source,” not an “influence” nor a “model.”<br><br>His version has been followed pretty closely by William Morris (in <i>The Earthly Paradise</i>) and by Robert Bridges (Eros and Psyche). Neither poem, in my opinion, shows its author at his best. The whole <i>Metamorphoses</i> was last translated by Mr. Robert Graves (<i>Penguin Books</i>, 1950).<br><br>C.S.L.",
         type: "Prose",
-        notes: ["Only the penultimate paragraph of this “Note” was printed on the back cover of the 1<sup>st</sup> UK edition dust jacket (London: Geoffrey Bles, 1956).", "The “Note” is  printed in full the Time special paperback edition (New York: Time, 1966); the Eerdmans paperback edition of the same year (Grand Rapids, MI: Eerdmans, 1966), 311-313; the Fount Paperbacks edition (1978, 1998); the Harvest edition by Harcourt (1980), 311-313; and the Mariner Books edition by Houghton Mifflin Harcourt (2012), 311-313", "This text has not yet been transcribed. If you would like to do so, let me know."]
+        notes: ["Only the penultimate paragraph of this “Note” was printed on the back cover of the 1<sup>st</sup> UK edition dust jacket (London: Geoffrey Bles, 1956).", "The “Note” is  printed in full the Time special paperback edition (New York: Time, 1966); the Eerdmans paperback edition of the same year (Grand Rapids, MI: Eerdmans, 1966), 311-313; the Fount Paperbacks edition (1978, 1998); the Harvest edition by Harcourt (1980), 311-313; and the Mariner Books edition by Houghton Mifflin Harcourt (2012), 311-313"]
     },
     {
+        id: "b88x8z",
         title: "Manuscripts on Spenser",
         printedIn: "<i>Spenser’s Images of Life,</i> ed. Alastair Fowler (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
@@ -862,6 +940,7 @@ const texts = [
         notes: ["Plate 1 = folio 1; plate 2 = folio 35.", "Margaret Hannay quotes from these plates in her book, <i>C.S. Lewis</i> (New York: Frederick Ungar, 1981), 158-163."]
     },
     {
+        id: "s9hp4m",
         title: "Three additional chapters (“World,” “Life,” and “I Dare Say”) not present in 1<sup>st</sup> edition of <i>Studies in Words</i>",
         printedIn: "<i>Studies in Words</i>, 2<sup>nd</sup> edition (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
@@ -873,6 +952,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cm47rp",
         title: "Chronological account of the composition of <i>Dymer</i> (<i>LP</i> 9:129-130)",
         printedIn: "<i>Narrative Poems,</i> ed. Walter Hooper (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -884,6 +964,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 217 note 29."]
     },
     {
+        id: "mtmfzc",
         title: "Introductory note to his alliterative poem <i>The Nameless Isle</i>",
         printedIn: "<i>Narrative Poems,</i> ed. Walter Hooper (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -895,6 +976,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jezrcy",
         title: "Martlets Society Minutes of 12 March and 14 June 1919",
         printedIn: "Walter Hooper, “To the Martlets,” <i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         issueOrVolume: null,
@@ -906,6 +988,7 @@ const texts = [
         notes: null
     },
     {
+        id: "v35j7g",
         title: "Fragment of a story beginning “It was in autumn”",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -917,6 +1000,7 @@ const texts = [
         notes: ["The sentence “It was in autumn” does not appear on 291 in this essay. It is first quoted in Walter Hooper’s bibliography in <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 837, item D216, and again in his bibliography in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3rd edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item D211."]
     },
     {
+        id: "dawemk",
         title: "Definition of “Myth”",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -928,6 +1012,7 @@ const texts = [
         notes: ["Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>CL</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’s handwriting to February 1929—June 1930. See Arend Smilde, “A Note on Context and Chronology” in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015), 39."]
     },
     {
+        id: "uxmwb9",
         title: "“Outline of Narnian history so far as it is known”",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -939,6 +1024,7 @@ const texts = [
         notes: ["Rerinted in <i>Past Watchful Dragons,</i> ed. Walter Hooper (1971), 41-44."]
     },
     {
+        id: "6fw9ba",
         title: "“Plots” (outline of <i>The Voyage of the Dawn Treader</i>)",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -950,6 +1036,7 @@ const texts = [
         notes: ["Reprinted, without the holograph, as “Plots” in <i>Past Watchful Dragons,</i> ed. Walter Hooper (1971), 46.", "Holograph reprinted in Hooper, <i>Through Joy and Beyond</i> (1982), 112."]
     },
     {
+        id: "d4wsjv",
         title: "Galley proofs of <i>The Silver Chair</i>",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -961,6 +1048,7 @@ const texts = [
         notes: null
     },
     {
+        id: "c5hbzm",
         title: "Map of Narnia",
         printedIn: "Walter Hooper, “Past Watchful Dragons: The Fairy Tales of C.S. Lewis,” <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -972,6 +1060,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ch99pp",
         title: "“The Lefay Fragment”",
         printedIn: "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
         issueOrVolume: null,
@@ -983,6 +1072,7 @@ const texts = [
         notes: ["Only the first paragraph of 48, the next paragraph till the second line of 49, and the passage from pages 62 (starting at the bottom) through page 65 are printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 304-307. The rest of this fragment (almost 14 full pages) is unique to this book. However a holograph is unique to <i>Imagination and the Spirit,</i> 305."]
     },
     {
+        id: "23mzkp",
         title: "“Eustace’s Diary”",
         printedIn: "<i>Past Watchful Dragons</i> (London: Collier Macmillan)",
         issueOrVolume: null,
@@ -993,7 +1083,8 @@ const texts = [
         type: "Prose",
         notes: ["Only partially printed in <i>Imagination and the Spirit,</i> ed. Charles A. Huttar (1971), 309. Most of this fragment is unique to this book."]
     },
-    { // TODO: VERIFY AUTHENTICITY
+    {
+        id: "6qvf6w", // TODO: VERIFY AUTHENTICITY
         title: "“Professor J.R.R. Tolkien: Creator of Hobbits and Inventor of a New Mythology”",
         printedIn: "<i>The Times</i>",
         issueOrVolume: null,
@@ -1005,6 +1096,7 @@ const texts = [
         notes: ["An obituary by Lewis, though the piece is unsigned. See Philip Zaleski and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus and Giroux 2015), 543, and Humphrey Carpenter, <i>J.R.R. Tolkien: A Biography</i> part 4, ch. 3, the paragraph beginning “One reason for Tolkien’s effectiveness…”"]
     },
     {
+        id: "qknfsd",
         title: "Earliest known manuscript (c. 1939) of <i>The Lion, the Witch and the Wardrobe</i>",
         printedIn: "Walter Hooper’s preface to Kathryn Ann Lindskoog, <i>The Lion of Judah in Never-Never Land</i> (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1016,6 +1108,7 @@ const texts = [
         notes: ["This manuscript is written on the back of the first page of the manuscript of <i>The Dark Tower,</i> found in the Bodleian Library.", "A holograph of this text, along with the first pages of <i>The Dark Tower,</i> was later printed in <i>The Canadian C.S. Lewis Journal,</i> no. 66 (Spring 1989), 4-5, 7. ", "Another holograph (but without any portion of <i>The Dark Tower</i>), was printed in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), plate 17.", "Text also reprinted in Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press, 2006), 102."]
     },
     {
+        id: "ja856t",
         title: "Juvenilia: Boxen illustrations and manuscripts",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1027,6 +1120,7 @@ const texts = [
         notes: ["Only <i>some</i> of these holographs, or at least the texts in them, are reproduced in <i>Boxen</i> (2008). What is given here are all the texts not later collected in <i>Boxen</i> (2008)."]
     },
     {
+        id: "xe34ke",
         title: "Juvenilia: fragment of “To Mars and Back”, a story written by Lewis as a six-year-old",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1038,6 +1132,7 @@ const texts = [
         notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
+        id: "rj65s6",
         title: "Non-Boxen story illustrations",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1049,6 +1144,7 @@ const texts = [
         notes: ["These holographs do not appear in the 2005 edition of this book."]
     },
     {
+        id: "edzc7j",
         title: "Signature and note in Malvern headmaster’s book",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1060,6 +1156,7 @@ const texts = [
         notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
+        id: "97hj8z",
         title: "Annotations in his copy of <i>Annals of English Literature 1475-1950</i> (Oxford: 1935)",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1071,6 +1168,7 @@ const texts = [
         notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
+        id: "rsvcpz",
         title: "Family tree of Crowfoot family in his copy of George MacDonald, <i>Annals of a Quiet Neighborhood</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1082,6 +1180,7 @@ const texts = [
         notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
+        id: "swfc4x",
         title: "Drawing of W.T. Kirkpatrick",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1093,6 +1192,7 @@ const texts = [
         notes: ["Appears somewhat smaller in <i>C.S. Lewis: Images of His World</i> (2005), 38."]
     },
     {
+        id: "p7kyqh",
         title: "Inscription to his father in a 1<sup>st</sup> edition of <i>Spirits in Bondage</i>",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -1104,6 +1204,7 @@ const texts = [
         notes: ["The holograph does not appear in the 2005 edition of this book."]
     },
     {
+        id: "kuk9wa",
         title: "Annotations on Shakespeare",
         printedIn: "Lionel Adey, “C.S. Lewis’s Annotations to His Shakespeare Volumes,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 8, no. 7",
@@ -1115,6 +1216,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kdg2md",
         title: "Inscription to J.R.R. Tolkien in a presentation copy of <i>The Screwtape Letters</i>",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -1126,6 +1228,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3gvg8s",
         title: "Pen portraits of Arthur Greeves’s parents and of Arthur Greeves",
         printedIn: "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         issueOrVolume: null,
@@ -1137,6 +1240,7 @@ const texts = [
         notes: ["The portraits of Greeves’s parents derive from <i>LP</i> 3:302-304.", "Lewis’s early refusal to describe Greeves is from <i>LP</i> 3:305. It was previously partially excerpted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich, 1974), 40. Walter Hooper incorrectly states in <i>C.S. Lewis at the Breakfast Table</i>, 280, item D166, that page 40 contains a pen portrait of Arthur Greeves’ family. In fact, the brief portrait (only a sentence fragment “...after my brother, my oldest and most intimate friend.”) is of Arthur Greeves himself, not his family. There is also a second fragment, much longer, by Warren, on the same page. Both portraits can also be found in the 2002 revised edition of Hooper and Green’s biography on 23.", "The portrait of Greeves derives from <i>LP</i> 10:218-220. It was previously excerpted in Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich, 1974), 98."]
     },
     {
+        id: "j5qspn",
         title: "Minutes of the Martlets Society for 26 February 1919 (University College, Oxford)",
         printedIn: "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         issueOrVolume: null,
@@ -1148,6 +1252,7 @@ const texts = [
         notes: ["Library call number: MS. Top. Oxon. D. 95/3, fo. 69."]
     },
     {
+        id: "88rtau",
         title: "Parts of original BBC broadcasts (1942) not included in the published versions",
         printedIn: "Walter Hooper, introduction to C.S. Lewis, <i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan)",
         issueOrVolume: null,
@@ -1159,6 +1264,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ex2avt",
         title: "“Answers to Listeners’ Questions” typescript Lewis read over the BBC on 3 September 1941",
         printedIn: "<i>Mere Christianity, Anniversary Edition,</i> ed. Walter Hooper (New York: Macmillan, 1981)",
         issueOrVolume: null,
@@ -1170,6 +1276,7 @@ const texts = [
         notes: ["This piece was later rewritten to form Chapter II (“Some Objections”) in <i>Broadcast Talks</i>."]
     },
     {
+        id: "uhahh9",
         title: "Preface to “Screwtape Proposes a Toast”",
         printedIn: "<i>The Screwtape Letters with Screwtape Proposes a Toast,</i> revised edition (New York: Macmillan)",
         issueOrVolume: null,
@@ -1181,6 +1288,7 @@ const texts = [
         notes: ["Not to be confused with the 1942 and 1961 prefaces for <i>The Screwtape Letters</i>. Or the alternate preface to <i>The Screwtape Letters</i> published by Brenton Dickieson in 2013."]
     },
     {
+        id: "dkuupa",
         title: "<i>A Cretaceous Perambulator</i>",
         printedIn: "Owen Barfield and Clive Staples Lewis, <i>A Cretaceous Perambulator (the Re-examination Of),</i> Oxford University CS Lewis Society and partially <a href='https://www.owenbarfield.org/read-online/with-c-s-lewis/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         issueOrVolume: null,
@@ -1192,6 +1300,7 @@ const texts = [
         notes: ["Limited to 100 copies, according to <i>CL</i> 2:155 note 8.", "Portions of the text with Lewis’s answers were reprinted in Laurence Harwood, <i>C.S. Lewis, My Godfather</i> (Downer’s Grove, IL: IVP Books, 2007), 34-35 and in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 101-102 and plates 18-19 (holographs)."]
     },
     {
+        id: "hcuhmj",
         title: "Inscription to Joy Davidman in a copy of George MacDonald’s <i>Diary of an Old Soul</i>",
         printedIn: "Lyle W. Dorsett, <i>And God Came In</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -1203,6 +1312,7 @@ const texts = [
         notes: ["This copy was also dated and inscribed by MacDonald himself on April 27, 1885 (hence Lewis’s “Later”)."]
     },
     {
+        id: "xerqgy",
         title: "Original typescript conclusion to essay “Sir Walter Scott”",
         printedIn: "Dabney Adams Hart, <i>Through the Open Door: A New Look at C.S. Lewis</i> (University of Alabama Press)",
         issueOrVolume: null,
@@ -1214,6 +1324,7 @@ const texts = [
         notes: ["Typescript found in the Edinburgh Sir Walter Scott Club’s files.", "The corrected text as printed in <i>Selected Literary Essays</i> reads thus: “You may feel that I have spent too much time on this great author’s faults and too little on his excellences. But that is because I am speaking among friends. Where else does one mention the faults of a man one loves? And Scott today has few friends. Our juniors are ill at ease in his presence.”"]
     },
     {
+        id: "5xtaas",
         title: "Notes on the <i>Lay of Leithian</i> by J.R.R. Tolkien",
         printedIn: "J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin)",
         issueOrVolume: null,
@@ -1225,6 +1336,7 @@ const texts = [
         notes: ["Pagination of the 1994 Ballantine paperback edition: 374-392."]
     },
     {
+        id: "2yce2u",
         title: "Juvenilia: note on Shakespeare",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
@@ -1236,6 +1348,7 @@ const texts = [
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this note can be found on 232."]
     },
     {
+        id: "jyvyyp",
         title: "Juvenilia: Boxonian short story “Life of Little Mr White”",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
@@ -1247,6 +1360,7 @@ const texts = [
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this story can be found on 233."]
     },
     {
+        id: "xtyrhj",
         title: "Juvenilia: note on “How to Make Man Picturesc”",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
@@ -1258,6 +1372,7 @@ const texts = [
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this note can be found on 236."]
     },
     {
+        id: "zvqqjc",
         title: "Inscription in a 1st edition of <i>Spirits in Bondage</i>",
         printedIn: "H.R. Woudhuysen, “Sales of books and manuscripts,” <i>The Times Literary Supplement</i>",
         issueOrVolume: null,
@@ -1269,6 +1384,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cptae2",
         title: "Note on an essay written by Kenneth Tynan (c.1946)",
         printedIn: "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
         issueOrVolume: null,
@@ -1280,6 +1396,7 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 42 and John Lahr, “The Whirlwind” <i>The New Yorker</i> (August 7, 2000)."]
     },
     {
+        id: "vx2jsg",
         title: "Annotations on his copy of Milton, <i>Paradise Lost</i>",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 61",
@@ -1291,6 +1408,7 @@ const texts = [
         notes: null
     },
     {
+        id: "q2ph2k",
         title: "Note to E.L. Edmonds on a printed notice of rules about Magdalen College degrees",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 63",
@@ -1302,6 +1420,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3jcsze",
         title: "Excerpts from an essay on Richard Wagner (1911 [<i>LP</i> 3:233-234])",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
@@ -1313,6 +1432,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gjbv63",
         title: "Note on a period of estrangement from his father (Bodleian MS. facs. d.264 f.140)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
@@ -1324,6 +1444,7 @@ const texts = [
         notes: null
     },
     {
+        id: "m487c3",
         title: "Note left at Warnie’s hotel explaining his absence (<i>LP</i> 6:193)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
@@ -1335,6 +1456,7 @@ const texts = [
         notes: null
     },
     {
+        id: "c4cxke",
         title: "Annotations in his copy of <i>Sir Gawain and the Green Knight</i>",
         printedIn: "<i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -1346,6 +1468,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bzfezb",
         title: "Blurb for J.R.R. Tolkien, <i>The Fellowship of the Ring</i>",
         printedIn: "J.R.R. Tolkien, <i>The Fellowship of the Ring: Being the First Part of the Lord of the Rings</i> (London: George Allen and Unwin)",
         issueOrVolume: null,
@@ -1357,6 +1480,7 @@ const texts = [
         notes: ["From <i>CL</i> 3:383 to Stanley Unwin (4 December 1953). The blurb portion of this letter, along with a holograph of it, is reprinted in <i>Life and Legend: An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien (1892-1973)</i> (Oxford: Bodleian Library, 1992), 62."]
     },
     {
+        id: "jusekt",
         title: "Blurb for Robert Penn Warren, <i>Brother to Dragons</i> (London: Eyre and Spottiswoode, 1953)",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -1368,6 +1492,7 @@ const texts = [
         notes: ["The dust jacket for this edition does not contain any comment by Lewis, nor does that of the American edition (New York: Random House, 1953)."]
     },
     {
+        id: "w5ahkt",
         title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
         printedIn: "Doris T. Myers, <i>C.S. Lewis in Context</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -1379,6 +1504,7 @@ const texts = [
         notes: ["See also page 80 for an indirect account of Lewis’s annotations on the flyleaf of <i>The Control of Language,</i> and how they align with chapter II, footnote 1 in the published <i>The Abolition of Man</i>."]
     },
     {
+        id: "wuxtsa",
         title: "Notes on iconoclasm and satire in Joy Gresham’s copy of <i>The Great Divorce</i> (1952)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1390,6 +1516,7 @@ const texts = [
         notes: ["Joy’s copy of <i>The Great Divorce</i> is now in the possession of Steve Beebe. See Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers, 2020), 58."]
     },
     {
+        id: "63n5uy",
         title: "Note on ancient Greek word “Echeneis”",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1401,6 +1528,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9karzr",
         title: "Excerpts from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1412,6 +1540,7 @@ const texts = [
         notes: null
     },
     {
+        id: "tt2g4a",
         title: "Note on unpublished abridgement of <i>Perelandra</i> on the title page of Lewis’s copy of <i>Perelandra</i>",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1423,6 +1552,7 @@ const texts = [
         notes: ["Lewis had abridged <i>That Hideous Strength</i> into <i>The Tortured Planet</i> (1946). Then, Hooper reports, “It would appear that after this Avon asked Lewis to do the same with <i>Perelandra</i> which is abridged in his own hand. He seems to have had in mind shortening this book by about a quarter. In any event, the abridgement was never used, and on the title page he wrote…”"]
     },
     {
+        id: "suzyba",
         title: "Note in Magdalen “Betting Book” (14 May 1946)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1434,6 +1564,7 @@ const texts = [
         notes: ["Corrections have been made to Hooper’s transcription based on the holograph in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), plate 6 (holograph). According to Horobin the bet was made with C.E. Stevens (not “Tom Brown Stevens”)."]
     },
     {
+        id: "m3tewd",
         title: "His will",
         printedIn: "<i>Discovery Institute</i>",
         issueOrVolume: null,
@@ -1445,6 +1576,7 @@ const texts = [
         notes: ["Portions of this document had been quoted in Walter Hooper, “The Lewis That Stayed Behind,” <i>Magdalen College Record 1995</i>, which were reprinted in <i>The Canadian C.S. Lewis Journal,</i> vol. 89 (Spring 1996), 7-9."]
     },
     {
+        id: "qjmm82",
         title: "Corrections on the <i>Screwtape</i> manuscript",
         printedIn: "James T. Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         issueOrVolume: null,
@@ -1456,6 +1588,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9cccsb",
         title: "Annotation in his copy of I.A. Richards, <i>Practical Criticism</i>",  
         printedIn: "James T. Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         issueOrVolume: null,
@@ -1467,6 +1600,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6wfmjr",
         title: "Note on a draft of <i>The Discarded Image</i>",
         printedIn: "James T. Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications)",
         issueOrVolume: null,
@@ -1478,6 +1612,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s5nwsv",
         title: "Excerpts from an early short story, Text A (<i>LP</i> 11:251-254) and Text B (<i>LP</i> 11:254-255)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -1489,6 +1624,7 @@ const texts = [
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 48."]
     },
     {
+        id: "rsa9m6",
         title: "Note for Dorothy Sayers added to a letter sent by Sir Humphrey Milford to Lewis and forwarded (5 or 6 July 1945) to Sayers",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
@@ -1500,6 +1636,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hkqf3m",
         title: "Comment on Dorothy Sayers’s Dante article",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
@@ -1511,6 +1648,7 @@ const texts = [
         notes: null
     },
     {
+        id: "r5p7em",
         title: "Annotation in his copy of I.A. Richards, <i>Principles of Literary Criticism</i>",
         printedIn: "James T. Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications, 1998)",
         issueOrVolume: null,
@@ -1522,6 +1660,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e752m8",
         title: "Comment on the blurb of <i>The Pilgrim’s Regress</i> (New York: Sheed & Ward, 1935), dust jacket front flap",
         printedIn: "the entry on <i>The Pilgrim’s Regress</i> in <i>The C.S. Lewis Readers’ Encyclopedia,</i> eds. Jeffrey D. Schultz and John D. West Jr. (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -1533,6 +1672,7 @@ const texts = [
         notes: ["The source incorrectly claims that Lewis’s comment was written on the flyleaf, when in fact it is written on the front flap of the jacket, below the blurb.", "It also claims that this particular copy of <i>The Pilgrim’s Regress</i> was presented to Lewis’s father. However, Albert Lewis had died on 25 September 1929, approximately six years before the Sheed & Ward edition was published and almost three before the original draft of the <i>Regress</i> was composed in August 1932."]
     },
     {
+        id: "7erxk4",
         title: "Inscription to Penelope Bleakeley in her copy of <i>The Lion, the Witch, and the Wardrobe</i>",
         printedIn: "David Bleakley, <i>C.S. Lewis: At home in Ireland, A Centenary Biography</i> (Bangor, Northern Ireland: Strandtown Press)",
         issueOrVolume: null,
@@ -1544,6 +1684,7 @@ const texts = [
         notes: null
     },
     {
+        id: "f34ycb",
         title: "Notes below poem on manuscript of “Lines to Mr. Compton Mackenzie”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -1555,6 +1696,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5petk4",
         title: "Annotations in his copy of Julian of Norwich, <i>Revelations of Divine Love</i>",
         printedIn: "John Lawlor, <i>C.S. Lewis: Memories and Reflections</i> (Dallas, TX: Spence Publishing Company)",
         issueOrVolume: null,
@@ -1566,6 +1708,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j53u48",
         title: "Annotations in his copy of Shakespeare, <i>Antony and Cleopatra</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1577,17 +1720,19 @@ const texts = [
         notes: null
     },
     {
+        id: "dzj5au",
         title: "Annotations in his copy of Shakespeare, <i>Coriolanus</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
         pageRange: "48-49",
         year: 1998,
         monthAndDay: null,
-        textProvided: "[<i>Coriolanus</i> merely has a few brief notes with page references designed to jog Lewis’s memory: a note like]<br><br>Erasmus [p.]19<br><br>[is not very illuminating.]",
+        textProvided: "[<i>Coriolanus</i> merely has a few brief notes with page references designed to jog Lewis’s memory: a note like]<br><br>Erasmus 19<br><br>[is not very illuminating.]",
         type: "Annotation",
         notes: null
     },
     {
+        id: "v435d4",
         title: "Annotations in his copy of Shakespeare, <i>Hamlet</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1599,6 +1744,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vn3nf6",
         title: "Annotations in his copy of Shakespeare, <i>Love’s Labour’s Lost</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1610,6 +1756,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rarwgh",
         title: "Annotations in his copy of Shakespeare, <i>The Merry Wives of Windsor</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1621,6 +1768,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qhtkpa",
         title: "Annotations in his copy of Shakespeare, <i>Othello</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1632,6 +1780,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ffny9s",
         title: "Annotations in his copy of Shakespeare, <i>Richard III</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1643,6 +1792,7 @@ const texts = [
         notes: ["This annotation was partially reprinted in E.H. Cooper, “Reading a Sonnet with C.S. Lewis” in <i>Magdalen College Magazine,</i> no. 60 (2015-16), 63 and <a href='https://issuu.com/magdalenecollege/docs/college_magazine_2015-16' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
+        id: "k2ct36",
         title: "Annotations in his copy of Shakespeare, <i>The Tempest</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1654,6 +1804,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xx5h2m",
         title: "Annotations in his copy of Shakespeare, <i>Two Gentlemen of Verona</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1665,6 +1816,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4yx68x",
         title: "Annotations in his copy of Shakespeare, <i>The Winter’s Tale</i>",
         printedIn: "Raphael T.R. Lyne, “C.S. Lewis and his Arden Shakespeare,” <i>Magdalene College Magazine and Record</i>",
         issueOrVolume: "no. 42",
@@ -1676,6 +1828,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fm53w8",
         title: "Description of a school friend (<i>LP</i> 3:175)",
         printedIn: "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         issueOrVolume: null,
@@ -1687,6 +1840,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4pxwae",
         title: "Excerpts from “Home Rule” essay (Wade MS-158)",
         printedIn: "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         issueOrVolume: null,
@@ -1698,6 +1852,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qgbhyk",
         title: "Excerpts from early short story Text A (<i>LP</i> 11:251-254)",
         printedIn: "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         issueOrVolume: null,
@@ -1709,6 +1864,7 @@ const texts = [
         notes: null
     },
     {
+        id: "w87ayg",
         title: "Excerpt from early short story Text B (<i>LP</i> 11:254-255)",
         printedIn: "Ronald W. Bresland, <i>The Backward Glance: C.S. Lewis and Ireland</i> (Belfast, UK: Queen’s University)",
         issueOrVolume: null,
@@ -1720,6 +1876,7 @@ const texts = [
         notes: null
     },
     {
+        id: "b8ec94",
         title: "Inscription in a manuscript of <i>An Experiment in Criticism</i> given to H. Stanley Bennett (c. 1962)",
         printedIn: "Brian Barbour, “Lewis and Cambridge,” <i>Modern Philology</i>",
         issueOrVolume: "vol. 96, no. 4 (May)",
@@ -1731,6 +1888,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qauaex",
         title: "Annotation on the flyleaf of his copy of Shakespeare, <i>Othello</i>",
         printedIn: "Colin Manlove, “Shakespeare,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1742,6 +1900,7 @@ const texts = [
         notes: null
     },
     {
+        id: "frq7w9",
         title: "Draft of first lines of <i>Surprised by Joy</i>",
         printedIn: "John D. Rateliff, “<i>The Lost Road, The Dark Tower,</i> and <i>The Notion Club Papers:</i> Tolkien and Lewis’ Time Travel Triad,” in <i>Tolkien’s Legendarium: Essays on The History of Middle-earth,</i> eds. Verlyn Flieger and Carl F. Hostetter (Westport, CT; London: Greenwood Press)",
         issueOrVolume: null,
@@ -1753,6 +1912,7 @@ const texts = [
         notes: ["Text is written on the back of the 2<sup>nd</sup> page of the <i>Dark Tower</i> MS."]
     },
     {
+        id: "ckbw9x",
         title: "Note on a 21 December 1953 letter from Dorothy Sayers",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Four, 1951-1957: In the Midst of Life,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
@@ -1764,6 +1924,7 @@ const texts = [
         notes: ["Note written at the top of the letter."]
     },
     {
+        id: "utbsw4",
         title: "Note on Lewis’s poem “The Nativity” (sent to Mary Willis Shelburne 3 December 1953) as photograph",
         printedIn: "Ruth James Cording, <i>C.S. Lewis: A Celebration of His Early Life</i> (Nashville, TN: Broadman and Holman)",
         issueOrVolume: null,
@@ -1775,6 +1936,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xja9wf",
         title: "Annotation in his copy of E.K. Chambers and F. Sidgwick, <i>Early English Lyrics</i>",
         printedIn: "David Lyle Jeffrey, “Medieval Literature,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1786,6 +1948,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xyzvgs",
         title: "Annotation in his copy of W.W. Skeat, <i>Chaucer: The Minor Poems</i>",
         printedIn: "David Lyle Jeffrey, “Medieval Literature,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1797,6 +1960,7 @@ const texts = [
         notes: null
     },
     {
+        id: "828rzj",
         title: "Annotations in his copy of John Jay Parry, <i>The Art of Courtly Love</i>",
         printedIn: "David Lyle Jeffrey, “Medieval Literature,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1808,6 +1972,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9p67xe",
         title: "Annotation on the front flap of his copy of Bruno S. James, <i>St. Bernard of Clairvaux</i>",
         printedIn: "David Lyle Jeffrey, “Medieval Literature,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1819,6 +1984,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6bfgvw",
         title: "Annotations in his copies of various unspecified books ",
         printedIn: "David Lyle Jeffrey, “Medieval Literature,” <i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -1830,6 +1996,7 @@ const texts = [
         notes: null
     },
     {
+        id: "spf3yb",
         title: "Fragments of <i>Othello</i> manuscript",
         printedIn: "J. Duke Pesta, “C.S. Lewis’ Lost <i>Othello</i> Manuscript and the Re-Presentations of Race,” <i>Journal of the Wooden O Symposium</i>",
         issueOrVolume: "vol. 1",
@@ -1841,6 +2008,7 @@ const texts = [
         notes: null
     },
     {
+        id: "a6nmf3",
         title: "Fragments of <i>Othello</i> manuscript",
         printedIn: "Michael W. Price, “Rare Commentary from C.S. Lewis on Shakespeare: The Recently-Discovered <i>Othello</i> Essays,” <i>Journal of the Wooden O Symposium</i>",
         issueOrVolume: "vol. 1",
@@ -1852,6 +2020,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7xuyt6",
         title: "Excerpts from an essay on Richard Wagner (1911 [<i>LP</i> 3:233-234])",
         printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -1863,6 +2032,7 @@ const texts = [
         notes: null
     },
     {
+        id: "x9ksr8",
         title: "Prefatory note to “Half Hours with Hamilton or Quiet Moments” (Wade MS-53)",
         printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -1874,6 +2044,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent, OH: Kent State University Press, 2015), 460; “George Herbert, <i>The Temple</i>” in <i>C.S. Lewis’s List: The Ten Books That Influenced Him Most,</i> eds. David Werther and Susan Werther (New York and London: Bloomsbury Academic, 2015), 74 note 25; and Don W. King, “C.S. Lewis and George Herbert’s The Temple,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 14 (2020), 148 note 23 and <a href='https://doi.org/10.55221/1940-5537.1183' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>.", "According to Walter Hooper (<i>Poems</i> 1994), “fourteen of [Lewis’s] religious lyrics were sent to Owen Barfield during the summer of 1930 under the general title ‘Half Hours with Hamilton,’ and they are some of the most beautiful poems Lewis wrote. Most of these same poems were to appear a couple of years later in his semi-autobiographical <i>The Pilgrim’s Regress</i> (1933). They were always Lewis’s favourites of his own poems” (xv)."]
     },
     {
+        id: "txsxgp",
         title: "Stage directions for “Loki Bound” (<i>LP</i> 4:217)",
         printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -1885,6 +2056,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s2xhm9",
         title: "Parts of original scripts for BBC broadcasts (1941) not included in published versions",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -1896,6 +2068,7 @@ const texts = [
         notes: ["Some quotations on 163-164 are from a 15 September 1942 letter by Eric Fenn.", "Most differences are simply contractions for speaking.", "The more significant were published in fuller form in the 1981 Anniversary Edition of <i>Mere Christianity</i>.", "This text has not yet been transcribed. If you would like to do so, let me know."]
     },
     {
+        id: "n65utf",
         title: "Excerpt from an early short story, Text A (<i>LP</i> 11:252)",
         printedIn: "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: Hidden Spring [Paulist])",
         issueOrVolume: null,
@@ -1907,6 +2080,7 @@ const texts = [
         notes: ["Only one word is not present in George Sayer’s excerpt from the same short story in <i>Jack:</i> “lonely”. Sayers also includes the word “treasure” but does not place it in quotation marks."]
     },
     {
+        id: "5z7nbb",
         title: "Annotations in his copy of <i>The Book of Common Prayer</i>",
         printedIn: "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press, 2004)",
         issueOrVolume: "73 notes 13 and 163",
@@ -1918,6 +2092,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sma26s",
         title: "Annotation on the endpapers of his copy of Richard Baxter, <i>Saint’s Everlasting Rest</i>",
         printedIn: "Lyle W. Dorsett, <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press, 2004)",
         issueOrVolume: null,
@@ -1929,6 +2104,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sbb2qh",
         title: "Note on a paper by J.O. Reed (June 1950)",
         printedIn: "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         issueOrVolume: null,
@@ -1940,6 +2116,7 @@ const texts = [
         notes: ["The Lewis “quote” from Reed on 72 is probably not exact, but a later reminiscence."]
     },
     {
+        id: "49u9e7",
         title: "Suggested revisions of Psalms I-XLI (10 March 1959), LXVII-LXXXI, and LXXXIV-LXXIX for the Archbishops’ Commission to Revise the Psalter",
         printedIn: "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "Vol. 22",
@@ -1951,6 +2128,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xhrp85",
         title: "Annotations in his copy of Alec King and Martin Ketley, <i>The Control of Language</i> (=Gaius and Titius, <i>The Green Book</i> in <i>The Abolition of Man</i>)",
         printedIn: "Alan Jacobs, <i>The Narnian: The Life and Imagination of C.S. Lewis</i> (New York: HarperSanFrancisco: 2005)",
         issueOrVolume: null,
@@ -1962,6 +2140,7 @@ const texts = [
         notes: null
     },
     {
+        id: "d85e56",
         title: "Annotations in his copy of John Stuart Mill, <i>Autobiography</i>",
         printedIn: "Adam Barkman, “My George MacDonald: How C.S. Lewis Helped Shape My Life,” <i>Pilgrimage: The Bulletin of the Toronto C.S. Lewis Society</i>",
         issueOrVolume: "vol. 12, no. 1 (January)",
@@ -1973,6 +2152,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jqfspy",
         title: "Annotation in his copy of Augustine, <i>De Civitate Dei</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 3 (Fall)",
@@ -1984,6 +2164,7 @@ const texts = [
         notes: null
     },
     {
+        id: "w957ru",
         title: "Annotations in his copy of Leibniz, <i>Oeuvres Philosophiques Books I-II,</i>  trans. M. Paul Janet (Paris: Librarie Philosophique de Ladranje, 1866)",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 3 (Fall)",
@@ -1995,6 +2176,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3s45he",
         title: "Annotation in his copy of Plato, <i>Timaeus</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 3 (Fall)",
@@ -2006,6 +2188,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gmb52e",
         title: "Annotations in his copy of <i>King Alfred’s Old English Version of Boethius’ De Consolatione Philosophiae,</i> ed. Walter John Sedgefield (Oxford: Clarendon press, 1899)",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 4 (Winter)",
@@ -2017,6 +2200,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vm4mzv",
         title: "Annotation in his copy of Aristotle, <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 4 (Winter)",
@@ -2028,6 +2212,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6rzgtc",
         title: "Annotation on the back of his copy of Aristotle, <i>The Ethics of Aristotle,</i> ed. John Burnet (Methuen, 1900)",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 4 (Winter)",
@@ -2039,6 +2224,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7s5dng",
         title: "Annotation in his copy of Aristotle, <i>Politics</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 4 (Winter)",
@@ -2050,6 +2236,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jfu52h",
         title: "Annotation in his copy of Augustine, <i>De Civitate Dei</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and Philosophy as a Way of Life: An Essay on Being and Becoming,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i>",
         issueOrVolume: "vol. 29, no. 4 (Winter)",
@@ -2061,6 +2248,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gajvmh",
         title: "Inscription to Geoffrey Barfield in a 1<sup>st</sup> UK edition of <i>Prince Caspian</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2072,6 +2260,7 @@ const texts = [
         notes: null
     },
     {
+        id: "guvbbm",
         title: "Inscription to Geoffrey Corbett in a 1<sup>st</sup> UK edition of <i>The Silver Chair</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2083,6 +2272,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xfvtu3",
         title: "Inscription to Mary Neylan in a 1<sup>st</sup> edition of <i>George Macdonald: An Anthology</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2094,6 +2284,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uzvqq3",
         title: "Notes for <i>Beyond Personality</i> on <i>verso</i> of burned manuscript of <i>Christian Behaviour</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2105,6 +2296,7 @@ const texts = [
         notes: ["Reprinted in Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 15 (2021), 36-37 and <a href='https://doi.org/10.55221/1940-5537.1086' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>. They make one emendation in line one, changing “Xnity” to “Xty.”"]
     },
     {
+        id: "afx3qa",
         title: "Inscription to Owen Barfield in a 1<sup>st</sup> UK edition of <i>The Problem of Pain</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2116,6 +2308,7 @@ const texts = [
         notes: null
     },
     {
+        id: "d4jb3z",
         title: "Inscription to Owen Barfield in a 2<sup>nd</sup> UK edition of <i>Dymer</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2127,6 +2320,7 @@ const texts = [
         notes: null
     },
     {
+        id: "f3rftb",
         title: "Note below poem “Metrical Experiment” on the endpapers of John Arlott’s copy of <i>The Screwtape Letters</i>",
         printedIn: "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2138,6 +2332,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5pfasy",
         title: "Notes accompanying two poems on the endpapers of John Arlott’s copy of <i>The Screwtape Letters</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2149,6 +2344,7 @@ const texts = [
         notes: ["The second comment (on 113) was reprinted and interpreted by Brenton Dickieson and Charlie Starr in “The Archangel Fragment and C.S. Lewis’s World-Building Project,” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 13 (2019), 15 and <a href='https://doi.org/10.55221/1940-5537.1289' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>'.", "However, Starr and Dickieson misidentify the source of the quotation as being inscribed by Lewis on a copy of James Stephens’s <i>Here Are Ladies</i> (15). Joe Ricke corrected them in “The Archangel Fragment: Identifying and Interpreting C.S. Lewis’s ‘Cryptic Note,’” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 14 (2020), 108-109 and <a href='https://doi.org/10.55221/1940-5537.1181' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
+        id: "52d7s8",
         title: "Inscription to Bel Goldstine in a 1<sup>st</sup> US edition of <i>Till We Have Faces</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2160,6 +2356,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ra6npb",
         title: "Inscription to Bel Goldstine in a 1<sup>st</sup> US edition of <i>Surprised by Joy</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2171,6 +2368,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bcedy4",
         title: "Excerpt from uncorrected proof copy of <i>The Horse and His Boy</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2182,6 +2380,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e959jt",
         title: "Alternate title for <i>The Horse and His Boy</i> in uncorrected proof copy of <i>The Silver Chair</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2193,6 +2392,7 @@ const texts = [
         notes: null
     },
     {
+        id: "szcrdz",
         title: "Inscription to Penelope Berners-Price in a 1<sup>st</sup> edition of <i>Prince Caspian</i>",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -2204,6 +2404,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kbknh4",
         title: "Note on the manuscript of Lewis’s “Panegyric for Dorothy L. Sayers”",
         printedIn: "Barbara Reynold’s “C.S. Lewis and Dorothy L. Sayers,” in <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues,</i> eds. Harry Lee Poe and Rebecca Whitten Poe (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -2215,6 +2416,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4nupnx",
         title: "Annotations on Ralph Waldo Emerson",
         printedIn: "Jack L. Knowles, “That ‘such a genius should be a beastly American’: C.S. Lewis as Critic of American Literature,” <i>SEVEN: Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 23",
@@ -2226,6 +2428,7 @@ const texts = [
         notes: null
     },
     {
+        id: "auzec9",
         title: "Annotation in his copy of Alexander D’Entreves, <i>The Medieval Contribution to Political Thought: Thomas Aquinas, Marsilius of Padua, Richard Hooker</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
@@ -2237,6 +2440,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jg9pqf",
         title: "Annotation in his copy of Athanasius, <i>De Incarnatione</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
@@ -2248,6 +2452,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hzbgzj",
         title: "Annotation in his copy of Tacitus, <i>Annalium</i>",
         printedIn: "Adam Barkman, “C.S. Lewis and the Enduring Relevance of the Monarchy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 37, no. 4 (July-August)",
@@ -2259,6 +2464,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6pg9uk",
         title: "Annotation in his copy of Aristotle, <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, “Augustinian Will and Aristotelian <i>Phronēsis</i> in C.S. Lewis’ Theory of Moral Action,” <i>Inklings-Jahrbuch für Literatur und Ästhetik</i>",
         issueOrVolume: "vol. 24",
@@ -2270,6 +2476,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3p4fkf",
         title: "Annotation in his copy of Augustine, <i>De Civitate Dei</i>",
         printedIn: "Adam Barkman, “Augustinian Will and Aristotelian <i>Phronēsis</i> in C.S. Lewis’ Theory of Moral Action,” <i>Inklings-Jahrbuch für Literatur und Ästhetik</i>",
         issueOrVolume: "vol. 24",
@@ -2281,6 +2488,7 @@ const texts = [
         notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis</i>, eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
+        id: "b4u67z",
         title: "Annotation in his copy of Dante, <i>De Monarchia</i>",
         printedIn: "Adam Barkman, “Augustinian Will and Aristotelian <i>Phronēsis</i> in C.S. Lewis’ Theory of Moral Action,” <i>Inklings-Jahrbuch für Literatur und Ästhetik</i>",
         issueOrVolume: "vol. 24",
@@ -2292,6 +2500,7 @@ const texts = [
         notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
+        id: "nms9fj",
         title: "Annotation in his copy of Richard Hooker, <i>Of the Laws of Ecclesiastical Polity</i>",
         printedIn: "Adam Barkman, “Augustinian Will and Aristotelian <i>Phronēsis</i> in C.S. Lewis’ Theory of Moral Action,” <i>Inklings-Jahrbuch für Literatur und Ästhetik</i>",
         issueOrVolume: "vol. 24",
@@ -2303,6 +2512,7 @@ const texts = [
         notes: ["Later quoted by Barkman in “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
+        id: "7wbucq",
         title: "Annotation in his copy of Plato, <i>Laws</i>",
         printedIn: "Adam Barkman, “Augustinian Will and Aristotelian <i>Phronēsis</i> in C.S. Lewis’ Theory of Moral Action,” <i>Inklings-Jahrbuch für Literatur und Ästhetik</i>",
         issueOrVolume: "vol. 24",
@@ -2314,6 +2524,7 @@ const texts = [
         notes: ["Later quoted by Barkman in “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society,</i> vol. 38, no. 2 (March-April 2007), 7 note 28 and “Some Ancient Philosophical Sources in C.S. Lewis’s Practical Ethics” in <i>Surprised by Faith: Conversion and the Academy, A Collection of Papers Commemorating the 75th Anniversary of the Conversion of C.S. Lewis,</i> eds. Daryl McCarthy, Joy McBride, and Robert E. VanderVennen (Newcastle, UK: Cambridge Scholars Publishing, 2007)."]
     },
     {
+        id: "b5g3tb",
         title: "Note on the meter in his poem, “To Charles Williams,” in a presentation copy of <i>Arthurian Torso</i>",
         printedIn: "Diana Pavlac Glyer, <i>The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community</i> (Kent, Ohio: Kent State University Press)",
         issueOrVolume: null,
@@ -2325,6 +2536,7 @@ const texts = [
         notes: ["Also published earlier in Catalogue Fifty-Nine, Nigel Williams Rare Books."]
     },
     {
+        id: "9tdwhp",
         title: "Note on early typescript of <i>Letters to Malcolm</i> (later deleted by Lewis)",
         printedIn: "Sean Connolly, <i>Inklings of Heaven: C.S. Lewis and Eschatology</i> (Leominster, UK: Gracewing)",
         issueOrVolume: null,
@@ -2336,6 +2548,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wcspvg",
         title: "References to the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Marjorie Lamp Mead, “<i>Letters to Malcolm:</i> C.S. Lewis on Prayer,” in <i>Apologist, Philosopher, and Theologian</i>, vol. 3 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CT: Praeger Perspectives)",
         issueOrVolume: null,
@@ -2347,6 +2560,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kqxwt2",
         title: "Annotation in his copy of Cyprian of Carthage, <i>Opera Genuina,</i> Vol. 2",
         printedIn: "Adam Barkman, “‘All is Righteousness and there is no Equality’: C.S. Lewis on Gender and Justice,” <i>Christian Scholar’s Review,</i> vol. 36, no. 4 (Summer)",
         issueOrVolume: null,
@@ -2358,6 +2572,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jp79z4",
         title: "Annotations in his copy of François Fénelon, <i>Les Aventures de Telemaque</i>",
         printedIn: "Greg M. Anderson, “A Most Potent Rhetoric: C.S. Lewis, ‘Congenital Rhetorician’” in <i>Scholar, Teacher, and Public Intellectual,</i> vol. 4 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CN: Praeger Perspectives)",
         issueOrVolume: null,
@@ -2369,6 +2584,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5p9zmy",
         title: "Annotation in his copy of Aristotle, <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, “Aristotelian Ethics in C.S. Lewis’ Philosophy,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 38, no. 2 (March-April 2007)",
@@ -2380,6 +2596,7 @@ const texts = [
         notes: null
     },
     {
+        id: "yy7sun",
         title: "Typescript draft of <i>The Silver Chair</i> (pages 121 and 178)",
         printedIn: "Michael Ward, <i>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -2391,6 +2608,7 @@ const texts = [
         notes: null
     },
     {
+        id: "trc277",
         title: "Annotation in his copy of Shakespeare, <i>Love’s Labour’s Lost</i>",
         printedIn: "Michael Ward, <i>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -2402,6 +2620,19 @@ const texts = [
         notes: null
     },
     {
+        id: "2kjmaa",
+        title: "Annotation in his copy of Robert Henryson, <i>The Poems of Robert Henryson</i>",
+        printedIn: "Michael Ward, <i>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</i> (Oxford: Oxford University Press)",
+        issueOrVolume: null,
+        pageRange: "283 note 39",
+        year: 2008,
+        monthAndDay: null,
+        textProvided: "[Cynthia (that is, Luna) is ‘haw,’ according to the ‘Testament of Cresseid.’ Lewis underlined the word and wrote this word in the margin of his copy:]<br><br>pale",
+        type: "Annotation",
+        notes: null
+    },
+    {
+        id: "48yyrr",
         title: "Autobiographical note prepared by the Macmillan Company in 1946",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -2413,6 +2644,7 @@ const texts = [
         notes: null
     },
     {
+        id: "z99xkx",
         title: "Annotations in his copy of Aristotle, <i>Ethica Nicomachea</i>",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -2424,6 +2656,7 @@ const texts = [
         notes: null
     },
     {
+        id: "67pc9h",
         title: "Excerpt from “Henry More” manuscript (1924 notes, Wade MS-170)",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -2435,6 +2668,7 @@ const texts = [
         notes: null
     },
     {
+        id: "y5zp5a",
         title: "Excerpt from “Home Rule” essay (Wade MS-158)",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -2446,6 +2680,7 @@ const texts = [
         notes: null
     },
     {
+        id: "87pwyp",
         title: "Annotations in his copies of Chaucer’s works",
         printedIn: "Simon Horobin, “What C.S. Lewis Really Did to Chaucer’s <i>Troilus and Criseyde,</i>” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 2",
@@ -2457,6 +2692,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zrk3rq",
         title: "“Language and Human Nature”",
         printedIn: "<i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 27",
@@ -2468,6 +2704,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2mw997",
         title: "“Scraps” of ideas in notebook with Lefay fragment and “Language and Human Nature” fragment",
         printedIn: "Steven A. Beebe, “C.S. Lewis on Language and Meaning: Manuscript Fragment Identified,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 27",
@@ -2479,17 +2716,19 @@ const texts = [
         notes: null
     },
     {
+        id: "jxknjp",
         title: "Comments on Tom McAlindon",
         printedIn: "Tom McAlindon, “C.S. Lewis Remembered: Cambridge, 1957-1960),” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 27",
         pageRange: "9",
         year: 2010,
         monthAndDay: null,
-        textProvided: "[{37} He was an exacting teacher, very sparing with praise. On one of my successful days he wrote:]<br><br>The opening paragraph is confusing (or perhaps this is one of my bad mornings), the rest is good, and the final paragraph is very good.<br><br>[On another:]<br><br>This seems to be well handled.<br><br>[Or scattered amidst meticulous quibbles about correctness of terminology and clarity of expression, or reminders that I might look at Macrobius on this or Alanus de Insulis on that, there might be scattered words of approval:]<br><br>A good paragraph<br><br>Very nice<br><br>Well put<br><br>[{38} I sent him at The Kilns my final chapter towards the end of June 1960. He returned it approved on 6 July. He addressed my questions about possible shortening with remarkable care...He wrote that there was no part of my discussion he would like to see omitted and that]<br><br>shortening could only be done word by word—I once reduced a longish book by one third in that way.<br><br>[Noting that I was fond of using adjectives in {39} pairs, he added:]<br><br>Usually both members of the pair are actually doing some work, but if you must shorten, or or other cd. be spared—not without some loss but with only a tolerable loss.<br><br>[With this blend of tact and precision he concluded by wishing me good luck, adding this final and, to me, bewildering sentence:]<br><br>All here is pretty bad.<br><br>[{41} Lewis’s reference on my behalf in 1961 concluded with the oddly irrelevant observation that I was]<br><br>good company",
+        textProvided: "[{37} He was an exacting teacher, very sparing with praise. On one of my successful days he wrote:]<br><br>The opening paragraph is confusing (or perhaps this is one of my bad mornings), the rest is good, and the final paragraph is very good.<br><br>[On another:]<br><br>This seems to be well handled.<br><br>[Or scattered amidst meticulous quibbles about correctness of terminology and clarity of expression, or reminders that I might look at Macrobius on this or Alanus de Insulis on that, there might be scattered words of approval:]<br><br>A good paragraph<br><br>Very nice<br><br>Well put<br><br>[{38} I sent him at The Kilns my final chapter towards the end of June 1960. He returned it approved on 6 July. He addressed my questions about possible shortening with remarkable care...He wrote that there was no part of my discussion he would like to see omitted and that]<br><br>shortening could only be done word by word—I once reduced a longish book by one third in that way.<br><br>[Noting that I was fond of using adjectives in {39} pairs, he added:]<br><br>Usually both members of the pair are actually doing some work, but if you must shorten, one or other cd. be spared—not without some loss but with only a tolerable loss.<br><br>[With this blend of tact and precision he concluded by wishing me good luck, adding this final and, to me, bewildering sentence:]<br><br>All here is pretty bad.<br><br>[{41} Lewis’s reference on my behalf in 1961 concluded with the oddly irrelevant observation that I was]<br><br>good company",
         type: "Prose",
         notes: null
     },
     {
+        id: "sgf5s8",
         title: "“The Easley Fragment”",
         printedIn: "David C. Downing and Bruce R. Johnson, “C.S. Lewis’s Unfinished ‘Easley Fragment’ and his Unfinished Journey,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 28",
@@ -2501,6 +2740,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6fuzve",
         title: "Translations of Virgil’s <i>Aeneid</i>",
         printedIn: "<i>C.S. Lewis’s Lost Aeneid: Arms and the Exile,</i> ed. A.T. Reyes (New Haven: Yale University Press)",
         issueOrVolume: null,
@@ -2512,6 +2752,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uzdu7d",
         title: "Annotations in his copy of Ariosto, <i>Orlando Furioso</i>",
         printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
@@ -2523,6 +2764,7 @@ const texts = [
         notes: null
     },
     {
+        id: "yhgjpg",
         title: "Annotations in his copy of Tasso, <i>La Gerusalemme Liberata</i>",
         printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
@@ -2534,6 +2776,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6xsqp5",
         title: "Annotations in his copy of <i>The Book of the Courtier</i>",
         printedIn: "Charles Ross, “Arthuriana and the Limits of C.S. Lewis’ Ariosto Marginalia,” <i>Arthuriana</i>",
         issueOrVolume: "vol. 21, no. 1",
@@ -2545,6 +2788,7 @@ const texts = [
         notes: null
     },
     {
+        id: "a6nqf3",
         title: "Short story “Light”",
         printedIn: "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -2556,6 +2800,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3w5fue",
         title: "Note on John Foxe (Notebook V, Bodleian Dep.d.809)",
         printedIn: "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -2567,6 +2812,7 @@ const texts = [
         notes: ["A slightly altered version of this text appears in <i>English Literature in the Sixteenth Century,</i> 299: “In 1940, however, Mr J.F. Mozley re-opened the whole question and defended Foxe’s integrity, as it seems to me, with complete success.”"]
     },
     {
+        id: "d5p6du",
         title: "Notes for “Transposition”",
         printedIn: "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -2578,6 +2824,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j8vm45",
         title: "Note on a community gradually going blind",
         printedIn: "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -2589,6 +2836,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vcm5bb",
         title: "Note for a chapter on “Life” in <i>Studies in Words</i>",
         printedIn: "Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -2600,6 +2848,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7nwvvq",
         title: "Annotation in his copy of Henri Bergson, <i>L’Evolution Creatrice</i>",
         printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press) and <a href='https://scienceandculture.com/2013/11/darwin_in_the_d_2/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>",
         issueOrVolume: null,
@@ -2611,6 +2860,7 @@ const texts = [
         notes: null
     },
     {
+        id: "95p3d8",
         title: "Annotations in his copy of Pierre Teilhard de Chardin, <i>The Phenomenon of Man</i>",
         printedIn: "John G. West, “Darwin in the Dock: C.S. Lewis’s Critique of Evolution and Evolutionism” in <i>The Magician’s Twin: C.S. Lewis on Science, Scientism, and Society,</i> ed. John G. West (Seattle: Discovery Institute Press)",
         issueOrVolume: null,
@@ -2622,6 +2872,7 @@ const texts = [
         notes: null
     },
     {
+        id: "475ubk",
         title: "“Early Prose Joy”",
         printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 30",
@@ -2633,6 +2884,7 @@ const texts = [
         notes: null
     },
     {
+        id: "eh8shh",
         title: "Annotation in his copy of Milton, <i>Areopagitica</i>",
         printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 30",
@@ -2644,6 +2896,7 @@ const texts = [
         notes: null
     },
     {
+        id: "m9tv3m",
         title: "Annotation in his copy of Shakespeare, <i>Macbeth</i>",
         printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 30",
@@ -2655,6 +2908,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ra5nug",
         title: "Alternate preface to <i>The Screwtape Letters</i>",
         printedIn: "Brenton Dickieson, “The Unpublished Preface to C.S. Lewis’ <i>The Screwtape Letters,</i>” <i>Notes & Queries</i>",
         issueOrVolume: "vol. 60, no. 2",
@@ -2666,6 +2920,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ggrrwu",
         title: "Alternate texts for <i>That Hideous Strength</i>",
         printedIn: "Michèle DuPlessis-Hay, <i>That Hideous Strength by C.S. Lewis: The Preparation of an Annotated Critical Edition</i> (PhD Dissertation, University of Witwatersrand, South Africa)",
         issueOrVolume: null,
@@ -2677,6 +2932,7 @@ const texts = [
         notes: ["Three sheets with alternate texts."]
     },
     {
+        id: "psf6kq",
         title: "Annotation in his copy of Hawthorne, <i>The Scarlet Letter</i>",
         printedIn: "D.G. Kehl, <i>Jack Lewis and His American Cousin, Nat Hawthorne: A Study of Instructive Affinities</i> (Eugene, OR: Wipf & Stock)",
         issueOrVolume: null,
@@ -2688,6 +2944,7 @@ const texts = [
         notes: null
     },
     {
+        id: "npebyp",
         title: "“Bolshevism” fragment (1924)",
         printedIn: "Charlie W. Starr, “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 31",
@@ -2699,6 +2956,7 @@ const texts = [
         notes: null
     },
     {
+        id: "n8dvbx",
         title: "“Mythonomy” fragment (1924)",
         printedIn: "Charlie W. Starr, “Two Pieces from C.S. Lewis’s ‘Moral Good’ Manuscript: A First Publication,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 31",
@@ -2710,6 +2968,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5776cd",
         title: "Annotations in Richard Thornton Hewitt’s copy of <i>The Pilgrim’s Regress</i>",
         printedIn: "<i>The Pilgrim’s Regress, Wade Annotated Edition,</i> ed. David C. Downing (Grand Rapids: Eerdmans, 2014)",
         issueOrVolume: null,
@@ -2721,6 +2980,7 @@ const texts = [
         notes: ["According to Downing’s Note on xiii, “On 18 June 1937, C.S. Lewis inscribed his name and the date in a copy of The Pilgrim’s Regress that he had carefully annotated for one of his students, Richard Thornton Hewitt, who was reading English at Magdalen College at the time.” That copy is now in the possession of the Wade Center.", "In this new edition of <i>The Pilgrim's Regress </i>Lewis’s comments are printed in bold in the margins."]
     },
     {
+        id: "7a3v5u",
         title: "“Pudaita Pie: An Anthology”",
         printedIn: "C.S. and Warnie Lewis, “Pudaita Pie: An Anthology” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 32",
@@ -2732,6 +2992,7 @@ const texts = [
         notes: null
     },
     {
+        id: "w3tvr5",
         title: "<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II</i>",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
@@ -2743,6 +3004,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fnq8hq",
         title: "Note on the Law of Contradiction",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
@@ -2754,6 +3016,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zw54j3",
         title: "Replies to Objections in Detail",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
@@ -2765,6 +3028,7 @@ const texts = [
         notes: null
     },
     {
+        id: "egv26j",
         title: "<i>De Bono et Malo</i>",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
@@ -2776,6 +3040,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rqr7h2",
         title: "<i>Commentarium in Tractatum De Toto et Parte</i>",
         printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 1",
@@ -2787,6 +3052,7 @@ const texts = [
         notes: ["Lewis’s unfinished commentary on Barfield’s <i>De Toto et Parte</i>, printed as footnotes."]
     },
     {
+        id: "6csc26",
         title: "Note on his poem “To the Gods of Old Time”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2798,6 +3064,7 @@ const texts = [
         notes: ["From a holograph manuscript “Early Poems: English Verses Made by Clive Staples Lewis and Copied by His Friend Joseph Arthur Greeves: Belfast in the Year 1917,” the original of which is in the Linen Hall Library, Belfast, Ireland, with a photocopy in the Wade Center catalogued as CSL/MS-41/X. Consequently I am unsure whether the note is by Lewis or Greeves."]
     },
     {
+        id: "4smc7a",
         title: "Note on his poem “In His Own Image”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2809,6 +3076,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pd7dhj",
         title: "Notes on his poem “Abecedarium Philosophicum”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2820,6 +3088,7 @@ const texts = [
         notes: ["The poem was originally published in the <i>Oxford Magazine</i> vol. 52 (30 November 1933), 298, though it’s unclear whether the notes were published along with the poem or not."]
     },
     {
+        id: "ncmjah",
         title: "Notes on his poem “Awake, My Lute!”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2831,6 +3100,7 @@ const texts = [
         notes: null
     },
     {
+        id: "dpne2p",
         title: "Note on his poem “A Cliché Came Out of Its Cage”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2842,6 +3112,7 @@ const texts = [
         notes: ["At the end of the poem Lewis offers a footnote in Latin regarding the Lardergods in line 8, which translates as “the Household Gods from the food-storehouse, as it were.”"]
     },
     {
+        id: "a4qa75",
         title: "Note on his poem “Laertes to Napoleon”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -2853,6 +3124,7 @@ const texts = [
         notes: ["The note appears at the end of the poem."]
     },
     {
+        id: "eym2ht",
         title: "Annotations on the front endpaper of his copy of Shakespeare, <i>Sonnets</i>",
         printedIn: "E.H. Cooper, “Reading a Sonnet with C.S. Lewis” in <i>Magdalen College Magazine</i>",
         issueOrVolume: "no. 60",
@@ -2864,6 +3136,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6zbv86",
         title: "“Letters to Malcolm: Letter XIIa”",
         printedIn: "“Letters to Malcolm: Letter XIIa,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 34",
@@ -2875,6 +3148,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ukfc2y",
         title: "Annotation in Lewis’s copy of Byron, <i>Don Juan</i> (10 Feb 1924)",
         printedIn: "Laura Schmidt, “Treasures in the Archives: A Celebration of Archival Collections,” <i>Mythlore</i>",
         issueOrVolume: "vol. 36, no. 1",
@@ -2886,6 +3160,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hyejzf",
         title: "Annotation in his copy of Shakespeare, <i>Hamlet</i>",
         printedIn: "E.H. Cooper, “C.S. Lewis Considers <i>Hamlet</i>” in <i>Magdalen College Magazine</i>",
         issueOrVolume: "no. 61",
@@ -2897,6 +3172,7 @@ const texts = [
         notes: ["Only the annotations quoted by Cooper are given here; the holographs, whose image quality is low, are illegible in many places not quoted by Cooper."]
     },
     {
+        id: "ej6ng3",
         title: "Comment on a student exam found on a J.R.R. Tolkien manuscript <i>verso</i>",
         printedIn: "William M. Fliss, “Things That Were, and Things That Are, and Things That Yet May Be: The J.R.R. Tolkien Manuscript Collection at Marquette University,” <i>Mythlore</i>",
         issueOrVolume: "vol. 36, no. 1",
@@ -2908,6 +3184,7 @@ const texts = [
         notes: null
     },
     {
+        id: "b8gqxq",
         title: "Manuscripts for books 1 and 2 of <i>Broadcast Talks</i>",
         printedIn: "Stephen Johnston, <i>Le Sense et la Vérité du Mythe</i> (Paris: L’Harmattan)",
         issueOrVolume: null,
@@ -2919,6 +3196,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j3sn8x",
         title: "Invitation in Old Norse to a Kolbítar meeting before 20 November 1929",
         printedIn: "John Garth, “Tolkien and the Inklings” in <i>Tolkien: Maker of Middle-Earth,</i> Catalogue of the Exhibition at the Bodleian, 1 June-28 October, 2018, ed. Catherine McIlwaine (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -2930,6 +3208,7 @@ const texts = [
         notes: ["Reprinted in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 54 (holograph)."]
     },
     {
+        id: "mw7djj",
         title: "Annotation in his copy of H.C. Wyld, <i>Studies in English Rhymes from Surrey to Pope</i> (1923)",
         printedIn: "Timothy Larsen, “H.C. Wyld” in <i>Times Literary Supplement</i>",
         issueOrVolume: "no. 6005",
@@ -2941,6 +3220,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7ejmwp",
         title: "Archangel Fragment (Notebook V, Bodleian Dep.d.809)",
         printedIn: "Brenton D.G. Dickieson and Charlie W. Starr, “The Archangel Fragment and C.S. Lewis’s World-Building Project” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 13",
@@ -2952,6 +3232,7 @@ const texts = [
         notes: ["Reprinted in Joe Ricke, “The Archangel Fragment: Identifying and Interpreting C.S. Lewis’s ‘Cryptic Note,’” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 14 (2020), 110 and <a href='https://doi.org/10.55221/1940-5537.1181' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
+        id: "stcfmp",
         title: "“Children and bears” fragment (Notebook V, Bodleian Dep.d.809)",
         printedIn: "Brenton D.G. Dickieson and Charlie W. Starr, “The Archangel Fragment and C.S. Lewis’s World-Building Project” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 13",
@@ -2963,6 +3244,7 @@ const texts = [
         notes: ["Reprinted in Joe Ricke, “The Archangel Fragment: Identifying and Interpreting C.S. Lewis’s ‘Cryptic Note,’” <i>Sehnsucht: The C.S. Lewis Journal,</i> vol. 14 (2020), 110 and <a href='https://doi.org/10.55221/1940-5537.1181' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>."]
     },
     {
+        id: "fc8fek",
         title: "Excerpts from an essay on Richard Wagner (1911 [<i>LP</i> 3:233-234])",
         printedIn: "Harry Lee Poe, <i>Becoming C.S. Lewis: A Biography of the Young Jack Lewis (1898-1918)</i> (Wheaton, IL: Crossway)",
         issueOrVolume: null,
@@ -2974,6 +3256,7 @@ const texts = [
         notes: null
     },
     {
+        id: "39sjwd",
         title: "Phrases from draft of “Myth Became Fact” (Bodleian MS Facs.b.90, fols. 114-120)",
         printedIn: "Arend Smilde, “C.S. Lewis’s ‘Transposition’: Text and Context,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 13",
@@ -2985,6 +3268,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3x8pyp",
         title: "Suggested revisions to the Psalter and notes on the same",
         printedIn: "Joel Heck, “C.S. Lewis the Churchman: His Work on the Anglican Commission to Revise the Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 36",
@@ -2996,6 +3280,7 @@ const texts = [
         notes: ["Some of the texts quoted as belonging to ACRP/30 on 108 (and possibly the excerpts quoted on 110 and 112) may actually be letters. The phrase “we were a wonderfully happy family” certainly is: it comes from a letter to Bishop George Chase (25 August 1960) quoted more fully in George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 22 (2005), 50. But there seem to be more items than just this letter of 25 August 1960 in ACRP/30."]
     },
     {
+        id: "c8xeed",
         title: "Unused blurb for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -3007,6 +3292,7 @@ const texts = [
         notes: null
     },
     {
+        id: "r2bvnu",
         title: "Note on intended age range of readership for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -3018,6 +3304,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4n9ws4",
         title: "Note on advertisement notices for <i>Studies in Words</i> on Cambridge University Press Advance Information Sheet",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -3029,6 +3316,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wfkstf",
         title: "“The Quest of Bleheris” (prose romance written in 1916)",
         printedIn: "<i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 14",
@@ -3040,6 +3328,7 @@ const texts = [
         notes: ["The text is published here in its entirety, edited and with notes by Don King. Excerpts had been published in various other places, including:", "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich, 1979), 126-127, 128. Contains a large block quotation from the poem, starting from its title and chapter heading, with some ellipses.", "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 59-60. Sayer summarizes the poem in three paragraphs, giving the occasional quote. This book was later re-titled <i>Jack: A Life of C.S. Lewis</i> (1994). In that edition the same paragraphs on Bleheris appear on 110-111.", "David C. Downing, “‘The Dungeon of his Soul’: Lewis’s Unfinished Quest of Bleheris,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 15 (1998), 37-54. This essay contains many more quotations than in Sayers’ 1988 biography, but never as long a sustained excerpt as in Chad Walsh’s 1979 book.", "Don W. King, “C.S. Lewis’s ‘The Quest of Bleheris’ as Prose Poetry,” <i>The Lamp-Post of the Southern California C.S. Lewis Society</i> 23, no. 1 (Spring 1999), 3-15. Later republished as chapter 7 of Don. W. King, <i>Plain to the Inward Eye: Selected Essays on C.S. Lewis</i> (Abilene Christian University Press, 2011)", "Salwa Khoddam, “From Ruined City to Edenic Garden in C.S. Lewis’s The Magician’s Nephew,” in <i>Truths Breathed Through Silver: The Inklings’ Moral and Mythopoeic Legacy,</i> eds. Jonathan B. Himes, Joe R. Christopher, and Salwa Khoddam (Newcastle, UK: Cambridge Scholars Publishing, 2008), 27-50.", "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 69 and 77."]
     },
     {
+        id: "6kb8gg",
         title: "Notes on the nature of reason (Notebook V, Bodleian Dep.d.809)",
         printedIn: "<i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 37",
@@ -3051,6 +3340,7 @@ const texts = [
         notes: ["A single sentence of these notes was previously printed in Charlie W. Starr, <i>Light: C.S. Lewis’ First and Final Short Story</i> (Hamden: Winged Lion Press, 2012), 43."]
     },
     {
+        id: "wbswkq",
         title: "C.S. Lewis’ 1924 Tutorial Notes",
         printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3062,6 +3352,7 @@ const texts = [
         notes: ["In previous scholarship this 123-page document (Wade MS-76, incorrectly labeled “The Moral Good—Its Place Among the Values”) had been misidentified as being Lewis’s written lectures for his series “The Good, its position among the values” (Michaelmas Term 1924) and “Moral Good, its position among values” (Hilary Term 1925). In fact they are his notes for philosophy tutorials on the epistemology of Leibniz, Locke, Berkeley, Hume, and Descartes.", "Excerpt quoted in Walter Hooper, “To the Martlets,” <i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan, 1971), 52. Here Lewis summarizes Book I of Leibniz’s “Sur l’Entendement Humain.”", "Excerpt quoted in James Patrick, <i>The Magdalen Metaphysicals: Idealism and Orthodoxy at Oxford 1901-45</i> (Macon: Mercer University Press, 1987), 116-117. The excerpt is an explanation of Berkeley’s idealism.", "Excerpt quoted in James T. Como, <i>Branches to Heaven: The Geniuses of C.S. Lewis</i> (Dallas, TX: Spence Publications, 1998), 76. Barkman’s text as follows, from his critique of Berkeley: “to ask ‘what is in my mind while I am thinking?’ usually means to stop the real thinking and then ‘introspect’: and then I could naturally find only the irrelevant pictures or words which, as a matter of psychological fact, do accompany the thinking. ...Does all introspection always leave out the important things?”", "Excerpts quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life </i>(Cheshire, CT: Zossima Press, 2009), 115, 163-164, 219-224, 240, 254-255, 296-297, and 330-332."]
     },
     {
+        id: "et6wbm",
         title: "Critical edition of “Learning in War-Time” based on the Lanier manuscript draft",
         printedIn: "Joe Ricke, “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -3073,6 +3364,7 @@ const texts = [
         notes: ["This edition supersedes the manuscript draft printed earlier in the same issue of Sehnsucht by Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” 22-33 (and <a href='https://doi.org/10.55221/1940-5537.1086' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a>). Ricke includes far more detail, and compares the manuscript draft with all four known printings of “Learning in War-Time.” Ricke also silently corrects some mistakes in Starr and Hurd’s transcription."]
     },
     {
+        id: "5thwhe",
         title: "Reconstruction of mimeograph text of “None Other Gods’: Culture in War-time” (first known printing of “Learning in War-Time”)",
         printedIn: "Joe Ricke, “An Unlikely Preacher: C.S. Lewis and the War-Time Sermon,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -3084,6 +3376,7 @@ const texts = [
         notes: ["The mimeograph version was distributed by Rev. T.R. Milford to the congregation of the University Church of St. Mary the Virgin in Oxford when the sermon was preached on 22 October 1939.", "Ricke notes all known variations between the mimeograph text, the Lanier manuscript, and the three other known printings of “Learning in War-Time” in his critical edition of the sermon on pages 80-94."]
     },
     {
+        id: "3gv8gv",
         title: "C.S. Lewis’ 1924 Lecture Notes",
         printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3095,6 +3388,7 @@ const texts = [
         notes: ["This is a 2-page fragment (Wade MS-171, incorrectly labeled “Hegemony of Moral Virtue”) providing the table of contents for Lewis’s lecture series “The Good, its position among the values” (Michaelmas Term 1924) and “Moral Good, its position among values” (Hilary Term 1925). It also contains the only surviving notes for those lectures, or more precisely just for the first lecture.", "Excerpt quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 323. Text as follows: “1. Introductory — Theory of Values (Empirical Study), 2. Objectivity of Value, 3. Statement of Problem, 4. Same Continued, 5. Philebus & Republic, 6. Critique, 7. Utilitarian Ethics, 8. Critique, 9. Kantian Ethics, 10. Critique, 11. Fundamental errors of both these theories, 12. Practical Hegemony of the Moral Value, 13. Basis of Obligation, 14. Summary.”"]
     },
     {
+        id: "wmtmfq",
         title: "“The Whole”",
         printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3106,6 +3400,7 @@ const texts = [
         notes: ["Excerpts partially quoted in Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press, 2009), 163 note 32, 237-238, and 301."]
     },
     {
+        id: "g2dzna",
         title: "Unused blurb for <i>The Abolition of Man</i> in letter to Roy Niblett (June 14 1943)",
         printedIn: "Michael Ward, <i>After Humanity: A Guide to C.S. Lewis’s The Abolition of Man</i> (Park Ridge: Word on Fire Academic)",
         issueOrVolume: null,
@@ -3117,6 +3412,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ekuex7",
         title: "Note (undated) to relatives on yellow scrap",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -3128,6 +3424,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qaehp6",
         title: "Notes on John Dryden’s poetry (c. 1934-1939)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -3139,6 +3436,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ntv38z",
         title: "“The Norse Spirit in English Literature” lecture recorded by the Joint Broadcasting Committee for broadcast to Iceland (May 1941)",
         printedIn: "Harry Lee Poe, <i>The Making of C.S. Lewis (1918-1945): From Atheist to Apologist</i> (Wheaton, IL: Crossway)",
         issueOrVolume: null,
@@ -3150,6 +3448,7 @@ const texts = [
         notes: null
     },
     {
+        id: "t2av5n",
         title: "Typescript draft of <i>The Silver Chair</i> (pages 117 and 48)",
         printedIn: "Michael Ward, ““Planet Narnia Revisited,” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell</i>, ed. Bruce R. Johnson (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -3161,6 +3460,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8tkpeu",
         title: "Comments on A.C. Spearing’s essay “The Translation of Old English Verse”",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -3172,6 +3472,7 @@ const texts = [
         notes: null
     },
     {
+        id: "t6huzw",
         title: "Comments on A.C. Spearing’s dissertation draft chapter on <i>Piers Plowman</i>",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -3183,6 +3484,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jujcvp",
         title: "Excerpts from the “Prayer Manuscript” (c. 1953) (Wade MS-155)",
         printedIn: "Charlie Starr, <i>The Lion’s Country: C.S. Lewis’s Theory of the Real</i> (Kent, Ohio: The Kent State University Press)",
         issueOrVolume: null,
@@ -3194,6 +3496,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gdd5ss",
         title: "Note on Owen Barfield’s poem “Bridge of Hominy”",
         printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 13, no. 2",
@@ -3205,6 +3508,7 @@ const texts = [
         notes: ["From one of the following (the note is unclear): Bodleian Dep. c. 1072, fol. 311, 314, 316, 326 or Dep c. 1106, fol. 4."]
     },
     {
+        id: "jknh79",
         title: "Note on Owen Barfield’s lyric poem beginning “It may have been a dream”",
         printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 13, no. 2",
@@ -3216,6 +3520,7 @@ const texts = [
         notes: ["From Bodleian Dep. c. 1107, fol. 41."]
     },
     {
+        id: "c5t35z",
         title: "Notes to Owen Barfield on his own poem manuscripts",
         printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 13, no. 2",
@@ -3227,6 +3532,7 @@ const texts = [
         notes: ["From one of the following (the note is unclear): Bodleian Dep. c. 1072, fol. 311, 314, 316, 326 or Dep c. 1106, fol. 4."]
     },
     {
+        id: "prvwfa",
         title: "Comments on essays by Kenneth Taylor",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3238,6 +3544,7 @@ const texts = [
         notes: null
     },
     {
+        id: "d9bden",
         title: "End-of-term reports on Joan O’Hare, Rosamund Rieu, Patricia Thomson, and Mary Gerken",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3249,6 +3556,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vqkeyk",
         title: "End-of-term report on Derek Brewer",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3260,6 +3568,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mrp7fw",
         title: "Note on Socratic Club discussion minutes",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3271,6 +3580,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kcd2uc",
         title: "Notes for various papers or talks",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3282,6 +3592,7 @@ const texts = [
         notes: ["This manuscript is written upside-down on the same page of the earliest known manuscript of <i>The Lion, the Witch, and the Wardrobe,</i> held at the Bodleian Library."]
     },
     {
+        id: "64q6gm",
         title: "Notes on the voyage of Ohthere",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3293,6 +3604,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2v7rph",
         title: "Signature on programme of the Martlets",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3304,6 +3616,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gpwkby",
         title: "Title of supplementary lecture notebook",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -3315,6 +3628,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hhn9p5",
         title: "Annotation in his copy of in Charles Hinton, <i>A New Era of Thought</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3326,6 +3640,7 @@ const texts = [
         notes: null
     },
     {
+        id: "krxpr2",
         title: "Annotation in his copy of in R.H. Tawney, <i>Religion and the Rise of Capitalism</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3337,6 +3652,7 @@ const texts = [
         notes: null
     },
     {
+        id: "z28km5",
         title: "Annotation in his copy of in W.R. Inge, <i>Protestantism</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3348,6 +3664,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8ebhw7",
         title: "Annotation in his copy of in Christopher Dawson, <i>Beyond Politics</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3359,6 +3676,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ac7w4b",
         title: "Annotation in his copy of in John Green, <i>A Short History of the English Language</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3370,6 +3688,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ksdy8y",
         title: "Annotation in his copy of in Passerin d’Entreves, <i>The Medieval Contribution to Political Thought</i>",
         printedIn: "K. Alan Snyder and Jamin Metcalf, “The Historical Perspective: Gleanings from C.S. Lewis’s Personal Library,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 40",
@@ -3381,6 +3700,7 @@ const texts = [
         notes: null
     },
     {
+        id: "772grq",
         title: "Annotations in his copy of H.C. Wyld, <i>The Historical Study of the Mother Tongue</i> (1920)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -3392,6 +3712,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xht7z9",
         title: "Notes on Old English grammar (Notebook 29, Bodleian Library)",
         printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 2",
@@ -3403,6 +3724,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bc2hnv",
         title: "Prose translations of <i>Beowulf</i> 702-734a, 1251-1278, and 1529-1556 (Notebook 29, Bodleian Library)",
         printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 2",
@@ -3415,6 +3737,7 @@ const texts = [
     },
     // DIARIES
     {
+        id: "8efxvr",
         title: "Oxford Diary (15 February 1923)",
         printedIn: "Walter Hooper, preface, C.S. Lewis, <i>Selected Literary Essays,</i> ed. Walter Hooper (Cambridge: Cambridge University Press)",
         issueOrVolume: null,
@@ -3426,6 +3749,7 @@ const texts = [
         notes: ["Several other quotations from <i>LP</i> in the preface have since been published in <i>AMR.</i>"]
     },
     {
+        id: "m74dbn",
         title: "Oxford Diary (9 February 1923)",
         printedIn: "Walter Hooper, “To the Martlets” in <i>C.S. Lewis: Speaker & Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         issueOrVolume: null,
@@ -3437,6 +3761,7 @@ const texts = [
         notes: ["This passage is entirely reproduced in <i>AMR,</i> but with an interesting discrepancy. The last three words in this entry, as printed in <i>C.S. Lewis: Speaker & Teacher,</i> are: “Narcissus to Eros.” However, in <i>AMR</i> and the diary manuscript, there is a blank line, as follows: “I said this was certainly not what I meant by art: in fact it stood to art as ———.” The words “Narcissus to Eros” are probably an editorial insertion."]
     },
     {
+        id: "xbarm4",
         title: "Little Lea Diary excerpts",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -3448,6 +3773,7 @@ const texts = [
         notes: ["The entry for 5 March 1908 (<i>LP</i> 3:102) is reprinted in George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row, 1988), 20-21. Scan available here. Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51. Text as follows: “I read <i>Paradise Lost,</i> reflections thereon.”"]
     },
     {
+        id: "wcm9r6",
         title: "Wynyard Diary (November 1909)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -3459,6 +3785,7 @@ const texts = [
         notes: ["Lewis names the “five boarders” at his school (later quoted more fully in Hooper’s 1982 article).", "This page also contains the only printing of the following sentence from the Wynyard diary about the two teachers at Wynyard: “Oldy and his son Wyn are the only masters here, and Wyn can’t teach for nuts either.”"]
     },
     {
+        id: "x9mhh4",
         title: "Little Lea Diary excerpts",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -3470,6 +3797,7 @@ const texts = [
         notes: ["Quotes the first sentences on page 3 (not quoted in Hooper’s 1974 biography). On page 4 describes his mother, father, and himself in greater detail than the excerpts in the 1974 biography, and retains the original spelling."]
     },
     {
+        id: "pta6xu",
         title: "Oxford Diary (21 February 1923)",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends,</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -3481,6 +3809,7 @@ const texts = [
         notes: null
     },
     {
+        id: "nq57u2",
         title: "Oxford Diary (26 August 1922)",
         printedIn: "Roger Lancelyn Green, “In the Evening” in <i>C.S. Lewis at the Breakfast Table and Other Reminiscences,</i> ed. James T. Como (New York: Macmillan)",
         issueOrVolume: null,
@@ -3492,6 +3821,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gkzm9y",
         title: "Wynyard Diary (November 1909)",
         printedIn: "Walter Hooper, “C.S. Lewis in Hertfordshire (2): Wynyard School’s Tormenter”, <i>Hertfordshire Countryside</i>",
         issueOrVolume: "vol. 37",
@@ -3503,6 +3833,7 @@ const texts = [
         notes: ["Includes the morning routine previously published in Walter Hooper, “C.S. Lewis”, <i>The Franciscan,</i> vol. IX, no. 4 (September 1967), 163. The first two sentences of the diary are quoted, chronicling Lewis’s morning routine. Text as follows: “It was on a bleak November morning, in the year of grace 1901 [must be misprint for 1909–this would make Lewis only 3 years old], that I, Clive Staples Lewis, pulled myself reluctantly from my bed, in an uncomfortable corner of the dormitory, at the abominably early hour of 7.30 A.M. Mindful, however, that a halfpenny fine awaited me if I were late, I began to wash in icy water with all reasonable despatch.”", "Also includes the anti-Catholicism passage previously published in Walter Hooper, <i>Through Joy and Beyond: A Pictorial Biography of C.S. Lewis</i> (New York: Macmillan, 1982), 19. Text as follows: “We were obliged to go to St John’s; a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish protestants. Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones. In this abominable place, of Romish hypocrites, and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.”", "The same anti-Catholicism passage, though slightly less of it, had also been published in Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and their friends</i> (London: Allen & Unwin, 1978), 50. There are 3 editorial differences: (1) different punctuation, (2) the insertion of the explanatory “(Watford)” after “St John’s,” and (3) the silent omission of the sentence: “Here Wyn Capron, the son of our headmaster, preached a sermon, better than his usual ones.” Text as follows: “We were obliged to go to St John’s (Watford), a church which wanted to be Roman Catholic, but was afraid to say so. A kind of church abhorred by respectful Irish Protestants. In this abominable place of Romish hypocrites and English liars, the people cross themselves, bow to the Lord’s Table (which they have the vanity to call an altar), and pray to the Virgin.”"]
     },
     {
+        id: "66dhnj",
         title: "Oxford Diary (3 June 1926)",
         printedIn: "Peter J. Schakel, <i>Reason and Imagination in C.S. Lewis: A Study of</i> Till We Have Faces (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -3514,6 +3845,7 @@ const texts = [
         notes: ["Schakel groups four entries from the Oxford Diary on Lewis’s dreams. The first three (from 4 July 1922, 12 September 1923, and 22 February 1924) are in <i>AMR.</i> The final one, however, is not."]
     },
     {
+        id: "x6q4we",
         title: "Bookham Diary (19 July 1915 [<i>LP</i> 4:328])",
         printedIn: "Walter Hooper, preface to <i>Spirits in Bondage,</i> ed. Walter Hooper (New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -3525,6 +3857,7 @@ const texts = [
         notes: null
     },
     {
+        id: "y3kxj4",
         title: "Little Lea Diary excerpts",
         printedIn: "Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins)",
         issueOrVolume: null,
@@ -3536,6 +3869,7 @@ const texts = [
         notes: ["Hooper’s introduction was reprinted as “The History of Boxen” in <i>Boxen: Childhood Chronicles Before Narnia</i> (London: HarperCollins, 2008), and this entry can be found on 233-234."]
     },
     {
+        id: "qghpu9",
         title: "Little Lea Diary excerpts",
         printedIn: "C.S. Lewis, <i>Letters to Children,</i> eds. Lyle W. Dorsett and Marjorie L. Mead (New York: Macmillan)",
         issueOrVolume: null,
@@ -3547,6 +3881,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4ejd6n",
         title: "Little Lea Diary (Christmas 1907 [<i>LP</i> 3:89])",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -3558,6 +3893,7 @@ const texts = [
         notes: ["Reprints everything in Walter Hooper’s introduction to <i>Boxen: The Imaginary World of the Young C.S. Lewis</i> (London: Collins, 1985) with the exception of a new bit on Grandfather Lewis.", "Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 50-51."]
     },
     {
+        id: "ywryup",
         title: "Little Lea Diary (23 February 1908 [<i>LP</i> 3:301]), a bibliography of his works at 10 years old",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -3569,6 +3905,7 @@ const texts = [
         notes: ["Only partially reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 51."]
     },
     {
+        id: "e6yvfh",
         title: "Cherbourg Diary (15 March 1911 [<i>LP</i> 3:229])",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -3580,6 +3917,7 @@ const texts = [
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 66-67.", "The text on Miss Cowie (“They all love her…I, an orphan, especially” may be a misquotation of <i>SBJ</i> ch. 4: “We all loved her; I, the orphan, especially.” Or, it’s possible that Lewis used his Cherbourg diary as a source for <i>SBJ</i> and lightly reworked it. Either way Sayer does not footnote those quotations, so I am not sure of their provenance."]
     },
     {
+        id: "xn2qrb",
         title: "Notebook entry (28 April 1917 [<i>LP</i> 5:204])",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -3591,6 +3929,7 @@ const texts = [
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 118."]
     },
     {
+        id: "4r2dnk",
         title: "Oxford Diary (17 February 1923)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan; San Francisco: Harper & Row)",
         issueOrVolume: null,
@@ -3602,6 +3941,7 @@ const texts = [
         notes: ["Reprinted in 2<sup>nd</sup> edition, retitled <i>Jack: A Life of C.S. Lewis</i> (Wheaton, IL: Crossway Books, 1994), 171."]
     },
     {
+        id: "rqx9cu",
         title: "Little Lea Diary excerpts",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
@@ -3613,6 +3953,7 @@ const texts = [
         notes: ["Includes passages previously printed describing the appearances of his mother, father, and himself, as well as the anecdote about his excitement hearing Warnie come home. The only new bit is the full title and opening sentence of “My life.”"]
     },
     {
+        id: "e3f344",
         title: "Oxford Diary (25 May 1923)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (New York: W.W. Norton)",
         issueOrVolume: null,
@@ -3624,6 +3965,7 @@ const texts = [
         notes: null
     },
     {
+        id: "q6hvg4",
         title: "Little Lea Diary excerpts (<i>LP</i> 3:88-92)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (New York: HarperCollins)",
         issueOrVolume: null,
@@ -3635,6 +3977,7 @@ const texts = [
         notes: ["TReprints old material but also includes new content not published before, chiefly (a) differences of punctuation and some word choices in how Warnie came home; (b) a new sentence on how Warnie came home; (c) actual details about Christmas that year; (d) the closing sentence of the diary.","This passage in the <i>Companion & Guide</i> was later reproduced in part by Zaleski and Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York, Farrar, Strauss and Giroux, 2015), 40."]
     },
     {
+        id: "sxu3e6",
         title: "Wynyard Diary (November 1909)",
         printedIn: "Harry Lee Poe, <i>Becoming C.S. Lewis: A Biography of Young Jack Lewis (1898-1918)</i> (Wheaton, IL: Crossway Books)",
         issueOrVolume: null,
@@ -3646,6 +3989,7 @@ const texts = [
         notes: ["Also reprints most of the text on his anti-Catholic sentiment about St John’s in Watford and recounts in indirect discourse his theory about how boys become nicer the farther north you go."]
     },
     {
+        id: "bps6x5",
         title: "Cherbourg Diary (March 1911)",
         printedIn: "Harry Lee Poe, <i>Becoming C.S. Lewis: A Biography of Young Jack Lewis (1898-1918)</i> (Wheaton, IL: Crossway Books)",
         issueOrVolume: null,
@@ -3657,6 +4001,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sv3axg",
         title: "Oxford Diary (3 June 1924 [<i>LP</i> 8:236])",
         printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3668,6 +4013,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8eeaux",
         title: "Oxford Diary (14 June 1922 [<i>LP</i> 7:157])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3679,6 +4025,7 @@ const texts = [
         notes: null
     },
     {
+        id: "93g4jg",
         title: "Oxford Diary (21 August 1922 [<i>LP</i> 7:206])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3690,6 +4037,7 @@ const texts = [
         notes: null
     },
     {
+        id: "g7nvpc",
         title: "Oxford Diary (15 March 1923 [<i>LP</i> 8:91])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3701,6 +4049,7 @@ const texts = [
         notes: null
     },
     {
+        id: "g6z63m",
         title: "Oxford Diary (19 October 1923 [<i>LP</i> 8:160])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3712,6 +4061,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fsq98x",
         title: "Oxford Diary (21 May 1924 [<i>LP</i> 8:230])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3723,6 +4073,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sfrwwk",
         title: "Oxford Diary (30 May 1924 [<i>LP</i> 8:235])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3734,6 +4085,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xqtbgr",
         title: "Oxford Diary (9 April 1924 [<i>LP</i> 8:210])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3745,6 +4097,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cb8gxq",
         title: "Oxford Diary (8 March 1924 [<i>LP</i> 8:197]) correction to <i>All My Road Before Me</i>",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3756,6 +4109,7 @@ const texts = [
         notes: null
     },
     {
+        id: "r9eqw9",
         title: "Oxford Diary (31 May 1924 [<i>LP</i> 8:235])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3767,6 +4121,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ev8hxm",
         title: "Oxford Diary (7 June 1924)",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3778,6 +4133,7 @@ const texts = [
         notes: ["Identical to 9 June 1924 entry.", "Possibly a reference to his “Hegemony of Moral Value” paper."]
     },
     {
+        id: "acbuhk",
         title: "Oxford Diary (9 June 1924)",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3789,6 +4145,7 @@ const texts = [
         notes: ["Identical to 7 June 1924 entry.", "Possibly a reference to his “Hegemony of Moral Value” paper."]
     },
     {
+        id: "xmmpc9",
         title: "Oxford Diary (10 May 1922 [<i>LP</i> 8:135])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3800,6 +4157,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2kcr9k",
         title: "Oxford Diary (19 June 1924 [<i>LP</i> 8:245])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3811,6 +4169,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uy9wwk",
         title: "Oxford Diary (12 May 1924 [<i>LP</i> 8:228])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3822,6 +4181,7 @@ const texts = [
         notes: ["The same text is partially quoted on page 5 note 11.", "Perhaps Lewis is referring to his notes for his lectures on “The Good” or “Moral Good,” or to some larger or similar or related document."]
     },
     {
+        id: "2xtv3a",
         title: "Oxford Diary (6 March 1924 [<i>LP</i> 8:192])",
         printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
         issueOrVolume: "no. 2",
@@ -3833,6 +4193,7 @@ const texts = [
         notes: ["Earlier parts of this entry had already been published in <i>AMR,</i> 298-299."]
     },
     {
+        id: "drbvbn",
         title: "Oxford Diary (22 March 1923)",
         printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 17",
@@ -3844,6 +4205,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e86n38",
         title: "Oxford Diary (23 March 1923)",
         printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 17",
@@ -3856,6 +4218,7 @@ const texts = [
     },
     // LETTERS
     {
+        id: "ttbrx4",
         title: "Letter to Dorothy Sayers",
         printedIn: "Dorothy Sayers, “Ignorance and Dissatisfaction,” <i>Latin Teaching</i>",
         issueOrVolume: "vol. 28, no. 3",
@@ -3867,6 +4230,7 @@ const texts = [
         notes: ["Paul Tankard’s listing in “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 436, claims this letter is found in volume 38 of <i>Latin Teaching,</i> which is incorrect.", "It has also been reprinted in Sayers, “The Teaching of Latin: A New Approach” in <i>The Poetry of Search and the Poetry of Statement: and Other Posthumous Essays on Literature, Religion and Language</i> (London: Victor Gollancz, 1963), 198.",]
     },
     {
+        id: "66h3r6",
         title: "Letter to the Milton Society of America in the 1958 Milton Society Booklet",
         printedIn: "<i>Seventeenth-Century News</i>",
         issueOrVolume: "vol. 17, no. 2 (Summer)",
@@ -3878,6 +4242,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7dfhjj",
         title: "Letter to Mahmoud Manzalaoui",
         printedIn: "Mahmoud Manzalaoui, “Lydgate and English Prosody,” <i>Cairo Studies in English</i>",
         issueOrVolume: null,
@@ -3889,6 +4254,7 @@ const texts = [
         notes: null
     },
     {
+        id: "n6kkv9",
         title: "Letter to Edward Meškys (3 October 1963)",
         printedIn: "Edward Meškys, <i>Niekas</i>",
         issueOrVolume: "vii",
@@ -3900,6 +4266,7 @@ const texts = [
         notes: null
     },
     {
+        id: "nshd7x",
         title: "Letter to Alec Vidler",
         printedIn: "Alec Vidler, “Unapologetic Apologist,” <i>New York Herald Tribune Book Week</i>",
         issueOrVolume: "26 July",
@@ -3911,6 +4278,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8wsgnc",
         title: "Letter to Dorothea Conybeare",
         printedIn: "Rose Macaulay, <i>Letters to a Sister,</i> ed. Constance Babington Smith (London: Collins, 1964)",
         issueOrVolume: null,
@@ -3922,6 +4290,7 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (New York: HarperCollins, 1996), 252 and Walter Hooper, “A Bibliography of the Writings of C.S. Lewis” in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472-473."]
     },
     {
+        id: "2w33qd",
         title: "Letter to James E. Higgins (31 July 1962)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -3933,6 +4302,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 504, where the recipient’s name is first identified. In the 1966 version, the letter is prefaced “To an Enquirer.”", "A fragment of this letter (“...my knowledge of children’s literature is really very limited. …My own range is about exhausted by Macdonald, Tolkien, E. Nesbit, and Kenneth Grahame.”) was also been published by Higgins himself in “A Letter from C.S. Lewis,” <i>The Horn Book Magazine,</i> xlii.5 (October 1966), 533. This fact was first documented by Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries,</i> vol. 263, no. 3 (September 2018), 437"]
     },
     {
+        id: "ztmvsp",
         title: "Letter to James E. Higgins (2 December 1962)",
         printedIn: "James Higgins, “A Letter from C.S. Lewis,” <i>The Horn Book Magazine</i>",
         issueOrVolume: "xlii.5",
@@ -3944,6 +4314,7 @@ const texts = [
         notes: ["Higgins’s essay was reprinted in <i>Horn Book Reflections: On Children’s Books and Reading</i> (Boston, 1969), 230-237.", "A portion of this letter was printed in C.S. Lewis, <i>Letters of C.S. Lewis,</i> ed., with a memoir, by W.H. Lewis (London: Geoffrey Bles, 1966), 307 as addressed “To an Enquirer.”"]
     },
     {
+        id: "agc5jp",
         title: "Letter of recommendation for Norman Bradshaw (4 December 1938)",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 7",
@@ -3955,6 +4326,7 @@ const texts = [
         notes: ["Holograph reprinted along with a transcript in the same journal, no. 11 (November 1979), 2.", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (Bridge Publishing, 1983), 17-18."]
     },
     {
+        id: "cwmnmc",
         title: "Letter to J.R.R. Tolkien (7 December 1929)",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -3966,6 +4338,7 @@ const texts = [
         notes: ["This letter also appears, with the salutation and closing sentences cut, in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (London: George Allen & Unwin; Boston: Houghton-Mifflin), 150-151."]
     },
     {
+        id: "c7ktqu",
         title: "Letter to Robert Burchfield in Old English (1953)",
         printedIn: "Robert Burchfield, <i>The English Language</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -3977,6 +4350,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s37cq7",
         title: "Testimonial for Eric Bentley (12 March 1938)",
         printedIn: "<i>The Play and Its Critic: Essays for Eric Bentley,</i> ed. Michael Bertin (Lanham: University Press of America)",
         issueOrVolume: null,
@@ -3988,6 +4362,7 @@ const texts = [
         notes: null
     },
     {
+        id: "39pmar",
         title: "Testimonial for Eric Bentley (April 1940)",
         printedIn: "<i>The Play and Its Critic: Essays for Eric Bentley,</i> ed. Michael Bertin (Lanham: University Press of America)",
         issueOrVolume: null,
@@ -3999,6 +4374,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mg7t35",
         title: "Letter to Patience Fetherston (20 August 1945) and note on the letter",
         printedIn: "Patience Fetherston, “C.S. Lewis on Rationalism: (Unpublished Notes),” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 9",
@@ -4010,6 +4386,7 @@ const texts = [
         notes: null
     },
     {
+        id: "x9de8r",
         title: "Letter to Malcolm M. Ferguson (20 February 1953)",
         printedIn: "Douglas A. Anderson, “A Footnote to Tales before Narnia,” <i>Mythlore</i>",
         issueOrVolume: "vol. 29, no. 1",
@@ -4021,6 +4398,7 @@ const texts = [
         notes: null
     },
     {
+        id: "k2d98h",
         title: "Letter to Owen Barfield (10 June 1930) correction to <i>The Collected Letters of C.S. Lewis</i>",
         printedIn: "Andrew Lazo, “Early Prose Joy: C.S. Lewis’s Early Draft of an Autobiographical Manuscript,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 30",
@@ -4032,6 +4410,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hcpkde",
         title: "Letter to the Nobel Prize Committee (16 January 1961)",
         printedIn: "Alister McGrath, <i>C.S. Lewis: A Life—Eccentric Genius, Reluctant Prophet</i> (Tyndale)",
         issueOrVolume: null,
@@ -4043,6 +4422,7 @@ const texts = [
         notes: null
     },
     {
+        id: "esy34u",
         title: "Letter to Owen Barfield (5 July 1949)",
         printedIn: "Walter Hooper, “‘Warnie’s Problem’: An Introduction to a Letter from C.S. Lewis to Owen Barfield,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 5, no. 1",
@@ -4054,6 +4434,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6svz9b",
         title: "Letter to Nevill Coghill in Old English (c.1926)",
         printedIn: "George Musacchio, “C.S. Lewis’s Unpublished Letter in Old English,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 32",
@@ -4065,6 +4446,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rmwkf8",
         title: "Letter to Dabney Park (28 June 1961)",
         printedIn: "Dabney Park, “A Letter from C.S. Lewis,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 33",
@@ -4076,6 +4458,7 @@ const texts = [
         notes: null
     },
     {
+        id: "895tw7",
         title: "Letter to Archbishop William Temple (28 February 1942)",
         printedIn: "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 10",
@@ -4087,6 +4470,7 @@ const texts = [
         notes: ["Archival reference: C.S. Lewis, MS 28 February 1942 letter to William Temple, Temple Papers, vol. 2, 71."]
     },
     {
+        id: "mxb7w7",
         title: "Letter to Canon Lewis John Collins (9 June 1946)",
         printedIn: "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 10",
@@ -4098,6 +4482,7 @@ const texts = [
         notes: ["Archival reference: C.S. Lewis, MS 9 June 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 4."]
     },
     {
+        id: "58w7fc",
         title: "Letter to Canon Lewis John Collins (11 November 1946)",
         printedIn: "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 10",
@@ -4109,6 +4494,7 @@ const texts = [
         notes: ["Archival reference: C.S. Lewis, MS 11 November 1946 letter to John Collins, John Collins Papers, MS 3289, Lambeth Palace Library, London, 31.", "Lewis also makes a correction to a typo in the draft of the resolution he was sent, reproduced on 47."]
     },
     {
+        id: "yrukv2",
         title: "Comments on Harold Montgomery Belgion’s English examination",
         printedIn: "Quoted in a letter of H.B. Everard (4 May 1944) in Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 11",
@@ -4120,6 +4506,7 @@ const texts = [
         notes: null
     },
     {
+        id: "aezt3f",
         title: "Letter to Harold Montgomery Belgion (12 April 1939)",
         printedIn: "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 11",
@@ -4131,6 +4518,7 @@ const texts = [
         notes: ["Archival reference: BLGN MS, Churchill College, Cambridge. 12 April 1939, C.S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 45."]
     },
     {
+        id: "5fdx2u",
         title: "Letter to Harold Montgomery Belgion (25 April 1939)",
         printedIn: "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 11",
@@ -4142,6 +4530,7 @@ const texts = [
         notes: ["Archival reference: BLGN MS, Churchill College, Cambridge. 25 April 1939, C.S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 46."]
     },
     {
+        id: "awn6jj",
         title: "Letter to Harold Montgomery Belgion (2 May 1939)",
         printedIn: "Gregory M. Anderson, “Lewis, Lost Letters, and Love,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 11",
@@ -4153,6 +4542,7 @@ const texts = [
         notes: ["Archival reference for letter three: BLGN MS, Churchill College, Cambridge. 2 May 1939, C.S. Lewis letter to M. Belgion, Belgion Papers, vol. 7, 47."]
     },
     {
+        id: "9f3qay",
         title: "Letter to Alan Fairhurst (6 September 1959)",
         printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 7, no. 2",
@@ -4164,6 +4554,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6fgdgb",
         title: "Letter to Alan Fairhurst (9 September 1959)",
         printedIn: "Reggie Weems, “Universalism Denied: C.S. Lewis’ Unpublished Letters to Alan Fairhurst,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 7, no. 2",
@@ -4175,6 +4566,7 @@ const texts = [
         notes: ["Transcriptions of the letters are found on 91-92."]
     },
     {
+        id: "5zmu4j",
         title: "Letter to Jeremy Ruskin (2 September 1958)",
         printedIn: "Paul Tankard, “Notes on the Bibliography of C.S. Lewis,” <i>Notes & Queries</i>",
         issueOrVolume: "vol. 263, no. 3",
@@ -4186,6 +4578,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fbjufg",
         title: "Letter to Albert Lewis (1 March 1909)",
         printedIn: "<i>Hertfordshire Countryside</i>",
         issueOrVolume: "vol. 37, no. 282",
@@ -4197,6 +4590,7 @@ const texts = [
         notes: null
     },
     {
+        id: "krea6p",
         title: "Letter to Cecil Harwood (24 March 1924)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4208,6 +4602,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j23bf7",
         title: "Letter to C.T. Onions (~February 1929-July 1930)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4219,6 +4614,7 @@ const texts = [
         notes: null
     },
     {
+        id: "nuefyy",
         title: "Letter to John Buchan(?) (1930s?)",
         printedIn: "Janet Adam Smith, <i>John Buchan: A Biography</i> (London: Victor Gollancz)",
         issueOrVolume: null,
@@ -4230,6 +4626,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6g49w6",
         title: "Letter to Cecil Harwood (10 December 1926)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4241,6 +4638,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qqknpr",
         title: "Letter to the editor (“The Kingis Quair”)",
         printedIn: "<i>The Times Literary Supplement</i>",
         issueOrVolume: null,
@@ -4251,7 +4649,8 @@ const texts = [
         type: "Letter",
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G1."]
     },
-    {    title: "Letter to the editor (“On Cross-Channel Ships”)",
+    {
+        id: "evhqz3",    title: "Letter to the editor (“On Cross-Channel Ships”)",
         printedIn: "<i>The Times</i>",
         issueOrVolume: null,
         pageRange: "12",
@@ -4262,6 +4661,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G5."]
     },
     {
+        id: "cnx7et",
         title: "Letter to the editor (“Poetic Licence [sic]”)",
         printedIn: "<i>The Sunday Times</i>",
         issueOrVolume: null,
@@ -4273,6 +4673,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G20."]
     },
     {
+        id: "hcm3r5",
         title: "Letter to the editor (“A Difference of Outlook”)",
         printedIn: "<i>The Guardian</i>",
         issueOrVolume: null,
@@ -4284,6 +4685,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 466, item G22."]
     },
     {
+        id: "hbr8t6",
         title: "Letter to the editor (date unknown)",
         printedIn: "<i>English: Journal of the English Association</i>",
         issueOrVolume: "vol. 14, no. 80",
@@ -4295,6 +4697,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 472, item G59."]
     },
     {
+        id: "j2n3x8",
         title: "Letter to the editor (“Spenser’s Irish Experiences and <i>The Faerie Queene</i>”)",
         printedIn: "<i>The Review of English Studies</i>",
         issueOrVolume: "vol. 7, no. 25",
@@ -4306,6 +4709,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G2."]
     },
     {
+        id: "kca4bh",
         title: "Letter to the editor (“The Function of Education”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
@@ -4317,6 +4721,7 @@ const texts = [
         notes: null
     },
     {
+        id: "68y97u",
         title: "Letter to Cecil Harwood (March 1931)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4328,6 +4733,7 @@ const texts = [
         notes: ["A single phrase from this letter (“Lord of the Walks”) was quoted by Walter Hooper in <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 795."]
     },
     {
+        id: "ys9hna",
         title: "Letter to Daphne Harwood (10 September 1931)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4339,6 +4745,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s64dzh",
         title: "Letter to Cecil Harwood (1932)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4350,6 +4757,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4uz9cu",
         title: "Letter to C.T. Onions (14 March 1932)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4361,6 +4769,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2nsn4a",
         title: "Letter to George Sayer (1933)",
         printedIn: "George Sayer, “Recollections of J.R.R. Tolkien,” <i>Proceedings of the J.R.R. Tolkien Centenary Conference 1992,</i> eds. Patricia Reynolds and Glen GoodKnight, <i>Mythlore</i>",
         issueOrVolume: "vol. 21, no. 2",
@@ -4372,6 +4781,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bdpcqw",
         title: "Letter to C.T. Onions (5 September 1934)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4383,6 +4793,7 @@ const texts = [
         notes: null
     },
     {
+        id: "42y47p",
         title: "Letter to Claude Chavasse (20 February 1934)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4394,6 +4805,7 @@ const texts = [
         notes: ["Only found in the 2002 Fully Revised & Expanded Edition."]
     },
     {
+        id: "6e2bp6",
         title: "Letter to Claude Chavasse (25 February 1934)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4405,6 +4817,7 @@ const texts = [
         notes: ["Only found in the 2002 Fully Revised & Expanded Edition."]
     },
     {
+        id: "d5ynkr",
         title: "Letter to R.W. Chapman (18 September 1935)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4416,6 +4829,7 @@ const texts = [
         notes: ["Only found in the 2002 Fully Revised & Expanded Edition."]
     },
     {
+        id: "4u73zt",
         title: "Letter to C.T. Onions (1940s-mid 1950s)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4427,6 +4841,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xw43u3",
         title: "Letter to Henry G. Welbon (18 September 1936)",
         printedIn: "Margaret Hannay, <i>C.S. Lewis</i> (New York: Frederick Ungar)",
         issueOrVolume: null,
@@ -4438,6 +4853,7 @@ const texts = [
         notes: ["Also quoted (partly) in Michael Ward, <i>Planet Narnia</i> (2008), 28."]
     },
     {
+        id: "kr67zq",
         title: "Letter to C.T. Onions (~1934-1939)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4449,6 +4865,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8tmbnh",
         title: "Letter to C.T. Onions (~1934-1939)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4460,6 +4877,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mj82g5",
         title: "Letter to Mary Neylan (1940)",
         printedIn: "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -4471,6 +4889,7 @@ const texts = [
         notes: null
     },
     {
+        id: "p3hnuk",
         title: "Letter to M.L. Charlesworth (9 April 1940)",
         printedIn: "Dabney Adams Hart, <i>Through the Open Door: A New Look at C.S. Lewis</i> (The University of Alabama Press)",
         issueOrVolume: null,
@@ -4482,6 +4901,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xyyh45",
         title: "Letter to Cecil Harwood (3 August 1940)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4493,6 +4913,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qtewvr",
         title: "Letter to Owen Barfield (16 October 1940)",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting his Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -4504,6 +4925,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bbuwj5",
         title: "Letter to Ms. Jacob (3 July 1941)",
         printedIn: "Richard Purtill, <i>C.S. Lewis’s Case for the Christian Faith</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -4515,6 +4937,7 @@ const texts = [
         notes: ["In the Ignatius Press 2004 reprint, this letter can be found on page 32."]
     },
     {
+        id: "kshd9z",
         title: "Letter to Ms. Jacob (3 July 1941)",
         printedIn: "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud Debate God, Love, Sex, and the Meaning of Life</i> (New York: The Free Press)",
         issueOrVolume: null,
@@ -4526,6 +4949,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bgrh3v",
         title: "Letter to Ms. Jacob (3 July 1941)",
         printedIn: "Martha C. Sammons, <i>“A Better Country”: The Worlds of Religious Fantasy and Science Fiction,</i> Contributions to the Study of Science Fiction and Fantasy, 32 (New York: Greenwood Press)",
         issueOrVolume: null,
@@ -4537,6 +4961,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6r6vcu",
         title: "Letter to Ms. Jacob (15 August 1941)",
         printedIn: "Richard Purtill, <i>C.S. Lewis’s Case for the Christian Faith</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -4548,6 +4973,7 @@ const texts = [
         notes: ["In the Ignatius Press 2004 reprint, this letter can be found on pages 58-59."]
     },
     {
+        id: "tktwtu",
         title: "Letter to Eric Fenn (29 August 1941)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4559,6 +4985,7 @@ const texts = [
         notes: null
     },
     {
+        id: "97hshf",
         title: "Letter to Eric Fenn (2 March 1942)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4570,6 +4997,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3g3g3m",
         title: "Letter to J.H. Oldham, editor (4 February 1942)",
         printedIn: "<i>The Christian News-Letter</i>",
         issueOrVolume: "no. 119",
@@ -4581,6 +5009,7 @@ const texts = [
         notes: ["In Walter Hooper’s fourth and final bibliography this letter is incorrectly stated to be reprinted in the Supplement of <i>CL</i> 3. See Hooper, “A Bibliography of the Writings of C.S. Lewis” in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005), 464, item G9."]
     },
     {
+        id: "ka799f",
         title: "Letter to the editor (date unknown)",
         printedIn: "<i>English: Journal of the English Association</i>",
         issueOrVolume: "vol. 6, no. 32",
@@ -4592,6 +5021,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7bkxmt",
         title: "Letter to James Welch (May 1942)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4603,6 +5033,7 @@ const texts = [
         notes: null
     },
     {
+        id: "c3c2jx",
         title: "Letter to Eric Fenn (26 June 1942)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4614,6 +5045,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rddum7",
         title: "Letter to Sister Penelope (22 August 1942)",
         printedIn: "Donald E. Glover, <i>C.S. Lewis: The Art of Enchantment</i> (Athens, OH: Ohio University Press)",
         issueOrVolume: null,
@@ -4625,6 +5057,7 @@ const texts = [
         notes: null
     },
     {
+        id: "nqv553",
         title: "Letter to Cecil Harwood (September 1942)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4636,6 +5069,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3p5qfn",
         title: "Letter to Eric Fenn (31 October 1942)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4647,6 +5081,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4r3kh8",
         title: "Letter to Cecil Harwood (1943)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4658,6 +5093,7 @@ const texts = [
         notes: null
     },
     {
+        id: "47wsda",
         title: "Letter to Harold Montgomery Belgion (February 1943)",
         printedIn: "Midge Gillies, <i>The Barbed-Wire University: The Real Lives of Allied Prisoners of War in the Second World War</i> (London: Aurun)",
         issueOrVolume: null,
@@ -4669,6 +5105,7 @@ const texts = [
         notes: null
     },
     {
+        id: "k4jx44",
         title: "Letter to the editor (“Leaven in the Schools”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
@@ -4680,6 +5117,7 @@ const texts = [
         notes: null
     },
     {
+        id: "tcgb9g",
         title: "Letter to the editor (3 May 1951)",
         printedIn: "<i>Essays in Criticism</i>",
         issueOrVolume: "vol. 1, no. 3",
@@ -4691,6 +5129,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ween3d",
         title: "Letter to the editor (“Scientists in Fiction”)",
         printedIn: "<i>The Daily Telegraph</i>",
         issueOrVolume: null,
@@ -4702,6 +5141,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j66aaj",
         title: "Letter to Lewis’s publishers",
         printedIn: "Chad Walsh, <i>C.S. Lewis: Apostle to the Skeptics</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -4713,6 +5153,7 @@ const texts = [
         notes: null
     },
     {
+        id: "p54tmp",
         title: "Letter to Lewis’s publishers",
         printedIn: "Chad Walsh, <i>C.S. Lewis: Apostle to the Skeptics</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -4724,6 +5165,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pvmfcn",
         title: "Letter to the editor",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
@@ -4735,6 +5177,7 @@ const texts = [
         notes: null
     },
     {
+        id: "y6xubg",
         title: "Letter to the editor (“Church Parade”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
@@ -4746,6 +5189,7 @@ const texts = [
         notes: null
     },
     {
+        id: "umczh8",
         title: "Letter to Edward Sniders (1944)",
         printedIn: "Edward Sniders, <i>Flying In, Walking Out: Memories of War and Escape, 1939-1945</i> (Barnsley, South Yorkshire: Leo Cooper)",
         issueOrVolume: null,
@@ -4757,6 +5201,7 @@ const texts = [
         notes: null
     },
     {
+        id: "y7t6rb",
         title: "Letter to J.S.A. Ensor (24 April 1944)",
         printedIn: "<i>C.S. Lewis: Speaker and Teacher,</i> ed. Carolyn Keefe (Grand Rapids: Zondervan)",
         issueOrVolume: null,
@@ -4768,6 +5213,7 @@ const texts = [
         notes: ["In the UK, first printed in <i>C.S. Lewis: Speaker and Teacher</i> (Hodder and Stoughton, 1974), 23."]
     },
     {
+        id: "3gvnmq",
         title: "Letter to the Contracts staff of the BBC (25 April 1944)",
         printedIn: "Justin Phillips, <i>C.S. Lewis at the BBC: Messages of Hope in the Darkness of War</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -4779,6 +5225,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jn4mxj",
         title: "Letter to Cecil Harwood (July 1944)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -4790,6 +5237,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j3gkur",
         title: "Letter to Bernard Acworth (23 September 1944)",
         printedIn: "Gary B. Ferngren and Ronald L. Numbers, “C.S. Lewis on Creation and Evolution: The Acworth Letters, 1944-1960,” <i>Perspectives on Science and Christian Faith</i>",
         issueOrVolume: "vol. 48, no. 1",
@@ -4801,6 +5249,7 @@ const texts = [
         notes: ["Reprinted in <i>CSL: the Bulletin of the New York C.S. Lewis Society,</i> vols. 321-322 (July-Aug 1996), 9-14."]
     },
     {
+        id: "u3mzd4",
         title: "Letter to the editor (“Poet and Printer”)",
         printedIn: "<i>The Spectator</i>",
         issueOrVolume: null,
@@ -4812,6 +5261,7 @@ const texts = [
         notes: null
     },
     {
+        id: "n5s2pu",
         title: "Letter to Father Guy Brinkworth (1945?)",
         printedIn: "<i>The Tablet</i>",
         issueOrVolume: null,
@@ -4823,6 +5273,7 @@ const texts = [
         notes: ["Reprinted in Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius), 214-215."]
     },
     {
+        id: "k4dpx3",
         title: "Letter to C.T. Onions (c.1945-1947)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4834,6 +5285,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xaepbj",
         title: "Letter to C.T. Onions (early 1940s)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4845,6 +5297,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uskdkn",
         title: "Letter to George Sayer (1947)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
         issueOrVolume: null,
@@ -4856,6 +5309,7 @@ const texts = [
         notes: null
     },
     {
+        id: "yu5zx4",
         title: "Letter to Douglas Bush (16 April 1947)",
         printedIn: "George Musacchio, “C.S. Lewis’s Correspondence with Douglas Bush,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 430",
@@ -4867,6 +5321,7 @@ const texts = [
         notes: null
     },
     {
+        id: "nenfes",
         title: "Letter to A.K. Hamilton Jenkin (31 May 1947)",
         printedIn: "Colin Duriez, <i>Tolkien and C.S. Lewis: The Gift of Friendship</i> (Mahwah, NJ: HiddenSpring [Paulist])",
         issueOrVolume: null,
@@ -4878,6 +5333,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sy4x67",
         title: "Letter to Owen Barfield (1 November 1948)",
         printedIn: " William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -4889,6 +5345,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 275."]
     },
     {
+        id: "mpedpa",
         title: "Letter to Owen Barfield (8 November 1954)",
         printedIn: " William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -4900,6 +5357,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 332."]
     },
     {
+        id: "7e6ayv",
         title: "Letter to Alec Vidler (27 July 1948, second letter)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -4911,6 +5369,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "The earlier letter referred to is in <i>CL</i> 2."]
     },
     {
+        id: "6u6ewr",
         title: "Letter to Michal Williams (22 November 1947)",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -4922,6 +5381,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uzz9nd",
         title: "Letter to Chad Walsh (c.1948)",
         printedIn: "Chad Walsh, <i>The Literary Legacy of C.S. Lewis</i> (New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -4933,6 +5393,7 @@ const texts = [
         notes: ["A smaller portion of this letter had been published in Walsh’s Afterword to <i>A Grief Observed</i> (New York: Bantam), 110."]
     },
     {
+        id: "fpwy5g",
         title: "Letter to Kenneth Tynan (December 1948)",
         printedIn: "Kathleen Tynan, <i>The Life of Kenneth Tynan</i> (New York: William Morrow)",
         issueOrVolume: null,
@@ -4944,6 +5405,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vvqayc",
         title: "Letter to John Betjeman (18 September 1928)",
         printedIn: "Bevis Hillier, <i>The Young Betjeman</i> (London: Murray)",
         issueOrVolume: null,
@@ -4955,6 +5417,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bb6swy",
         title: "Testimonial for E.L. Edmonds (18 October 1937)",
         printedIn: "<i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 59",
@@ -4966,6 +5429,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5q79ch",
         title: "Letter to Canon Smyth (13 March 1949)",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -4977,6 +5441,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hakd8a",
         title: "Letter to Mr. Kennedy (14 July 1949)",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -4988,6 +5453,7 @@ const texts = [
         notes: null
     },
     {
+        id: "386z7b",
         title: "Letter to C.T. Onions (30 November 1949)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -4999,6 +5465,7 @@ const texts = [
         notes: null
     },
     {
+        id: "t76y49",
         title: "Letter to C.T. Onions (mid-1950s)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -5010,6 +5477,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vp73mq",
         title: "Letter to Christian Hardie (December 1949)",
         printedIn: "<i>The Chesterton Review: C.S. Lewis Special Issue</i>",
         issueOrVolume: "vol. 17, no. 3",
@@ -5021,6 +5489,7 @@ const texts = [
         notes: null
     },
     {
+        id: "372z8t",
         title: "Letter to Laurence Harwood (1940s)",
         printedIn: "Harwood, “The Kilns Celebration and Dedication Service” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -5032,6 +5501,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vwf5gn",
         title: "Letter to John Dover Wilson (19 February 1950)",
         printedIn: "Joe Ricke, “‘Text Corruptions’ Corruption: Restoring C.S. Lewis’s Critical Satire” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 1",
@@ -5043,6 +5513,7 @@ const texts = [
         notes: ["Comparing with the holograph, I’ve made five corrections to the transcription: (1) I read “I’d rather <b>s</b>end every existing line,” not “rend”; (2) the holograph has “in <b>all</b> English prose,” where the transcription omits “all”; (3) I add a comma after “offensive”; (4) I read “all good wishes <b>for</b> the year”, not “of the year”; and (4) the letterhead says “Magdalen,” not “Magdalene.”"]
     },
     {
+        id: "cy43g3",
         title: "Letter to John Dover Wilson (8 October 1943)",
         printedIn: "Joe Ricke, “‘Text Corruptions’ Corruption: Restoring C.S. Lewis’s Critical Satire” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 1",
@@ -5054,6 +5525,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vdr52q",
         title: "Letter to “Ladies” (17 May 1946)",
         printedIn: "Stephanie Derrick, “‘Dear Ladies’: A new C.S. Lewis letter and the stresses of fame,” <i>World</i>",
         issueOrVolume: null,
@@ -5065,6 +5537,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3ns8xb",
         title: "Letter to John Harwood (9 May 1950)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -5076,6 +5549,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5fj9v4",
         title: "Letter to Cecil Harwood (May 1950)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -5087,6 +5561,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hf92ba",
         title: "Letter to Cecil Harwood (22 May 1950)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -5098,6 +5573,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cqx9yc",
         title: "Letter to Bernard Acworth (14 June 1950)",
         printedIn: "Gary B. Ferngren and Ronald L. Numbers, “C.S. Lewis on Creation and Evolution: The Acworth Letters, 1944-1960,” <i>Perspectives on Science and Christian Faith</i>",
         issueOrVolume: "vol. 48, no. 1",
@@ -5109,6 +5585,7 @@ const texts = [
         notes: ["Reprinted in <i>CSL: the Bulletin of the New York C.S. Lewis Society,</i> vols. 321-322 (July-Aug 1996), 9-14."]
     },
     {
+        id: "7ys8uw",
         title: "Letter to Mrs Frank L. Jones (7 December 1950)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5120,6 +5597,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1986), 295."]
     },
     {
+        id: "np8ma4",
         title: "Letter to the Royal Society of Literature (17 April 1951)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5131,6 +5609,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 301."]
     },
     {
+        id: "edfecm",
         title: "Letter to the Royal Society of Literature (19 March 1948)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5142,6 +5621,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 269."]
     },
     {
+        id: "bgarzs",
         title: "Letter to Ruth Pitter (12 September 1951)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5153,6 +5633,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 304.", "Also quoted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press, 2008), 167. Griffin includes more of the letter than King."]
     },
     {
+        id: "x2b3vb",
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5164,6 +5645,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 305."]
     },
     {
+        id: "wjjf7c",
         title: "Letter to Dorothy Sayers (3 or 4 July 1945)",
         printedIn: "<i>The Letters of Dorothy L. Sayers, Volume Three, 1944-1950: A Noble Daring,</i> ed. Barbara Reynolds (Cambridge, UK: Dorothy L. Sayers Society, Carol Green Publishing)",
         issueOrVolume: null,
@@ -5175,6 +5657,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7a7mms",
         title: "Letter to Dom Bede Griffiths (17 May 1952)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5186,6 +5669,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 310.", "A shorter portion of the text was reprinted in <i>Seeking the Secret Place: The Spiritual Formation of C.S. Lewis</i> (Grand Rapids, MI: Brazos Press, 2004), 102: “I owed him a great deal. Everything he ever said to me was so simple that you might have thought it childish, but was always what was needed.”"]
     },
     {
+        id: "6zqtt5",
         title: "Letter to Children at Grittleton House School (22 May 1952)",
         printedIn: "“Fine Books, Maps & Manuscripts,” the Dominic Winter Auctioneers catalogue",
         issueOrVolume: null,
@@ -5197,6 +5681,7 @@ const texts = [
         notes: null
     },
     {
+        id: "byj24t",
         title: "Letter to Joan Pile (5 June 1952)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5208,6 +5693,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 311."]
     },
     {
+        id: "za9984",
         title: "Letter to George Sayer (1951)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
         issueOrVolume: null,
@@ -5219,6 +5705,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pu8ymk",
         title: "Letter to Mary Van Deusen (“Mrs. Arnold”) (26 December 1951)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5230,6 +5717,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 415."]
     },
     {
+        id: "n998cy",
         title: "Letter to “Mrs. Lockley” (8 January 1952) ",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5241,6 +5729,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 416."]
     },
     {
+        id: "mqrcju",
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "<i>Reading the Classics with C.S. Lewis,</i> ed. Thomas L. Martin (Grand Rapids, MI: Baker)",
         issueOrVolume: null,
@@ -5252,6 +5741,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7uhre4",
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "Don W. King, “The Anatomy of a Friendship: the Correspondence of Ruth Pitter and C.S. Lewis, 1946-1962,” <i>Mythlore</i>",
         issueOrVolume: "vol. 24, no. 1",
@@ -5263,6 +5753,7 @@ const texts = [
         notes: ["The same excerpt is also reprinted in Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press, 2008), 167."]
     },
     {
+        id: "kqu7qa",
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "Margaret Hannay, <i>C.S. Lewis</i> (New York: Frederick Ungar)",
         issueOrVolume: null,
@@ -5274,6 +5765,7 @@ const texts = [
         notes: null
     },
     {
+        id: "txazyc",
         title: "Letter to the editor (“To the Fools in the Free Countries”)",
         printedIn: "<i>Meie Kudu = Our Home</i> (Sydney)",
         issueOrVolume: null,
@@ -5285,6 +5777,7 @@ const texts = [
         notes: ["<i>Meie Kudu</i> was a weekly newspaper for Estonian immigrants in Australia, published in Sidney. In a short article with the headline “TO THE FOOLS IN THE FREE COUNTRIES” this letter is printed after the introductory lines: “A copy of our article ‘Religion in Soviet Russia’ (No. 51, 1951 and no. 1, 1952) was sent to Professor C.S. LEWIS, Fellow Magdalene College, Oxford, England, and well-known author of famous books, such as ‘Abolition of Man’ and ‘The Screwtape Letters’. Now Prof. Haljaspõld has had a very encouraging reply which reads as follows: …”"]
     },
     {
+        id: "v4d5ma",
         title: "Letter to Dom Bede Griffiths (17 May 1952)",
         printedIn: "Armand M. Nicholi, <i>The Question of God: C.S. Lewis and Sigmund Freud debate God, love, sex, and the meaning of life</i> (New York: The Free Press)",
         issueOrVolume: null,
@@ -5296,6 +5789,7 @@ const texts = [
         notes: null
     },
     {
+        id: "tb8qry",
         title: "Letter to Mary Neylan (1953)",
         printedIn: "Sarah Neylan, “A Goddaughter’s Memories” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -5307,6 +5801,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8zkwsk",
         title: "Letter to Sister Penelope (28 November 1952)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5318,6 +5813,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mffxga",
         title: "Letter to Corbin Scott Carnell",
         printedIn: " Corbin S. Carnell, “Longing, Reason, and the Moral Law in C.S. Lewis’s Search” in <i>C.S. Lewis: Lightbearer in the Shadowlands,</i> ed. Angus J.L. Menuge (Wheaton, IL: Crossway Books)",
         issueOrVolume: null,
@@ -5329,6 +5825,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3nu38k",
         title: "Letter to Geoffrey Bles (11 March 1953)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5340,6 +5837,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2bbxz7",
         title: "Letter to Ruth Pitter (28 January 1957)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5351,6 +5849,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 355.", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 722."]
     },
     {
+        id: "629svr",
         title: "Letter to Joy Davidman (June 1953)",
         printedIn: "<i>Out of My Bone: The Letters of Joy Davidman,</i> ed. Don W. King (Grand Rapids, MI: Eerdmans)",
         issueOrVolume: null,
@@ -5362,6 +5861,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mac68g",
         title: "Letter to C.T. Onions (14 September 1953)",
         printedIn: "Jim Stockton with Charlie W. Starr, “The Unpublished Letters of C.S. Lewis to C.T. Onions” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 10, no. 1",
@@ -5373,6 +5873,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vb5wcv",
         title: "Letter to Paul Piehler (14 November 1953)",
         printedIn: "Piehler, “Encounters with Lewis: An Interim Report” in Harry Lee Poe and Rebecca Poe, <i>C.S. Lewis Remembered: Collected Reflections of Students, Friends and Colleagues</i> (Grand Rapids, MI: Zondervan)",
         issueOrVolume: null,
@@ -5384,6 +5885,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zf9wnk",
         title: "Letter to Mary Willis Shelburne (3 December 1953)",
         printedIn: "Ruth Cording, <i>C.S. Lewis: A Celebration of His Early Life</i> (Nashville, TN: Broadman and Holman)",
         issueOrVolume: null,
@@ -5395,6 +5897,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7an587",
         title: "Letter to Bernard Acworth (16 December 1953)",
         printedIn: "Gary B. Ferngren and Ronald L. Numbers, “C.S. Lewis on Creation and Evolution: The Acworth Letters, 1944-1960,” <i>Perspectives on Science and Christian Faith</i>",
         issueOrVolume: "vol. 48, no. 1",
@@ -5406,6 +5909,7 @@ const texts = [
         notes: ["Reprinted in <i>CSL: the Bulletin of the New York C.S. Lewis Society,</i> vols. 321-322 (July-Aug 1996), 9-14."]
     },
     {
+        id: "7ytsfy",
         title: "Letter to Vera Matthews (23 January 1954)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5417,6 +5921,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8dmksb",
         title: "Letter to Josef Pieper (25 January 1954)",
         printedIn: "Thomas Möllenbeck and Berthold Wald, <i>Wahrheit und Selbstüberschreitung. C.S. Lewis und Josef Pieper über den Menschen</i> (Ferdinand Schöningh, Paderborn)",
         issueOrVolume: null,
@@ -5428,6 +5933,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6rwg98",
         title: "Letter to Dom Bede Griffiths (1 November 1954)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5439,6 +5945,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 441."]
     },
     {
+        id: "w3wrmn",
         title: "Letter to Richard Ladborough (1955)",
         printedIn: "Richard W. Ladborough, “C.S. Lewis in Cambridge,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 9",
@@ -5450,6 +5957,7 @@ const texts = [
         notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 99 and in<i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005).", "Text may only be a paraphrase."]
     },
     {
+        id: "xmgzh9",
         title: "Letter to Mr. Canfield (28 February 1955)",
         printedIn: "Richard Purtill, <i>C.S. Lewis’s Case for the Christian Faith</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5461,6 +5969,7 @@ const texts = [
         notes: ["In the Ignatius Press 2004 reprint, this letter can be found on page 83.", "Given his other writings, in the phrase “mystical element in Genesis,” Lewis probably actually wrote “mythical.”"]
     },
     {
+        id: "429xwn",
         title: "Letter to Mrs Allen (26 November 1955)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -5472,6 +5981,7 @@ const texts = [
         notes: ["This letter was deleted from the 2002 Fully Revised & Expanded Edition of this <i>Biography</i>."]
     },
     {
+        id: "97c7kd",
         title: "Letter to Sister Penelope (18 June 1956)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5483,6 +5993,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 350.", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 720."]
     },
     {
+        id: "exgktn",
         title: "Letter to Mr. Evans (20 September 1956)",
         printedIn: "Charlie W. Starr, <i>The Faun’s Bookshelf: C.S. Lewis on Why Myth Matters</i> (Kent, OH: Black Squirrel Books)",
         issueOrVolume: null,
@@ -5494,6 +6005,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ftys5d",
         title: "Letter to Richard Ladborough (1956)",
         printedIn: "Richard W. Ladborough, “C.S. Lewis in Cambridge,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 9",
@@ -5505,6 +6017,7 @@ const texts = [
         notes: ["Reprinted in Richard W. Ladborough, “In Cambridge” in <i>C.S. Lewis at the Breakfast Table, and Other Reminiscences,</i> new edition, ed. James T. Como (San Diego: Harcourt Brace Jovanovich), 104 and in <i>Remembering C.S. Lewis: Recollections of Those Who Knew Him,</i> 3<sup>rd</sup> edition, ed. James T. Como (San Francisco: Ignatius, 2005).", "Text may only be a paraphrase."]
     },
     {
+        id: "4hprhd",
         title: "Letter to “one friend”",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
         issueOrVolume: null,
@@ -5516,6 +6029,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bsv6tr",
         title: "Letter to Mrs. Edward A. Allen (16 March 1957)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5527,6 +6041,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 464."]
     },
     {
+        id: "t79v8r",
         title: "Letter to Sister Madeleva (8 May 1957)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks)",
         issueOrVolume: null,
@@ -5538,6 +6053,7 @@ const texts = [
         notes: ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
     },
     {
+        id: "njj7kb",
         title: "Letter to Sister Penelope (12 May 1957)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks)",
         issueOrVolume: null,
@@ -5549,6 +6065,7 @@ const texts = [
         notes: ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 276."]
     },
     {
+        id: "46cjc9",
         title: "Letter to Sister Penelope (6 November 1957)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks)",
         issueOrVolume: null,
@@ -5560,6 +6077,7 @@ const texts = [
         notes: ["Appears in shortened and edited form C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles), 280."]
     },
     {
+        id: "5mgwh7",
         title: "Letter to Dom Bede Griffiths (1 August 1957)",
         printedIn: "Lyle W. Dorsett, <i>And God Came In</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -5571,6 +6089,7 @@ const texts = [
         notes: ["<i>And God Came In</i> was reprinted as <i>Joy and C.S. Lewis: The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994).", "Letter reprinted in William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988)."]
     },
     {
+        id: "kd5jum",
         title: "Postscript of published letter to Arthur Greeves (27 November 1957)",
         printedIn: "<i>They Stand Together,</i> ed. Walter Hooper (New York: Macmillan)",
         issueOrVolume: null,
@@ -5582,6 +6101,7 @@ const texts = [
         notes: ["The rest of the letter can be found both here and in <i>CL</i> 3:900."]
     },
     {
+        id: "bgym5r",
         title: "Letter to Mrs. Edward A. Allen (1 February 1958)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5593,6 +6113,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 473."]
     },
     {
+        id: "uh87mp",
         title: "Letter to Harold Dawson (6 February 1958)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5604,6 +6125,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: <i>William Griffin, C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 363."]
     },
     {
+        id: "my6jd8",
         title: "Letter to Sister Penelope (12 February 1958)",
         printedIn: "Lyle W. Dorsett, <i>And God Came In</i> (New York: Macmillan)",
         issueOrVolume: null,
@@ -5615,6 +6137,7 @@ const texts = [
         notes: ["<i>And God Came In</i> was reprinted as <i>Joy and C.S. Lewis: The Story of an Extraordinary Marriage</i> (London: HarperCollins, 1994)."]
     },
     {
+        id: "een9fm",
         title: "Letter to Editorial Committee, St Thomas More Project, Yale (30 August 1958)",
         printedIn: "Katherine Gardiner, “C.S. Lewis as a Reader of Edmund Spenser,” <i>CSL: The Bulletin of the New York C.S. Lewis Society</i>",
         issueOrVolume: "vol. 16, no. 191",
@@ -5626,6 +6149,7 @@ const texts = [
         notes: null
     },
     {
+        id: "yt8vdc",
         title: "Letter to Patricia Hillis (10 March 1959)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5637,6 +6161,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 372."]
     },
     {
+        id: "f429hv",
         title: "Letter to Father Peter Bide (29 April 1959)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5648,6 +6173,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
+        id: "e3wcy8",
         title: "Letter to Geoffrey R. Lennox (22 May 1959)",
         printedIn: "Janice Witherspoon Neuleib, “The Creative Act: Lewis on God and Art” in <i>The Longing for a Form: Essays on the Fiction of C.S. Lewis,</i> ed. Peter Schakel (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -5659,6 +6185,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jf33bm",
         title: "Letter to George Sayer (November 1959)",
         printedIn: "George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan)",
         issueOrVolume: null,
@@ -5670,6 +6197,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8n8fue",
         title: "Letter to Thomas Howard (1950s)",
         printedIn: "Clyde Kilby, <i>The Christian World of C.S. Lewis</i> (Grand Rapids, MI: Eerdmans)",
         issueOrVolume: null,
@@ -5681,6 +6209,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mktp8c",
         title: "Letter to Mrs. Stone (17 June 1960)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5692,6 +6221,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "Also reprinted in George Sayer, <i>Jack: C.S. Lewis and His Times</i> (London: Macmillan, 1988), 383."]
     },
     {
+        id: "k8xeg9",
         title: "Letter to Miss Breckenridge (18 August 1960)",
         printedIn: "Joseph Pearce, <i>C.S. Lewis and the Catholic Church</i> (San Francisco: Ignatius Press)",
         issueOrVolume: null,
@@ -5703,6 +6233,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5h99b3",
         title: "Letter to Bishop George Chase (25 August 1960)",
         printedIn: "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 22",
@@ -5714,6 +6245,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cbrae3",
         title: "Letter to Doris Allan (8 September 1960)",
         printedIn: "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 22",
@@ -5725,6 +6257,7 @@ const texts = [
         notes: null
     },
     {
+        id: "a4njyy",
         title: "Postscript of published letter to Sister Madeleva (7 June 1934)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5736,6 +6269,7 @@ const texts = [
         notes: ["The rest of the letter can be found in <i>CL</i> 1:140-143.", "Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 477."]
     },
     {
+        id: "kxt8ps",
         title: "Postscript of published letter to Alastair Fowler (24 February 1960)",
         printedIn: "Stephen Thorson, <i>Joy and Poetic Imagination: Understanding C.S. Lewis’s “Great War” with Owen Barfield and its Significance for Lewis’s Conversion and Writings</i> (Hamden, CT: Winged Lion Press)",
         issueOrVolume: null,
@@ -5747,6 +6281,7 @@ const texts = [
         notes: ["The rest of the letter can be found in <i>CL</i> 3:1200-1201."]
     },
     {
+        id: "q26257",
         title: "Letter to Jocelyn Gibb (4 December 1960)",
         printedIn: "Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5758,6 +6293,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pntxds",
         title: "Letter to Mary Hodges (14 December 1960)",
         printedIn: "Lionel Adey, <i>C.S. Lewis: Writer, Dreamer, and Mentor</i> (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -5769,6 +6305,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ax3y8c",
         title: "Letter to George Sayer (18 December 1960)",
         printedIn: "Edwin W. Brown with Dan Hamilton, <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -5780,6 +6317,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2gwtdq",
         title: "Letter to Richard Ladborough (9 October 1961)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5791,6 +6329,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988), 393."]
     },
     {
+        id: "sm2um5",
         title: "Letter to J.R.R. Tolkien (1962)",
         printedIn: "A.N. Wilson, <i>C.S. Lewis: A Biography</i> (London: Collins)",
         issueOrVolume: null,
@@ -5802,6 +6341,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rq4dj8",
         title: "Letter to unknown correspondent (January 1962)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -5813,6 +6353,7 @@ const texts = [
         notes: null
     },
     {
+        id: "tq4k4u",
         title: "Letter to David Marsh (9 May 1962)",
         printedIn: "William Phemister, “Fantasy Set to Music: Donald Swann, C.S. Lewis and J.R.R. Tolkien,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 13",
@@ -5824,6 +6365,7 @@ const texts = [
         notes: ["Holograph reprinted on the back cover of <i>Perelandra, the Opera,</i> programme for the concert production on 25 and 26 June 2009, Oxford C.S. Lewis Society."]
     },
     {
+        id: "b7vmmm",
         title: "Letter to Sister Penelope (23 June 1962)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5835,6 +6377,7 @@ const texts = [
         notes: ["Reprinted in the UK edition of this book: William Griffin, <i>C.S. Lewis: The Authentic Voice</i> (Tring: Lion Publishing, 1988).", "Also reprinted in Walter Hooper, <i>C.S. Lewis: A Companion & Guide</i> (London: HarperCollins, 1996), 112."]
     },
     {
+        id: "dqy58u",
         title: "Letter to Henry Noel (14 November 1962)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5846,6 +6389,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 505."]
     },
     {
+        id: "9x4x5g",
         title: "Letter to Laurence Harwood (10 September 1962)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -5857,6 +6401,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wmg7p6",
         title: "Letter to “Mr. Brown” at Oxford University Press (17 January 1963)",
         printedIn: "Stephanie Derrick, <i>The Fame of C.S. Lewis: A Controversialist’s Reception in Britain and America</i> (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -5868,6 +6413,7 @@ const texts = [
         notes: ["In this letter fragment Lewis implicitly claims sole authorship for the preface to <i>The Personal Heresy</i> in the first edition. However, in the first edition it was signed by both “E.M.W.T.” and, on the next line, “C.S.L.”", "OUP honored Lewis’s request and omitted the preface from the reprint, which was published posthumously in 1965. However, the next two reprintings of <i>The Personal Heresy</i> (in 2008 by Concordia Press, ed. Joel Heck, and in 2017 by HarperCollins) restore the preface without drawing attention to the fact."]
     },
     {
+        id: "n2bde4",
         title: "Letter to Sister Penelope (17 September 1963)",
         printedIn: "C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis (London: Geoffrey Bles)",
         issueOrVolume: null,
@@ -5879,6 +6425,7 @@ const texts = [
         notes: ["Reprinted in C.S. Lewis, <i>Letters of C.S. Lewis,</i> edited, with a memoir, by W.H. Lewis, revised and enlarged edition, ed. Walter Hooper (London: Fount Paperbacks, 1988), 508-509."]
     },
     {
+        id: "tfwze2",
         title: "Letter to Spencer Curtis Brown (1963)",
         printedIn: "Christopher Derrick, <i>C.S. Lewis and the Church of Rome</i> (San Francisco, CA: Ignatius)",
         issueOrVolume: null,
@@ -5890,6 +6437,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ma54he",
         title: "Letter to Bishop George Chase (13 October 1963)",
         printedIn: "George Musacchio, “C.S. Lewis, T.S. Eliot, and the Anglican Psalter,” <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 22",
@@ -5901,6 +6449,7 @@ const texts = [
         notes: ["An even smaller excerpt of this letter (“we were a wonderfully happy family”) was reprinted in Joel Heck, “C.S. Lewis the Churchman: His Work on the Anglican Commission to Revise the Psalter,” <i>SEVEN: An Anglo-American Literary Review,</i> vol. 36 (2019), 107."]
     },
     {
+        id: "eytz5p",
         title: "Letter to Jared Lobdell (22 October 1963)",
         printedIn: "Jared Lobdell, “The Ransom Stories and Their Eighteenth-Century Ancestry” in <i>Word and Story in C.S. Lewis,</i> eds. Peter J. Schakel and Charles Huttar (Columbia, MO: University of Missouri Press)",
         issueOrVolume: null,
@@ -5912,6 +6461,7 @@ const texts = [
         notes: null
     },
     {
+        id: "semxw6",
         title: "Letter to Roger Lancelyn Green (1 November 1963)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5923,6 +6473,7 @@ const texts = [
         notes: null
     },
     {
+        id: "t95pzv",
         title: "Letter to Richard Ladborough (28 October 1963)",
         printedIn: "William Griffin, <i>Clive Staples Lewis: A Dramatic Life</i> (San Francisco, CA: Harper & Row)",
         issueOrVolume: null,
@@ -5934,6 +6485,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wvard3",
         title: "Letter to Richard Ladborough (28 October 1963)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A biography, Fully Revised & Expanded Edition</i> (London: HarperCollins)",
         issueOrVolume: null,
@@ -5945,6 +6497,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7mrcph",
         title: "Letter to Max Beloff (May 1954)",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -5956,6 +6509,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mqh4dn",
         title: "Letter to Clyde Kilby (mid-1953)",
         printedIn: "Clyde Kilby, “A Visit with C.S. Lewis,” <i>Kodon</i>",
         issueOrVolume: "vol. 8",
@@ -5967,6 +6521,7 @@ const texts = [
         notes: ["Lewis makes a similar quip in <i>CL</i> 2:475, 28 March 1941 to Douglas Bush (“my line is to define the Renaissance as ‘an imaginary entity responsible for anything a modern writer happens to approve in the Fifteenth or Sixteenth Century.”). See also <i>English Literature in the Sixteenth Century</i> 55: “Unfortunately it has, for many years, been widening its meaning, till now ‘the Renaissance’ can hardly be defined except as ‘an imaginary entity responsible for everything the speaker likes in the fifteenth and sixteenth centuries.’”"]
     },
     {
+        id: "zw48wf",
         title: "Letter to the editor (“Illegal Detention: Claws that Remain Unclipped”)",
         printedIn: "<i>The Daily Telegraph and Morning Post</i>",
         issueOrVolume: null,
@@ -5978,6 +6533,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7saukm",
         title: "Letter to Martin Lings (c. 1930)",
         printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (London: Perennial Books)",
         issueOrVolume: null,
@@ -5989,6 +6545,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pxqxte",
         title: "Letter to Martin Lings (c. 1931)",
         printedIn: "Martin Lings, preface to <i>The Elements and Other Poems</i> (London: Perennial Books)",
         issueOrVolume: null,
@@ -6000,6 +6557,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fsq49d",
         title: "Letter to Stephen Schofield (c. July 1960)",
         printedIn: "Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge)",
         issueOrVolume: null,
@@ -6011,6 +6569,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jvsmua",
         title: "Letter to J.B. Phillips (c. 1956)",
         printedIn: "J.B. Phillips, <i>The Price of Success</i> (London: Hodder & Stoughton; Wheaton: Harold Shaw)",
         issueOrVolume: null,
@@ -6022,6 +6581,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cx4nrj",
         title: "Letter to Peter Philip (3 March 1955)",
         printedIn: "Peter Philip’s letter to the editor of <i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "no. 49",
@@ -6033,6 +6593,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xpvh5t",
         title: "Letter to R.W. Chambers (5 Dec 1940)",
         printedIn: "Caroline Chabot, “Raymond Wilson Chambers (1874-1942),” <i>Moreana</i>",
         issueOrVolume: "vol. 24, no. 93",
@@ -6044,6 +6605,7 @@ const texts = [
         notes: null
     },
     {
+        id: "k3n8vm",
         title: "Letter to John Christopher (1945?)",
         printedIn: "John Christopher, “Notes on Joy,” <i>Encounter</i>",
         issueOrVolume: "vol. 68, no. 4",
@@ -6055,6 +6617,7 @@ const texts = [
         notes: null
     },
     {
+        id: "a4wcq5",
         title: "Letter to John Christopher",
         printedIn: "John Christopher, “Notes on Joy,” <i>Encounter</i>",
         issueOrVolume: "vol. 68, no. 4",
@@ -6066,6 +6629,7 @@ const texts = [
         notes: null
     },
     {
+        id: "z3jcdy",
         title: "Letter to Ruth Pitter (29 December 1951)",
         printedIn: "Lionel Adey, <i>C.S. Lewis: Writer, Dreamer, and Mentor</i> (Grand Rapids, MI: Eerdmans)",
         issueOrVolume: null,
@@ -6077,6 +6641,7 @@ const texts = [
         notes: ["Believe me, I realize how insane it is that this single word merits its own entry."]
     },
     {
+        id: "8ud2rt",
         title: "Letter to “Franklin” (late 1940’s)",
         printedIn: "Patricia Batstone, <i>In Debt to C.S. Lewis</i> (Dunkeswell, Devon, UK: Cottage Books)",
         issueOrVolume: null,
@@ -6088,6 +6653,7 @@ const texts = [
         notes: null
     },
     {
+        id: "bu6a8j",
         title: "Letter to Owen Barfield (26 June 1929)",
         printedIn: " Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -6099,6 +6665,7 @@ const texts = [
         notes: ["The note refers to Lewis’s poem “Artless and Ignorant.”"]
     },
     {
+        id: "vw4ksg",
         title: "Letter to Owen Barfield (c. 1930)",
         printedIn: "Simon Blaxland-de Lange, <i>Owen Barfield: Romanticism Comes of Age, A Biography</i> (Forest Row, UK: Temple Lodge)",
         issueOrVolume: null,
@@ -6110,6 +6677,7 @@ const texts = [
         notes: null
     },
     {
+        id: "55xtdk",
         title: "Letter to Sister Penelope (1 February 1962)",
         printedIn: "Jack L. Knowles, “That ‘such a genius should be a beastly American’: C.S. Lewis as Critic of American Literature,” <i>SEVEN: Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 23",
@@ -6121,6 +6689,7 @@ const texts = [
         notes: ["Reprinted in Walter Hooper, “A Grief Observed: A Study of C.S. Lewis’s Thoughts on the Subject,” <i>SEVEN: An Anglo-American Literary Review</i>, vol. 30, 54."]
     },
     {
+        id: "d2w2n3",
         title: "Letter to Owen Barfield (21 Oct 1963)",
         printedIn: "Jane Hipolito, “C.S. Lewis and Owen Barfield: Adversaries and Confidantes,” in <i>An Examined Life,</i> vol. 1 of <i>C.S. Lewis: Life Works, and Legacy,</i> ed. Bruce L. Edwards (London & Westport, CT: Praeger Perspectives)",
         issueOrVolume: null,
@@ -6132,6 +6701,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2gsz7b",
         title: "Letter to Owen Barfield (Autumn 1926?)",
         printedIn: "Roger White, “C.S. Lewis’ Poem ‘Nearly They Stood’; A Variorum and Research Notes,” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 2",
@@ -6143,6 +6713,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e7mrnx",
         title: "Letter to R.W. Chapman (9 March 1936)",
         printedIn: "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
         issueOrVolume: null,
@@ -6154,6 +6725,7 @@ const texts = [
         notes: null
     },
     {
+        id: "894b7u",
         title: "Letter to Michal Williams (15 June 1948)",
         printedIn: "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
         issueOrVolume: null,
@@ -6165,6 +6737,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zrnxe8",
         title: "Letter to Robert Chapman (18 September 1935)",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -6176,6 +6749,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mpa784",
         title: "Letter to John Mulgan (19 March 1936)",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -6187,6 +6761,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3hzffs",
         title: "Letter to John Mulgan (4 April 1936)",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -6198,6 +6773,7 @@ const texts = [
         notes: null
     },
     {
+        id: "t5jpnr",
         title: "Letter to Daniel Davin (7 June 1954)",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -6209,6 +6785,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ways7q",
         title: "Letter to Daniel Davin (August 1958)",
         printedIn: "Samantha Rayner and Alison Searle, “C.S. Lewis: Writing and Publishing Literary Criticism with Oxford University Press and Cambridge University Press,” <i>Mémoires du livre / Studies in Book Culture</i>",
         issueOrVolume: "vol. 10, no. 2",
@@ -6220,6 +6797,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wzjvhe",
         title: "Letter to Thomas C. Van Osdall (1 June 1963)",
         printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
@@ -6231,6 +6809,7 @@ const texts = [
         notes: null
     },
     {
+        id: "az2ssa",
         title: "Letter to Thomas C. Van Osdall (9 October 1963)",
         printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
@@ -6242,6 +6821,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jewzhz",
         title: "Letter to Thomas C. Van Osdall (26 October 1963)",
         printedIn: "Michael L. Peterson, <i>C.S. Lewis and the Christian Worldview</i> (New York: Oxford University Press)",
         issueOrVolume: null,
@@ -6253,6 +6833,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ef9txu",
         title: "Letter to Mary Neylan (20 October 1941)",
         printedIn: "Brenton Dickieson, “A Cosmic Shift in the Screwtape Letters,” <i>Mythlore</i>",
         issueOrVolume: "vol. 39, no. 1",
@@ -6264,6 +6845,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pzhfwa",
         title: "Letter to Roy Niblett (June 14 1943)",
         printedIn: "Michael Ward, <i>After Humanity: A Guide to C.S. Lewis’s The Abolition of Man</i> (Park Ridge: Word on Fire Academic)",
         issueOrVolume: null,
@@ -6275,6 +6857,7 @@ const texts = [
         notes: null
     },
     {
+        id: "mvhruh",
         title: "Letter to Ruth Pitter (28 January 1957)",
         printedIn: "Don W. King, <i>Hunting the Unicorn: A Critical Biography of Ruth Pitter</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -6286,6 +6869,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kczc3n",
         title: "Letter to Angus McIntosh (5 November 1961)",
         printedIn: "Karina Williamson, “‘A proper synthesis of literary and linguistic study’: C.S. Lewis and a forgotten war,” <i>Journal of Literary Semantics</i>",
         issueOrVolume: "vol. 38, no. 2",
@@ -6297,6 +6881,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ws2mpz",
         title: "Letter to C. Talbot D’Alessandro (2 February 1955)",
         printedIn: "<i>Perelandra, the Opera,</i> programme for the concert production on 25 and 26 June 2009, Oxford C.S. Lewis Society",
         issueOrVolume: null,
@@ -6308,6 +6893,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vzyhfb",
         title: "Letter to C. Talbot D’Alessandro (7 February 1955)",
         printedIn: "<i>Perelandra, the Opera,</i> programme for the concert production on 25 and 26 June 2009, Oxford C.S. Lewis Society",
         issueOrVolume: null,
@@ -6319,6 +6905,7 @@ const texts = [
         notes: null
     },
     {
+        id: "tkse2a",
         title: "Missing item in a list of his essays in letter to Jocelyn Gibb (16 April 1961)",
         printedIn: "Arend Smilde, “C.S. Lewis’s ‘Transposition’: Text and Context,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 13",
@@ -6330,6 +6917,7 @@ const texts = [
         notes: null
     },
     {
+        id: "zbdqm4",
         title: "Letter to Kenneth Sisam (23 September 1935)",
         printedIn: "<i>The History of Oxford University Press Vol III: 1867-1970</i>, ed. William Roger Louis (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -6341,6 +6929,7 @@ const texts = [
         notes: null
     },
     {
+        id: "h7zj3c",
         title: "Letter to R.W. Chapman (18 September 1935)",
         printedIn: "<i>The History of Oxford University Press Vol III: 1867-1970</i>, ed. William Roger Louis (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -6352,6 +6941,7 @@ const texts = [
         notes: null
     },
     // {
+        id: "cfq86k",
     //     title: "Letter to Sarah Hauser (31 July 1957) ",
     //     printedIn: "Matthew Lee Anderson, “When the Story Stops Telling Itself: A New Letter from C.S. Lewis” at <i>Mere Orthodoxy</i>",
     //     issueOrVolume: null,
@@ -6363,6 +6953,7 @@ const texts = [
     //     notes: null
     // },
     {
+        id: "m9d4dd",
         title: "Letter to Thomas Derrick (23 July 1942)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6374,6 +6965,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xrq65j",
         title: "Letter to Thomas Derrick (31 July 1942)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6385,6 +6977,7 @@ const texts = [
         notes: null
     },
     {
+        id: "azqakz",
         title: "Letter to Thomas Derrick (7 August 1942)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6396,6 +6989,7 @@ const texts = [
         notes: null
     },
     {
+        id: "7q62e8",
         title: "Letter to Thomas Derrick (22 September 1942)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6407,6 +7001,7 @@ const texts = [
         notes: null
     },
     {
+        id: "76497e",
         title: "Letter to Thomas Derrick (26 March 1943)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6418,6 +7013,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ksfc72",
         title: "Letter to Thomas Derrick (6 November 1943)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6429,6 +7025,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sgqmbj",
         title: "Letter to Thomas Derrick (13 April 1944)",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -6440,6 +7037,7 @@ const texts = [
         notes: null
     },
     {
+        id: "emactf",
         title: "Letter to Roger Sharrock (17 June 1953)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6451,6 +7049,7 @@ const texts = [
         notes: ["Previously published in <i>CL</i> 3:1348, but with the final initials accidentally omitted."]
     },
     {
+        id: "qp8ax9",
         title: "Letter to unknown correspondent (c. 1926)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6462,6 +7061,7 @@ const texts = [
         notes: ["Only the final page survives, numbered “7.”"]
     },
     {
+        id: "nvcn8t",
         title: "Letter to Mr. Symonds (10 March 1942)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6473,6 +7073,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9zh4xs",
         title: "Letter to J. Hutchinson (20 October 1942)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6484,6 +7085,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3qhc7t",
         title: "Letter to Cecil Harwood (13 March 1944)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6495,6 +7097,7 @@ const texts = [
         notes: ["Written on the back of a small gray postcard, addressed on the front side by Lewis."]
     },
     {
+        id: "uhbqka",
         title: "Letter to Mr. Naylor (31 December 1945)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6506,6 +7109,7 @@ const texts = [
         notes: null
     },
     {
+        id: "h5e7gh",
         title: "Letter to Sarah Neylan (19 January 1952)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6517,6 +7121,7 @@ const texts = [
         notes: ["A typescript letter with signature."]
     },
     {
+        id: "x3cmvr",
         title: "Letter to E.G. Allen (16 June 1954)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6528,6 +7133,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6kkjjb",
         title: "Letter to Mr. Evans (20 September 1956)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6539,6 +7145,7 @@ const texts = [
         notes: null
     },
     {
+        id: "n4w6qn",
         title: "Letter to Mr. Evans (25 September 1956)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6550,6 +7157,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fs9srh",
         title: "Letter to Mr. Alford (18 February 1958)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6561,6 +7169,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pwbvga",
         title: "Letter to Mrs. Woolman (11 November 1961)",
         printedIn: "Charlie W. Starr and Crystal Hurd, “Lewis Manuscripts at Lanier Theological Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 15",
@@ -6572,6 +7181,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wspups",
         title: "Letter to Joan Bennett (23 November 1954)",
         printedIn: "Christian Rendel, “Mein Weg mit C.S. Lewis,” <i>Dran</i>",
         issueOrVolume: "no. 3",
@@ -6583,6 +7193,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cs4zud",
         title: "Letter to A.C. Spearing (6 November 1957)",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -6594,6 +7205,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hbu4x6",
         title: "Letter to A.C. Spearing (undated)",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -6605,6 +7217,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6jeeq7",
         title: "Letter to A.C. Spearing (undated, c. 1960)",
         printedIn: "A.C. Spearing, “C.S. Lewis as a Research Supervisor” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 1",
@@ -6616,6 +7229,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pq84gz",
         title: "Letter to Elizabeth Monro (30 November 1948)",
         printedIn: "C.S. Lewis, “Letter to Elizabeth Monro, 30 November 1948,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 12, no. 2",
@@ -6627,6 +7241,7 @@ const texts = [
         notes: ["Photographs of the manuscript have been available <a href='https://www.transpositions.co.uk/advent-c-s-lewis-and-a-letter-from-my-grandmother/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> since 13 December 2021.", "The manuscript itself is in the Bodleian Library, Oxford, shelfmark MS. Eng. c. 7963, fol. 26.", "The last sentence of the second paragraph is parallel to <i>That Hideous Strength</i> XII.2, the description of the Deputy Director’s drug-induced substitute for sleep: “the real man was far away, suffering, enjoying, or inflicting whatever such souls do suffer, enjoy, or inflict when the cord that binds them to the natural order is stretched out to its utmost but not yet snapped.”"]
     },
     {
+        id: "wksb35",
         title: "Letter to Colonel B.S. Browne (20 July 1943)",
         printedIn: "<i>Letters from Jack, Practical Advice from the Pen of C.S. Lewis</i>, ed. Diana Pavlac Glyer (The Honors College, Azusa Pacific University)",
         issueOrVolume: null,
@@ -6638,6 +7253,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6apt82",
         title: "Letter to Geoffrey Shepherd (23 September 1955)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6649,6 +7265,7 @@ const texts = [
         notes: null
     },
     {
+        id: "65g2hx",
         title: "Letter to Geoffrey Shepherd (6 October 1955)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6660,6 +7277,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sn89e4",
         title: "Letter to Geoffrey Shepherd (15 November 1955)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6671,6 +7289,7 @@ const texts = [
         notes: null
     },
     {
+        id: "q6d6zm",
         title: "Letter to Geoffrey Shepherd (17 January 1958)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6682,6 +7301,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jvjy4x",
         title: "Letter to Geoffrey Shepherd (17 March 1958)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6693,6 +7313,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fretmp",
         title: "Letter to Geoffrey Shepherd (22 March 1958)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6704,6 +7325,7 @@ const texts = [
         notes: null
     },
     {
+        id: "m98jjf",
         title: "Letter to Geoffrey Shepherd (20 January 1960)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6715,6 +7337,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kzbbe9",
         title: "Letter to Geoffrey Shepherd (19 March 1960)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6726,6 +7349,7 @@ const texts = [
         notes: ["Lewis was reviewing the manuscript that was to become <i>The Floure and the Leafe</i> and <i>The Assembly of Ladies</i>, edited by Derek A. Pearsall, published in 1962 as the sixth volume in Nelson’s Medieval and Renaissance Library."]
     },
     {
+        id: "jqczqv",
         title: "Letter to Geoffrey Shepherd (29 March 1960)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6737,6 +7361,7 @@ const texts = [
         notes: null
     },
     {
+        id: "dq8ted",
         title: "Letter to Geoffrey Shepherd (10 November 1960)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6748,6 +7373,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2gt8pd",
         title: "Letter to Geoffrey Shepherd (13 May 1962)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6759,6 +7385,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s3pqkf",
         title: "Letter to Geoffrey Shepherd (12 June 1962)",
         printedIn: "Steve Beebe and Joel Heck, “C.S. Lewis’s Role as General Editor of <i>Nelson’s Medieval and Renaissance Library Series</i>” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 39",
@@ -6770,6 +7397,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gaamvb",
         title: "Letter to Henry G. Welbon (18 September 1936)",
         printedIn: "Mark A. Noll, <i>C.S. Lewis in America: Readings and Reception, 1935-1947</i> (Downer’s Grove, IL: InterVarsity Press)",
         issueOrVolume: null,
@@ -6781,6 +7409,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pu9xf5",
         title: "Letter to Joseph McCulloch (13 May 1941)",
         printedIn: "Norbert Feinendegen, “‘A noise of great good coming’: C.S. Lewis’s <i>Dymer</i> as a Spiritual Autobiography,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 17",
@@ -6792,6 +7421,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4ssbsg",
         title: "Letter to the Bodleian Library (14 November 1941)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6803,6 +7433,7 @@ const texts = [
         notes: null
     },
         {
+        id: "s4wtan",
         title: "Letter to A.S.L. Farquharson (24 May 1931)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6814,6 +7445,7 @@ const texts = [
         notes: ["Farquharson is not identified as the recipient, nor is the date given in Horobin’s text. The letter is held at the Magdalen College Archives, UC J7/A2/42."]
     },
     {
+        id: "64em8a",
         title: "Letter to Arthur Lehman Goodhart (13 February 1959)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6825,6 +7457,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6cbbst",
         title: "Letter to John Betjeman (10 November 1936)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6836,6 +7469,7 @@ const texts = [
         notes: null
     },
     {
+        id: "fum3sa",
         title: "Letter to the President of Magdalen College (4 June 1954)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6847,6 +7481,7 @@ const texts = [
         notes: ["This letter is held at the Magdalen College Archives, shelfmark unknown."]
     },
     {
+        id: "fyg6aw",
         title: "Letter to unidentified Fellow of Magdalen College (1930)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6858,6 +7493,7 @@ const texts = [
         notes: ["This letter is held at the Magdalen College Archives, UC J7/A2/40."]
     },
     {
+        id: "txqpn5",
         title: "Letter to unidentified Fellow of Magdalen College (c. 1930s)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -6869,6 +7505,7 @@ const texts = [
         notes: ["The archival location is not identified."]
     },
     {
+        id: "tp7qpt",
         title: "Letter to Nancy Wilson Ross (10 October 1952)",
         printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
         issueOrVolume: "no. 4",
@@ -6879,8 +7516,57 @@ const texts = [
         type: "Letter",
         notes: ["This letter is held in the Nancy Wilson Ross Papers (Box 24.2, Series I, Subseries A) at the Harry Ransom Center, The University of Texas at Austin."]
     },
+    // {
+        id: "zsp6a2",
+    //     title: "Letter to ",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     issueOrVolume: "no. 4",
+    //     pageRange: "",
+    //     year: 2025,
+    //     monthAndDay: null,
+    //     textProvided: "",
+    //     type: "Letter",
+    //     notes: [""]
+    // },
+    // {
+        id: "w35euj",
+    //     title: "Letter to ",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     issueOrVolume: "no. 4",
+    //     pageRange: "",
+    //     year: 2025,
+    //     monthAndDay: null,
+    //     textProvided: "",
+    //     type: "Letter",
+    //     notes: [""]
+    // },
+    // {
+        id: "rdnrzc",
+    //     title: "Letter to ",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     issueOrVolume: "no. 4",
+    //     pageRange: "",
+    //     year: 2025,
+    //     monthAndDay: null,
+    //     textProvided: "",
+    //     type: "Letter",
+    //     notes: [""]
+    // },
+    // {
+        id: "tmzrs6",
+    //     title: "Letter to ",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     issueOrVolume: "no. 4",
+    //     pageRange: "",
+    //     year: 2025,
+    //     monthAndDay: null,
+    //     textProvided: "",
+    //     type: "Letter",
+    //     notes: [""]
+    // },
     // POEMS
     {
+        id: "tdzhh8",
         title: "Corrections to <i>Dymer</i>",
         printedIn: "<i>Dymer</i> (London: J.M. Dent)",
         issueOrVolume: null,
@@ -6892,6 +7578,7 @@ const texts = [
         notes: ["These corrections are noted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 216-217, notes 15, 25, and 27, respectively."]
     },
     {
+        id: "awc8sq",
         title: "“The Sunrise”",
         printedIn: "<i>The Various Light: An Anthology of Modern Poetry in English,</i> eds. Leah Drake and Charles Muses (Lausanne, Switzerland: Aurora Press)",
         issueOrVolume: null,
@@ -6903,6 +7590,7 @@ const texts = [
         notes: ["Lewis introduces the poem with the comment: “I wrote a poem about a sunrise. ...I have forgotten most of it, but it ended up by saying how much rather I would feel...”"]
     },
     {
+        id: "ss422p",
         title: "“Carpe Diem”",
         printedIn: "<i>C.S. Lewis: Images of His World,</i> eds. Clyde Kilby and Douglas Gilbert (Grand Rapids: Eerdmans)",
         issueOrVolume: null,
@@ -6914,6 +7602,7 @@ const texts = [
         notes: ["Also reprinted, still as a holograph, in <i>C.S. Lewis: Images of His World</i> (2005), 37; then again, as text, in Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>, vol. 15 (1998), 74, and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 31."]
     },
     {
+        id: "yyn5j7",
         title: "“Perelandra”",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -6925,6 +7614,7 @@ const texts = [
         notes: ["This verse fragment appears to be the idea for <i>Perelandra.</i> Its metre is blank verse, the same as Milton’s <i>Paradise Lost</i>.", "Reprinted in the 2002 Fully Revised & Expanded Edition on 202."]
     },
     {
+        id: "68vfeg",
         title: "“Two at the Table”",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -6936,6 +7626,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ux3t2z",
         title: "“Poem for Jill Flewett”",
         printedIn: "Jill (Flewett) Freud, “Lewis Teaches the Retarded” in <i>The Canadian C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 16",
@@ -6947,6 +7638,7 @@ const texts = [
         notes: ["Written in the front of a copy of <i>The Screwtape Letters.</i>", "Reprinted in Stephen Schofield, <i>In Search of C.S. Lewis</i> (South Plainfield, NJ: Bridge, 1983), 59."]
     },
     {
+        id: "3j7efy",
         title: "Fragment of a poem in Latin on the animals entering Noah’s ark",
         printedIn: "John Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford)",
         issueOrVolume: null,
@@ -6958,6 +7650,7 @@ const texts = [
         notes: ["Reprinted in Philip and Carol Zaleski, <i>The Fellowship: The Literary Lives of the Inklings</i> (New York: Farrar, Straus & Grioux, 2015), 171 and in Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies,</i> vol. 13, no. 2 (October 2023), 256-257.", "This is one of three overlapping early versions of this poem. For the other two see Waters and Reyes, 258 and Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos and Recollections</i> (Downer’s Grove, IL: IVP Books, 2007), 53-54. In this version, “grue grus” comes before “sue sus” and it is W.F.R. Hardie, not Owen Barfield, who helped Lewis compose some of the lines."]
     },
     {
+        id: "erqxu3",
         title: "“If, following your satiric muse”",
         printedIn: "Joel D. Heck, <i>Irrigating Deserts: C.S. Lewis on Education</i> (St. Louis, MO: Concordia)",
         issueOrVolume: null,
@@ -6969,6 +7662,7 @@ const texts = [
         notes: ["Written on a paper by J.O. Reed (June 1950)."]
     },
     {
+        id: "5p7vkg",
         title: "“This first edition”",
         printedIn: "Edwin W. Brown (with Dan Hamilton), <i>In Pursuit of C.S. Lewis: Adventures in Collecting His Works</i> (Indianapolis, IN: Proleptikos Press)",
         issueOrVolume: null,
@@ -6980,6 +7674,7 @@ const texts = [
         notes: ["Written on the endpapers of John Arlott’s copy of <i>The Screwtape Letters.</i>"]
     },
     {
+        id: "yn4nby",
         title: "“Nearly They Stood” (drafts) first published in <i>Pilgrim’s Regress</i> and revised in <i>Poems</i> and <i>Collected Poems</i>",
         printedIn: "Roger White, “C.S. Lewis’ Poem ‘Nearly They Stood’; A Variorum and Research Notes,” <i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 6, no. 2",
@@ -6991,6 +7686,7 @@ const texts = [
         notes: ["“Nearly They Stood” was first published in <i>Pilgrim’s Regress</i> and revised in <i>Poems</i> and <i>Collected Poems.</i>"]
     },
     {
+        id: "44xwkr",
         title: "Suggested revisions to J.R.R. Tolkien’s translation of <i>Beowulf</i>",
         printedIn: "J.R.R. Tolkien, <i>Beowulf: A Translation and Commentary, together with Sellic Spell,</i> ed. Christopher Tolkien (Boston, MA; New York: Houghton Mifflin Harcourt)",
         issueOrVolume: null,
@@ -7002,6 +7698,7 @@ const texts = [
         notes: null
     },
     {
+        id: "g4ver3",
         title: "“The King of Drum [But soon his feet]” (drafts)",
         printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -7013,6 +7710,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xqjr75",
         title: "“Epitaph [You call them Fascists]” (draft)",
         printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -7024,6 +7722,7 @@ const texts = [
         notes: null
     },
     {
+        id: "g86fe9",
         title: "“As the Ruin Falls” (drafts)",
         printedIn: "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
@@ -7035,6 +7734,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pa8fzs",
         title: "“In Nuptias Daphnes et Caecilii, Epithalamion”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7046,6 +7746,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wpr636",
         title: "Fragment of a poem in Latin on the animals entering Noah’s ark (“Poema De XVI Animalibus Arcam Noe Introantibus”)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7057,6 +7758,7 @@ const texts = [
         notes: ["Note by Ken Hodgkinson, the translator, on page 54: “This piece uses Latin elegiac couplets, hexameter and pentameter; the reference to <i>ridiculus mus</i> is a quote from Horace, ‘The mountains are in labor, and then out comes a silly little mouse’—a satirical comment on the spectacular effort of the writer for little result.”", "The Latin transcription on 54 is reprinted in Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies,</i> vol. 13, no. 2 (October 2023), 258. The two mistranscriptions are reproduced but only one of them is noted (see 258 note 40).", "According to Waters and Reyes, 258, this poem may be the earliest of three known early versions of Lewis and Barfield’s Latin poem on the animals in Noah’s ark. For the other two see Waters and Reyes, 259 and J.D. Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford, 1986), 77-78."]
     },
     {
+        id: "anvgkj",
         title: "“ΠΕΡΙ ΣΤΕΦΑΝΟΥ” [PERI STEPHANOU]",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7068,6 +7770,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jwx6ce",
         title: "“To a Friend” (draft)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7079,6 +7782,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cn9par",
         title: "“Elegy”",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7090,6 +7794,7 @@ const texts = [
         notes: null
     },
     {
+        id: "yvnhjk",
         title: "“Abecedarium Philosophicum” (draft)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -7101,6 +7806,7 @@ const texts = [
         notes: ["Co-authored with Owen Barfield."]
     },
     {
+        id: "g3e46u",
         title: "“Poema Historiale”",
         printedIn: "Humphrey Carpenter, <i>The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</i> (London: Allen & Unwin)",
         issueOrVolume: null,
@@ -7112,6 +7818,7 @@ const texts = [
         notes: ["A new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien.”", "Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
     },
     {
+        id: "nspu54",
         title: "“The Old Grey Mare”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7123,6 +7830,7 @@ const texts = [
         notes: null
     },
     {
+        id: "cx4k3n",
         title: "“Descend to Earth, Descend, Celestial Nine”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7134,6 +7842,7 @@ const texts = [
         notes: null
     },
     {
+        id: "dtm2bd",
         title: "“Quam Bene Saturno”",
         printedIn: "<i>Cherbourg School Magazine</i>",
         issueOrVolume: null,
@@ -7145,6 +7854,7 @@ const texts = [
         notes: ["Reprinted in <i>LP</i> 4:51-52 and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press), 30."]
     },
     {
+        id: "7trrfw",
         title: "“From the Latin of Milton’s <i>De Idea Platonica Quemadmodum Aristoteles Intellexit</i>”",
         printedIn: "<i>English: Journal of the English Association</i>",
         issueOrVolume: "vol. 5, no. 30",
@@ -7156,6 +7866,7 @@ const texts = [
         notes: ["Reprinted in <i>LP</i> 4:51-52 and <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press), 333."]
     },
     {
+        id: "25htk7",
         title: "“In Winter When the Frosty Nights are Long”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7167,6 +7878,7 @@ const texts = [
         notes: ["Reprinted in Don King, <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 32."]
     },
     {
+        id: "tvyvvt",
         title: "<i>Loki Bound</i>",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7178,6 +7890,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sjf2hp",
         title: "“Ovid’s ‘Pars estis pauci’”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7189,6 +7902,7 @@ const texts = [
         notes: ["Republished in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 37."]
     },
     {
+        id: "gs7j4r",
         title: "“My Western Garden”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7200,6 +7914,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 43."]
     },
     {
+        id: "b45zga",
         title: "“A Death Song”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7211,6 +7926,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 44."]
     },
     {
+        id: "ct5gnm",
         title: "“To the Gods of Old Time”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7222,6 +7938,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 47."]
     },
     {
+        id: "5pn8pw",
         title: "“The Town of Gold”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7233,6 +7950,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 48."]
     },
     {
+        id: "f85mfd",
         title: "“The Wood Desolate (near Bookham)”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7244,6 +7962,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 49."]
     },
     {
+        id: "syapzp",
         title: "“Anamnesis”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7255,6 +7974,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 50."]
     },
     {
+        id: "tcj2uj",
         title: "“Sonnet to John Keats”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7266,6 +7986,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 54."]
     },
     {
+        id: "rs8hee",
         title: "“Yet More of the Wood Desolate”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7277,6 +7998,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 54."]
     },
     {
+        id: "k92btr",
         title: "“The Wind”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7288,6 +8010,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 57."]
     },
     {
+        id: "yuj96j",
         title: "“New Year’s Eve”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7299,6 +8022,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 58."]
     },
     {
+        id: "ax7yvn",
         title: "“Laus Mortis”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7310,6 +8034,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sz7ccd",
         title: "“In His Own Image”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7321,6 +8046,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 60."]
     },
     {
+        id: "gwncxq",
         title: "“Sonnet [The clouds are red behind us and before]”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7332,6 +8058,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 60."]
     },
     {
+        id: "h8h9ep",
         title: "“Loneliness”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7343,6 +8070,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 61."]
     },
     {
+        id: "mw2ajb",
         title: "“The Little Golden Statuette”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7354,6 +8082,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 62."]
     },
     {
+        id: "d5yvdx",
         title: "“Sonnet [I have not bowed in any other shrine]”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7365,6 +8094,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 63."]
     },
     {
+        id: "qddnhw",
         title: "“Exercise on an Old Theme”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7376,6 +8106,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 64."]
     },
     {
+        id: "w5t96c",
         title: "“Hylas”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7387,6 +8118,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 67."]
     },
     {
+        id: "b25yec",
         title: "“Decadence”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7398,6 +8130,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 68."]
     },
     {
+        id: "c2sz3v",
         title: "“Ballade on a Certain Pious Gentleman”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7409,6 +8142,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 69."]
     },
     {
+        id: "9dzpge",
         title: "“ΜΗΔΕΝ ᾿ΑΤΑΝ [but should be ᾿ΑΓΑΝ]”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7420,6 +8154,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 69."]
     },
     {
+        id: "r6pqtd",
         title: "“Despoina, Bear with Me”",
         printedIn: "Don W. King, “Lost but Found: The ‘Missing’ Poems of C.S. Lewis’s Spirits in Bondage,” <i>Christianity and Literature</i>",
         issueOrVolume: "vol. 2",
@@ -7431,6 +8166,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press 2015), 72."]
     },
     {
+        id: "z97e86",
         title: "“Nimue”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7442,6 +8178,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ww5ugw",
         title: "Untitled (“Heart-breaking School”)",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7453,6 +8190,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 127."]
     },
     {
+        id: "2529p9",
         title: "“Oh That a Black Ship”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7464,6 +8202,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rxmquw",
         title: "Untitled (“And After This They Sent Me”)",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7475,6 +8214,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 128."]
     },
     {
+        id: "2a3ns6",
         title: "Untitled (“Old Kirk, Like Father Time Himself”)",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7486,6 +8226,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 129."]
     },
     {
+        id: "8gxdgu",
         title: "“The Carpet Rises in the Draught”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7497,6 +8238,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 130.",]
     },
     {
+        id: "294guc",
         title: "“The Tale of Psyche is Unjustly Told”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7508,6 +8250,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vsjgdu",
         title: "“The Silence of the Night”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7519,6 +8262,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5van4q",
         title: "“West Germanic to Primitive Old English”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7530,6 +8274,7 @@ const texts = [
         notes: null
     },
     {
+        id: "34s9fq",
         title: "“The Hedgehog Moralised”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7541,6 +8286,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3sd44x",
         title: "“The Lord Is a Jealous God—A Careful Shepherd”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7552,6 +8298,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ryxmqx",
         title: "“Thus A to Ĕ”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7563,6 +8310,7 @@ const texts = [
         notes: null
     },
     {
+        id: "49nqtf",
         title: "“Artless and Ignorant is Andvāri”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7574,6 +8322,7 @@ const texts = [
         notes: null
     },
     {
+        id: "eqdbhu",
         title: "“Long at Lectures”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7585,6 +8334,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6368t4",
         title: "“You, Beneath Scraping Branches”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7596,6 +8346,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wfrtkj",
         title: "Untitled (“I will write down”)",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7607,6 +8358,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 259.",]
     },
     {
+        id: "a6ws7x",
         title: "“The Examiner Sits into Quarrie”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7618,6 +8370,7 @@ const texts = [
         notes: null
     },
     {
+        id: "xqnmxa",
         title: "“Where Reservoys Ripple”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7629,6 +8382,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vxpgze",
         title: "“There Was a Young Person of Streatham”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7640,6 +8394,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vsttyp",
         title: "“After Kirby’s <i>Kalevala</i>”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7651,6 +8406,7 @@ const texts = [
         notes: null
     },
     {
+        id: "dyr994",
         title: "“Where Are the Walks?”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7662,6 +8418,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vd3phr",
         title: "Untitled (“How Can I Ask Thee, Father?”)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -7673,6 +8430,7 @@ const texts = [
         notes: ["Reprinted in full in the 2002 Revised & Expanded Edition of this <i>Biography</i>, 217. The main poem (minus the variations of the first two lines) is reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition</i>, ed. Don W. King (Kent: Kent State University Press, 2015), 325. "]
     },
     {
+        id: "j9qstt",
         title: "Untitled (“The floating islands, the flat golden sky”)",
         printedIn: "Roger Lancelyn Green and Walter Hooper, <i>C.S. Lewis: A Biography</i> (London: Collins; New York: Harcourt Brace Jovanovich)",
         issueOrVolume: null,
@@ -7684,6 +8442,7 @@ const texts = [
         notes: ["This verse fragment appears to be the idea for <i>Perelandra</i>. Its metre is blank verse, the same as Milton’s <i.>>Paradise Lost</i.", "Reprinted in the 2002 Revised & Expanded Edition of this <i>Biography</i>, 202, in  Hooper’s <i>C.S. Lewis: A Companion & Guide</i> (New York: HarperCollins, 1996), 220, and in <i>The Collected Poems of C.S. Lewis: A Critical Edition</i>, ed. Don W. King (Kent: Kent State University Press, 2015), 327 as “The Floating Islands."]
     },
     {
+        id: "huycgs",
         title: "“The Admiral Stamped on the Quarter Deck”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7695,6 +8454,7 @@ const texts = [
         notes: null
     },
     {
+        id: "gen7nr",
         title: "“A Funny Old Man Had a Habit”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7706,6 +8466,7 @@ const texts = [
         notes: null
     },
     {
+        id: "rewkhj",
         title: "“Best Quality Sackcloth & Ashes”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7717,6 +8478,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kuw3hz",
         title: "“This Literary Lion”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7728,6 +8490,7 @@ const texts = [
         notes: null
     },
     {
+        id: "s97qyq",
         title: "“Call <i>Him</i> a Fascist? Thus the Rabbit”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7739,6 +8502,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hhjjrf",
         title: "“Not for Your Reading, Not Because I Dream.”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7750,6 +8514,7 @@ const texts = [
         notes: null
     },
     {
+        id: "kvsmxn",
         title: "“I Know Far Less of Spiders”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7761,6 +8526,7 @@ const texts = [
         notes: null
     },
     {
+        id: "y375ax",
         title: "“Travellers! In Months without an R”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7772,6 +8538,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ruqyqd",
         title: "“Interim Report”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7783,6 +8550,7 @@ const texts = [
         notes: null
     },
     {
+        id: "a6wgrq",
         title: "“D.H. Lawrence, Dr. Stopes”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7794,6 +8562,7 @@ const texts = [
         notes: null
     },
     {
+        id: "3h6xb2",
         title: "“Ichabod”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7805,6 +8574,7 @@ const texts = [
         notes: null
     },
     {
+        id: "86jywg",
         title: "“To Mr. Kingsley Amis on His Late Verses”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7816,6 +8586,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4469pe",
         title: "“Dear Dorothy, I’m Puzzling Hard”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7827,6 +8598,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pk482c",
         title: "“Experempment”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7838,6 +8610,7 @@ const texts = [
         notes: null
     },
     {
+        id: "uhjjg6",
         title: "“Nan est Doctior Omnibus Puellis”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7849,6 +8622,7 @@ const texts = [
         notes: null
     },
     {
+        id: "6ysjkn",
         title: "“Aubade [Somehow it’s strange discovering, dear]”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7860,6 +8634,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j6g3n6",
         title: "“Lords Coeval with Creation”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7871,6 +8646,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ysnvvz",
         title: "“Dear Mr. Marshall, Thank You”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7882,6 +8658,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e9eun2",
         title: "“An Age Will Come”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7893,6 +8670,7 @@ const texts = [
         notes: null
     },
     {
+        id: "grbj98",
         title: "“As Long as Rolling Wheels Rotate”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7904,6 +8682,7 @@ const texts = [
         notes: null
     },
     {
+        id: "j39yp7",
         title: "“But in All Dialects”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7915,6 +8694,7 @@ const texts = [
         notes: null
     },
     {
+        id: "hxy4kv",
         title: "“Fidelia Vulnera Amantis”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7926,6 +8706,7 @@ const texts = [
         notes: null
     },
     {
+        id: "jajeh5",
         title: "“Go Litel Tugge upon Thes Watres Shene”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7937,6 +8718,7 @@ const texts = [
         notes: null
     },
     {
+        id: "37qc45",
         title: "“If with Posterity Good Fame”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7948,6 +8730,7 @@ const texts = [
         notes: null
     },
     {
+        id: "qtqjek",
         title: "“Laertes to Napoleon”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7959,6 +8742,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5k7t5b",
         title: "“Lines to Mr. Compton Mackenzie”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -7970,6 +8754,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 433.",]
     },
     {
+        id: "p6v34b",
         title: "“Of This Great Suit Who Dares Foresee the End?”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7981,6 +8766,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sd5qkc",
         title: "“That Was an Ugly Age”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -7992,6 +8778,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9dbz48",
         title: "“The Goodly Fair”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8003,6 +8790,7 @@ const texts = [
         notes: null
     },
     {
+        id: "8my4cz",
         title: "“To Mrs. Dyson, Angrie”",
         printedIn: "Don King, “Glints of Light: The Unpublished Short Poetry of C.S. Lewis” in <i>SEVEN: An Anglo-American Literary Review</i>",
         issueOrVolume: "vol. 15",
@@ -8014,6 +8802,7 @@ const texts = [
         notes: ["Reprinted in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 435."]
     },
     {
+        id: "j5r2cm",
         title: "“Tu Silentia Perosus”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8025,6 +8814,7 @@ const texts = [
         notes: null
     },
     {
+        id: "f5jwgu",
         title: "“YAH!”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8036,6 +8826,7 @@ const texts = [
         notes: null
     },
     {
+        id: "2xap49",
         title: "Fragment of a poem on the front flyleaf of his copy of an unknown book by H.C. Wyld",
         printedIn: "Tom Shippey, “The Lewis Diaries” in <i>C.S. Lewis and His Circle: Essays and Memoirs from the Oxford C.S. Lewis Society,</i> eds. Roger White, Judith Wolfe, and Brendan N. Wolfe (Oxford: Oxford University Press)",
         issueOrVolume: null,
@@ -8047,6 +8838,7 @@ const texts = [
         notes: ["Reprinted in Tom Shippey, “H.C. Wyld,” <i>Times Literary Supplement,</i> no. 6003 (20 Apr. 2018), 6."]
     },
     {
+        id: "cyj9w7",
         title: "Manuscript variations for “In a Spring Season I Sailed Away” (=“The Nameless Isle” in <i>Narrative Poems</i>)",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8058,6 +8850,7 @@ const texts = [
         notes: ["The only variations listed here are the ones that differ from, or do not appear in, <i>Narrative Poems</i>."]
     },
     {
+        id: "jvjye4",
         title: "Holograph variations for “When the Year Dies in Preparation for the Birth” (=“Launcelot” in <i>Narrative Poems</i>)",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8069,6 +8862,7 @@ const texts = [
         notes: ["The only variations listed here are the ones that differ from, or do not appear in, <i>Narrative Poems</i>."]
     },
     {
+        id: "423hcj",
         title: "Typescript variations for “The Queen of Drum”",
         printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
         issueOrVolume: null,
@@ -8080,6 +8874,7 @@ const texts = [
         notes: ["The only variations listed here are the ones that differ from, or do not appear in, <i>Narrative Poems</i>."]
     },
     {
+        id: "bhc5tm",
         title: "“O Caecili care” in letter to Cecil Harwood (April 1936)",
         printedIn: "Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos, and Recollections</i> (Downer’s Grove, IL: IVP Books)",
         issueOrVolume: null,
@@ -8091,6 +8886,7 @@ const texts = [
         notes: null
     },
     {
+        id: "29sxzw",
         title: "“Arrangement of Pindar” and “Pindar Sang” side-by-side comparison",
         printedIn: "“‘Arrangement of Pindar’ and ‘Pindar Sang’: A Variorum Edition,” eds. Brendon N. Wolfe and Judith E. Tonning<i>The Chronicle of the Oxford University C.S. Lewis Society</i>",
         issueOrVolume: "vol. 5, no. 3",
@@ -8102,6 +8898,7 @@ const texts = [
         notes: null
     },
     {
+        id: "km8vay",
         title: "“Each book by Empson read” in his copy of William Empson, <i>The Structure of Complex Words</i>",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -8113,6 +8910,7 @@ const texts = [
         notes: null
     },
     {
+        id: "4sf49a",
         title: "<i>Dymer</i> (drafts)",
         printedIn: "Adam Barkman, <i>C.S. Lewis and Philosophy as a Way of Life</i> (Cheshire, CT: Zossima Press)",
         issueOrVolume: null,
@@ -8124,6 +8922,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ecj5wu",
         title: "Suggested revisions to a sonnet by Dr. Robert E. Havard",
         printedIn: "Sarah O’Dell, “An Unexpected Poet: The Creative Works of Dr. Robert E. Havard,” <i>Mythlore</i>",
         issueOrVolume: "vol. 38, no. 1",
@@ -8135,6 +8934,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ptbstj",
         title: "“Patruae Verba Linguae”",
         printedIn: "Steven A. Beebe, <i>C.S. Lewis and the Craft of Communication</i> (Peter Lang Publishers)",
         issueOrVolume: null,
@@ -8146,6 +8946,7 @@ const texts = [
         notes: ["Beebe discovered the poem on the back of a manuscript in the Bodleian. Don King has verified its authenticity."]
     },
     {
+        id: "8tgcsh",
         title: "Poem for Thomas Derrick",
         printedIn: "David Derrick and Brian Murdoch, “C.S. Lewis, Thomas Derrick, and Screwtape” in <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 11, no. 2",
@@ -8157,6 +8958,7 @@ const texts = [
         notes: null
     },
     {
+        id: "wdbj3m",
         title: "“The Planets” (draft)",
         printedIn: "Michael Ward, ““Planet Narnia Revisited,” in <i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell</i>, ed. Bruce R. Johnson (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -8168,6 +8970,7 @@ const texts = [
         notes: null
     },
     {
+        id: "dps8u4",
         title: "Chaucerian verse summary of Robert Macdonald’s paper on Shakespeare (16 February 1923) in Walter Hooper, “C.S. Lewis and the Oxford English Literature Discussion Group”",
         printedIn: "<i>The Undiscovered C.S. Lewis: Essays in Memory of Christopher W. Mitchell,</i> ed. Bruce R. Johnson (Hamden: Winged Lion Press)",
         issueOrVolume: null,
@@ -8179,6 +8982,7 @@ const texts = [
         notes: null
     },
     {
+        id: "m8329d",
         title: "Fragment of a poem in Latin on the animals entering Noah’s ark (“Poema de <u>XVI Animalibus arcem</u> Noam intrantibus”)",
         printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 3, no. 2",
@@ -8190,6 +8994,7 @@ const texts = [
         notes: ["In the Bodleian, Dep. c. 1104, fol. 3. None of it is in Lewis’s hand.", "This is one of three overlapping early versions of this poem. For the other two see John Mabbott, <i>Oxford Memories</i> (Oxford: Thornton’s of Oxford), 77 and Laurence Harwood, <i>C.S. Lewis, My Godfather: Letters, Photos and Recollections</i> (Downer’s Grove, IL: IVP Books, 2007), 53-54. In this version, “sue sus” comes before “grue grus” and it is Owen Barfield, not W.F.R. Hardie, who helped Lewis compose some of the lines."]
     },
     {
+        id: "khyv48",
         title: "“De Arca Noe”",
         printedIn: "Sarah R.A. Waters and A.T. Reyes, “‘De Arca Noe’: An Early Lewis-Barfield Collaboration,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 3, no. 2",
@@ -8201,6 +9006,7 @@ const texts = [
         notes: ["In the Bodleian, Archive of Owen Barfield, Dep. c. 1111, fol. 7; and the Wade Center, C.S. Lewis Manuscripts, CSL / MS-210 / X ‘De Arca Noe’.", "A note in Barfield’s hand closes the poem: “CSL & AOB / in collaboration.”"]
     },
     {
+        id: "jk3xt3",
         title: "“Mód Þrýþe Ne Wæg”",
         printedIn: "Andoni Cossio, “The Unpublished ‘Mód Þrýþe Ne Wæg’ by C.S. Lewis: A Critical Edition,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 1",
@@ -8212,6 +9018,7 @@ const texts = [
         notes: null
     },
     {
+        id: "vxpwud",
         title: "Poem I against H.C. Wyld in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8223,6 +9030,7 @@ const texts = [
         notes: null
     },
     {
+        id: "pjhf7b",
         title: "Poem II against H.C. Wyld in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8234,6 +9042,7 @@ const texts = [
         notes: ["Reprinted in Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library, 2024), 18."]
     },
     {
+        id: "747bg6",
         title: "Poem III against H.C. Wyld in Latin in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8245,6 +9054,7 @@ const texts = [
         notes: null
     },
     {
+        id: "f35xzu",
         title: "Poem IV against H.C. Wyld in Old English in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8256,6 +9066,7 @@ const texts = [
         notes: null
     },
     {
+        id: "m9e58v",
         title: "Poem V against H.C. Wyld in Ancient Greek in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8267,6 +9078,7 @@ const texts = [
         notes: null
     },
     {
+        id: "sypaw2",
         title: "Poem VI against H.C. Wyld in French in his copy of H.C. Wyld, <i>A Short History of English</i> (1914)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8278,6 +9090,7 @@ const texts = [
         notes: null
     },
     {
+        id: "htxrdb",
         title: "Poem VII against H.C. Wyld on an inner flyleaf of his copy of H.C. Wyld, <i>The Historical Study of the Mother Tongue</i> (1920)",
         printedIn: "Simon Horobin, “‘Never trust a Philologist’: C.S. Lewis, J.R.R. Tolkien, and the Place of Philology in English Studies,” <i>The Review of English Studies</i>",
         issueOrVolume: "vol. 75, no. 2",
@@ -8289,6 +9102,7 @@ const texts = [
         notes: null
     },
     {
+        id: "q4wbms",
         title: "Verse translation of <i>Beowulf</i> 1251-1278 (Notebook 29, Bodleian Library)",
         printedIn: "Simon Horobin, “Translations from <i>Beowulf</i> by C.S. Lewis,” <i>The Journal of Inklings Studies</i>",
         issueOrVolume: "vol. 14, no. 2",
@@ -8300,6 +9114,7 @@ const texts = [
         notes: null
     },
     {
+        id: "e2vwrd",
         title: "Excerpt from draft of “The Tragi-Comicall Briefe Reigne of Lewis the Bald” (a five-act drama in blank verse on his single year as Vice President of Magdalen College)",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8311,6 +9126,7 @@ const texts = [
         notes: null
     },
     {
+        id: "5vughw",
         title: "Excerpts from “The Tragi-Comicall Briefe Reigne of Lewis the Bald” (a five-act drama in blank verse on his single year as Vice President of Magdalen College) ",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8322,6 +9138,7 @@ const texts = [
         notes: null
     },
     {
+        id: "9arj3f",
         title: "Poem written on the rear page verso and flyleaf of his copy of <i>William Cowper: Selected Letters</i> in Charlie Starr, “Dating the Undated Poems in Don W. King’s <i>Collected Poems of C.S. Lewis: A Critical Edition</i>”",
         printedIn: "<i>Sehnsucht: The C.S. Lewis Journal</i>",
         issueOrVolume: "vol. 19",
@@ -8334,6 +9151,7 @@ const texts = [
     },
     // ANNOTATIONS
     {
+        id: "pgy77f",
         title: "Annotation in his copy of Robert Burton, <i>The Anatomy of Melancholy</i>",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8345,6 +9163,7 @@ const texts = [
         notes: null
     },
     {
+        id: "q2g88k",
         title: "Annotation in his copy of George Saintsbury, <i>A History of English Literature</i>",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8356,6 +9175,7 @@ const texts = [
         notes: null
     },
     {
+        id: "g9skg9",
         title: "Annotations on the title page of his copy of Shakespeare, <i>Love’s Labour’s Lost</i>",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
@@ -8367,6 +9187,7 @@ const texts = [
         notes: null
     },
     {
+        id: "ck4242",
         title: "Annotations in his copy of <i>Sir Gawain and the Green Knight</i>",
         printedIn: "Simon Horobin, <i>C.S. Lewis’s Oxford</i> (Oxford: Bodleian Library)",
         issueOrVolume: null,
