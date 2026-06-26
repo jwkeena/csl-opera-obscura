@@ -23,7 +23,10 @@ Corrections and additions welcome (jwkeena@gmail.com).
 ```
 bibliography/                 # the CRA app
   src/
-    texts.js                  # THE DATA — all bibliography entries (see §3)
+    texts/                    # THE DATA — per-type entry files (see §3)
+      letters.js  prose.js  poems.js  annotations.js  diaries.js  blurbs.js
+      index.js                #   re-exports `texts` = concat of all six
+      _drafts.js              #   commented-out drafts, NOT imported (preserved; see §3/§7)
     App.js                    # loads texts, formats → sorts → filters → renders the table
     App.css / index.css       # styling (Materialize)
     components/               # AboutModal, Footer, FormSelect(+Option), Modal,
@@ -36,14 +39,21 @@ README.md                     # project blurb + submissions
 ```
 Note: `.claude/` is gitignored, so docs live in `docs/` (or repo root), never under `.claude/`.
 
-## 3. The data model — `texts.js`
-A single CommonJS module:
+## 3. The data model — `src/texts/`
+The entry data lives in **per-type ES-module files** under `src/texts/` (split from the former
+single `texts.js` monolith on 2026-06-25 — see §7). Each per-type file is the source of truth:
 ```js
-const texts = [ { … }, … ];
-module.exports = { texts };
+// src/texts/letters.js
+export const letters = [ { … }, … ];
 ```
-~766 entries, imported in exactly one place (`App.js: import { texts } from './texts'`). Each
-entry is a flat object:
+`src/texts/index.js` re-exports the concatenation, so `App.js`'s `import { texts } from './texts'`
+is unchanged (it resolves the folder's `index.js`):
+```js
+import { letters } from './letters'; /* …5 more… */
+export const texts = [...letters, ...prose, ...poems, ...annotations, ...diaries, ...blurbs];
+```
+**761 active entries** total (the import is consumed in exactly one place, `App.js`). Each entry is
+a flat object:
 
 | field | type | meaning |
 |-------|------|---------|
@@ -58,13 +68,18 @@ entry is a flat object:
 | `type` | string | one of `Prose` · `Poem` · `Letter` · `Annotation` · `Diary` · `Blurb` |
 | `notes` | string[] (HTML) \| null | editorial notes |
 
-Type distribution (2026-06-25): Letter 279 · Prose 216 · Poem 132 · Annotation 76 · Diary 40 ·
-Blurb 23.
+Type distribution (2026-06-25): Letter 274 · Prose 216 · Poem 132 · Annotation 76 · Diary 40 ·
+Blurb 23 = **761**. (Plus 5 commented-out draft entries preserved in `_drafts.js`, not active.)
 
 **App.js consumption:** copies `texts` into state, builds a display row per entry (the `reference`
 column is assembled from `printedIn` + `issueOrVolume` + `monthAndDay`), and applies the
 `sortByOption` / `sortDirection` / `typesDisplayed` UI state. Unknown fields (like `id`) are
-ignored, so adding fields is safe for the app.
+ignored, so adding fields is safe for the app. **Load/spinner contract:** the imports are
+**static**, so `texts` is the complete array synchronously before `App` mounts —
+`componentDidMount → formatTexts()` processes all entries, then (in the `setState` callback)
+`sort("year")` + `hideLoadingSpinner()`; `render()` returns `null` while `state.texts === null`
+(the HTML `#loading-spinner` shows). Never use dynamic `import()` here or the spinner would hide
+before data is ready.
 
 ## 4. The `id` scheme
 **Why:** a stable identity decoupled from mutable metadata. Without it, a correction to an
@@ -74,23 +89,25 @@ a composite of those mutable fields). The `id` is the durable key.
 **Non-sequential by design:** entries are added out of order, in between existing ones, so
 sequential numbers would be churny. Ids are random opaque tokens — order-independent and stable.
 
-**Tool:** `assign_texts_ids.py` (lives in the search repo, `Scripts/Extraction/OperaObscura/`).
-Idempotent (only touches entries lacking an `id`), format-preserving (inserts one `id: "…"` line
-as the first field; everything else byte-identical), lossless (verified by byte-accounting +
-field-level before/after diff), collision-safe. Run it after adding id-less entries; existing ids
-are never changed. New entries may be added WITHOUT an id — the next run mints one.
+**Tool:** `normalize_texts.py` (in the search repo, `Scripts/Extraction/OperaObscura/`).
+Comment/string-aware (won't touch commented-out drafts), idempotent (only mints ids for entries
+lacking one), format-preserving, lossless, collision-safe — and it also **re-sorts each per-type
+file by `year` then title** so the files stay tidy. Run it after adding entries; existing ids are
+never changed. New entries may be added WITHOUT an id — the next run mints one. (The earlier
+single-file `assign_texts_ids.py` is superseded by this folder-aware tool.)
 
 ## 5. Authoring workflow
-1. Edit `texts.js` to add or correct entries (new entries can omit `id`).
-2. Run the id assigner so new entries get a stable `id`.
+1. Add or correct an entry in the matching `src/texts/<type>.js` (append anywhere; a new entry can
+   omit `id`).
+2. Run `normalize_texts.py` → it mints the `id` and re-sorts the file by year.
 3. `npm start` to preview; `npm run deploy` to publish to GitHub Pages.
 4. Commit in this repo. (The downstream search corpus is updated separately — §6.)
 
 ## 6. Downstream — the derived search/analytics corpus
-`texts.js` is the **source of truth** for the separate **`csl-opera-omnia-search`** repo, which
+`src/texts/` is the **source of truth** for the separate **`csl-opera-omnia-search`** repo, which
 turns the whole Lewis corpus (these obscure texts + the major works) into a client-side full-text
 search engine + analytics dashboard. That repo:
-- copies `texts.js` and **extracts each entry** into structured JSON under its `Texts/` tree
+- copies the entry data and **extracts each entry** into structured JSON under its `Texts/` tree
   (Prose→Varia, Poem→Poems, Letter→Letters/UncollectedLetters, Annotation→Annotations,
   Diary→Diaries, Blurb→Blurbs);
 - builds a search index + analytics (word frequencies, hapax, foreign passages, **citations**);
@@ -102,10 +119,18 @@ use) for robust change detection so a *correction* updates the same corpus doc i
 orphaning it. **For the consumption/ingestion details, read the search repo's
 `.claude/docs/citation-architecture.md` (§9 Opera Obscura sync) and `extraction-details.md`.**
 
-## 7. Planned restructuring (under design)
-`texts.js` is one ~8.4k-line module — increasingly unwieldy to author. Under consideration: split
-into per-type files (`src/texts/{letters,prose,poems,annotations,diaries,blurbs}.js`) re-exported
-via a `src/texts/index.js` that concatenates them, so `App.js`'s `import { texts } from './texts'`
-stays unchanged (it resolves the folder index). Benefits: easier authoring, localized diffs, a 1:1
-map to the six downstream extractors. A detailed split plan (with a no-data-loss migration) is
-forthcoming and will be added to this `docs/` folder.
+## 7. The split (done 2026-06-25)
+The former single ~8.4k-line `texts.js` was split into the per-type files described in §3
+(`src/texts/{letters,prose,poems,annotations,diaries,blurbs}.js` + `index.js`), per
+`texts-split-plan.md` (Option B). Migration was done by `split_texts.py` (search repo) using a
+comment/string-aware lexer (`texts_lexer.py`): each real entry's exact source was copied verbatim,
+verified 761-in/761-out (identical multiset) before `texts.js` was deleted; the CRA production
+build (`npm run build`) compiled successfully. `App.js`'s import is unchanged.
+
+**Two things the migration also handled:**
+- **5 commented-out drafts preserved** in `src/texts/_drafts.js` (not imported) — incl. one full
+  letter (Sarah Hauser, 1957) and four empty "Blurbologist" placeholders. To activate one,
+  uncomment it, move it into the matching per-type file, and run `normalize_texts.py`.
+- **A corruption fix:** the earlier single-file `assign_texts_ids.py` (comment-blind) had wrongly
+  inserted live `id:` lines into those 5 commented blocks, which left `texts.js` syntactically
+  broken. The robust split dropped those stray lines, so the per-type files are clean and build.

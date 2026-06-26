@@ -1,6 +1,8 @@
 # Plan — split `texts.js` into per-type files
 
-Status: **ADOPTED — being executed.** Decisions locked (2026-06-25): **Option B** (per-type files
+Status: **DONE 2026-06-25** (executed by `split_texts.py`; CRA build passed). Note: a comment/string-aware lexer (`texts_lexer.py`) was needed — the naive parser had counted 766 by wrongly including 5 commented-out draft blocks; the true active count is **761** (+5 drafts preserved in `_drafts.js`).
+
+Decisions locked (2026-06-25): **Option B** (per-type files
 ARE the source; `index.js` re-exports), **6 files** (one per type), **chronological order**
 (by `year` asc) kept tidy by an **auto-normalizer** (`normalize_texts.py`: append an entry
 anywhere → run it → file is re-sorted + the entry gets an `id`). Goal: make the ~8.4k-line
@@ -8,12 +10,12 @@ anywhere → run it → file is re-sorted + the entry gets an `id`). Goal: make 
 the deployed app's behavior.
 
 ## Constraints (hard)
-1. **No data loss.** Every one of the 766 entries — every field, including the new `id` and the
+1. **No data loss.** Every one of the 761 entries — every field, including the new `id` and the
    exact HTML in `title`/`textProvided`/`notes` — must survive byte-for-byte.
 2. **App unchanged.** `App.js`'s `import { texts } from './texts'` must keep working and the
    rendered table must be identical.
 3. **Downstream unbroken.** The search repo's ingest (`update_opera_obscura.py` + the 6
-   extractors + `assign_texts_ids.py`) must keep parsing the same 766 entries.
+   extractors + `assign_texts_ids.py`) must keep parsing the same 761 entries.
 4. Easy to add entries out of order; pairs naturally with the stable `id`.
 
 ## Target structure (recommended: Option B — folder + re-export)
@@ -52,7 +54,7 @@ in sync. (Choose A only if you want the search-repo parser to stay literally unt
 
 ## Migration (one-time, automated, verified)
 A migration script (run once):
-1. Parse the current `texts.js` into its 766 entry objects, preserving each entry's **exact text**
+1. Parse the current `texts.js` into its 761 entry objects, preserving each entry's **exact text**
    (the brace-matched `_raw`, which already includes the `id`).
 2. Bucket by `type` (Letter/Prose/Poem/Annotation/Diary/Blurb).
 3. Write each bucket to `src/texts/<type>.js` as `export const <type> = [ <verbatim entry objects> ];`
@@ -64,11 +66,11 @@ per-type, so they're dropped (or regenerated as a file header). Nothing in the *
 ## Verification (must all pass before committing)
 - **Field-identical:** a checker imports/parses the new per-type files, rebuilds the entry list,
   and compares to the pre-split entries **keyed by `id`** — every field of every entry identical,
-  766 in / 766 out, no dupes, no drops.
+  761 in / 761 out, no dupes, no drops.
 - **App builds + renders:** `npm run build` succeeds; `npm start` shows the same table (same count,
   sort, filters).
 - **Downstream parses:** the search repo's `update_opera_obscura.py --dry-run` (after its parser is
-  pointed at the folder) reports the same 766 entries with no spurious new/removed.
+  pointed at the folder) reports the same 761 entries with no spurious new/removed.
 
 ## Downstream changes (search repo — `csl-opera-omnia-search`)
 Only one function needs to change: `parse_all_entries()` in `update_opera_obscura.py` — instead of
@@ -82,7 +84,7 @@ Do this together with the split (it's the payoff for the ids):
 - Change `identity_key()` in `update_opera_obscura.py` to use `entry['id']` when present (fallback
   to the composite hash for any id-less entry). Then a *correction* to an entry's title/metadata
   registers as a clean **MODIFY** instead of delete+new.
-- One-time **manifest re-baseline** right after, so the key change doesn't show as "766 new + 766
+- One-time **manifest re-baseline** right after, so the key change doesn't show as "761 new + 761
   removed" once. (Add a `--rebaseline` mode: rebuild `.opera_obscura_manifest.json` from current
   entries without extracting.)
 - (Later/optional) **id-keyed corpus folders** so *title* corrections update the same corpus folder
@@ -91,7 +93,7 @@ Do this together with the split (it's the payoff for the ids):
 ## Rollout (checkpointed)
 1. Write + run the migration script → per-type files + `index.js`; delete `texts.js`. **Verify**
    (field-identical + `npm run build`). Review the git diff in the OO repo; commit there.
-2. Search repo: update `parse_all_entries()` for the folder; `--dry-run` shows the same 766; wire
+2. Search repo: update `parse_all_entries()` for the folder; `--dry-run` shows the same 761; wire
    `identity_key` on `id` + add `--rebaseline`; re-baseline. Commit in the search repo.
 3. Author new entries in the per-type files going forward; run `assign_texts_ids.py` to mint ids.
 
@@ -107,6 +109,6 @@ Do this together with the split (it's the payoff for the ids):
 `App.js` does `import { texts } from './texts'` (static) → `componentDidMount → formatTexts()`
 formats the FULL array, then in the `setState` callback runs `sort("year")` + `hideLoadingSpinner()`
 (`render()` returns `null` while `state.texts === null`, so the HTML `#loading-spinner` shows).
-Because the per-type imports are **static**, `texts` is still the complete 766-entry array
+Because the per-type imports are **static**, `texts` is still the complete 761-entry array
 synchronously before `App` mounts — so the spinner still hides only after everything is loaded +
 formatted + sorted (+ fonts ready). Do NOT use dynamic `import()` for the per-type files.
