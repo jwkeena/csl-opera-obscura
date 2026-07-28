@@ -671,7 +671,7 @@ export const annotations = [
         pageRange: "127",
         year: 2012,
         monthAndDay: null,
-        textProvided: "[Lewis apply summarized the Darwinian mechanism of adaptation according to Bergson as the]<br><br>Elimination of the unfit<br><br>[and noted that it]<br><br>Plainly cannot account for the complicated similarities on divergent lines of evolution.<br><br></br>[Lewis also noted Bergson’s view that]<br><br>pure Darwinism has to lean on a marvellous series of accidents<br><br>[and how Darwinists try to]<br><br>escape<br><br>[this truth]<br><br>by a bad metaphor.<br><br>[Lewis paid particular attention to Bergson’s critique of Darwinian accounts of eye evolution in mollusks and vertebrates, concluding that]<br><br>Natural selection…fails to explain these Eyes.",
+        textProvided: "[Lewis aptly summarized the Darwinian mechanism of adaptation according to Bergson as the]<br><br>Elimination of the unfit<br><br>[and noted that it]<br><br>Plainly cannot account for the complicated similarities on divergent lines of evolution.<br><br></br>[Lewis also noted Bergson’s view that]<br><br>pure Darwinism has to lean on a marvellous series of accidents<br><br>[and how Darwinists try to]<br><br>escape<br><br>[this truth]<br><br>by a bad metaphor.<br><br>[Lewis paid particular attention to Bergson’s critique of Darwinian accounts of eye evolution in mollusks and vertebrates, concluding that]<br><br>Natural selection…fails to explain these Eyes.",
         type: "Annotation",
         notes: null
     },
@@ -875,7 +875,7 @@ export const annotations = [
         pageRange: "12",
         year: 2024,
         monthAndDay: null,
-        textProvided: "[Alongside a passage in which Burton wonders what the Greek philosopher Democritus would have made of ‘so many bloody battles, so may thousands slain at once, such streams of blood able to turn mills’, Lewis inscribed the word]<br/><br/><u>WAR</u>",
+        textProvided: "[Alongside a passage in which Burton wonders what the Greek philosopher Democritus would have made of ‘so many bloody battles, so many thousands slain at once, such streams of blood able to turn mills’, Lewis inscribed the word]<br/><br/><u>WAR</u>",
         type: "Annotation",
         notes: null
     },
