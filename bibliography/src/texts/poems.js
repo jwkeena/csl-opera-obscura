@@ -107,9 +107,9 @@ export const poems = [
         pageRange: "31",
         year: 1978,
         monthAndDay: null,
-        textProvided: "There was a time before the ancient sun<br>And swinging wheels of heaven had learned to run<br>More certainly than dreams; for dreams themselves<br>Had bodies then and filled the world with elves.<br>The starveling lusts whose walk is now confined<br>To darkness and the cellarage of the mind,<br>And shuddering and despairs and shapes of sin<br>Then walked at large and were not cooped within.<br>Thought cast a shadow: brutes could speak: and men<br>Get children on a star. For spirit then <br>Threaded a fluid world and dreamed it new<br>Each moment. Nothing was false or new [misprint for ‘true’].",
+        textProvided: "There was a time before the ancient sun<br>And swinging wheels of heaven had learned to run<br>More certainly than dreams; for dreams themselves<br>Had bodies then and filled the world with elves.<br>The starveling lusts whose walk is now confined<br>To darkness and the cellarage of the mind,<br>And shuddering and despairs and shapes of sin<br>Then walked at large and were not cooped within.<br>Thought cast a shadow: brutes could speak: and men<br>Get children on a star. For spirit then <br>Threaded a fluid world and dreamed it new<br>Each moment. Nothing was false or new.",
         type: "Poem",
-        notes: ["A new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien.”", "Reprinted with other lines suggested by Lewis in J.R.R. Tolkien, <i>The Lays of Beleriand,</i> ed. Christopher Tolkien (Houghton Mifflin, 1985)."]
+        notes: ["A new stanza by Lewis for J.R.R. Tolkien’s “Gest of Beren and Luthien.”", "This printing has four misprints, corrected in <i>The Lays of Beleriand</i>, ed. Christopher Tolkien (Houghton Mifflin, 1985): “shuddering” → “shudderings” (l. 7), a dropped comma after “large” (l. 8), “Threaded” → “Kneaded” (l. 11), and “Nothing was false or new” → “Nothing yet was false or true” (l. 12)."]
     },
     {
         id: "68vfeg",
@@ -258,7 +258,7 @@ export const poems = [
     {
         id: "g86fe9",
         title: "“As the Ruin Falls” (drafts)",
-        printedIn: "Don W. King, C.S. Lewis, Poet: the Legacy of His Poetic Impulse (Kent, OH: Kent State University Press)",
+        printedIn: "Don W. King, <i>C.S. Lewis, Poet: the Legacy of His Poetic Impulse</i> (Kent, OH: Kent State University Press)",
         issueOrVolume: null,
         pageRange: "17-18",
         year: 2001,
@@ -277,7 +277,7 @@ export const poems = [
         monthAndDay: null,
         textProvided: "You call them Fascists: so the rabbit,<br>Regardless of their varying merits,<br>Thinks all who share the simple habit<br>Of eating rabbit-pie [meat] are ferrets",
         type: "Poem",
-        notes: null
+        notes: ["Reprinted, retitled “Call <i>Him</i> a Fascist? Thus the Rabbit,” in <i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press, 2015), 345."]
     },
     {
         id: "g4ver3",
@@ -864,18 +864,6 @@ export const poems = [
         year: 2015,
         monthAndDay: null,
         textProvided: "Long E<i>A’s, mutated, turned to E</i>‘s: ex-<br>amples, wersex HIERAN: HERAN<br>Elsewhere: instead of CIERAN, CERAN.<br><br>[Lewis’s note: Note: both E’s in this line have accent marks over them].",
-        type: "Poem",
-        notes: null
-    },
-    {
-        id: "s97qyq",
-        title: "“Call <i>Him</i> a Fascist? Thus the Rabbit”",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "345",
-        year: 2015,
-        monthAndDay: null,
-        textProvided: "You call them Fascists: so the rabbit,<br>Regardless of their varying merits,<br>Thinks all who share the simple habit<br>Of eating rabbit-pie [meat] are ferrets",
         type: "Poem",
         notes: null
     },
