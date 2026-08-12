@@ -111,6 +111,21 @@ export const letters = [
         notes: null
     },
     {
+        id: "2sxwtd",
+        title: "Letter to the editor (“Jane Austen’s Home”)",
+        printedIn: "<i>The Times</i>",
+        issueOrVolume: null,
+        pageRange: "5",
+        year: 1946,
+        monthAndDay: "7 December",
+        textProvided: "Sir,—<br><br>We ask the hospitality of your columns, believing that many of your readers would be interested to hear of the existence of the Jane Austen Society and its aim. This society was founded in May, 1940, with the object of getting possession of the house formerly known as Chawton Cottage. In this house Jane Austen lived with her mother and her sister Cassandra from 1808 until her death in 1817. All the novels except ‘Northanger Abbey’ were written here in the form in which we have them.<br><br>The cottage, besides being of unique interest to lovers of Jane Austen’s work, is well worth preserving in itself. It is an L-shaped brick building of early Georgian date, standing at the junction of the London, Winchester, and Portsmouth roads. A description of it in Jane Austen’s day is found in Chapter IV of the Memoir by J. E. Austen-Leigh. It has long been divided into three tenements, but apart from a few minor alterations it remains structurally as it was during the Austens’ occupation.<br><br>It would not be possible to obtain vacant possession of the whole house, nor is it desired; the present tenants would not, under the society’s plan, be in any way disturbed; but immediate possession would be assured of a large room on the ground floor which (identified from its blocked-up window) was the Austens’ drawing-room. This would house some very interesting relics which have been promised, and form the nucleus of the place of pilgrimage the society hopes to see established.<br><br>The society’s aim, therefore, is to buy and repair this house, to establish a caretaker, to keep the rest of the premises as living accommodation, but to make certain rooms, particularly associated with Jane Austen, accessible to the public. The owner has agreed to a price of £3,000. Thorough-going repairs are urgently needed. The society therefore has set itself to raise at least £5,000. Further information may be had from the hon. Secretaries, Jordans, Alton, Hampshire. Subscriptions should be sent to Messrs. Sheen, Stickland and Co., 71, High Street, Alton, Hampshire.<br><br>We are yours faithfully,<br><br>R. A. Austen-Leigh, Elizabeth Bowen, David Cecil, R. W. Chapman, W. Hugh Curtis, Dorothy Darnell, Beecher Hogan, Elizabeth Jenkins, G. L. Keynes, Mary Lascelles, C. S. Lewis, Wilmarth S. Lewis, Edward Marsh, C. B. Tinker, Wellington, Clough Williams-Ellis, Mervyn Winton",
+        type: "Letter",
+        notes: [
+            "Co-signed by Lewis and sixteen others.",
+            "Reprinted in <i>CL</i> 3:1565-1567."
+        ]
+    },
+    {
         id: "cnx7et",
         title: "Letter to the editor (“Poetic Licence [sic]”)",
         printedIn: "<i>The Sunday Times</i>",
@@ -241,6 +256,21 @@ export const letters = [
         textProvided: "To the Editor of The Daily Telegraph<br><br>Sir—I was one (probably) of thousands who rejoiced to read that Lord Goddard had rescued an innocent girl from illegal detention (with forced labour, she says) inflicted by certain magistrates at the instance of Surrey County officials.Two points call for attention. One is that a servant of the N.S.P.C.C. seems to have aided this cruelty. I hope, and expect, that the society will publish either a satisfactory defence or an unambiguous repudiation of his conduct, with an assurance that he has been talked to in a fashion that will leave him no stomach to repeat it.<br><br>The other is that it is not enough that tyranny, cruelty and presumption should be frustrated when reach (how often do they!) the notice of the Lord Chief Justice. We want safeguards against their recurrence.<br><br>There is no sign that these magistrates and officials are to be punished or their claws to be clipped; they have not even been exposed by the publication of their names to general execration.<br><br>I write in no vindictive spirit. If anything still undisclosed can put their behaviour in a better light I shall hear it with relief. If mild rather than severe methods will suffice to recall them to justice and humanity, so much the better. But one way or other society must be protected from them.<br><br>Yours faithfully,<br>C.S. Lewis.<br>Magdalene College, Cambridge.",
         type: "Letter",
         notes: null
+    },
+    {
+        id: "p5a5se",
+        title: "Letter to the editor (“Mgr. R. A. Knox”)",
+        printedIn: "<i>Church Times</i>",
+        issueOrVolume: "CXLI",
+        pageRange: "12",
+        year: 1958,
+        monthAndDay: "6 June",
+        textProvided: "Sir,—<br><br>It is proposed to establish a memorial to Mgr. Ronald Knox at Trinity College, Oxford, where he was Chaplain-Fellow from 1910 to 1917, and Honorary Fellow from 1941 to his death. This will commemorate his life and scholarship, and will be independent of any other memorial which the hierarchy of the Roman Catholic Church may decide to raise. It is felt that as Mgr. Knox had friends of every denomination, the memorial should be inter-confessional and might take the form of something the College needs. The College has been approached in the matter, and has given its approval.<br><br>Subscriptions are invited for a sum to be given to the President and Fellows, for the endowment of a prize or scholarship, connected with biblical or classical studies, which might take the form of a grant named after Mgr. Knox to enable a senior or junior member of the College to travel abroad.<br><br>The College would also welcome a visible memorial, and for this an existing bust of Mgr. Knox by Mr Arthur Pollen will be purchased out of the fund.<br><br>Cheques should be made payable to the honorary treasurer, Mrs Elizabeth Wanbrough, Broughton Poggs, Lechlade, Gloucestershire.<br><br>Eric Hamilton, Gilbert Laithwaite, C. S. Lewis, Harold Macmillan, J. C. Masterman, Norfolk, Oxford and Asquith, S. C. Roberts, Evelyn Waugh",
+        type: "Letter",
+        notes: [
+            "Co-signed by Lewis and eight others.",
+            "Reprinted in <i>CL</i> 3:953-954."
+        ]
     },
     {
         id: "66h3r6",
@@ -1717,6 +1747,18 @@ export const letters = [
         textProvided: "[In response to praise for <i>The Pilgrim’s Regress</i>:]<br><br>I am particularly pleased at your understanding of the wood and island stuff as that is the part which most readers hardly notice. If you liked my glorified tract it is almost impossible that you do not already know and like my masters.",
         type: "Letter",
         notes: ["First in a lot of four autograph letters to Elizabeth Holmes, author of <i>Henry Vaughan and the Hermetic Philosophy;</i> two of the others are printed in <i>CL</i> 3, 1531-34, and the fourth was written in December 1939, “congratulating her on a later poem.”"]
+    },
+    {
+        id: "tkebs5",
+        title: "Letter to F.P. Wilson (1938)",
+        printedIn: "C.S. Lewis, <i>The Collected Letters of C.S. Lewis, Volume II</i>, ed. Walter Hooper (London: HarperCollins)",
+        issueOrVolume: null,
+        pageRange: "235-236",
+        year: 2004,
+        monthAndDay: null,
+        textProvided: "I go on reading and write on each subject while it is fresh in mind. Out of these scattered sheets, perhaps after much correction, I hope to build up a book. The subjects so treated already are Platonism, Douglas, Lyndsay, Tottel, Mulcaster’s <i>Elementarie</i>, Sir Thomas More, Prayer-book, Sidney, Marlowe (non-dramatic), Nashe, Watson, Barclay, Googe, Raleigh (poems), Shakespeare (poems), Webbe; and among other sources Petrarch and Machiavelli.<br><br>I am at present hard at work not directly on the book but on a lecture entitled ‘Prolegomena to Renaissance Poetry’: a similar Prolegomena to Medieval Poetry which I have and still give proved to be a useful buttress to the other book.<br><br>I can give no indication of when it will be done. I find the work to be got through is enormous and would be delighted for an honourable pretext to withdraw: excessive pressure from the delegates might come to constitute an honourable pretext.",
+        type: "Letter",
+        notes: ["An extract from a letter to F. P. Wilson, quoted by Wilson in his Report to the Delegates of the Oxford University Press (20 December 1938), on the progress of Lewis’s volume in the Oxford History of English Literature."]
     },
     {
         id: "ma54he",

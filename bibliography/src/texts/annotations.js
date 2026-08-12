@@ -671,7 +671,7 @@ export const annotations = [
         pageRange: "127",
         year: 2012,
         monthAndDay: null,
-        textProvided: "[Lewis aptly summarized the Darwinian mechanism of adaptation according to Bergson as the]<br><br>Elimination of the unfit<br><br>[and noted that it]<br><br>Plainly cannot account for the complicated similarities on divergent lines of evolution.<br><br></br>[Lewis also noted Bergson’s view that]<br><br>pure Darwinism has to lean on a marvellous series of accidents<br><br>[and how Darwinists try to]<br><br>escape<br><br>[this truth]<br><br>by a bad metaphor.<br><br>[Lewis paid particular attention to Bergson’s critique of Darwinian accounts of eye evolution in mollusks and vertebrates, concluding that]<br><br>Natural selection…fails to explain these Eyes.",
+        textProvided: "[Lewis aptly summarized the Darwinian mechanism of adaptation according to Bergson as the]<br><br>Elimination of the unfit<br><br>[and noted that it]<br><br>Plainly cannot account for the complicated similarities on divergent lines of evolution.<br><br>[Lewis also noted Bergson’s view that]<br><br>pure Darwinism has to lean on a marvellous series of accidents<br><br>[and how Darwinists try to]<br><br>escape<br><br>[this truth]<br><br>by a bad metaphor.<br><br>[Lewis paid particular attention to Bergson’s critique of Darwinian accounts of eye evolution in mollusks and vertebrates, concluding that]<br><br>Natural selection…fails to explain these Eyes.",
         type: "Annotation",
         notes: null
     },
