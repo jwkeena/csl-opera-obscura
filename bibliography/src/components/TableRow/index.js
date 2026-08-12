@@ -52,17 +52,17 @@ const TableRow = memo(function TableRow(props) {
                             <span className="material-icons" style={styles.linkIcon}>link</span>
                         </a>
                         <div className="hide-on-large-only">
-                            <Modal title={props.title} textProvided={"<div class='left-align'><a href='" + props.textProvided + "' target='blank' rel='noopener noreferrer' class='link-to-text'>Available online.</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal>
+                            <Modal title={props.title} textProvided={"<div class='left-align'><a href='" + props.textProvided + "' target='blank' rel='noopener noreferrer' class='link-to-text'>Available online.</div>"} reference={props.reference} uid={props.uid} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal>
                         </div>
                     </div>
 
-                    : <Modal title={props.title} textProvided={props.textProvided} rowNumber={props.rowNumber} notes={props.notes} reference={props.reference}></Modal>
+                    : <Modal title={props.title} textProvided={props.textProvided} uid={props.uid} notes={props.notes} reference={props.reference}></Modal>
 
                 : <div>
                     <a href="#!" className="btn disabled hide-on-med-and-down">
                         <span className="material-icons" style={styles.disabledIcon}>block</span>
                     </a>
-                    <div className="hide-on-large-only"><Modal title={props.title} textProvided={"<div class='left-align'>[Not provided.]</div>"} reference={props.reference} rowNumber={props.rowNumber} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal></div>
+                    <div className="hide-on-large-only"><Modal title={props.title} textProvided={"<div class='left-align'>[Not provided.]</div>"} reference={props.reference} uid={props.uid} notes={props.notes !== null ? props.notes : "No notes for this item."}></Modal></div>
                 </div>
 
             }

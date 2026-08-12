@@ -25,10 +25,14 @@ class Modal extends Component {
     }
 
     createNewModalID() {
-        let modalIDHash = "#modal";
-        modalIDHash += this.props.rowNumber;
-        let modalID = "modal";
-        modalID += this.props.rowNumber;
+        // Use the entry's STABLE, unique id (not its list index). The old index-based id
+        // broke on search: React.memo + a content key reuse row instances while freshly
+        // filtered rows mount at low indices, so two modals could end up with the same
+        // "modalN" id in the DOM — a trigger then opened the wrong modal (two different
+        // search hits showing the same text) and Materialize's body-overflow lock could
+        // fail to release (the window scrollbar not coming back).
+        let modalIDHash = "#modal-" + this.props.uid;
+        let modalID = "modal-" + this.props.uid;
         this.setState({"modalIDHash": modalIDHash, "modalID": modalID}, () => M.Modal.init(this.modal)); // Initializing modal after setState ensures it will be initialized with the right ids in place
     }
 

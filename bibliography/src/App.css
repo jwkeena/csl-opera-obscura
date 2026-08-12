@@ -22,10 +22,16 @@ html, body {
     padding: 0;
 }
 
-#root, .App {
+#root {
     display: flex;
     flex-flow: column;
     min-height: 100vh;
+}
+
+.App {
+    display: flex;
+    flex-flow: column;
+    flex: 1 0 auto; /* fill #root so the footer sits at the page bottom even with 1 result */
 }
 
 .App .header {
@@ -38,11 +44,11 @@ html, body {
 }
 
 .App .main-content {
-    flex: 1 1 auto;
+    flex: 1 0 auto; /* grow to push the footer down; never shrink below its content */
 }
 
 .App .footer {
-    flex: 0 1 75px;
+    flex: 0 0 auto; /* natural height, pinned at the bottom */
 }
 
 /* For header */
@@ -92,6 +98,12 @@ a.blue-link, a.link-to-text {
 .modal {
     font-family: 'Cinzel', serif !important;
     text-align: justify !important;
+}
+
+/* Footnote markers in the reading view: hover shows the note text (native title tooltip) */
+sup.footnote-ref {
+    cursor: help;
+    color: #5A5F82;
 }
 
 /* For controls */

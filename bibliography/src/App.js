@@ -48,6 +48,7 @@ class App extends Component {
       formattedText.year = textsCopy[i].year;
       formattedText.type = textsCopy[i].type;
       formattedText.title = textsCopy[i].title;
+      formattedText.id = textsCopy[i].id; // stable unique id — used for the modal id (see Modal)
       if (texts[i].printedIn) {
         formattedText.reference = textsCopy[i].printedIn
       }
@@ -71,25 +72,58 @@ class App extends Component {
         formattedText.textProvided = false
       }
       if (texts[i].notes !== null) {
-        // Expected input is html, since the tooltip the data will be passed to can accept html
-        formattedText.tooltipNotes = "<ul class='left-align' style='padding-left: 15px; padding-right: 15px; font-size: .9rem'>";
-        for (let j = 0; j < textsCopy[i].notes.length; j++) {
-            formattedText.tooltipNotes += "<li>" + textsCopy[i].notes[j] + "</li>";
-            if (j !== (textsCopy[i].notes.length - 1)) {
-              formattedText.tooltipNotes += "<br>";
-            }
+        // Separate inline footnotes ("[N] ...") from bibliographic notes. A footnote
+        // that matches a <sup>N</sup> marker in the text is attached as a hover tooltip
+        // on that marker (so a long footnote list — e.g. the Radio Talks' 24 — no longer
+        // overflows the notes tooltip); any unmatched note stays in the notes list below.
+        const rawNotes = textsCopy[i].notes;
+        const footnoteMap = {};
+        for (let j = 0; j < rawNotes.length; j++) {
+          const m = rawNotes[j].match(/^\[(\d+)\]\s*([\s\S]*)$/);
+          if (m) { footnoteMap[m[1]] = m[2]; }
         }
-        formattedText.tooltipNotes += "</ul>";
+        const usedFootnotes = {};
+        if (typeof formattedText.textProvided === 'string' && Object.keys(footnoteMap).length) {
+          formattedText.textProvided = formattedText.textProvided.replace(/<sup>(\d+)<\/sup>/g, (full, n) => {
+            if (footnoteMap[n] != null) {
+              usedFootnotes[n] = true;
+              const plain = footnoteMap[n].replace(/<[^>]*>/g, '').replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+              return '<sup class="footnote-ref" title="' + plain + '">' + n + '</sup>';
+            }
+            return full;
+          });
+        }
+        // Notes still shown in the tooltip/list: bibliographic notes plus any footnote
+        // that had no matching <sup> marker in the text.
+        const displayNotes = rawNotes.filter((note) => {
+          const m = note.match(/^\[(\d+)\]/);
+          return !(m && usedFootnotes[m[1]]);
+        });
 
-        // But I also need notes in non-tooltip form for tablet and mobile
-        formattedText.notes = "<ul class='left-align' style='font-size: .9rem; padding-left: 15px; padding-right: 5px;'>";
-        for (let j = 0; j < textsCopy[i].notes.length; j++) {
-            formattedText.notes += "<li style='list-style-type: square;'>" + textsCopy[i].notes[j] + "</li>";
-            if (j !== (textsCopy[i].notes.length - 1)) {
-              formattedText.notes += "<br>";
-            }
+        if (displayNotes.length) {
+          // Expected input is html, since the tooltip the data will be passed to can accept html
+          formattedText.tooltipNotes = "<ul class='left-align' style='padding-left: 15px; padding-right: 15px; font-size: .9rem'>";
+          for (let j = 0; j < displayNotes.length; j++) {
+              formattedText.tooltipNotes += "<li>" + displayNotes[j] + "</li>";
+              if (j !== (displayNotes.length - 1)) {
+                formattedText.tooltipNotes += "<br>";
+              }
+          }
+          formattedText.tooltipNotes += "</ul>";
+
+          // But I also need notes in non-tooltip form for tablet and mobile
+          formattedText.notes = "<ul class='left-align' style='font-size: .9rem; padding-left: 15px; padding-right: 5px;'>";
+          for (let j = 0; j < displayNotes.length; j++) {
+              formattedText.notes += "<li style='list-style-type: square;'>" + displayNotes[j] + "</li>";
+              if (j !== (displayNotes.length - 1)) {
+                formattedText.notes += "<br>";
+              }
+          }
+          formattedText.notes += "</ul>";
+        } else {
+          formattedText.notes = null;
+          formattedText.tooltipNotes = null;
         }
-        formattedText.notes += "</ul>";
       } else {
         formattedText.notes = null;
         formattedText.tooltipNotes = null;
@@ -390,8 +424,8 @@ class App extends Component {
                       textProvided={text.textProvided}
                       notes={text.notes}
                       tooltipNotes={text.tooltipNotes}
-                      key={`${text.year}-${text.title}-${text.reference}`}
-                      rowNumber={index}>
+                      key={text.id || `${text.year}-${text.title}-${text.reference}`}
+                      uid={text.id || ('idx' + index)}>
                     </TableRow>
                     )
                   })}
