@@ -16,8 +16,9 @@ repo** `csl-opera-omnia-search` (its `.claude/docs/citation-architecture.md` and
 ## 1. What it is
 A React single-page app (Create React App + Materialize CSS) presenting the bibliography as a
 sortable/filterable table (by year, title, reference, type). Deployed to GitHub Pages at
-`https://jwkeena.github.io/csl-opera-obscura` via `npm run deploy` (`gh-pages -d build`).
-Corrections and additions welcome (jwkeena@gmail.com).
+`https://jwkeena.github.io/csl-opera-obscura` — a **manual** publish (`npm run deploy`), **no CI**;
+see §9 (and bump the "last updated" date first). Corrections and additions welcome
+(jwkeena@gmail.com).
 
 ## 2. Repo layout
 ```
@@ -52,7 +53,7 @@ is unchanged (it resolves the folder's `index.js`):
 import { letters } from './letters'; /* …5 more… */
 export const texts = [...letters, ...prose, ...poems, ...annotations, ...diaries, ...blurbs];
 ```
-**761 active entries** total (the import is consumed in exactly one place, `App.js`). Each entry is
+**765 active entries** total (the import is consumed in exactly one place, `App.js`). Each entry is
 a flat object:
 
 | field | type | meaning |
@@ -68,8 +69,13 @@ a flat object:
 | `type` | string | one of `Prose` · `Poem` · `Letter` · `Annotation` · `Diary` · `Blurb` |
 | `notes` | string[] (HTML) \| null | editorial notes |
 
-Type distribution (2026-06-25): Letter 274 · Prose 216 · Poem 132 · Annotation 76 · Diary 40 ·
-Blurb 23 = **761**. (Plus 5 commented-out draft entries preserved in `_drafts.js`, not active.)
+Type distribution (2026-08-12): Letter 278 · Prose 217 · Poem 131 · Annotation 76 · Diary 40 ·
+Blurb 23 = **765**. (Plus 5 commented-out draft entries preserved in `_drafts.js`, not active.)
+
+**Bibliographic house style** (verified across all entries; the canonical reference is the search
+repo's `add-opera-obscura` skill): page numbers and ranges are **bare Arabic numerals with a plain
+hyphen** (`84-85`) — never `p.`/`pp.` and never an en-dash; note page-refs likewise
+(`vol. 89 (Spring 1996), 7-9`); a Collected Letters reprint is `Reprinted in <i>CL</i> vol:page`.
 
 **App.js consumption:** copies `texts` into state, builds a display row per entry (the `reference`
 column is assembled from `printedIn` + `issueOrVolume` + `monthAndDay`), and applies the
@@ -100,7 +106,8 @@ single-file `assign_texts_ids.py` is superseded by this folder-aware tool.)
 1. Add or correct an entry in the matching `src/texts/<type>.js` (append anywhere; a new entry can
    omit `id`).
 2. Run `normalize_texts.py` → it mints the `id` and re-sorts the file by year.
-3. `npm start` to preview; `npm run deploy` to publish to GitHub Pages.
+3. `npm start` to preview. **Before publishing, bump the `last updated` date in
+   `components/AboutModal/index.js`** (a manual string — §9). Then `npm run deploy` to publish.
 4. Commit in this repo. (The downstream search corpus is updated separately — §6.)
 
 ## 6. Downstream — the derived search/analytics corpus
@@ -134,3 +141,42 @@ build (`npm run build`) compiled successfully. `App.js`'s import is unchanged.
 - **A corruption fix:** the earlier single-file `assign_texts_ids.py` (comment-blind) had wrongly
   inserted live `id:` lines into those 5 commented blocks, which left `texts.js` syntactically
   broken. The robust split dropped those stray lines, so the per-type files are clean and build.
+
+## 8. Frontend invariants (conventions)
+Details of `App.js` + `components/` that are easy to break and were each the source of a real bug
+(established 2026-08-12):
+
+- **A modal's id is the entry's stable `id`, never the row's list index.** Each `TableRow` passes
+  `uid={id}` to its `Modal`, which builds `id="modal-<uid>"` (and `key` uses `id` too). The list
+  index is unstable: under search/filter, `React.memo` reuses row instances while freshly-shown
+  rows mount at low indices, so index-derived ids **collide in the DOM** — a trigger then opens the
+  wrong modal (two search hits showing the *same* text) and Materialize's body-overflow lock can
+  fail to release (the window scrollbar stops coming back). A per-entry `id` is unique + stable, so
+  it never collides. Do not reintroduce index-based modal ids.
+- **Footnotes render on hover, not as a giant tooltip.** In `formatTexts`, a note shaped `[N] …`
+  that matches a `<sup>N</sup>` marker in `textProvided` is attached as a hover tooltip
+  (`<sup class="footnote-ref" title="…">`) on that marker and dropped from the notes tooltip — so a
+  heavily-footnoted piece (e.g. the Radio Talks' 24 notes) no longer overflows the screen. An
+  unmatched `[N]` note stays in the notes list.
+- **Search covers `title` + `reference` + `textProvided` only — NOT `notes`/`tooltipNotes`.** A term
+  that appears only in a note (e.g. "Four Loves", present only in a note on the Radio Talks entry)
+  will not match. Intentional.
+- **Sticky footer:** `#root` is a `min-height:100vh` flex column; `.App` is `flex:1 0 auto` and
+  `.main-content` is `flex:1 0 auto`, so the footer pins to the page bottom even with one result.
+
+## 9. Deploy & dependencies
+- **No CI / GitHub Actions.** The site is published **manually**: `git push origin master` updates
+  the *source* on GitHub; `npm run deploy` (`predeploy` build → `gh-pages -d build`) pushes the
+  *compiled* bundle to the **`gh-pages`** branch, which is what GitHub Pages serves. ⚠ Pushing
+  `master` alone does **not** refresh the live site — only `npm run deploy` does; `gh-pages` holds
+  the build, not the source. Verify after: the deployed `static/js/main.*.js` bundle contains the
+  new content.
+- **★ Bump the "last updated" date before every deploy (user directive 2026-08-12).** It is a
+  hardcoded string in `components/AboutModal/index.js` (`last updated M.DD.YY · By Justin Keena`),
+  not auto-generated — set it to today's date in the same commit as the change you're shipping, or
+  it silently goes stale.
+- **Dependabot** opens dependency-bump PRs against `origin/master` on GitHub; they merge remotely.
+  Keep local `master` current by merging `origin/master` — the bumps touch only
+  `package.json`/`package-lock.json`, disjoint from `src/` content, so it merges cleanly — then
+  `npm install` before building. (Aug 2026: local `master` had diverged 3/36 from origin — the
+  split + content held locally, 18 dependabot bumps held remotely — reconciled by one clean merge.)

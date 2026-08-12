@@ -1,5 +1,10 @@
 # Plan — split `texts.js` into per-type files
 
+> **Historical.** This is the (executed) migration plan, kept for the record. For the CURRENT
+> architecture, entry counts, and conventions see **`ARCHITECTURE.md`**. Figures below (761 entries,
+> `assign_texts_ids.py`) describe the state at migration time (2026-06-25); the current count is 765
+> and id-minting is now `normalize_texts.py`.
+
 Status: **DONE 2026-06-25** (executed by `split_texts.py`; CRA build passed). Note: a comment/string-aware lexer (`texts_lexer.py`) was needed — the naive parser had counted 766 by wrongly including 5 commented-out draft blocks; the true active count is **761** (+5 drafts preserved in `_drafts.js`).
 
 Decisions locked (2026-06-25): **Option B** (per-type files
