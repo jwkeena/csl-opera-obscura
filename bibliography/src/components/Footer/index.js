@@ -1,5 +1,4 @@
 import React from 'react';
-import Tooltip from '../../components/Tooltip';
 import './styles.css';
 
 function Footer() {
