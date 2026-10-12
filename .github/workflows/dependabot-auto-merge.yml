@@ -1,0 +1,57 @@
+name: Dependabot auto-merge
+
+# Auto-merges Dependabot PRs, but ONLY after the app builds successfully.
+# The "auto-merge" job depends on "build", so a bump that breaks the build
+# is left open for manual review instead of being merged.
+
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    name: Build check
+    # Only guard Dependabot's own PRs.
+    if: github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: bibliography
+    steps:
+      - name: Check out PR
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: bibliography/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        # CI=false so lint warnings don't fail the build; only real
+        # compile/build errors should block an auto-merge.
+        run: npm run build
+        env:
+          CI: false
+
+  auto-merge:
+    name: Auto-merge
+    needs: build
+    if: github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Merge the PR
+        # needs: build means this only runs when the build succeeded.
+        # --merge matches the repo's existing merge-commit history.
+        run: gh pr merge --merge --delete-branch "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
