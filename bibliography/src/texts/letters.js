@@ -3335,7 +3335,7 @@ export const letters = [
     {
         id: "tp7qpt",
         title: "Letter to Nancy Wilson Ross (10 October 1952)",
-        printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+        printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements no. 4, 2025)",
         issueOrVolume: "no. 4",
         pageRange: "125",
         year: 2025,

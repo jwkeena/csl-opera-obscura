@@ -626,7 +626,7 @@ export const prose = [
         pageRange: "v-vi",
         year: 1962,
         monthAndDay: null,
-        textProvided: "While much of the material acknowledged below is my own copyright, I would like to thank all those who have allowed me to reprint the papers in this book. <i>De Descriptione Temporum</i> was my inaugural lecture from the Chair of Mediaeval and Renaissance Literature at Cambridge and published by the Syndics of the Cambridge University Press in 1954; “The Literary Impact of the Authorised Version” was the Ethel M. Wood lecture delivered before the University of London and published by the Athlone Press of the University of London in 1950; “Hamlet: The Prince or The Poem?” was the 1942 Annual Shakespeare Lecture of the British Academy and was published for the British Academy by Humphrey Milford of the Oxford University Press; “Kipling’s World” was a paper addressed to the English Association; “Sir Walter Scott” was a toast proposed to the Edinburgh Sir Walter Scott Club in 1956; “Lilies that Fester” was written for <i>Twentieth Century</i> in 1955; “Psycho-analysis and Literary Criticism” was first read to a literary society at Westfield College and then published by the English Association in <i>Essays and Studies</i>, Vol. XXVII, 1941; “The Inner Ring” was a Memorial Oration delivered at King’s College, University of London, in 1944 and published by Geoffrey Bles; “Is Theology Poetry?” and “On Obstinacy in Belief” were both papers read to the Oxford Socratic Club and published by them in 1944 and 1955 in the <i>Socratic Digest</i>; “Transposition” (now slightly augmented) was a sermon preached in Mansfield College, and published by Geoffrey Bles; and “The Weight of Glory”, which was a sermon given in the Church of St. Mary the Virgin, Oxford, was published first by the S.P.C.K. and then by Geoffrey Bles. I must thank Mrs. George Bambridge, Messrs. Methuen and Macmillan for the use of quotations from Kipling’s works.<br><br>Since these papers were composed at various times during the last twenty years, passages in them which some readers may find reminiscent of my later work are in fact anticipatory or embryonic. I have allowed myself to be persuaded that such overlaps were not a fatal objection to their republication.<br><br>C.S.L.<br><br>Cambridge, 1962",
+        textProvided: "While much of the material acknowledged below is my own copyright, I would like to thank all those who have allowed me to reprint the papers in this book. <i>De Descriptione Temporum</i> was my inaugural lecture from the Chair of Mediaeval and Renaissance Literature at Cambridge and published by the Syndics of the Cambridge University Press in 1954; “The Literary Impact of the Authorised Version” was the Ethel M. Wood lecture delivered before the University of London and published by the Athlone Press of the University of London in 1950; “Hamlet: The Prince or The Poem?” was the 1942 Annual Shakespeare Lecture of the British Academy and was published for the British Academy by Humphrey Milford of the Oxford University Press; “Kipling’s World” was a paper addressed to the English Association; “Sir Walter Scott” was a toast proposed to the Edinburgh Sir Walter Scott Club in 1956; “Lilies that Fester” was written for <i>Twentieth Century</i> in 1955; “Psycho-analysis and Literary Criticism” was first read to a literary society at Westfield College and then published by the English Association in <i>Essays and Studies</i>, Vol. XXVII, 1941; “The Inner Ring” was a Memorial Oration delivered at King’s College, University of London, in 1944 and published by Geoffrey Bles; “Is Theology Poetry?” and “On Obstinacy in Belief” were both papers read to the Oxford Socratic Club and published by them in 1944 and 1955 in the <i>Socratic Digest</i>; “Transposition” (now slightly augmented) was a sermon preached in Mansfield College, Oxford, and published by Geoffrey Bles; and “The Weight of Glory”, which was a sermon given in the Church of St. Mary the Virgin, Oxford, was published first by the S.P.C.K. and then by Geoffrey Bles. I must thank Mrs. George Bambridge, Messrs. Methuen and Macmillan for the use of quotations from Kipling’s works.<br><br>Since these papers were composed at various times during the last twenty years, passages in them which some readers may find reminiscent of my later work are in fact anticipatory or embryonic. I have allowed myself to be persuaded that such overlaps were not a fatal objection to their republication.<br><br>C.S.L.<br><br>Cambridge, 1962",
         type: "Prose",
         notes: ["I include this because copies of <i>They Asked for a Paper</i> are not in print."]
     },
@@ -772,7 +772,7 @@ export const prose = [
         monthAndDay: null,
         textProvided: "A Myth is the description of a state, an event, or a series of events, involving superhuman personages, possessing unity, not truly implying a particular time or place, and dependent for its contents not on motives developed in the course of action but on the immutable relations of the personages.",
         type: "Prose",
-        notes: ["Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>CL</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’s handwriting to February 1929—June 1930. See Arend Smilde, “A Note on Context and Chronology” in “The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” <i>Inklings Studies Supplements</i> 1 (2015), 39."]
+        notes: ["Likely written around the same time as the following passage from Lewis’s letter to Barfield (Great War Letter I/4, <i>CL</i> 3:1619: “A myth is a description or a story introducing supernatural personages or things, determined not, or not only, by motives arising from events within the story, but by the supposedly immutable relations of the personages or things: possessing unity: and not, save accidentally, connected with any given place or time.” Charlie Starr dates this letter on the basis of Lewis’s handwriting to February 1929—June 1930. See Arend Smilde, “A Note on Context and Chronology,” in <i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015), 39."]
     },
     {
         id: "v35j7g",
@@ -1298,7 +1298,7 @@ export const prose = [
         pageRange: "165-166",
         year: 1998,
         monthAndDay: null,
-        textProvided: "Lewis had written “rivit”, then “revit”, and then “rivet”, then struck all three out, and wrote “FIX”",
+        textProvided: "[Lewis had written]<br><br>rivit<br><br>[then]<br><br>revit<br><br>[and then]<br><br>rivet<br><br>[then struck all three out, and wrote]<br><br>FIX",
         type: "Prose",
         notes: null
     },
@@ -2013,7 +2013,7 @@ export const prose = [
     {
         id: "w3tvr5",
         title: "<i>Clivi Hamiltonis Summae Metaphysices Contra Anthroposophos Libri II</i>",
-        printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015)",
         issueOrVolume: "no. 1",
         pageRange: "58-102",
         year: 2015,
@@ -2025,7 +2025,7 @@ export const prose = [
     {
         id: "rqr7h2",
         title: "<i>Commentarium in Tractatum De Toto et Parte</i>",
-        printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015)",
         issueOrVolume: "no. 1",
         pageRange: "145-169",
         year: 2015,
@@ -2037,7 +2037,7 @@ export const prose = [
     {
         id: "egv26j",
         title: "<i>De Bono et Malo</i>",
-        printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015)",
         issueOrVolume: "no. 1",
         pageRange: "131-144",
         year: 2015,
@@ -2097,7 +2097,7 @@ export const prose = [
     {
         id: "fnq8hq",
         title: "Note on the Law of Contradiction",
-        printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015)",
         issueOrVolume: "no. 1",
         pageRange: "121-124",
         year: 2015,
@@ -2133,7 +2133,7 @@ export const prose = [
     {
         id: "zw54j3",
         title: "Replies to Objections in Detail",
-        printedIn: "“The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>The ‘Great War’ of Owen Barfield and C.S. Lewis: Philosophical Writings (1927-1930)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 1, 2015)",
         issueOrVolume: "no. 1",
         pageRange: "124-130; 127-129 (holographs)",
         year: 2015,
@@ -2313,7 +2313,7 @@ export const prose = [
     {
         id: "3gv8gv",
         title: "C.S. Lewis’ 1924 Lecture Notes",
-        printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "159-160",
         year: 2021,
@@ -2325,7 +2325,7 @@ export const prose = [
     {
         id: "wbswkq",
         title: "C.S. Lewis’ 1924 Tutorial Notes",
-        printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "87-158",
         year: 2021,
@@ -2409,7 +2409,7 @@ export const prose = [
     {
         id: "wmtmfq",
         title: "“The Whole”",
-        printedIn: "“C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "<i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "161-166",
         year: 2021,

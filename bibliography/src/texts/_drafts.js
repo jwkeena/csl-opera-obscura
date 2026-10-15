@@ -16,7 +16,7 @@
 
     // {
     //     title: "Letter to ",
-    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements no. 4, 2025)",
     //     issueOrVolume: "no. 4",
     //     pageRange: "",
     //     year: 2025,
@@ -28,7 +28,7 @@
 
     // {
     //     title: "Letter to ",
-    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements no. 4, 2025)",
     //     issueOrVolume: "no. 4",
     //     pageRange: "",
     //     year: 2025,
@@ -40,7 +40,7 @@
 
     // {
     //     title: "Letter to ",
-    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements no. 4, 2025)",
     //     issueOrVolume: "no. 4",
     //     pageRange: "",
     //     year: 2025,
@@ -52,7 +52,7 @@
 
     // {
     //     title: "Letter to ",
-    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements)",
+    //     printedIn: "Justin Keena, <i>C.S. Lewis, Blurbologist</i> (Inklings Studies Supplements no. 4, 2025)",
     //     issueOrVolume: "no. 4",
     //     pageRange: "",
     //     year: 2025,

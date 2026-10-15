@@ -270,7 +270,7 @@ export const diaries = [
     {
         id: "xmmpc9",
         title: "Oxford Diary (10 May 1922 [<i>LP</i> 8:135])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "71",
         year: 2021,
@@ -282,7 +282,7 @@ export const diaries = [
     {
         id: "uy9wwk",
         title: "Oxford Diary (12 May 1924 [<i>LP</i> 8:228])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "75",
         year: 2021,
@@ -294,7 +294,7 @@ export const diaries = [
     {
         id: "8eeaux",
         title: "Oxford Diary (14 June 1922 [<i>LP</i> 7:157])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "48",
         year: 2021,
@@ -306,7 +306,7 @@ export const diaries = [
     {
         id: "g7nvpc",
         title: "Oxford Diary (15 March 1923 [<i>LP</i> 8:91])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "56",
         year: 2021,
@@ -318,7 +318,7 @@ export const diaries = [
     {
         id: "2kcr9k",
         title: "Oxford Diary (19 June 1924 [<i>LP</i> 8:245])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "73-74",
         year: 2021,
@@ -330,7 +330,7 @@ export const diaries = [
     {
         id: "g6z63m",
         title: "Oxford Diary (19 October 1923 [<i>LP</i> 8:160])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "63",
         year: 2021,
@@ -342,7 +342,7 @@ export const diaries = [
     {
         id: "93g4jg",
         title: "Oxford Diary (21 August 1922 [<i>LP</i> 7:206])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "53",
         year: 2021,
@@ -354,7 +354,7 @@ export const diaries = [
     {
         id: "fsq98x",
         title: "Oxford Diary (21 May 1924 [<i>LP</i> 8:230])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "63 note 79",
         year: 2021,
@@ -366,7 +366,7 @@ export const diaries = [
     {
         id: "sv3axg",
         title: "Oxford Diary (3 June 1924 [<i>LP</i> 8:236])",
-        printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Norbert Feinendegen, “The Refutation of Empiricism: Philosophical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "13 note 52",
         year: 2021,
@@ -378,7 +378,7 @@ export const diaries = [
     {
         id: "sfrwwk",
         title: "Oxford Diary (30 May 1924 [<i>LP</i> 8:235])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "63 note 79 and 69",
         year: 2021,
@@ -390,7 +390,7 @@ export const diaries = [
     {
         id: "r9eqw9",
         title: "Oxford Diary (31 May 1924 [<i>LP</i> 8:235])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "69",
         year: 2021,
@@ -402,7 +402,7 @@ export const diaries = [
     {
         id: "2xtv3a",
         title: "Oxford Diary (6 March 1924 [<i>LP</i> 8:192])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "75",
         year: 2021,
@@ -414,7 +414,7 @@ export const diaries = [
     {
         id: "ev8hxm",
         title: "Oxford Diary (7 June 1924)",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "69",
         year: 2021,
@@ -426,7 +426,7 @@ export const diaries = [
     {
         id: "cb8gxq",
         title: "Oxford Diary (8 March 1924 [<i>LP</i> 8:197]) correction to <i>All My Road Before Me</i>",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "67",
         year: 2021,
@@ -438,7 +438,7 @@ export const diaries = [
     {
         id: "xqtbgr",
         title: "Oxford Diary (9 April 1924 [<i>LP</i> 8:210])",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "65",
         year: 2021,
@@ -450,7 +450,7 @@ export const diaries = [
     {
         id: "acbuhk",
         title: "Oxford Diary (9 June 1924)",
-        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction” in “C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924),” eds. Norbert Feinendegen and Arend Smilde, <i>Inklings Studies Supplements</i>",
+        printedIn: "Arend Smilde, “Why C.S. Lewis did not become a philosopher: Biographical Introduction,” in <i>C.S. Lewis: Tutor and Lecturer in Philosophy: Philosophical Notes (1924)</i>, eds. Norbert Feinendegen and Arend Smilde (Inklings Studies Supplements no. 2, 2021)",
         issueOrVolume: "no. 2",
         pageRange: "69",
         year: 2021,
