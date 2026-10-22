@@ -2253,18 +2253,6 @@ export const letters = [
         notes: null
     },
     {
-        id: "7mrcph",
-        title: "Letter to Max Beloff (May 1954)",
-        printedIn: "<i>The Collected Poems of C.S. Lewis: A Critical Edition,</i> ed. Don W. King (Kent, OH: Kent State University Press)",
-        issueOrVolume: null,
-        pageRange: "467",
-        year: 2015,
-        monthAndDay: null,
-        textProvided: "[After initially submitting the poem “Ichabod” under his pseudonym N.W., Lewis withdrew it. Beloff pressed Lewis to reconsider it, but Lewis wrote:]<br><br>Impossible! You see my party won: which leaves me (as a satirist) undone. I even may let the embittered numbers flow, but only cads insult a beaten foe.",
-        type: "Letter",
-        notes: null
-    },
-    {
         id: "894b7u",
         title: "Letter to Michal Williams (15 June 1948)",
         printedIn: "Grevel Lindop, <i>Charles Williams: The Third Inkling</i> (Oxford, UK: Oxford University Press)",
