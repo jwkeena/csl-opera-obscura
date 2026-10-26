@@ -2313,6 +2313,18 @@ export const letters = [
         notes: ["The rest of the letter can be found in <i>CL</i> 3:1200-1201."]
     },
     {
+        id: "d57s7x",
+        title: "Letter to Adele Stoessel (17 May 1963)",
+        printedIn: "Helen Cooper, <i>Literary Magdalene</i>",
+        issueOrVolume: null,
+        pageRange: "<a href='https://magdlibs.wordpress.com/2016/06/24/c-s-lewis' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
+        year: 2016,
+        monthAndDay: "24 June",
+        textProvided: "Magdalene College, Cambridge, 17 May 63<br><br>Dear Adele Stoessel<br><br>The autograph comes below the letter.<br><br>I am 64—a year older than this century—and bald—and fat—with a Boxer dog and a Siamese cat—and I talk too much and I speak too loud—and I don’t like oysters or gin or a crowd—and the smell of the sea is my favorite smell. That’s about all I can think of to tell,<br><br>yours / C.S. Lewis",
+        type: "Letter",
+        notes: null
+    },
+    {
         id: "895tw7",
         title: "Letter to Archbishop William Temple (28 February 1942)",
         printedIn: "Gregory M. Anderson, “Lost Letters of Lewis at Lambeth Palace Library,” <i>Sehnsucht: The C.S. Lewis Journal</i>",
@@ -2549,6 +2561,18 @@ export const letters = [
         year: 2019,
         monthAndDay: null,
         textProvided: "[Submitting a book entitled “The Allegorical Love Poem” to the Secretary of OUP:]<br><br>This is an arrogant letter, but it is an advertisement. Please let me know if you would like to see the MS.",
+        type: "Letter",
+        notes: null
+    },
+    {
+        id: "bn2ycz",
+        title: "Letter to William Collins (15 November 1954)",
+        printedIn: null,
+        issueOrVolume: null,
+        pageRange: "<a href='https://200.hc.com/inside-the-archives/letter-from-c-s-lewis/#page-content' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
+        year: 2019,
+        monthAndDay: null,
+        textProvided: "Magdalen College, Oxford, 15-xi-54<br><br>Dear Collins<br><br>Forgive me for not answering you sooner: my week-end has been eaten up by visitors.<br><br>My literary output (like yours!) is divided into three parts. A. Religious and general. B. Fiction. C. Academic. A is the section that sells best:<br><br>As regards A I am pleased that you propose to take over the past works and you shall certainly have the refund of the next.<br><br>B has always gone to Lane except for the fairy tales. There are only two of these still to come and I shall offer these to Lane in the first instance. My chief reason is that Lane gave me my first chance when I was unknown whereas Bles reaped a much richer harvest out of me when I got a name.<br><br>C goes to (and is often commissioned by) Clarendon Press & OUP.<br><br>If you care to come down & lunch with me some day (a Monday or Wednesday is best) I shall be happy to see you. Please remember me to your wife.<br><br>Yours sincerely<br>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -3033,6 +3057,18 @@ export const letters = [
         notes: ["Photographs of the manuscript have been available <a href='https://www.transpositions.co.uk/advent-c-s-lewis-and-a-letter-from-my-grandmother/' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> since 13 December 2021.", "The manuscript itself is in the Bodleian Library, Oxford, shelfmark MS. Eng. c. 7963, fol. 26.", "The last sentence of the second paragraph is parallel to <i>That Hideous Strength</i> XII.2, the description of the Deputy Director’s drug-induced substitute for sleep: “the real man was far away, suffering, enjoying, or inflicting whatever such souls do suffer, enjoy, or inflict when the cord that binds them to the natural order is stretched out to its utmost but not yet snapped.”"]
     },
     {
+        id: "hhj4zs",
+        title: "Letter to Philinda Krieg (21 November 1960)",
+        printedIn: null,
+        issueOrVolume: null,
+        pageRange: "<a href='http://larrykrieg.name/Lewis' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
+        year: 2022,
+        monthAndDay: null,
+        textProvided: "The Kilns, Kiln Lane, Headington Quarry, Oxford, 21st November 1960<br><br>Dear Mrs Krieg,<br><br>Naturally it is very pleasant to me to hear that you all enjoy my Narnian books, and it was good of you to take the trouble to let me know. You are more fortunate than I am; my loaned books very rarely come back to me!<br><br>With all good wishes,<br>yours sincerely,<br>[no signature]<br><br>P.S. Laurence Krieg? It can’t be the Laurence Krieg whose mother wrote to me and to whom I wrote some years ago? He couldn’t have grown up and founded a family in the time. But the recurrence of both names is staggering.",
+        type: "Letter",
+        notes: null
+    },
+    {
         id: "wksb35",
         title: "Letter to Colonel B.S. Browne (20 July 1943)",
         printedIn: "<i>Letters from Jack, Practical Advice from the Pen of C.S. Lewis</i>, ed. Diana Pavlac Glyer (The Honors College, Azusa Pacific University)",
@@ -3233,6 +3269,18 @@ export const letters = [
         year: 2024,
         monthAndDay: null,
         textProvided: "[In 1959 University College elected Lewis to an honorary fellowship; writing to the master, Arthur Lehman Goodhart, to acknowledge the appointment, Lewis described himself as]<br/><br/>quite overwhelmed",
+        type: "Letter",
+        notes: null
+    },
+    {
+        id: "t98g9g",
+        title: "Letter to Frederick Scott (6 December 1954)",
+        printedIn: "Shelley & Son, <i>Inklings Catalog</i>",
+        issueOrVolume: "no. 30",
+        pageRange: "<a href='https://www.shelleyandsonbooks.com/pages/books/073890/c-s-lewis/signed-c-s-lewis-letter-with-the-horse-and-his-boy' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
+        year: 2024,
+        monthAndDay: "May",
+        textProvided: "Magdalen College, Oxford, 6th December 1954.<br><br>Dear Frederick Scott,<br><br>I am so glad you like the <i>Silver Chair</i>. It is the fourth Narnian story. Edmund and Lucy come into the three earlier ones (<i>The Lion, The Witch, and the Wardrobe</i>, <i>Prince Caspian</i>, and the <i>Voyage of the Dawn Treader</i>). Eustace comes into the <i>Voyage</i> only, but will appear again in the seventh and last (not yet out). The fifth, (the <i>Horse and his Boy</i>) is just out. Edmund and Lucy come into it a bit, but not much. All good wishes.<br><br>Yours,<br>C.S. Lewis",
         type: "Letter",
         notes: null
     },

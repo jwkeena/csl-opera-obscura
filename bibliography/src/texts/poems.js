@@ -1364,6 +1364,18 @@ export const poems = [
         notes: null
     },
     {
+        id: "8tvaws",
+        title: "Untitled (“I am 64”)",
+        printedIn: "Helen Cooper, <i>Literary Magdalene</i>",
+        issueOrVolume: null,
+        pageRange: "<a href='https://magdlibs.wordpress.com/2016/06/24/c-s-lewis' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
+        year: 2016,
+        monthAndDay: "24 June",
+        textProvided: "I am 64, and bald, and fat<br>with a Boxer dog and a Siamese cat<br>and I talk too much and I speak too loud<br>and I don’t like oysters or gin or a crowd<br>and the smell of the sea is my favorite smell.<br>That’s about all I can think of to tell,",
+        type: "Poem",
+        notes: null
+    },
+    {
         id: "ecj5wu",
         title: "Suggested revisions to a sonnet by Dr. Robert E. Havard",
         printedIn: "Sarah O’Dell, “An Unexpected Poet: The Creative Works of Dr. Robert E. Havard,” <i>Mythlore</i>",
