@@ -78,6 +78,14 @@ repo's `add-opera-obscura` skill): page numbers and ranges are **bare Arabic num
 hyphen** (`84-85`) — never `p.`/`pp.` and never an en-dash; note page-refs likewise
 (`vol. 89 (Spring 1996), 7-9`); a Collected Letters reprint is `Reprinted in <i>CL</i> vol:page`.
 
+**Transcribed text** (`textProvided`) is normalized to the bibliography's conventions: British
+spellings (`favourite`, `colour`, `honour`), em-dashes `—` for parenthetical breaks (never the
+spaced en-dashes many web sources render), and a letter's close as `…<br>Yours,<br>C.S. Lewis` —
+and the opening address/letterhead is kept even when a web source omits it. Normalize these
+*accidentals* to the house style; verify the *wording* against the cited source, which for a web
+page is often an editorial re-rendering, not the manuscript (so it governs words, not spelling or
+dashes).
+
 **App.js consumption:** copies `texts` into state, builds a display row per entry (the `reference`
 column is assembled from `printedIn` + `issueOrVolume` + `monthAndDay`), and applies the
 `sortByOption` / `sortDirection` / `typesDisplayed` UI state. Unknown fields (like `id`) are
@@ -171,7 +179,11 @@ Details of `App.js` + `components/` that are easy to break and were each the sou
   `gh-pages -d build`) pushes the *compiled* bundle to the **`gh-pages`** branch, which is what
   GitHub Pages serves. ⚠ Pushing `master` alone does **not** refresh the live site — only
   `npm run deploy` does; `gh-pages` holds the build, not the source. Verify after: the deployed
-  `static/js/main.*.js` bundle contains the new content. (The one CI workflow below builds Dependabot
+  `static/js/main.*.js` bundle contains the new content. ⚠ A clean build is necessary but not
+  sufficient: `npm run build` only **compiles** — it catches syntax errors in `src/texts/*.js` but
+  never renders the page, so an entry that is valid JS yet wrong-shaped (a field `formatTexts()`
+  chokes on) throws only when the page loads. Load the page (locally or the live URL) and check the
+  console before trusting a deploy. (The one CI workflow below builds Dependabot
   PRs and auto-merges them; it never builds or deploys the live site.)
 - **★ Bump the "last updated" date before every deploy (user directive 2026-08-12).** It is a
   hardcoded string in `components/AboutModal/index.js` (`last updated M.DD.YY · By Justin Keena`),
