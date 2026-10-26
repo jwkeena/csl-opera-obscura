@@ -2320,7 +2320,7 @@ export const letters = [
         pageRange: "<a href='https://magdlibs.wordpress.com/2016/06/24/c-s-lewis' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
         year: 2016,
         monthAndDay: "24 June",
-        textProvided: "Magdalene College, Cambridge, 17 May 63<br><br>Dear Adele Stoessel<br><br>The autograph comes below the letter.<br><br>I am 64—a year older than this century—and bald—and fat—with a Boxer dog and a Siamese cat—and I talk too much and I speak too loud—and I don’t like oysters or gin or a crowd—and the smell of the sea is my favorite smell. That’s about all I can think of to tell,<br><br>yours / C.S. Lewis",
+        textProvided: "Magdalene College, Cambridge, 17 May 63<br><br>Dear Adele Stoessel<br><br>The autograph comes below the letter.<br><br>I am 64—a year older than this century—and bald—and fat—with a Boxer dog and a Siamese cat—and I talk too much and I speak too loud—and I don’t like oysters or gin or a crowd—and the smell of the sea is my favourite smell. That’s about all I can think of to tell.<br><br>Yours,<br>C.S. Lewis",
         type: "Letter",
         notes: null
     },
@@ -3064,7 +3064,7 @@ export const letters = [
         pageRange: "<a href='http://larrykrieg.name/Lewis' target='_blank' rel='noopener noreferrer' class='link-to-text'>online</a> only",
         year: 2022,
         monthAndDay: null,
-        textProvided: "The Kilns, Kiln Lane, Headington Quarry, Oxford, 21st November 1960<br><br>Dear Mrs Krieg,<br><br>Naturally it is very pleasant to me to hear that you all enjoy my Narnian books, and it was good of you to take the trouble to let me know. You are more fortunate than I am; my loaned books very rarely come back to me!<br><br>With all good wishes,<br>yours sincerely,<br>[no signature]<br><br>P.S. Laurence Krieg? It can’t be the Laurence Krieg whose mother wrote to me and to whom I wrote some years ago? He couldn’t have grown up and founded a family in the time. But the recurrence of both names is staggering.",
+        textProvided: "The Kilns, Kiln Lane, Headington Quarry, Oxford, 21st November 1960<br><br>Dear Mrs Krieg,<br><br>Naturally it is very pleasant to me to hear that you all enjoy my Narnian books, and it was good of you to take the trouble to let me know. You are more fortunate than I am; my loaned books very rarely come back to me!<br><br>With all good wishes,<br>yours sincerely,<br>[no signature]<br><br>P.S. Laurence Krieg? It can’t be the Laurence Krieg whose mother wrote to me and to whom I wrote years ago? He couldn’t have grown up and founded a family in the time. But the recurrence of both names is staggering.",
         type: "Letter",
         notes: null
     },
