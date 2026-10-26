@@ -31,6 +31,13 @@ jobs:
           cache: npm
           cache-dependency-path: bibliography/package-lock.json
 
+      - name: Match npm to the lockfile
+        # package-lock.json is generated with npm 11, which Node 20 does
+        # not bundle (it ships npm 10). npm 10's `npm ci` rejects the
+        # lockfile ("Missing: yaml@2.9.1 from lock file"), so upgrade npm
+        # to match before installing.
+        run: npm install -g npm@11
+
       - name: Install dependencies
         run: npm ci
 
