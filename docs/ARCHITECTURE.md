@@ -16,8 +16,9 @@ repo** `csl-opera-omnia-search` (its `.claude/docs/citation-architecture.md` and
 ## 1. What it is
 A React single-page app (Create React App + Materialize CSS) presenting the bibliography as a
 sortable/filterable table (by year, title, reference, type). Deployed to GitHub Pages at
-`https://jwkeena.github.io/csl-opera-obscura` — a **manual** publish (`npm run deploy`), **no CI**;
-see §9 (and bump the "last updated" date first). Corrections and additions welcome
+`https://jwkeena.github.io/csl-opera-obscura` — a **manual** publish (`npm run deploy`), **no deploy
+CI** (the one CI workflow only auto-merges Dependabot PRs — §9); see §9 (and bump the "last updated"
+date first). Corrections and additions welcome
 (jwkeena@gmail.com).
 
 ## 2. Repo layout
@@ -164,19 +165,53 @@ Details of `App.js` + `components/` that are easy to break and were each the sou
 - **Sticky footer:** `#root` is a `min-height:100vh` flex column; `.App` is `flex:1 0 auto` and
   `.main-content` is `flex:1 0 auto`, so the footer pins to the page bottom even with one result.
 
-## 9. Deploy & dependencies
-- **No CI / GitHub Actions.** The site is published **manually**: `git push origin master` updates
-  the *source* on GitHub; `npm run deploy` (`predeploy` build → `gh-pages -d build`) pushes the
-  *compiled* bundle to the **`gh-pages`** branch, which is what GitHub Pages serves. ⚠ Pushing
-  `master` alone does **not** refresh the live site — only `npm run deploy` does; `gh-pages` holds
-  the build, not the source. Verify after: the deployed `static/js/main.*.js` bundle contains the
-  new content.
+## 9. Deploy, CI & dependencies
+- **Deployment is manual — there is no deploy CI.** The site is published **by hand**: `git push
+  origin master` updates the *source* on GitHub; `npm run deploy` (`predeploy` build →
+  `gh-pages -d build`) pushes the *compiled* bundle to the **`gh-pages`** branch, which is what
+  GitHub Pages serves. ⚠ Pushing `master` alone does **not** refresh the live site — only
+  `npm run deploy` does; `gh-pages` holds the build, not the source. Verify after: the deployed
+  `static/js/main.*.js` bundle contains the new content. (The one CI workflow below builds Dependabot
+  PRs and auto-merges them; it never builds or deploys the live site.)
 - **★ Bump the "last updated" date before every deploy (user directive 2026-08-12).** It is a
   hardcoded string in `components/AboutModal/index.js` (`last updated M.DD.YY · By Justin Keena`),
   not auto-generated — set it to today's date in the same commit as the change you're shipping, or
   it silently goes stale.
-- **Dependabot** opens dependency-bump PRs against `origin/master` on GitHub; they merge remotely.
-  Keep local `master` current by merging `origin/master` — the bumps touch only
-  `package.json`/`package-lock.json`, disjoint from `src/` content, so it merges cleanly — then
-  `npm install` before building. (Aug 2026: local `master` had diverged 3/36 from origin — the
-  split + content held locally, 18 dependabot bumps held remotely — reconciled by one clean merge.)
+
+### 9a. CI — Dependabot auto-merge (`.github/workflows/dependabot-auto-merge.yml`, added 2026-10-12)
+The repo's **only** GitHub Actions workflow. On every Dependabot `pull_request` it runs two jobs:
+a **Build check** (`npm ci` + `npm run build` in `bibliography/`, `CI=false` so lint warnings don't
+fail it) and an **Auto-merge** job that is `needs: build` and does `gh pr merge --merge
+--delete-branch`. Net effect: a bump that still builds is merged automatically; a bump that breaks
+the build is left open for manual review. It does **not** deploy — deployment stays manual (§9).
+Lessons, each from a real incident (2026-10-26):
+
+- **⚠ CI's npm must be ≥ the npm that generated the lockfile, or *every* auto-merge silently fails.**
+  `package-lock.json` is generated locally with **npm 11** (this machine runs **Node 24**, which
+  bundles npm 11). The workflow pins **Node 20**, which bundles **npm 10**, and npm 10's `npm ci`
+  *rejects* an npm-11 lockfile with `npm error Missing: yaml@2.9.1 from lock file` — failing the
+  Build check for every Dependabot PR, which then skips the Auto-merge job and leaves the PR open.
+  This looks like a broken bump but is **not** — `master` itself fails the same check under npm 10.
+  Fixed by adding an `npm install -g npm@11` step before `npm ci` (commit `dc6143d`). **Rule:** if
+  you bump the workflow's Node version or regenerate the lockfile, keep CI's npm ≥ the lockfile's npm.
+  Reproduce a CI lockfile failure locally with `npx npm@10.8.2 ci --dry-run` in `bibliography/`
+  (plain `npm ci` uses your local npm 11 and passes, hiding the problem).
+- **A failed Build check does NOT block a manual merge** — it is not a *required* status check. A
+  Dependabot PR whose build fails (or whose branch is stale) still merges via the normal green
+  "Merge pull request" button; the failing check is advisory. (That's how #42/#43 were merged while
+  the npm bug was still unfixed.)
+- **To nudge a stuck Dependabot PR, prefer `@dependabot recreate` over `@dependabot rebase`.** When
+  several Dependabot PRs are open at once, `@dependabot rebase` comments can be silently dropped
+  under load (observed: one of three rebased and auto-merged, the other two were ignored 15+ min
+  with no reply). `@dependabot recreate` (rebuilds the branch from scratch onto current `master`)
+  reliably picked them up, after which the fixed workflow auto-merged them. A PR only auto-merges
+  once a **new** rebased/recreated commit is pushed — *re-running* an old failed run reuses the old
+  base and won't pick up a workflow fix that landed on `master` afterward.
+
+### 9b. Keeping local `master` current
+Dependabot bumps touch only `package.json`/`package-lock.json`, disjoint from `src/` content, so
+`git pull --ff-only origin master` merges cleanly; run `npm install` before building. (Aug 2026:
+local `master` had diverged 3/36 from origin — the split + content held locally, 18 dependabot bumps
+held remotely — reconciled by one clean merge. Oct 2026: follow-redirects/launch-editor merged
+manually, then fast-uri/body-parser/postcss-selector-parser auto-merged once the npm fix was in —
+local fast-forwarded to match.)
